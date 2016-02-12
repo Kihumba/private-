@@ -1,1 +1,29 @@
-# Version Control Knowledge, Behaviors and Beliefs
+# Version Control - KBBs
+
+## Knowledge 
+
+1. What is version control? Our definition of version control versus leaving it to the bootcamper to find out what it is.
+2. Possible use cases of version control
+3. Other example version control systems apart from Git
+4. Github as a web based repository hosting services
+5. The commands needed in a Git workflow (pull, push, branch, commit, merge, status)
+6. When I am working collaboratively there is a likelihood of having merge conflict which can be resolved.
+7. What the HEAD is in Git and how it’s important.
+
+## Behaviors
+
+### Git Workflow
+
+1. Whenever I’m setting up Git on a new machine I ensure I setup my SSH keys.
+2. When creating a project that I intend to revisit, I create a new remote repository on Github and pull down to my local repository.
+3. When I am about to continue work on an ongoing project, I pull in changes from the remote repository.
+4. After I update my codebase with working code, I make a commit.
+5. After every commit, I push the changes to Github.
+6. When making a commit I include a commit message that describes exactly what I did and that will be interpretable by another developer.
+7. When I think about writing new code, I think about whether or not I need a branch.
+
+
+## Beliefs
+
+1. I believe that branching creates a safe space to try new things when I’m implementing a new feature.
+2. I believe using Git for my personal project is very valuable for tracking my progress.
