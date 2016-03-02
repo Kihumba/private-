@@ -33,6 +33,8 @@
 | **Context:** When making a commit... **Action:** I include a commit message that describes exactly what I did and that will be interpretable by another developer. | [ ] |    [ ] |
 | **Context:** When I think about writing new code... **Action:** I strategically decide whether or not I need to make a new branch. | - [ ] l |    - [ ] l |
 
+- [ ] l 
+- [ ] l
 
 ----------
 
