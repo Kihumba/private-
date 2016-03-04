@@ -18,7 +18,7 @@
 ## **Behaviors**
 
 
-### Git Workflow
+### Agile Methodology/Scrum
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am faced with a task/project which requires a considerable amount of effort... **Action:** I always break down the functionality into the smallest units. | [ ] | [ ]  |
