@@ -8,7 +8,7 @@ Outcome 1 - Researching and identifying business purposes, user requirements, an
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| Common types of testing including the following: | | |
+| I can describe, from memory, common types of testing, including the following: | | |
 | * Functionality testing | [ ] | [ ]  |
 | * Reliability testing     | [ ] | [ ]  |
 | * Usability testing       | [ ] | [ ]  |
