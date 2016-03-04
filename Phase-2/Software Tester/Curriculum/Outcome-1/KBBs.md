@@ -15,9 +15,6 @@ Outcome 1 - Researching and identifying business purposes, user requirements, an
 | * Efficiency testing      | [ ] | [ ]  |
 | * Maintainability testing | [ ] | [ ]  |
 
-| Possible use cases of version control |   [ ]   |   [ ] |
-
-
 
 ----------
 
