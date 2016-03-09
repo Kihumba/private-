@@ -1,10 +1,1 @@
-# Researching a business and its product
-
-Outcome 1 - Researching and identifying business purposes, user requirements, and product specifications
-
-**Output**
-----------
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-
-1. A document describing a business's purposes, its user's requirements, and its product specifications.
-
+TBD
