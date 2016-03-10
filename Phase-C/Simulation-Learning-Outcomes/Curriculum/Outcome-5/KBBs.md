@@ -26,14 +26,14 @@
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| When I need to write Javascript, i will write neat, conformal Javascript syntax, with comments, following the recommended style guides and keeping my code DRY in the process. | [ ] | [ ] |
-| When I need to loop in Javascript, I will use the most appropriate Loop control flow (e.g for-in for objects, for for Arrays) to iterate through the collection. | [ ] | [ ] |
-| When I need to encapsulate variables or control the scope of variables, I will place them in functions / closures where there are required. | [ ] | [ ] |
-| When I need to create a reusable service or function, I will make use of a well defined class (literal function) having the prototypes and / or properties (as variables or methods) pertinent to it’s usage. | [ ] | [ ] |
-| When I need to extend the functionality of an existing class I will create a prototype method, extending the already existing class, and implementing my custom method, to simplify the  method’s reference when I need to use it. | [ ] | [ ] |
-| When I need to import a Javascript library to my project, I will use the minified scripts to avoid the overhead that might come with the library (long variable names, comments, and  whitespace). | [ ] | [ ] |
-| When I need to import Javascript libraries into my full stack application, I will make use of the most appropriate package manager recommended for the stack I’m working with, for a seamless integration and application deployment. | [ ] | [ ] |
-| When I make function calls that are asynchronous, I will make use of callback functions that process the results when these resource becomes available. | [ ] | [ ] |
+| **Context:** When I need to write Javascript, **Action:** I will write neat, conformal Javascript syntax, with comments, following the recommended style guides and keeping my code DRY in the process. | [ ] | [ ] |
+| **Context:** When I need to loop in Javascript, **Action:** I will use the most appropriate Loop control flow (e.g for-in for objects, for for Arrays) to iterate through the collection. | [ ] | [ ] |
+| **Context:** When I need to encapsulate variables or control the scope of variables, **Action:** I will place them in functions / closures where there are required. | [ ] | [ ] |
+| **Context:** When I need to create a reusable service or function, **Action:** I will make use of a well defined class (literal function) having the prototypes and / or properties (as variables or methods) pertinent to it’s usage. | [ ] | [ ] |
+| **Context:** When I need to extend the functionality of an existing class, **Action:** I will create a prototype method, extending the already existing class, and implementing my custom method, to simplify the  method’s reference when I need to use it. | [ ] | [ ] |
+| **Context:** When I need to import a Javascript library to my project, **Action:** I will use the minified scripts to avoid the overhead that might come with the library (long variable names, comments, and  whitespace). | [ ] | [ ] |
+| **Context:** When I need to import Javascript libraries into my full stack application, **Action:** I will make use of the most appropriate package manager recommended for the stack I’m working with, for a seamless integration and application deployment. | [ ] | [ ] |
+| **Context:** When I make function calls that are asynchronous, **Action:** I will make use of callback functions that process the results when these resource becomes available. | [ ] | [ ] |
 
 
 ## Beliefs
