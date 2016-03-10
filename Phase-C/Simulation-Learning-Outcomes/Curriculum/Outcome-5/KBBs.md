@@ -24,7 +24,7 @@
 
 ## Behaviors
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | When I need to write Javascript, i will write neat, conformal Javascript syntax, with comments, following the recommended style guides and keeping my code DRY in the process. | [ ] | [ ] |
 | When I need to loop in Javascript, I will use the most appropriate Loop control flow (e.g for-in for objects, for for Arrays) to iterate through the collection. | [ ] | [ ] |
@@ -38,7 +38,7 @@
 
 ## Beliefs
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I believe I can write DRY and well commented javascript, while adhering to the style guides, keeping my code base legible and easy to understand. | [ ] | [ ] |
 | I believe that I will use the most appropriate control flow for conditions and loops based on the values to be compared and the type of collection to be iterated, respectively. | [ ] | [ ] |
