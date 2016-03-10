@@ -3,7 +3,6 @@
 ----------
 ## **Knowledge**
 
-<ul><li>  </li></ul>
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
