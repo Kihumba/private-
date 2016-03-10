@@ -6,60 +6,20 @@
 |:-------------|:------------------:|:--------:|
 | What is Javascript? Understand Javascript as a language for the web. | [ ] | [ ] |
 | How is Javascript written? The Basic syntax governing Javascript (Targeting ES5) | [ ] | [ ] |
-| ***Javascript syntax and concepts for:*** | [ ] | [ ] |
-|	**Variables and Constants** |	[ ] | [ ] |
-|	**Control Flow Methods** | [ ] | [ ] |
-|		*Conditionals*
-|		- If / else
-|		- Switch / Case
-|		*Looping*
-|			-	for
-|			- for\-in
-|			- while
-|			- do\-while
-|	**Functions and Callbacks** | [ ] | [ ] |
-|		- Declaring functions
-|		- Closures as self calling functions
-|	**Data types** | [ ] | [ ] |
-|			*Primitive*
-|			-	Numbers
-|			-	Strings
-|			-	Booleans
-|			-	Undefined (typeof undefined)
-|			-	Null (typeof object)
-|			-	Symbols (ES6)
-|			*Non-primitive*
-|			-	Objects
-|	**Prototype Oriented Programming** (_This is the O.O.P of Javascript_) | [ ] | [ ] |
-|		-	Creating Classes and prototyping | [ ] | [ ] |
-|		-	Adding properties and methods to a class | [ ] | [ ] |
-|		-	Class instances as Objects. | [ ] | [ ] |
-|		-	Extending already existing classes using `.prototype`  | [ ] | [ ] |
-| **Data Structures in Javascript** | [ ] | [ ] |
-| *Stacks, Queues and other data structures in other languages can be custom built in Javascript, but don’t exist by default. Listed are the defaults:* |
-|	-	Object literals (using Objects)	| [ ] | [ ] |
-|	-	Arrays	| [ ] | [ ] |
-| ***Using Javascript libraries in your full stack application.*** | [ ] | [ ] |
-|		**Adding the libraries to your application**	| [ ] | [ ] |
-|		-	On the Frontend, the SCRIPT tag in HEAD tag of  the DOM.
-|		-	Server side scripts are imported or required into the scripts that depend on such libraries
-|		**Installing Javascript libraries** | [ ] | [ ] |
-|		-	What are package managers? | [ ] | [ ] |
-|		-	What package manager is used in your stack for Javascript? | [ ]	| [ ] |
-|		**List of common package managers** | [ ]	| [ ] |
-|			- npm for Node.js | [ ] | [ ] |
-|			- bower, Universal, used with PHP, Python, Node.js etc | [ ] | [ ] |
-|			- RoR uses the gem file for managing all its dependencies both ruby and javascript. | [ ] | [ ] |
-|		**Common libraries in Javascript** | [ ] | [ ] |
-|			-	JQuery | [ ] | [ ] |
-|			-	Bootstrap | [ ] | [ ] |
-|			-	Materialize | [ ] | [ ] |
-|			-	Angular | [ ] | [ ] |
-| ***Javascript as an asynchronous language*** | [ ] | [ ] |
-|		-	How are callbacks used? |	[	] | [ ] |
-|		-	Why are non-blocking processes necessary in Javascript. |	[	] | [ ] |
-| ***What is a minified script*?** | [ ] | [ ] |
-|		-	What are the advantages of using Minified scripts (cutting overhead) |	[	] | [ ] |
+| Javascript syntax and concepts for:
+|	<ul><li>Variables and Constants</li></ul> |	[ ] | [ ] |
+|	<ul><li>Control Flow Methods<ul><li>Conditionals</li><ul><li>if\-else</li><li>swtich\-case</li><li>try-catch</li></ul></li><li>Looping</li><ul><li>for</li><li>for\-in</li><li>while</li><li>do\-while</li></ul></li></ul></li></ul> | [ ] | [ ] |
+|	<ul><li>Functions and Callbacks<ul><li>Declaring functions</li><li>Closures as self calling functions</li></ul></li></ul> | [ ] | [ ] |
+|	<ul><li>Data types<ul><li>Primitive<ul><li>Numbers</li><li>Strings</li><li>Booleans</li><li>Undefined</li><li>Null (`typeof object`)</li><li>Symbols_(ES6)_</li></ul></li><li>Non-primitive<ul><li>Objects</li></ul></li></ul></li></ul> | [ ] | [ ] |
+|	<li>Prototype Oriented Programming<ul><li>Creating Classes and prototyping</li><li>Adding properties and methods to a class</li><li>Class instances as Objects.</li><li>Extending already existing classes using `.prototype`</li></ul></li> (_This is the O.O.P of Javascript_) | [ ] | [ ] |
+| *Stacks, Queues and other data structures in other languages can be custom built in Javascript, but don’t exist by default. Listed are the defaults:*
+| <ul><li>Data Structures in Javascript <ul><li>Object literals (using Objects)</li><li>Arrays</li></ul></li></ul> | [ ] | [ ] |
+| <ul><li>Using Javascript libraries in your full stack application.<ul><li>Adding the libraries to your application<ul><li>On the Frontend, the SCRIPT tag in HEAD tag of  the DOM.</li><li>Server side scripts are imported or required into the scripts that depend on such libraries</li></ul></li></ul></li></ul> | [ ] | [ ] |
+|		<ul><li>Installing Javascript libraries<ul><li>What are package managers?</li><li>What package manager is used in your stack for Javascript?</li></ul></li></ul> | [ ] | [ ] |
+|		<ul><li>List of common package managers<ul><li>npm for Node.js</li><li>bower, Universal, used with PHP, Python, Node.js etc</li><li>RoR uses the gem file for managing all its dependencies both ruby and javascript.</li></ul></li></ul> | [ ]	| [ ] |
+|		<ul><li>Common libraries in Javascript<ul><li>JQuery</li><li>Bootstrap</li><li>Materialize</li><li>Angular</li></ul></li></ul> | [ ] | [ ] |
+| <ul><li>Javascript as an asynchronous language<ul><li>How are callbacks used?</li><li>Why are non-blocking processes necessary in Javascript.</li></ul></li></ul> | [ ] | [ ] |
+| <ul><li>What is a minified script?<ul><li>What are the advantages of using Minified scripts (cutting overhead)</li></ul></li></ul> | [ ] | [ ] |
 
 
 ## Behaviors
