@@ -1,5 +1,5 @@
 # Data Structures - KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the data structures module. They should have been engaged with by the end of Homestudy.
+**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with data structures. They should have been engaged with by the end of Homestudy.
 
 
 ----------

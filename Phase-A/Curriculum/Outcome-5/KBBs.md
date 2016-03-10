@@ -1,5 +1,5 @@
 # Algorithms - KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the algorithms module. They should have been engaged with by the end of Homestudy.
+**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with algorithms. They should have been engaged with by the end of Homestudy.
 
 ----------
 
@@ -11,8 +11,8 @@
 | Definition of an Algorithm. | [ ] | [ ]  |
 | The importance of algorithms. | [ ] | [ ]  |
 | What is algorithm analysis? | [ ] | [ ]  |
-| The Big O notation and how it is calculated    | [ ] | [ ]  |
-| How to implement algorithms in Python      | [ ] | [ ]  |
+| The Big O notation and how it is calculated.    | [ ] | [ ]  |
+| How to implement algorithms in Python.     | [ ] | [ ]  |
 
 
 ----------

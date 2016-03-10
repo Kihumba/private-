@@ -1,5 +1,5 @@
 # Object Oriented Programming - KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the object oriented programming module. They should have been engaged with by the end of Homestudy.
+**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with object oriented programming. They should have been engaged with by the end of Homestudy.
 
 
 ----------
