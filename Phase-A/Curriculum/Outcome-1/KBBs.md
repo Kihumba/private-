@@ -1,5 +1,5 @@
 # Introduction to Computer Science - KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the introduction to computer science module. They are to have been engaged with by the end of Homestudy.
+**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the introduction to computer science module. They should have been engaged with by the end of Homestudy.
 
 
 ----------

@@ -1,19 +1,40 @@
 # Data Structures - KBBs
-
-## Knowledge
-1. Definition of data structure.
-2. Different types of data structure.
-3. Differences between Primitive and Abstract data structures with examples.
-4. Differences between data structure classifications linear and hierarchical structures with examples.
-5. Importance of data structure.
-6. How to represent different data structures in Python.
+**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the data structures module. They should have been engaged with by the end of Homestudy.
 
 
-  
-## Behaviors
-1. When given a problem, I use the most appropriate data structure to represent data.
+----------
+
+## **Knowledge**
+
+| Knowledge Unit   |      Studied      | Memorized |
+|:-------------|:------------------:|:--------:|
+| Definition of data structure.| [ ] | [ ]  |
+| Different types of data structure. | [ ] | [ ]  |
+| Differences between Primitive and Abstract data structures with examples. | [ ] | [ ]  |
+| Differences between data structure classifications linear and hierarchical structures with examples.    | [ ] | [ ]  |
+| Importance of data structure.     | [ ] | [ ]  |
+| How to represent different data structures in Python.      | [ ] | [ ]  |
 
 
+----------
 
-## Beliefs
-1. I believe that using the most appropriate data structure will help program efficiency.
+
+## **Behaviors**
+
+
+| Observable Behavior   |      Observed      | Mastered |
+|:-------------|:------------------:|:--------:|
+| **Context:** When given a problem **Action:** I use the most appropriate data structure to represent data. | [ ] | [ ]  |
+
+
+----------
+
+
+## **Beliefs**
+
+
+| Embodied Belief   |      Felt      | Demonstrated |
+|:-------------|:------------------:|:--------:|
+| I believe that using the most appropriate data structure will help program efficiency. | [ ] | [ ]  |
+
+

@@ -1,25 +1,44 @@
 # Algorithms - KBBs
+**Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with the algorithms module. They should have been engaged with by the end of Homestudy.
 
-## Knowledge
-1. Definition of an Algorithm
-2. The importance of algorithms.
-3. What is algorithm analysis?
-4. The Big O notation and how it is calculated
-5. How to implement algorithms in Python
+----------
+
+## **Knowledge**
 
 
+| Knowledge Unit   |      Studied      | Memorized |
+|:-------------|:------------------:|:--------:|
+| Definition of an Algorithm. | [ ] | [ ]  |
+| The importance of algorithms. | [ ] | [ ]  |
+| What is algorithm analysis? | [ ] | [ ]  |
+| The Big O notation and how it is calculated    | [ ] | [ ]  |
+| How to implement algorithms in Python      | [ ] | [ ]  |
 
-  
-## Behaviors
-1. When given a problem set, I figure out the most efficient algorithm to use.
-2. When given a problem, I am able to implement an efficient algorithm in Python.
-3. When building an algorithm, I consider efficiency and calculate the Big O of the algorithm.
+
+----------
+
+
+## **Behaviors**
+
+
+| Observable Behavior   |      Observed      | Mastered |
+|:-------------|:------------------:|:--------:|
+| **Context:** When given a problem **Action:** I figure out the most efficient algorithm to use. | [ ] | [ ]  |
+| **Context:** When given a problem **Action:** I am able to implement an efficient algorithm in Python. |   [ ]   |   [ ]  |
+| **Context:** When building an algorithm **Action:** I consider efficiency and calculate the Big O of the algorithm. |   [ ]   |   [ ]  |
 
 
 
 
-## Beliefs
-1. I believe that the efficiency of a program is determined by the algorithm been used.
-2. I believe that understanding how to analyse algorithms (i.e. using the Big O notation) helps in writing more efficient algorithms.
+----------
+
+
+## **Beliefs**
+
+
+| Embodied Belief   |      Felt      | Demonstrated |
+|:-------------|:------------------:|:--------:|
+| I believe that the efficiency of a program is determined by the algorithm been used. | [ ] | [ ]  |
+| I believe that understanding how to analyse algorithms (i.e. using the Big O notation) helps in writing more efficient algorithms. | [ ] | [ ]  |
 
 
