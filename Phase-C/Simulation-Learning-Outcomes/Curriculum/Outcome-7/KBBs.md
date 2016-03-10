@@ -5,72 +5,72 @@
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 |I can describe the following words: | | |
-| * Regex | [ ] | [ ]  |
-| * Regexes     | [ ] | [ ]  |
-| * Regex Engine       | [ ] | [ ]  |
+| <ul><li> Regex | [ ] | [ ]  |
+| <ul><li> Regexes     | [ ] | [ ]  |
+| <ul><li> Regex Engine       | [ ] | [ ]  |
 |I know what the following special characters are used for: | | |
-| * \ | [ ] | [ ]  |
-| * ^    | [ ] | [ ]  |
-| * $      | [ ] | [ ]  |
-| * . | [ ] | [ ]  |
-| * \|    | [ ] | [ ]  |
-| * ?      | [ ] | [ ]  |
-| * * | [ ] | [ ]  |
-| * +    | [ ] | [ ]  |
-| * (      | [ ] | [ ]  |
-| * ) | [ ] | [ ]  |
-| * [  | [ ] | [ ]  |
-| * {      | [ ] | [ ]  |
+| <ul><li> \ | [ ] | [ ]  |
+| <ul><li> ^    | [ ] | [ ]  |
+| <ul><li> $      | [ ] | [ ]  |
+| <ul><li> . | [ ] | [ ]  |
+| <ul><li> \|    | [ ] | [ ]  |
+| <ul><li> ?      | [ ] | [ ]  |
+| <ul><li> * | [ ] | [ ]  |
+| <ul><li> +    | [ ] | [ ]  |
+| <ul><li> (      | [ ] | [ ]  |
+| <ul><li> ) | [ ] | [ ]  |
+| <ul><li> [  | [ ] | [ ]  |
+| <ul><li> {      | [ ] | [ ]  |
 |I know of the following non-printable characters as well as when/how to use them: | | |
-| * \r | [ ] | [ ]  |
-| * \n     | [ ] | [ ]  |
-| * \t       | [ ] | [ ]  |
-| * \v       | [ ] | [ ]  |
-| * \a       | [ ] | [ ]  |
-| * \f       | [ ] | [ ]  |
+| <ul><li> \r | [ ] | [ ]  |
+| <ul><li> \n     | [ ] | [ ]  |
+| <ul><li> \t       | [ ] | [ ]  |
+| <ul><li> \v       | [ ] | [ ]  |
+| <ul><li> \a       | [ ] | [ ]  |
+| <ul><li> \f       | [ ] | [ ]  |
 |I understand how to create a character set including when to use a: | | |
-| * Range | [ ] | [ ]  |
-| * Special characters     | [ ] | [ ]  |
-| * Negation       | [ ] | [ ]  |
-| * Subtraction    | [ ] | [ ]  |
-| * Nested Subtraction      | [ ] | [ ]  |
+| <ul><li> Range | [ ] | [ ]  |
+| <ul><li> Special characters     | [ ] | [ ]  |
+| <ul><li> Negation       | [ ] | [ ]  |
+| <ul><li> Subtraction    | [ ] | [ ]  |
+| <ul><li> Nested Subtraction      | [ ] | [ ]  |
 |I am aware of the different shorthand character classes and their use cases. Including the following: | | |
-| * \d | [ ] | [ ]  |
-| * \D    | [ ] | [ ]  |
-| * \w       | [ ] | [ ]  |
-| * \W | [ ] | [ ]  |
-| * \s    | [ ] | [ ]  |
-| * \S       | [ ] | [ ]  |
+| <ul><li> \d | [ ] | [ ]  |
+| <ul><li> \D    | [ ] | [ ]  |
+| <ul><li> \w       | [ ] | [ ]  |
+| <ul><li> \W | [ ] | [ ]  |
+| <ul><li> \s    | [ ] | [ ]  |
+| <ul><li> \S       | [ ] | [ ]  |
 |I can effectively describe dot notation as it applies to regular expressions. I know: | | |
-| * What it represent | [ ] | [ ]  |
-| * How it relate with line breaks    | [ ] | [ ]  |
-| * When to use it      | [ ] | [ ]  |
-| * How it compares with character sets | [ ] | [ ]  |
+| <ul><li> What it represent | [ ] | [ ]  |
+| <ul><li> How it relate with line breaks    | [ ] | [ ]  |
+| <ul><li> When to use it      | [ ] | [ ]  |
+| <ul><li> How it compares with character sets | [ ] | [ ]  |
 |I can tell when to use any of the following anchors: | | |
-| * ^ | [ ] | [ ]  |
-| * $     | [ ] | [ ]  |
-| * \A       | [ ] | [ ]  |
-| * \Z       | [ ] | [ ]  |
-| * \z       | [ ] | [ ]  |
+| <ul><li> ^ | [ ] | [ ]  |
+| <ul><li> $     | [ ] | [ ]  |
+| <ul><li> \A       | [ ] | [ ]  |
+| <ul><li> \Z       | [ ] | [ ]  |
+| <ul><li> \z       | [ ] | [ ]  |
 |I can fully take advantage of the grouping and capturing feature of regular expressions since I fully understand: | | |
-| * What groups are | [ ] | [ ]  |
-| * How to create groups     | [ ] | [ ]  |
-| * How to capture a group       | [ ] | [ ]  |
-| * What non-capturing groups are       | [ ] | [ ]  |
-| * How do you retrieve text matched by a captured group       | [ ] | [ ]  |
-| * What are backreferences using \1, \2     | [ ] | [ ]  |
-| * What named groups are      | [ ] | [ ]  |
-| * How to create named groups       | [ ] | [ ]  |
-| * What branch reset groups really are      | [ ] | [ ]  |
+| <ul><li> What groups are | [ ] | [ ]  |
+| <ul><li> How to create groups     | [ ] | [ ]  |
+| <ul><li> How to capture a group       | [ ] | [ ]  |
+| <ul><li> What non-capturing groups are       | [ ] | [ ]  |
+| <ul><li> How do you retrieve text matched by a captured group       | [ ] | [ ]  |
+| <ul><li> What are backreferences using \1, \2     | [ ] | [ ]  |
+| <ul><li> What named groups are      | [ ] | [ ]  |
+| <ul><li> How to create named groups       | [ ] | [ ]  |
+| <ul><li> What branch reset groups really are      | [ ] | [ ]  |
 |I know what the following regex modes mean and use cases of application: | | |
-| * m | [ ] | [ ]  |
-| * i     | [ ] | [ ]  |
-| * s       | [ ] | [ ]  |
+| <ul><li> m | [ ] | [ ]  |
+| <ul><li> i     | [ ] | [ ]  |
+| <ul><li> s       | [ ] | [ ]  |
 |I fully understand the concept of `LookAround` and can describe the different kinds of LookAround including: | | |
-| * Negative lookahead | [ ] | [ ]  |
-| * Positive lookahead     | [ ] | [ ]  |
-| * Negative lookbehind       | [ ] | [ ]  |
-| * Positive lookbehind       | [ ] | [ ]  |
+| <ul><li> Negative lookahead | [ ] | [ ]  |
+| <ul><li> Positive lookahead     | [ ] | [ ]  |
+| <ul><li> Negative lookbehind       | [ ] | [ ]  |
+| <ul><li> Positive lookbehind       | [ ] | [ ]  |
 
 ----------
 
