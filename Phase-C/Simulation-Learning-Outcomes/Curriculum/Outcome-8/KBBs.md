@@ -44,4 +44,4 @@
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I can build responsive mobile web applications. | [ ] | [ ]  |
-| I can leverage of the available features of mobile apps such as camera, wifi, bluetooth, accelerometers etc.|   [ ]   |   [ ] |
+| I can leverage on the available features of mobile apps such as camera, wifi, bluetooth, accelerometers etc.|   [ ]   |   [ ] |
