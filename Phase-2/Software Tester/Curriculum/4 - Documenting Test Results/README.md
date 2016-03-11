@@ -1,7 +1,18 @@
-# Researching a business and its product
+# Outcome 4 - Documenting Test Results
 
-Outcome 1 - Researching and identifying business purposes, user requirements, and product specifications
+**Skill Description**
+----------
+Identifying and documenting defects 
 
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+1. Document(s) describing defects and steps to reproduce them
+
+
+**Objectives**
 ----------
 ## **Knowledge**
 
