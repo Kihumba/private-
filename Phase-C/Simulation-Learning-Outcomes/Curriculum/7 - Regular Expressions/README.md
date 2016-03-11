@@ -1,4 +1,17 @@
-# Regular Expressions
+# Outcome 7 - Regular Expressions
+
+**Skill Description**
+----------
+A regular expression (regex or regexp for short) is a special text string for describing a search pattern.
+
+**Output**
+----------
+
+Find the output for this skill [here](Output\README.md)
+
+
+**Objectives**
+----------
 
 ## **Knowledge**
 
@@ -102,4 +115,5 @@
 | I believe regular expression is needed to validate text entered by a user eg to validate an email, web address etc. | [ ] | [ ]  |
 | I believe regular expressions are powerful and fun to learn and write. | [ ] | [ ]  |
 | I believe I can show restraint and only use regular expressions when absolutely necessary. | [ ] | [ ]  |
-| I can take advantage of the following resources when learning regular expressions: <br> <ul><li>[Code school course on regular expression](https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions)</li><li>[Regular expression info](http://www.regular-expressions.info/)</li><li>[Regex crossword](https://regexcrossword.com/)</li><ul> | [ ] | [ ]  |
+| I believe I can take advantage of the following resources when learning regular expressions: <br> <ul><li>[Code school course on regular expression](https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions)</li><li>[Regular expression info](http://www.regular-expressions.info/)</li><li>[Regex crossword](https://regexcrossword.com/)</li><ul> | [ ] | [ ]  |
+

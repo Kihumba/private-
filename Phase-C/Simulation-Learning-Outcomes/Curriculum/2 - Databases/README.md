@@ -1,6 +1,20 @@
-# SQL and NoSQL Databases
+# Outcome 2 - Databases
 
+**Skill Description**
 ----------
+
+A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. Databases are broadly claasified into two categories. SQL and NoSQL. SQL databases are primarily called as Relational Databases (RDBMS); whereas NoSQL database are primarily called non-relational or distributed database.
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, a person should be able to:
+
+- Get 80% score from each section of SQLZoo.net Quiz
+
+
+**Objectives**
+----------
+
 ## **Knowledge**
 
 
@@ -85,3 +99,4 @@
 | I believe that I can make a well defined decision as to what type of database to use in a software project. | [ ] | [ ]  |
 | I believe that I can construct well optimised queries to retrieve data from any type of database. | [ ] | [ ]  |
 | I believe that I can prevent SQL Injection in my applications by constraining, sanitizing input data and using type-safe SQL parameters for database access. | [ ] | [ ]  |
+
