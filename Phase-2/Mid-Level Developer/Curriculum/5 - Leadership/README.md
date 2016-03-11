@@ -1,4 +1,4 @@
-# Outcome 1 - Prioritizing Defects
+# Outcome 5 - Leadership
 
 **Skill Description**
 ----------
@@ -19,8 +19,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Mentorship | [ ] | [ ]  |
-| * Mentorship Best Practices     | [ ] | [ ]  |
+| * Self-Awareness | [ ] | [ ]  |
+| * How to Motivate and Inspire     | [ ] | [ ]  |
+| * How to Handle unexpected demands with grace     | [ ] | [ ]  |
 
 
 ----------
@@ -30,10 +31,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I have learning experiences **Action:** I document them and share with junior Fellows so they can learn from them | [ ] | [ ]  |
-| **Context:** When junior Fellows on my teams are expriencing difficult times **Action:**  provide specific guidance and encouragement on their technical or business issues |   [ ]   |   [ ]  |
-| **Context:** When ???... **Action:** I execute test scenarios and document reports on % completion of tests and % coverage of business requirements | [ ] |    [ ] |
-| **Context:** When there are opportunities to share my learnings **Action:** I jump at them | [ ] |    [ ] |
+| **Context:** When I engage with team members **Action:** I am self-aware of my engagement and how they influence the conversation | [ ] | [ ]  |
+| **Context:** When I see other Fellows and client team members down **Action:**  I seek to inspire and motivate them |   [ ]   |   [ ]  |
+| **Context:** When I receive unexpected demands **Action:** I positively seek understanding and collaboratively figure out solutions instead of rushing to conclusions | [ ] |    [ ] |
 
 
 ----------
@@ -44,5 +44,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that mentorship is a key responsibility of being part of the Andela Fellowship and being a software craftsman | [ ] | [ ]  |
+| I believe that I can be a strong leader by being more self-aware | [ ] | [ ]  |
+| I believe that strong leaders inspire and motivate others | [ ] | [ ]  |
+| I believe that if I handle unexpected demands with grace, I will get better results and respect from my team members | [ ] | [ ]  |
 
