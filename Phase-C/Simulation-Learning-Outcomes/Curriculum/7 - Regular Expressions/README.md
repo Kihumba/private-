@@ -7,7 +7,7 @@ A regular expression (regex or regexp for short) is a special text string for de
 **Output**
 ----------
 
-Find the output for this skill [here](Output\README.md)
+Find the output for this skill [here](Output/README.md)
 
 
 **Objectives**
