@@ -29,11 +29,11 @@
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am faced with a problem set that involves searching **Action:** I figure out the most efficient search algorithm to implement. | [ ] | [ ]  |
-| **Context:** When I am given a problem set that involves searching **Action:** I implement the most efficient algorithm in Python. |   [ ]   |   [ ]  |
-| **Context:** When I am faced with a problem set that involves sorting **Action:** I figure out the best sorting algorithm to implement. |   [ ]   |   [ ]  |
-| **Context:** When I am given a problem set that involves sorting **Action:** I implement the most efficient algorithm in Python. |   [ ]   |   [ ]  |
-| **Context:** When given a searching or sorting algorithm **Action:** I am able to figure out the Big O of the algorithm. |  [ ]   |   [ ]  |
+| **Context:** When I am faced with a problem set that involves searching **Action:** I consider a set of search algorithms I know to be efficient, and prioritize them based on their Big O notation. | [ ] | [ ]  |
+| **Context:** When I am given a problem set that involves searching **Action:** I implement the most efficient search algorithm using Python. |   [ ]   |   [ ]  |
+| **Context:** When I am faced with a problem set that involves sorting **Action:** I consider a set of sorting algorithms I know to be efficient, and prioritize them based on their Big O notation. |   [ ]   |   [ ]  |
+| **Context:** When I am given a problem set that involves sorting **Action:** I implement the most efficient sorting algorithm using Python. |   [ ]   |   [ ]  |
+| **Context:** When given a searching or sorting algorithm **Action:** I am able to calculate the Big O of the algorithm. |  [ ]   |   [ ]  |
 
 
 ----------
@@ -44,7 +44,8 @@
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that searching and sorting are very important aspects of Computer science. | [ ] | [ ]  |
+| I believe competency in searching and sorting algorithms will help me develop better softwares. | [ ] | [ ]  |
+| I believe demonstrating competency in searching and sorting algorithms will help me get a job as a software developer. | [ ] | [ ]  |
 | I believe that using the most appropriate searching and sorting algorithms aid program efficiency. | [ ] | [ ]  |
 
 

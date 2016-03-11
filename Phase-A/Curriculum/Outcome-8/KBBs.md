@@ -32,10 +32,10 @@
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When given a software to develop **Action:** I make use of an SDLC model. | [ ] | [ ]  |
+| **Context:** When working on software development team **Action:** I recommend using a SDLC model to the team before development. | [ ] | [ ]  |
 | **Context:** When given a software to develop **Action:** I identify the SDLC model that best suits the team and project. |   [ ]   |   [ ]  |
-| **Context:** When given a software to develop **Action:** I identify the roles of  a software engineer for the project. |   [ ]   |   [ ]  |
-| **Context:** When given a software to develop **Action:** I make use of a software engineer. |   [ ]   |   [ ]  |
+| **Context:** When given a software to develop **Action:** I identify the roles of a software engineer for the project. |   [ ]   |   [ ]  |
+| **Context:** When given a software to develop **Action:** I involve a software engineer in the development process. |   [ ]   |   [ ]  |
 
 
 
@@ -48,7 +48,7 @@
 |:-------------|:------------------:|:--------:|
 | I believe that software engineers have a very important role in a SDLC. | [ ] | [ ]  |
 | I believe that understanding the role of a software engineer will ease the software development process. | [ ] | [ ]  |
-| I believe that having a software engineer and SDLC model in software development makes a good software i.e. based off of the characteristics of a good software. | [ ] | [ ]  |
+| I believe that having a software engineer and an SDLC model in software development helps in developing good softwares. | [ ] | [ ]  |
 
 
 

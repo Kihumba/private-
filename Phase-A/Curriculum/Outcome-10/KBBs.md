@@ -55,11 +55,11 @@
 | **Context:** When creating a web page **Action:** I layout all the required components on the page using semantic HTML syntax. | [ ] | [ ]  |
 | **Context:** When creating a web page **Action:** I link external CSS and Javascript to the page using the link and script tags. |   [ ]   |   [ ]  |
 | **Context:** When I want to style elements on my webpage **Action:** I reference elements by IDs and classes and style them within my CSS. |   [ ]   |   [ ]  |
-| **Context:** When I want to add behaviour to my HTML elements **Action:** I make use of Javascript. |   [ ]   |   [ ]  |
-| **Context:** When building a web application **Action:** I structure the application using the MVC pattern. |   [ ]   |   [ ]  |
-| **Context:** When building a web application **Action:** I use the appropriate HTTP codes to flag errors.|   [ ]   |   [ ]  |
-| **Context:** When returning data from my controller functions **Action:** I reference elements by IDs and classes and style them within my CSS. |   [ ]   |   [ ]  |
-| **Context:** When creating controller actions **Action:** I effectively apply programming logic for data validation and integrity. |   [ ]   |   [ ]  |
+| **Context:** When I want to add events to my HTML elements **Action:** I use Javascript's event listeners and functions. |   [ ]   |   [ ]  |
+| **Context:** When I want to add dynamism to my web page **Action:** I use Javascript's inbuilt functions to manipulate the DOM. |   [ ]   |   [ ]  |
+| **Context:** When building a web application **Action:** I define models for data manipulation, views for data rendering and controllers for interfacing between the models and views. |   [ ]   |   [ ]  |
+| **Context:** When returning data from my controller functions **Action:** I use the appropriate HTTP codes to flag errors.
+ |   [ ]   |   [ ]  |
 | **Context:** When rendering HTML **Action:** I make use of the view to render data gotten from the controller. |   [ ]   |   [ ]  |
 
 
@@ -71,7 +71,7 @@
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I believe that using frontend technology, I can replicate any web design I can imagine. | [ ] | [ ]  |
-| I believe that frontend technology has to do with everything that the user can see. | [ ] | [ ]  |
-| I believe that using frontend technology, I am able to make my application react to any user action using javascript event listeners. | [ ] | [ ]  |
-| I believe I can successfully apply relevant programming logic when building an web application. | [ ] | [ ]  |
+| I believe that using javascript, I can replicate any dynamic web page. | [ ] | [ ]  |
+| I am able to make application react to any user action. | [ ] | [ ]  |
+| I can successfully apply relevant programming logic when building a web application. | [ ] | [ ]  |
 

@@ -34,8 +34,8 @@
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When looking for information **Action:** I use the internet to find and share information. | [ ] | [ ]  |
-| **Context:** When I want to use the internet **Action:** I identify the tools needed for set up. |   [ ]   |   [ ]  |
-| **Context:** When asked to explain what the internet is **Action:** I am able to do so well enough that a layman would understand. |   [ ]   |   [ ]  |
+| **Context:** When I want to use the internet **Action:** I identify the tools I need to use it. |   [ ]   |   [ ]  |
+| **Context:** When asked to explain what the internet is **Action:** I use jargon-free language to describe how it works, its uses and the technology behind it.|   [ ]   |   [ ]  |
 
 
 
@@ -46,8 +46,8 @@
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can use the internet to find and share information. | [ ] | [ ]  |
-| I believe I can set up the internet using the basic internet tools. | [ ] | [ ]  |
+| I can use the internet to find and share information. | [ ] | [ ]  |
+| I can use the internt to build my career. | [ ] | [ ]  |
 
 
 
