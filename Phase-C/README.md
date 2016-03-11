@@ -1,6 +1,8 @@
 # Phase C - Pre Client
 
-*meta description of the D1 Entry Level Developer role*
+*meta description of the D1 Entry Level Developer role goes here*
+
+Learning Outcomes
 
 - Active Listening
 - Adaptability
