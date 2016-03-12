@@ -15,13 +15,13 @@ The Mid-Level Developer is a role that comes after Entry-Level Developer and bef
 11. Discrete Math / Algebra
 12. Object Oriented Programming
 13. Version Control
-14. Security
-15. Databases
-16. API
-17. Proper Use of Environments
+14. Scalability Design
+15. Security
+16. Databases
+17. API
+18. Proper Use of Environments
 18. System Design
-19. Performance Optimization
-20. Scalability design
+20. Performance Optimization
 21. DevOps
 22. Text Editors
 23. Command Line (Unix)
