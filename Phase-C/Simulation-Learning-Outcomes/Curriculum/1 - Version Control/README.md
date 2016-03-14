@@ -1,4 +1,18 @@
-# Version Control (GIT) - KBBs
+# Outcome 1 - Version Control(GIT)
+
+Skill Description
+----------
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+This module targets GIT, it's usage and purpose in building software.
+
+
+Output
+----------
+
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+1. Consistent and Team complaint commits to the Simulation project and Checkpoint repositories.
+
 
 ## Knowledge
 
