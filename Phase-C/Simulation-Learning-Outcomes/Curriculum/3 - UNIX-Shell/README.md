@@ -1,7 +1,19 @@
-# UNIX/Shell- KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs for UNIX/Shell during Simulations.
+# Outcome 3 - UNIX/Shell
 
+**Skill Description**
 ----------
+A shell is a user interface for accessing an operating system's services.
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+1. A bash install/deploy script to automate a deploy process
+
+
+**Objectives**
+----------
+
 ## **Knowledge**
 
 
@@ -28,7 +40,6 @@
 
 
 ## **Beliefs**
-
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

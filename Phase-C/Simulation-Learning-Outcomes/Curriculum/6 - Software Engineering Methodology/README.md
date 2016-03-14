@@ -1,10 +1,21 @@
-# Software Engineering Methodology - KBBs
+# Outcome 6 - Software Engineering Methodology
 
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs for Software Engineering Methodology during Simulations.
-
+**Skill Description**
 ----------
-## **Knowledge**
+A Software Engineering Methodology is a framework that is used to structure, plan, and control the process of developing an information system.
+This module targets the usage and purpose of various software engineering methodologies in building good software.
 
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, a developer in simulations should be able to:
+
+1. Develop a software project adopting an agile approach & implement with Scrum techniques.
+
+
+**Objectives**
+----------
+
+## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -13,7 +24,6 @@
 |  Why do we need these methodologies in developing good software? | [ ] | [ ]|
 | Stages of Software Development Process <ul><li>Communication</li><li>Requirement Gathering</li><li>Feasibility Study</li><li>System Analysis</li><li>Software Design</li><li>Coding</li><li>Testing</li><li>Integration</li><li>Implementation</li><li>Operation and Maintenance</li><li>Disposition</li></ul> | [ ]| [ ]|
 | Agile Software Development Methodologies<ol><li>Scrum</li><ul><li>How does Scrum fit with Agile?</li><li>What’s the Philosophy behind Scrum?</li><li>Scrum roles</li><ol><li>Product Owner</li><li>Scrum Master</li><li>Development Teams</li></ol><li>Scrum Concepts and Terms</li><ol><li>Product Backlog</li><li>Backlog estimates</li><li>Sprint Planning</li><li>Stand Ups</li><li>Daily Burndown Chart</li><li>Velocity</li><li>Retrospectives</li><li>Release</li><li>Tasks</li><li>Review, Reflect and Repeat</li></ol></ul><li>Extreme Programming</li><li>Crystal Methods</li><li>Dynamic System Development Model</li></ol>| [ ] |    [ ] |
-
 
 
 ----------
@@ -34,7 +44,6 @@
 
 
 ## **Beliefs**
-
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
