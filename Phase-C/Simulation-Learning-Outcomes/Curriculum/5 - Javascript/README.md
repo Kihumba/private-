@@ -1,4 +1,16 @@
-# Javascript - KBBs
+# Outcome 1 - Javascript
+
+Skill Description
+----------
+Javascript is a full-fledged dynamic programming language. It was invented by Brendan Eich, co-founder of the Mozilla project, the Mozilla Foundation, and the Mozilla Corporation.
+JavaScript itself is fairly compact but very flexible, and developers have written a lot of tools that sit on top of the core JavaScript language to unlock a huge amount of extra functionality with very little effort.
+
+Output
+----------
+
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+1. TBD
 
 ## Knowledge
 
