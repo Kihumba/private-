@@ -1,4 +1,4 @@
-# Outcome 4 - Algorithms
+# Outcome 5 - Algorithms
 
 **Skill Description**
 ----------

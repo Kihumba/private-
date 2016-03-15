@@ -1,7 +1,7 @@
 # Sorting and Searching - KBBs
 **Summary:** The following are the Knowledge, Behaviors, and Beliefs associated with sorting and searching. They should have been engaged with by the end of Homestudy.
 
-
+----------
 ## **Knowledge**
 
 
