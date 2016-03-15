@@ -58,8 +58,7 @@
 | **Context:** When I want to add events to my HTML elements **Action:** I use Javascript's event listeners and functions. |   [ ]   |   [ ]  |
 | **Context:** When I want to add dynamism to my web page **Action:** I use Javascript's inbuilt functions to manipulate the DOM. |   [ ]   |   [ ]  |
 | **Context:** When building a web application **Action:** I define models for data manipulation, views for data rendering and controllers for interfacing between the models and views. |   [ ]   |   [ ]  |
-| **Context:** When returning data from my controller functions **Action:** I use the appropriate HTTP codes to flag errors.
- |   [ ]   |   [ ]  |
+| **Context:** When returning data from my controller functions **Action:** I use the appropriate HTTP codes to flag errors. |   [ ]   |   [ ]  |
 | **Context:** When rendering HTML **Action:** I make use of the view to render data gotten from the controller. |   [ ]   |   [ ]  |
 
 
