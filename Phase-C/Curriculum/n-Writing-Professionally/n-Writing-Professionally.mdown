@@ -1,0 +1,103 @@
+#Outcome n - Writing Professionally
+
+
+## Skill Description
+The Fellow adheres to the 7 C's in written communication: Completeness, Conciseness, Clarity, Correctness, Consideration, Courtesy, Concreteness. Ability to provide clear and concise communication via multiple modes of written communication such as email, code, or documentation.
+
+
+## Output
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+- *[list of outputs that will be used to evaluate Fellow attainment of this skill here]*
+
+
+## Objectives
+
+### Knowledge
+
+
+| Knowledge Unit | Studied | Memorized |
+|:---|:---:|:---:|
+| | | |
+| Meaning and importance of:  | [ ] | [ ] |
+| - Clarity | [ ] | [ ] |
+| - Conciseness | [ ] | [ ] |
+| - Concreteness | [ ] | [ ] |
+| - Correctness | [ ] | [ ] |
+| - Coherence | [ ] | [ ] |
+| - Completeness | [ ] | [ ] |
+| - Courteousness  | [ ] | [ ] |
+| *Resource:* <https://www.mindtools.com/pages/article/newCS_85.htm> | [ ] | [ ] |
+| | | |
+| Platforms and tools for written communication and their uses in different contexts | [ ] | [ ] |
+| - Email for formal communication | [ ] | [ ] |
+| - Chat for informal communication | [ ] | [ ] |
+| - SMS for social engagements | [ ] | [ ] |
+| | | |
+| Professional and business norms and preferences and resources available for deepening understanding in them | [ ] | [ ] |
+| - Formulate a main idea | [ ] | [ ] |
+| - Develop points to support main idea | [ ] | [ ] |
+| - Write from introduction, body then conclusion | [ ] | [ ] |
+| - Select a standard structure for communicating the body such as problem/solution, cause/effect or comparison/contrast | [ ] | [ ] |
+| *Resource:* <http://isites.harvard.edu/fs/docs/icb.topic1048390.files/References/HBS%20Guide%20to%20Better%20Business%20Writing%202005.pdf> | [ ] | [ ] |
+
+
+---
+
+### Behaviors
+
+
+**NO CONTEXT BINS FOR THIS KBB STYLE**
+
+| Observable Behavior | Observed | Mastered |
+|:---|:---:|:---:|
+| | | |
+| **Contexts:** When writing for professional or formal communicatio... **Actions:** (see below) | [ ] | [ ] |
+| - I proactively seek to understand the cultural preferences of the current context as pertains to writing norms and standards | [ ] | [ ] |
+| - I ensure that i peruse existing examples of the specific type of writing and follow the format and conventions to create my own | [ ] | [ ] |
+| - I frame my message to suit the culture of the audience I am communicating with (ethnic and organizational) | [ ] | [ ] |
+| - I frame my message taking into account my professional, organizational and personal relationship with the audience | [ ] | [ ] |
+| | | |
+| **Contexts:** When writing an email... **Actions:** (see below) | [ ] | [ ] |
+| - I ensure that my title is concise and absolutely clear | [ ] | [ ] |
+| - I ensure that my title describes the content of the email precisely | [ ] | [ ] |
+| - I ensure that the message is concise, logically coherent, and grammatically correct | [ ] | [ ] |
+| - I ensure that the message, where possible, meets the standards of all the 7 C’s of communication | [ ] | [ ] |
+| - I ensure that the body of the email completely accomplishes the expected communication objective  | [ ] | [ ] |
+| | | |
+| **Contexts:** Before sending an email... **Actions:** (see below) | [ ] | [ ] |
+| - I run a grammar checker to ensure that there are no grammatical errors | [ ] | [ ] |
+| - I ask at least 2 Andelans to proofread for coherence and correctness | [ ] | [ ] |
+| | | |
+| **Contexts:** When writing on chat tools or platform... **Actions:** (see below) | [ ] | [ ] |
+| - I ensure that my messages are concise and not verbose | [ ] | [ ] |
+| - I ensure my messages are coherent and follow a logical flow of thought  | [ ] | [ ] |
+| - I avoid the use of shortforms/abbreviations/slang/jargons that are not commonly used by the recipients of the chat message | [ ] | [ ] |
+| | | |
+| **Contexts:** When writing professional documents (e.g. proposals, meeting notes, reports, project specs, resumes) **Actions:** (see below) | [ ] | [ ] |
+| - I ensure that i peruse existing examples of them and follow the format and conventions to create my own | [ ] | [ ] |
+| - I run a grammar checker to ensure that there are no grammatical errors | [ ] | [ ] |
+| - I ask at least 2 Andelans to proofread with a focus on logical coherence and grammatical correctness | [ ] | [ ] |
+| | | |
+| **Contexts:** When writing for blog posts and other public media... **Actions:** (see below) | [ ] | [ ] |
+| - I ensure it is Concise, Coherent and grammatically Correct before i publish | [ ] | [ ] |
+| - I ask at least 2 relevant stakeholders to review to ensure the content and tone of the post is appropriate for the audience | [ ] | [ ] |
+| | | |
+| **Contexts:** When seeking to improve my writing... **Actions:** (see below) | [ ] | [ ] |
+| - I ensure that i peruse existing examples of the kinds of writing I am exploring and follow the format and conventions to create my own | [ ] | [ ] |
+| - I collaborate with at least 2 Fellows and 1 Trainer to facilitate a writing workshop | [ ] | [ ] |
+
+
+---
+
+
+### Beliefs
+
+
+| Embodied Belief | Felt | Demonstrated |
+|:---|:---:|:---:|
+| I believe my level of professionalism and expertise will be judged based on the quality of my writing. | [ ] | [ ] |
+| I believe I can build my brand and expand my influence through writing. | [ ] | [ ] |
+| I believe that my writing is a bridge that communicates my brilliance and value to the rest of the world. | [ ] | [ ] |
+| I believe the best way to get better at writing is to write proactively and seek feedback often | [ ] | [ ] |
+| I believe I can add value and make an impact on the lives of others through my writing | [ ] | [ ] |
