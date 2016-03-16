@@ -31,14 +31,14 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | - Involve everyone
 | - Communicate horizontally | | |
 | - Communicate early | | |
-| - *Resource:* [http://www.wsj.com/articles/SB117139153010507497] | | |
+| - *Resource:* <http://www.wsj.com/articles/SB117139153010507497>] | | |
 | | | |
 | Principles of Interpersonal communication | [ ] | [ ] |
 | - Communication is inevitable | | |
 | - Communication is irreversible | | |
 | - Communication is complicated | | |
 | - Communication is contextual | | |
-| - *Resource:* https://www.linkedin.com/pulse/four-principles-interpersonal-communication-colin-steele  | | |
+| - *Resource:* <https://www.linkedin.com/pulse/four-principles-interpersonal-communication-colin-steele> | | |
 
 ---
 
