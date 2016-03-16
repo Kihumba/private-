@@ -20,10 +20,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Zone of Proximal Development | [ ] | [ ]  |
-| * Reliability testing     | [ ] | [ ]  |
-| * Usability testing       | [ ] | [ ]  |
-| * Efficiency testing      | [ ] | [ ]  |
-| * Maintainability testing | [ ] | [ ]  |
 
 
 ----------
@@ -33,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I set expectations for junior members of the team **Action:** I ensure that the expectations are within their ZPD | [ ] | [ ]  |
+| **Context:** When I set growth and learning expectations for junior members of the team **Action:** I set the expectations within their ZPD | [ ] | [ ]  |
 
 
 ----------

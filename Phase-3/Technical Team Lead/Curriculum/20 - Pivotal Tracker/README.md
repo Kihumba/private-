@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When leading a team that uses Pivotal Tracker **Action:** I ensure that all tasks are tracked and statuses are used to keep everyone informed of updates/changes in the stories   | [ ] | [ ]  |
+| **Context:** When leading a team that uses Pivotal Tracker **Action:** I setup tracking for all tasks are tracked and use statuses to keep everyone informed of updates/changes in the stories   | [ ] | [ ]  |
 | **Context:** When any team member violates any of the above **Action:** I immediately offer feedback to correct the negative behaviour |   [ ]   |   [ ]  |
 
 

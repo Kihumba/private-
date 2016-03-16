@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow demonstrates the ability to review the outputs of multiple team members; and ensure their attention to detail.
+The Fellow demonstrates the ability to review the outputs of multiple team members; and reinforce team members' attention to detail.
 
 **Output**
 ----------
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** Before I accept pull requests **Action:** I review the code and the product state to ensure that the submitted work behaves as it’s supposed to as specified by the task adheres to the company code standards | [ ] | [ ]  |
+| **Context:** Before I accept pull requests **Action:** I review the code and the product state and confirm that the submitted work behaves as it’s supposed to as specified by the task adheres to the company code standards | [ ] | [ ]  |
 | **Context:** When doing code reviews **Action:** I look out for violation of style guides and best practices and point them out in the form of constructive criticism |   [ ]   |   [ ]  
 
 

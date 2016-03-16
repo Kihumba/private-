@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I present ideas/solutions **Action:** I present them with facts that the solutions are based up and facts that the ideas could be correlated with  | [ ] | [ ]  |
-| **Context:** When I make predictions/recommendations **Action:** I ensure that I highlight potential risks/unintended consequences of the recommendations |   [ ]   |   [ ]  |
+| **Context:** When I make predictions/recommendations **Action:** I highlight potential risks/unintended consequences of the recommendations |   [ ]   |   [ ]  |
 
 ----------
 

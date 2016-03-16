@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I write reports to send to senior management **Action:** I run grammar checks on my reports to ensure that they are free of grammatical errors | [ ] | [ ]  |
-| **Context:** When I write reports **Action:** I ensure that I highlight the key issues and calls for action in a concise and easily understable manner |   [ ]   |   [ ]  |
+| **Context:** When I write reports **Action:** I highlight the key issues and calls for action in a concise and easily understable manner |   [ ]   |   [ ]  |
 
 
 ----------
