@@ -54,7 +54,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | | | |
 | **Contexts:** When writing for professional or formal communicatio... **Actions:** (see below) | [ ] | [ ] |
 | - I proactively seek to understand the cultural preferences of the current context as pertains to writing norms and standards | [ ] | [ ] |
-| - I ensure that i peruse existing examples of the specific type of writing and follow the format and conventions to create my own | [ ] | [ ] |
+| - I ensure that I peruse existing examples of the specific type of writing and follow the format and conventions to create my own | [ ] | [ ] |
 | - I frame my message to suit the culture of the audience I am communicating with (ethnic and organizational) | [ ] | [ ] |
 | - I frame my message taking into account my professional, organizational and personal relationship with the audience | [ ] | [ ] |
 | | | |
@@ -75,16 +75,16 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | - I avoid the use of shortforms/abbreviations/slang/jargons that are not commonly used by the recipients of the chat message | [ ] | [ ] |
 | | | |
 | **Contexts:** When writing professional documents (e.g. proposals, meeting notes, reports, project specs, resumes) **Actions:** (see below) | [ ] | [ ] |
-| - I ensure that i peruse existing examples of them and follow the format and conventions to create my own | [ ] | [ ] |
+| - I ensure that I peruse existing examples of them and follow the format and conventions to create my own | [ ] | [ ] |
 | - I run a grammar checker to ensure that there are no grammatical errors | [ ] | [ ] |
 | - I ask at least 2 Andelans to proofread with a focus on logical coherence and grammatical correctness | [ ] | [ ] |
 | | | |
 | **Contexts:** When writing for blog posts and other public media... **Actions:** (see below) | [ ] | [ ] |
-| - I ensure it is Concise, Coherent and grammatically Correct before i publish | [ ] | [ ] |
+| - I ensure it is Concise, Coherent and grammatically Correct before I publish | [ ] | [ ] |
 | - I ask at least 2 relevant stakeholders to review to ensure the content and tone of the post is appropriate for the audience | [ ] | [ ] |
 | | | |
 | **Contexts:** When seeking to improve my writing... **Actions:** (see below) | [ ] | [ ] |
-| - I ensure that i peruse existing examples of the kinds of writing I am exploring and follow the format and conventions to create my own | [ ] | [ ] |
+| - I ensure that I peruse existing examples of the kinds of writing I am exploring and follow the format and conventions to create my own | [ ] | [ ] |
 | - I collaborate with at least 2 Fellows and 1 Trainer to facilitate a writing workshop | [ ] | [ ] |
 
 
