@@ -20,9 +20,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | Definition of data structure.| [ ] | [ ]  |
-| Different types of data structure. | [ ] | [ ]  |
+| Different types of data structure: | | |
+| * Primitive Data Structures. | [ ] | [ ]  |
+| * Abstract Data Strucutres. | [ ] | [ ]  |
 | Differences between Primitive and Abstract data structures with examples. | [ ] | [ ]  |
-| Differences between data structure classifications linear and hierarchical structures with examples.    | [ ] | [ ]  |
+| Differences between linear and hierarchical structures with examples.    | [ ] | [ ]  |
 | Importance of data structure.     | [ ] | [ ]  |
 | How to represent different data structures in Python.      | [ ] | [ ]  |
 

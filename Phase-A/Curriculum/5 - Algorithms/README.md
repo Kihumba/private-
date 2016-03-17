@@ -50,5 +50,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that the efficiency of a program is determined by the algorithm been used. | [ ] | [ ]  |
-| I believe that understanding how to analyse algorithms (i.e. using the Big O notation) helps in writing more efficient algorithms. | [ ] | [ ]  |
+| I believe that the efficiency of a program is determined by the algorithm being used. | [ ] | [ ]  |
+| I believe that the time spent making algorithms more efficient is never wasted. | [ ] | [ ]  |

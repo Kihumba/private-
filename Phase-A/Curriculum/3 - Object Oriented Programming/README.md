@@ -30,6 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Instance Variables | [ ] | [ ]  |
 | * Class and Static methods | [ ] | [ ]  |
 | Implement the above OOP concepts using Python. | [ ] | [ ]  |
+| Using OOP to write DRY code. | [ ] | [ ]  |
 | Give examples of where OOP can be successfully applied. | [ ] | [ ]  |
 
 
@@ -43,7 +44,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** Given a problem **Action:** I attempt to identify all the objects, their properties and their behaviours. | [ ] | [ ]  |
+| **Context:** When doing OOP data modelling **Action:** I identify the objects, their properties and their behaviours. | [ ] | [ ]  |
 | **Context:** When modelling an object **Action:** I define my attributes as variables and behaviour as methods within my class. |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modelling **Action:** I strive to ensure my code is DRY by building reusable components. |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modelling **Action:** I take advantage of Inheritance to ensure I am reusing code as much as possible. |   [ ]   |   [ ]  |

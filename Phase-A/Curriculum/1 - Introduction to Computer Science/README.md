@@ -21,7 +21,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | What is computer science? Definition of computer science in layman terms. | [ ] | [ ]  |
-| Who is a computer scientist? Understand the role of a computer scientist, what a computer scientist does and does not do. Who a computer scientist is and is not. |   [ ]   |   [ ] |
+| Understand who a computer scientist is. |   [ ]   |   [ ] |
+| Understand the role of a computer scientist, what a computer scientist does and does not do. |   [ ]   |   [ ] |
+| Describe what computer science is in a way that anybody can understand |   [ ]   |   [ ] |
+| State the differences between a programmer and a computer scientist|   [ ]   |   [ ] |
+| WWho |   [ ]   |   [ ] |
 | The basics / overview of important computer science concepts: | | |
 | * Algorithm | [ ] | [ ]  |
 | * Programming     | [ ] | [ ]  |
@@ -40,9 +44,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am asked to define computer science **Action:** I should give a description that anybody can understand | [ ] | [ ]  |
-| **Context:** When I am asked the differences between a programmer and a computer scientist **Action:** I should clearly state the differences. |   [ ]   |   [ ]  |
-| **Context:** When I am asked who a computer scientist is **Action:** I should without confusions give an appropriate answer. | [ ] |    [ ] |
+| **Context:** When I come across a new concept in computing, **Action:**  I do a few minutes of research to see if I understand it, how it might affect me, and whether I want to learn more about it. | [ ] |    [ ] |
 
 
 ----------

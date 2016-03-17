@@ -50,8 +50,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am given a program to write regardless of the language **Action:** I work with a programming environment and other programming elements. | [ ] | [ ]  |
-| **Context:** When I am writing a Python program **Action:** I make use of Python variables, data types, control structures, functions and modules when necessary. |   [ ]   |   [ ]  |
+| **Context:** When I am given a program to write regardless of the language **Action:** I identify the required software setup needed to write, compile and execute the program. | [ ] | [ ]  |
+| **Context:** When I am writing a Python program **Action:** I declare variables that conforms with the syntax of Python to hold data. |   [ ]   |   [ ]  |
+| **Context:** When I am writing a Python program **Action:** I identify the types of data I am working with based on Python's data types. |   [ ]   |   [ ]  |
+| **Context:** When I am writing a Python program **Action:** I use control structures to analyze the variables and determine the execution of instructions based on some conditions. |   [ ]   |   [ ]  |
+| **Context:** When I am writing a Python program **Action:** I write functions to group tasks that I want to be carried out repeatedly. |   [ ]   |   [ ]  |
+| **Context:** When I am writing a Python program **Action:** I create modules to to group related code inorder to enhance organization.  |   [ ]   |   [ ]  |
+
 
 
 
@@ -63,6 +68,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that programming is an important concept in computer science. | [ ] | [ ]  |
-| I believe that programming regardless of the language has common elements like environment, etc. | [ ] | [ ]  |
-| I believe that I can use Python to dictate to the computer specific tasks to be carried out. | [ ] | [ ]  |
+| I believe that programming is an important concept in computer science because it affects technology and technology affects me. | [ ] | [ ]  |
+| I believe that understanding core programming concepts is important because I can write programs in any language using the same concepts. | [ ] | [ ]  |
+| I believe that I can tell the computer to do what I want using programming. | [ ] | [ ]  |
