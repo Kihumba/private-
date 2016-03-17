@@ -35,8 +35,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When given a problem **Action:** I figure out the most efficient algorithm to use. | [ ] | [ ]  |
-| **Context:** When given a problem **Action:** I am able to implement an efficient algorithm in Python. |   [ ]   |   [ ]  |
+| **Context:** When given an algorithmic problem **Action:** I figure out the most efficient algorithm to use. | [ ] | [ ]  |
+| **Context:** When given an algorithmic problem **Action:** I am able to implement an efficient algorithm in Python. |   [ ]   |   [ ]  |
 | **Context:** When building an algorithm **Action:** I consider efficiency and calculate the Big O of the algorithm. |   [ ]   |   [ ]  |
 
 
