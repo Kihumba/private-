@@ -38,24 +38,24 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to write Javascript, **Action:** I will write neat, conformal Javascript syntax, with comments, following the recommended style guides and keeping my code DRY in the process. | [ ] | [ ] |
-| **Context:** When I need to loop in Javascript, **Action:** I will use the most appropriate Loop control flow (e.g for-in for objects, for for Arrays) to iterate through the collection. | [ ] | [ ] |
-| **Context:** When I need to encapsulate variables or control the scope of variables, **Action:** I will place them in functions / closures where there are required. | [ ] | [ ] |
-| **Context:** When I need to create a reusable service or function, **Action:** I will make use of a well defined class (literal function) having the prototypes and / or properties (as variables or methods) pertinent to it’s usage. | [ ] | [ ] |
-| **Context:** When I need to extend the functionality of an existing class, **Action:** I will create a prototype method, extending the already existing class, and implementing my custom method, to simplify the  method’s reference when I need to use it. | [ ] | [ ] |
-| **Context:** When I need to import a Javascript library to my project, **Action:** I will use the minified scripts to avoid the overhead that might come with the library (long variable names, comments, and  whitespace). | [ ] | [ ] |
-| **Context:** When I need to import Javascript libraries into my full stack application, **Action:** I will make use of the most appropriate package manager recommended for the stack I’m working with, for a seamless integration and application deployment. | [ ] | [ ] |
-| **Context:** When I make function calls that are asynchronous, **Action:** I will make use of callback functions that process the results when these resource becomes available. | [ ] | [ ] |
+| **Context:** After I've written some Javascript code, **Action:**  I refine it to make sure it's DRY, well commented and follows the adopted style guide. | [ ] | [ ] |
+| **Context:** When I need to create a loop in Javascript, **Action:** I use the most appropriate Loop control flow (e.g for-in for objects, for for Arrays) to iterate through collections. | [ ] | [ ] |
+| **Context:** When encapsulating variables or controlling its scope in Javascript, **Action:** I place them in the functions and / or closures were they are required. | [ ] | [ ] |
+| **Context:** When I need to create a reusable service or method, **Action:** I make use of a well defined classes (literal function) having the prototypes and / or properties (as variables or methods) pertinent to it’s usage. | [ ] | [ ] |
+| **Context:** When I need to extend the functionality of an existing class in Javascript, **Action:** I create a prototype method, extending the already existing class, and implementing my custom method, to simplify the  method’s reference when I need to use it. | [ ] | [ ] |
+| **Context:** When I import a Javascript library to my project, **Action:** I use the minified scripts available to avoid the overhead that might come with the library (long variable names, comments, and  whitespace). | [ ] | [ ] |
+| **Context:** When I import Javascript libraries into a full stack Javascript application, **Action:** I make use of the most appropriate package manager recommended for the stack I’m working with, for a seamless integration and application deployment. | [ ] | [ ] |
+| **Context:** When I make function calls that are asynchronous, **Action:** I make use of callback functions that process the results when these resource becomes available. | [ ] | [ ] |
 
 
 ## Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can write DRY and well commented javascript, while adhering to the style guides, keeping my code base legible and easy to understand. | [ ] | [ ] |
-| I believe that I will use the most appropriate control flow for conditions and loops based on the values to be compared and the type of collection to be iterated, respectively. | [ ] | [ ] |
-| I believe I can create a class when I need a reusable resource, to avoid repetition. | [ ] | [ ] |
-| I believe I can add functionality to an already existing class using Prototyping. | [ ] | [ ] |
-| I believe I can isolate the scope of my variables for better security when I write sensitive methods that should be not edited in real-time. | [ ] | [ ] |
-| I believe I can use external Javascript libraries in my full stack project handled by package managers akin to the full stack technology. | [ ] | [ ] |
-| I believe I can take advantage of Javascript’s asynchronous nature by using callbacks to process resources in the background without distorting the user’s experience. | [ ] | [ ] |
+| I believe that writing DRY and well commented javascript, while adhering to the style guides, will keep my code base legible and easy to understand. | [ ] | [ ] |
+| I believe that using the most appropriate control flow for conditions and loops based on the values to be compared and the type of collection to be iterated, will make my program run efficiently. | [ ] | [ ] |
+| I believe that using classes to create reusable resources will keep my code base DRY, and easier to manage. | [ ] | [ ] |
+| I believe that Prototyping allows me extend already existing classes, easily. | [ ] | [ ] |
+| I believe that isolating the scope of my variables for better security and memory management when I write sensitive methods will prevent it from being edited in real-time, and optimize memory, respectively. | [ ] | [ ] |
+| I believe that using Javascript libraries in my full stack project handled by package managers akin to the full stack technology, makes it easier to manage the library version whilst simplifying deployment. | [ ] | [ ] |
+| I believe that taking advantage of Javascript’s asynchronous nature, using callbacks to process resources in the background will prevent chronological methods from distorting the user’s experience. | [ ] | [ ] |
