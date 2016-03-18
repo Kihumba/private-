@@ -6,7 +6,7 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - What intents are and how to use intents.
 - Using loaders and backstack.
 
-The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
+The following are the Knowledge, Behaviors, and Beliefs for Activities and Intents.
 
 ----------
 ## **Knowledge**

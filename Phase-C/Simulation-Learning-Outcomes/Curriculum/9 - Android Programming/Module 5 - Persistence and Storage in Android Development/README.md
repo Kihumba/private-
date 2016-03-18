@@ -6,7 +6,7 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - How to save files and data backup techniques
 - Using sqlite in Android apps
 
-The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
+The following are the Knowledge, Behaviors, and Beliefs for Persistence/Storage in Android Development.
 
 ----------
 ## **Knowledge**

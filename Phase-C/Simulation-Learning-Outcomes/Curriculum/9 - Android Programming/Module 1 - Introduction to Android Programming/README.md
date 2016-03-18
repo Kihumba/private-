@@ -1,4 +1,4 @@
-# Module 1 Introduction to Android Programming - KBBs
+# Module 1: Introduction to Android Programming - KBBs
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - Understanding of the Android architecture
@@ -6,7 +6,7 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - Understanding of the android manifest file
 - How to run apps with the android emulator.
 
-The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
+The following are the Knowledge, Behaviors, and Beliefs for Introduction to Android Programming.
 
 ----------
 ## **Knowledge**

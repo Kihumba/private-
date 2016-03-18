@@ -8,7 +8,7 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - How to add dialogs, snackbar, and toasts to the app.
 
 
-The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
+The following are the Knowledge, Behaviors, and Beliefs for Android UI.
 
 ----------
 ## **Knowledge**
