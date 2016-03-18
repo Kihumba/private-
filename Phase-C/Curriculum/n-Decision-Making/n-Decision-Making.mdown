@@ -1,0 +1,80 @@
+# Outcome n - Decision Making
+
+
+## Skill Description
+
+The Fellow displays an objective, balanced approach toward decision making. Includes data gathering, identifying multiple options, weighing pros and cons of each option, and using the analysis to inform the ultimate decision.  Prioritizes objectives based upon their level of severity and importance. Is able to determine this on their own.
+
+
+## Output
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+- *[list of outputs that will be used to evaluate Fellow attainment of this skill here]*
+
+
+## Objectives
+
+### Knowledge
+
+
+| Knowledge Unit | Studied | Memorized |
+|:---|:---:|:---:|
+| | | |
+| Knowledge description | [ ] | [ ] |
+| | | |
+| Knowledge description. *Examples:* | [ ] | [ ] |
+| -- *example for knowledge description* |  |  |
+| | | |
+| Knowledge description w/ list [studied/memorized check off for list title] | [ ] | [ ] |
+| - List item 1 |  |  |
+| - List item 2. *Example(s):* |  |  |
+| -- *example for list item* |  |  |
+| | | |
+| Knowledge description w/ list [studied/memorized check off for list items] |  |  |
+| - List item 1 | [ ] | [ ] |
+| - List item 2 *Example(s):* | [ ] | [ ] |
+| -- *example for list item* |  |  |
+
+
+---
+
+### Behaviors
+
+
+**CONTEXT BIN 1**
+> *[Context Bin 1] - high level context categories, e.g. e.g. WHEN WORKING ON A TEAM, WHEN IN A REMOTE CALL, WHEN WORKING ON A TASK OR PROJECT*
+
+| Observable Behavior | Observed | Mastered |
+|:---|:---:|:---:|
+| | | |
+| ***Context Category*** *[mid-level context category, e.g. When new people join the team, When first beginning the remote call, When I am not going to meet a deadline]*  | [ ] | [ ] |
+| **Context:** When ... ... **Action:** I ... *[single action]* | [ ] | [ ] |
+| **Context:** When ... ... **Action(s):** I ... (see below) *[w/ list of actions]* |  |  |
+| - List item | [ ] | [ ] |
+| - List item. *Examples:* | [ ] | [ ] |
+| -- *example for list item* |  |  |
+| - List item | [ ] | [ ] |
+| | | |
+| ***Context Category*** *[mid-level context category, e.g. When new people join the team, When first beginning the remote call, When I am not going to meet a deadline]*  | [ ] | [ ] |
+| **Context:** When ... ... **Action:** I ... *[single action]* | [ ] | [ ] |
+| ... | [ ] | [ ] |
+| | | |
+
+**CONTEXT BIN 2**
+> *[Context Bin 2] - high level context categories, e.g. WHEN WORKING ON A TEAM, WHEN IN A REMOTE CALL, WHEN WORKING ON A TASK OR PROJECT*
+
+| Observable Behavior | Observed | Mastered |
+|:---|:---:|:---:|
+| | | |
+|...|...|...|
+
+---
+
+
+### Beliefs
+
+
+| Embodied Belief | Felt | Demonstrated |
+|:---|:---:|:---:|
+| I believe ... | [ ] | [ ] |
+| I believe ... | [ ] | [ ] |
