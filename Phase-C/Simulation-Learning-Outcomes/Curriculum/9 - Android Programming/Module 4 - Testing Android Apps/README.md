@@ -6,7 +6,7 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - How to test services
 - Using UI testing frameworks - AndroidJUnitRunner, Espresso, UI Automator
 
-The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
+The following are the Knowledge, Behaviors, and Beliefs for Testing Android Apps.
 
 ----------
 ## **Knowledge**
