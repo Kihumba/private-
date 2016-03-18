@@ -1,4 +1,4 @@
-# Module 2: Introduction to Android Programming - KBBs
+# Module 3: Activities and Intents - KBBs
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - What activities are and how to make use of the different activities available.

@@ -1,4 +1,4 @@
-# Module 2: Introduction to Android Programming - KBBs
+# Module 2: The Android UI - KBBs
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - Understanding of basic XML
