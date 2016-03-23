@@ -20,12 +20,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-
+| What is an error? | [ ] | [ ] |
+| What class is commonly used to represent errors in Swift? (`NSError`)? | [ ] | [ ] |
+| What types of errors exist? | [ ] | [ ] |
+| What’s the syntax for catching Errors in Swift? Do-try-catch | [ ] | [ ] |
+| How do I throw an Error? guard-throws | [ ] | [ ] |
 
 ## Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
+| **Context:** When dealing with Errors in Swift, **Action:** I can easily relate its structure with Exceptions in other programming languages and leverage on that as the case may be. | [ ] | [ ] |
+| **Context:** When throwing Errors that have steps or categories, **Action:** I will create a enumerated ErrorType that throws different Errors in steps to increase flexibility in the Error Handling.  | [ ] | [ ] |
+| **Context:** When I need to catch an Error from an Abstracted method, **Action:** I catch the Error as an NSError type and proceed to displaying the Error message as the case may be.  | [ ] | [ ] |
 
 
 
@@ -33,3 +40,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
+| I believe that handling and dealing with errors will avoid the application from crashing at runtime | [ ] | [ ] |
