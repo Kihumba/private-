@@ -1,0 +1,73 @@
+# Module 6:  Namespaces, Code Organisation and Dependency Injection using Composer - KBBs
+
+**Summary:**
+The learning outcomes expected of a fellow that has covered this module are as follows:
+- Understand and implement namespacing, aliasing and important and how to implement these principles using the namespace and use keywords.
+- Understand thoroughly how to apply namespacing in Classes, Traits, Interfaces and Object Oriented Code.
+- Understand principles of modular application design.
+- Understand Dependency Injection using Composer and the composer package library Packagist.
+- Understand the concept of PSR-4 and PSR-2 Autoloading.
+
+The following are the Outputs, Knowledge, Behaviors, and Beliefs for Namespaces, Code Organisation and Dependency Injection.
+
+## **Outputs**
+----------
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+1. A PHP Program that contains at least 3 different classes that are namespaced and interact with each other.
+2. [Checkpoint 1](https://docs.google.com/document/d/1vRZsAI8BJTq8t0-ewZvtxyT9PviY2LtvSqzlfM00jPY)
+
+
+----------
+## **Knowledge**
+
+
+| Knowledge Unit   |      Studied      | Memorized |
+|:-------------|:------------------:|:--------:|
+| What are Namespaces and the purpose of Namespacing? | [] | [] |
+| What are Aliases? | [] | [] |
+| How to import classes and interfaces? | [ ] | [ ] |
+| How to apply namespacing in an Object Oriented Program? | [ ] | [ ] |
+| What is the SOLID principle? | [] | [] |
+| What does it mean for an application to be modular in design?| [] | [] |
+| What is Dependency Injection?  | [ ] | [ ] |
+| What is Composer and what role does it play in achieving decoupled and modular PHP code components? | [] | [] |
+| What are Traits in PHP and how do they enable a form of multiple Inheritance?| [] | [] |
+| What is the PSR-2 Coding Standard? | [] | [] |
+| What is the PSR-4 Autoloading Standard? | [] | [] |
+| What is Packagist?| [] | [] |
+
+
+
+----------
+
+
+## **Behaviors**
+
+| Observable Behavior   |      Observed      | Mastered |
+|:-------------|:------------------:|:--------:|
+| **Context:** When I need to write a PHP Package that involves a bunch of Classes.. **Action:**  I will namespace the classes and use the PSR-4 Autoloading Standard.| [ ] | [ ]  |
+| **Context:**  When I am writing reusable code...**Action:** I will namespace it.|   [ ]   |   [ ] |
+| **Context:** When I write a PHP Package... **Action:**  I will upload it to Packagist using Composer to make it available for everyone. |   [ ]   |   [ ] |
+| **Context:** When I want to write a PHP application... **Action:**  I can use composer to manage and autoload all my code dependencies. |   [ ]   |   [ ] |
+| **Context:** When I want to achieve multiple inheritance in a PHP program... **Action:**  I will use Traits. |   [ ]   |   [ ] |
+| **Context:** When I want to write a loosely coupled PHP program ... **Action:**  I will make use of the Dependency Injection concept. |   [ ]   |   [ ] |
+
+
+
+----------
+
+
+## **Beliefs**
+
+
+| Embodied Belief   |      Felt      | Demonstrated |
+|:-------------|:------------------:|:--------:|
+| I believeI can use Traits to achieve multiple inheritance in PHP| [ ] | [ ]  |
+| I believe I can use composer to manage the reuse of open source code in my PHP program. |   [ ]   |   [ ] |
+| I believe I can use Dependency Injection to write decoupled PHP programs. |   [ ]   |   [ ] |
+| I believe I can write reusable PHP code in form of Packages and make it available to the public by uploading it to Packagist. |   [ ]   |   [ ] |
+| I believe I can use PSR-2 Coding Standard to ensure my program is well-indented, readable and legible. |   [ ]   |   [ ] |
+| I believe I can write a loosely coupled and modular PHP program by adhering to the SOLID principle. |   [ ]   |   [ ] |
+
+
