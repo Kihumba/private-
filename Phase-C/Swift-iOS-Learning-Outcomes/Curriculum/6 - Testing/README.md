@@ -1,7 +1,7 @@
 # Outcome 6 - Testing
 Skill Description
 -----
-Swift comes with an inbuilt testing framework called XCTest. To use it in your application, you have to import the namespace to your application, using the import keyword. This outcome covers:
+Testing is a method of assessing the functionality of a software program. This consists of assertions, that compare the application's real outputs with its ideal or expected outputs. Swift comes with an inbuilt testing framework called XCTest. To use it in your application, you have to import the namespace to your application, using the import keyword. This outcome covers:
 
 - Writing a basic Unit Test
 - Running tests
