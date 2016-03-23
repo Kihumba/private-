@@ -23,6 +23,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What methods can be used to iterate through a collection of Data? | [ ] | [ ] |
 | How do you define a variable / constant and assign it a data type at the same time | [ ] | [ ] |
 | How do you convert one Data type to another? (Typecasting) | [ ] | [ ] |
+| What are optionals in swift? | [ ] | [ ] |
+| How do you force / assert that an Optional has a value? (Unwrapping)? | [ ] | [ ] |
 
 
 ## Behaviors
@@ -32,8 +34,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to create, reference or manipulate data, **Action:** I will use the most appropriate data type that best suites that data. | [ ] | [ ] |
 | **Context:** When I create a custom data type, **Action:** I use `typealias` to to make it easy to reference. | [ ] | [ ] |
 | **Context:** When I need to process a collection of Data, **Action:** I use the `.forEach` function when available, otherwise I use a normal loop. | [ ] | [ ] |
-|  **Context:** When I create a variable / constant, **Action:** I explicitly set the Data type, to make it luculent to other people that might read the code, at the same time eliminating the comments that I might have needed to justify the variable or constant. | [ ] | [ ] |
-
+| **Context:** When I create a variable / constant, **Action:** I explicitly set the Data type, to make it luculent to other people that might read the code, at the same time eliminating the comments that I might have needed to justify the variable or constant. | [ ] | [ ] |
+| **Context:** When I create a collection, **Action:**, I add only the same Data type to that collection. | [ ] | [ ] |
+| **Context:** When creating a variable that is allowed to have no value i.e. `nil`, **Action:** I use Optionals, which allows the variable exists as `nil` even after assigning it a value. | [  ] | [ ] |
 
 ## Beliefs
 
@@ -41,3 +44,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I believe that identifying and using the Data type that best matches the value I need make my application run efficiently. | [ ] | [ ] |
 | I believe that specifying, explicitly, the Data type of a variable or constant, makes my code base easy to read. | [ ] | [ ] |
+| I believe that collections are very efficient forms of keeping a number of Data all of the same type. | [ ] | [ ] |
+| I believe that Optionals can be used as normal variables by Unwrapping them. | [ ] | [ ] |
