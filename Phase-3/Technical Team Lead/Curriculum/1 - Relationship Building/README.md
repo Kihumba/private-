@@ -8,7 +8,7 @@ The Fellow has the ability to establish themselves as a trusted advisor to the c
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure about output]
+1. A document logging trust building exchanges between Fellow and Client higlighting advice given to Client(s) and positive Client responses to Fellow advice
 
 
 **Objectives**
@@ -19,7 +19,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Trusted advisor | [ ] | [ ]  |
+| * What does it mean to be a trusted advisor to a client? | [ ] | [ ]  |
+| * What are the top 3 most critical needs of my client ? | [ ] | [ ]  |
 
 
 ----------
@@ -29,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When engaging with clients **Action:** I offer suggestions/ideas that carry the best interests of the clients (business and team members) at heart | [ ] | [ ]  |
+| **Context:** During sprint planning, retrospective, strategy or problem solving sessions **Action:** I offer suggestions/ideas that carry the best interests of the clients (business and team members) at heart | [ ] | [ ]  |
 | **Context:** During decision making processes/discussions **Action:** I ask questions about other’s ideas in order to validate them through the lens of the team objectives and the client’s business goals |   [ ]   |   [ ]  |
 
 
@@ -41,5 +42,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that I’m a trusted advisor to my client | [ ] | [ ]  |
+| I believe that my opinions matter | [ ] | [ ]  |
+| I am capable of offering suggestions and ideas that are instrumental to my client company's growth and success | [ ] | [ ]  |
+| I believe that by demonstrating advisorship to clients, I can build trust that leads to my Client hiring additional Fellows | [ ] | [ ]  |
+
 

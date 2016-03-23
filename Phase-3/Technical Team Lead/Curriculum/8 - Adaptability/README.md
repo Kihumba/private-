@@ -8,7 +8,7 @@ The Fellow is able to help other members of their team adapt to change and recog
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. A written reflection describing two instances when the team had to adapt to drastic changes
 
 
 **Objectives**

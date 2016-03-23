@@ -8,7 +8,7 @@ The Fellow knows how to keep his team focused on the client's top priorities but
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure about output]
+1. Report on team members highlighting emotional/psychological/fatigue state of team members
 
 
 **Objectives**

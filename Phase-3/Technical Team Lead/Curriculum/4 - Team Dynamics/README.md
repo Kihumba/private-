@@ -8,7 +8,7 @@ The fellow understands their expanded role as a senior member of a team, with ot
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Document logging sprint-level accounting of team throughput (team's throughput is a reflection of TTL's competency)
 
 
 **Objectives**
@@ -20,6 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Common team roles and responsibilities | [ ] | [ ]  |
+| * My team members' roles and responsibilities | [ ] | [ ]  |
 | * Responsibilities of a Technical Team Lead     | [ ] | [ ]  |
 
 

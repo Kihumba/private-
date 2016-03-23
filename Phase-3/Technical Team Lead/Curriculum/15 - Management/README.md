@@ -8,7 +8,9 @@ The Fellow demonstrates an ability to manage junior members of their team by cle
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Working software product built by the team
+2. Sprint level accounting history of project
+3. A collection of team and product state reports
 
 
 **Objectives**

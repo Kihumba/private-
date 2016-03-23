@@ -8,7 +8,7 @@ The fellow is capable of motivating their team and maintaining their team's ener
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Report on team members highlighting motivational state of team members
 
 
 **Objectives**

@@ -21,7 +21,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * How to track tasks | [ ] | [ ]  |
 | * How to change stories     | [ ] | [ ]  |
-| * Statuses       | [ ] | [ ]  |
+| * What are pivotal statuses?       | [ ] | [ ]  |
+| * What makes Pivotal Tracker an effective Agile project management tool? | [ ] | [ ]  |
+| * What are the shortcomings of Pivotal Tracker as an Agile project management tool? | [ ] | [ ]  |
 
 
 ----------

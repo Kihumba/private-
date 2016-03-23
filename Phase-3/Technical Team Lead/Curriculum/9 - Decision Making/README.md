@@ -9,7 +9,7 @@ The Fellow is able to facilitate group discussions and lead them towards making 
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Meeting notes highlighting action points agreed upon by team during a team meeting
 
 
 **Objectives**

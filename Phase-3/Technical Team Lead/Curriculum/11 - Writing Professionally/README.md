@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * How to package written information for senior management | [ ] | [ ]  |
+| * The concerns/considerations of my senior management team members | [ ] | [ ]  |
 | * Types of reports in software teams | [ ] | [ ]  |
 
 

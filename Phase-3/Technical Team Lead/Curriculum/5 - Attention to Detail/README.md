@@ -8,7 +8,7 @@ The Fellow demonstrates the ability to review the outputs of multiple team membe
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. At least 5 code reviews performed by TTL on project Pull Requests
 
 
 **Objectives**

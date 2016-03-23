@@ -8,7 +8,9 @@ The fellow includes junior members of their team as stakeholders and understands
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure about output]
+1. Periodic reports/presentations on product state including product recommendations
+2. Sprint-level accounting of team throughput
+3. Weekly reports on team members including reflections and people recommendations/progress reports
 
 
 **Objectives**
@@ -21,6 +23,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * Kinds of stakeholders | [ ] | [ ]  |
 | * How to engage with each kind of stakeholder     | [ ] | [ ]  |
+| * What do my junior team members need to know to work effectively?    | [ ] | [ ]  |
+| * What forms of communication do my junior team members respond to the most?   | [ ] | [ ]  |
 
 
 ----------

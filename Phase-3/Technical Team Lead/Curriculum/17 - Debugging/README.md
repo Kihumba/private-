@@ -21,6 +21,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * Root cause analysis | [ ] | [ ]  |
 | * Common types of bugs introduced by team contributions     | [ ] | [ ]  |
+| * What does it mean to "reproduce the problem"?     | [ ] | [ ]  |
+| * How can binary search help with discovering the root cause of problems in software?     | [ ] | [ ]  |
 
 
 ----------
@@ -30,7 +32,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When there are bugs that occur as a result of unforeseen consequences of component integration **Action:** I perform a root cause analysis to get to the root of the problem | [ ] | [ ]  |
+| **Context:** Before I attempt to fix a bug **Action:** I reproduce the problem | [ ] | [ ]  |
+| **Context:** When finding the root cause of a bug/problem **Action:** I split up the program into smaller independent components | [ ] | [ ]  |
+| **Context:** After splitting the program into components **Action:** I run the components in isolation to identify abnormal behavior | [ ] | [ ]  |
+| **Context:** After identifying the component with abnormal behaviour **Action:** I recursively split the component into smaller components while testing sub-components for abnormal behaviour until I have arrived at the smallest problematic component | [ ] | [ ]  |
 
 
 ----------

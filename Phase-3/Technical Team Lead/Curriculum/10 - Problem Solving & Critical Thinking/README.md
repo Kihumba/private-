@@ -8,7 +8,7 @@ The Fellow is able to display logical reasoning by drawing inferences that can b
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure about output]
+1. A risk assessment document that covers observations, assumptions, and predictions of a potential decision on a simulation project
 
 
 **Objectives**
@@ -19,7 +19,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe, from memory, common types of testing, including the following: | | |
-| * Risk Analysis| [ ] | [ ]  |
+| * Risk Assessment| [ ] | [ ]  |
+| * Roles of observations, assumptions and predictions in risk assessment | [ ] | [ ]  |
 
 
 ----------
@@ -29,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I present ideas/solutions **Action:** I present them with facts that the solutions are based up and facts that the ideas could be correlated with  | [ ] | [ ]  |
+| **Context:** When I present ideas/solutions **Action:** I present them with facts that the solutions are based on and facts that the ideas could be correlated with  | [ ] | [ ]  |
 | **Context:** When I make predictions/recommendations **Action:** I highlight potential risks/unintended consequences of the recommendations |   [ ]   |   [ ]  |
 
 ----------

@@ -20,6 +20,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to manage expectations of team members | [ ] | [ ]  |
+| * What are the capabilities of my team members?  | [ ] | [ ]  |
+| * What are the indicators of success for my team members? Do they know them?  | [ ] | [ ]  |
 
 
 ----------
@@ -43,5 +45,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that I can build trust externally by regularly communicating the capabilities and deliverables of my team I believe that my team members will deliver more if they had clear expectations of what needs to be delivered when | [ ] | [ ]  |
+| I believe that I can build trust externally by regularly communicating the capabilities and deliverables of my team | [ ] | [ ]  |
+| I believe that my team members will deliver more if they had clear expectations of what needs to be delivered at what time | [ ] | [ ]  |
+
 

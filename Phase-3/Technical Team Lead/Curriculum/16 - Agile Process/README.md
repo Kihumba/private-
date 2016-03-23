@@ -45,4 +45,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Agile processes are one of the most effective ways to manage team contributions to a software product. Everything can be iteratively improved on, even the process you’re using to improve. Improvement is best done within your current working process as an “evolution.” Revolutionaries waste time and gum up the works. | [ ] | [ ]  |
+| Agile processes are one of the most effective ways to manage team contributions to a software product. | [ ] | [ ]  |
+| Everything can be iteratively improved on, even the process you’re using to improve.  | [ ] | [ ]  |
+| Improvement is best done within your current working process as an “evolution.”   | [ ] | [ ]  |
+| Revolutionaries waste time and gum up the works.  | [ ] | [ ]  |

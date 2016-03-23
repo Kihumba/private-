@@ -8,7 +8,7 @@ The Fellow demonstrates an ability to coach knowledge-seeking junior fellows/eng
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Interaction log created by a Junior Developer confirming coaching and reinforcement of best practices by Technical Team Lead
 
 
 **Objectives**
@@ -19,8 +19,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Mentorship | [ ] | [ ]  |
-| * Effective mentorship patterns     | [ ] | [ ]  |
+| * Cognitive Apprenticeship     | [ ] | [ ]  |
+| * Pair Programming     | [ ] | [ ]  |
+| * Positive Reinforcement     | [ ] | [ ]  |
 
 
 ----------
@@ -42,4 +43,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that mentorship is a vehicle for me to contribute back to the Fellowship I believe that mentoring other developers accelerates and reinforces my learning | [ ] | [ ]  |
+| I believe that mentorship is a vehicle for me to contribute back to the Fellowship | [ ] | [ ]  |
+| I believe that mentoring other developers accelerates and reinforces my learning | [ ] | [ ]  |

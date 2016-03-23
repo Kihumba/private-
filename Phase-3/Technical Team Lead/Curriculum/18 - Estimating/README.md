@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow is able to facilitate the systematic breakdown of technical work in into individual tasks and provide estimates on each to ultimately derive an estimate on the LOE/time required to complete the work
+The Fellow is able to facilitate the systematic breakdown of technical work into individual tasks and provide estimates on each to ultimately derive an estimate on the LOE/time required to complete the work
 
 **Output**
 ----------
@@ -20,6 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Level of Effort (LOE) | [ ] | [ ]  |
+| * The Agile point system | [ ] | [ ]  |
 
 
 ----------

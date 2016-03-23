@@ -8,7 +8,7 @@ The Fellow demonstrates additional leadership skills such as imparting knowledge
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Interaction log between Technical Team Lead and junior developers indicating impartation of knowledge from TTL to junior developer
 
 
 **Objectives**
@@ -19,8 +19,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * How to give actionable feedback | [ ] | [ ]  |
-| * Task Delegation    | [ ] | [ ]  |
+| * How to give actionable feedback (specific scenarios, observed outcome in scenario, ways to improve) | [ ] | [ ]  |
+| * What kinds of responsilities/tasks should be delegated   | [ ] | [ ]  |
+| * How to delegate responsibilities/tasks   | [ ] | [ ]  |
 
 
 ----------
@@ -33,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I assign tasks to team members **Action:** I help them understand why those tasks are important | [ ] | [ ]  |
 | **Context:** When team members help each other or work together to achieve something **Action:** I call out their collaboration as a point of celebration to encourage a collaborative environment |   [ ]   |   [ ]  |
 | **Context:** When I give feedback to junior team members **Action:** I provide context with specific scenarios and offer alternate(better) suggestions for better behavior in the future | [ ] |    [ ] |
-| **Context:** henever I have a task that someone else on the team can perform **Action:** I delegate it to them | [ ] |    [ ] |
+| **Context:** Whenever I have a task that someone else on the team can perform **Action:** I delegate it to them as long as the task is not directly related with my objectives and priorities | [ ] |    [ ] |
 
 
 ----------
@@ -45,7 +46,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I believe that when people understand why they do what they do, they do it better  | [ ] | [ ]  |
-| I believe that if I celebrate a behavior then team member would want to repeat that desired behavior  | [ ] | [ ]  |
+| I believe that if I celebrate a behavior then team members would want to repeat that desired behavior  | [ ] | [ ]  |
 | I believe that feedback without specific scenarios is not very useful or actionable | [ ] | [ ]  |
 | I believe that delegation frees up my time for more difficult and higher priority tasks | [ ] | [ ]  |
 
