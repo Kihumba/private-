@@ -22,8 +22,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is a unit test? | [ ] | [ ]
-| How do I write a unit test? | [ ] |
+| What is a unit test? | [ ] | [ ] |
+| How do I write a unit test? | [ ] | | [ ] |
 | What is TDD? Test Driven Development. | [ ] | [ ] |
 | What is the purpose of Testing? | [ ] | [ ] |
 | What are Test Assertions? | [ ] | [ ] |
