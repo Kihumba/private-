@@ -4,9 +4,10 @@ Skill Description
 ----------
 Swift is a modern Object Oriented Programming language similar to Java and Javascript.
 Swift provides its own versions of all fundamental C and Objective-C types, including Int for integers, Double and Float for floating-point values, Bool for Boolean values, and String for textual data. Swift also provides powerful versions of the three primary collection types, Array, Set, and Dictionary.
-This outcome focuses on:
- - Constants & Variables
- - Control Flow Statements
+
+This outcome targets:
+ 1. Variables and Constants
+ 2. Control Flow Statements
 
 
 Outputs
