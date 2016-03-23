@@ -9,15 +9,14 @@ This outcome focuses on:
  - Control Flow Statements
 
 
-Output
+Outputs
 ----------
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. A program in Swift Playground that uses variables and constants.
 2. A Playground Project that processes an input and produces a conditioned output.
 3. A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
 
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-
-1. Consistent and Team complaint commits to the Simulation project and Checkpoint repositories.
 
 
 ## Knowledge
