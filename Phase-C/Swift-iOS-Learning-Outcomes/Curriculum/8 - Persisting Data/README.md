@@ -1,7 +1,7 @@
 # Outcome 8 - Persisting Data
 Skill Description
 -----
-In real life applications, data is received and sent over-the-air (OTA) mostly following the CRUD pattern (Create, Read, Update and Delete). More often than none, data will need to be accessed offline, data that might affect the way requests are made to the server, or if requests are made to the server in the first place. This Skill cover the methods available in iOS that can be used to persist data on a mobile device.
+In real life applications, data is received and sent over-the-air (OTA) following the CRUD pattern (Create, Read, Update and Delete). More often than none, data will need to be accessed offline, data that might affect the way requests are made to the server or data thats written and read frequently. This Skill covers the methods available in iOS that can be used to persist data on a mobile device.
 
 Outputs
 -------
