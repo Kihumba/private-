@@ -7,7 +7,7 @@ Outputs
 -------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. An iOS Project to be created including CoreData the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults, NSKeyedArchiver and CoreData.
+1. An iOS Project is to be created which includes CoreData in the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults, NSKeyedArchiver and CoreData.
 
 ## Knowledge
 
