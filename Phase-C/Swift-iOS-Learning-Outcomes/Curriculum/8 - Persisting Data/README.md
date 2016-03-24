@@ -20,8 +20,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What type of data can be stored in User Defaults? | [ ] | [ ] |
 | What type of data can be stored in `NSKeyedArchiver` | [ ] | [ ] |
 | What type of data can be stored in `CoreData`? | [ ] | [ ] |
-| What query structure is employed in the various Data stores?  | [ ] | [ ] |
-| What are the storage limits of the Data stores? | [ ] | [ ] |
+| What query structure is employed in the various Data storage systems?  | [ ] | [ ] |
+| What are the storage limits of the Data storage systems? | [ ] | [ ] |
 
 
 ## Behaviors
