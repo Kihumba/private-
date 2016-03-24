@@ -7,7 +7,7 @@ Outputs
 -------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1.
+1. An iOS Project to be created including CoreData the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults, NSKeyedArchiver and CoreData.
 
 ## Knowledge
 
@@ -22,7 +22,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What type of data can be stored in `CoreData`? | [ ] | [ ] |
 | What query structure is employed in the various Data stores?  | [ ] | [ ] |
 | What are the storage limits of the Data stores? | [ ] | [ ] |
-
 
 
 ## Behaviors
@@ -40,3 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
+| I believe that data should be saved on the device when its to read / written frequently. | [ ] | [ ] |
+| I believe that User Defaults is used to save text data only Âwhen quick access to said data is required. | [ ] | [ ] |
+| I believe that CoreData can be used to save relational data on a local device. | [ ] | [ ] |
+| I believe that CoreData runs on SQLite Engine in the background. | [ ] | [ ] |
