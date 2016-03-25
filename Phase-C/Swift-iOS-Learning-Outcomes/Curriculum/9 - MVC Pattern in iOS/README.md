@@ -9,6 +9,7 @@ Outputs
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
 1.  Create a model highlighting fields that represent a user object, mapped to a persistent data store (NSKeyedArchiver or Core Data).
+2. Create a ViewController with is Script and UI Component (in the Storyboard)
 
 
 ## Knowledge
@@ -33,9 +34,15 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
+| **Context:** Before I build a application, **Action:** I separate the application's component into a Model, a View, and a Controller. | [ ] | [ ] |
+| **Context:** While building an application, **Action:** The logic and behavior of the application will be created in its Controllers | [ ] | [ ] |
+| **Context:** When I access or manipulate data, **Action:** I will create a Model that assumes the structure of data I'd like to modify, and carries out all the operations of that data. | [ ] | [ ] |
+| **Context:** While styling an application, **Action:** I'll make or the adjustments of the UI Elements in a View, belonging to a Storyboard. | [ ] | [ ] |
 
 
 ## Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
+| I believe that a well structured application should consist of a Model, a View and a Controller all playing their appropriate roles. | [ ] | [ ] |
+| I believe that using the MVC Pattern by separation of concerns makes the application easy to manage and scale | [ ] | [ ] |
