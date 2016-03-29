@@ -12,6 +12,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 1. Create an iOS Project, add UI Elements to its View Controller, each UI Element to linked to their Outlets and Actions as required.
 
+2. Create an iOS project with a View Controller (with UI Elements) and a Controller. Add Constraints in the UI Elements so they have the same positions across all Apple mobile devices (3.5” - 5.5”).
+
 ## Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
