@@ -112,7 +112,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** Before the presentation... **Actions:** I... (see below) | [ ] | [ ] |
 | - Ensure I have sufficient content knowledge by researching the topic | [ ] | [ ] |
 | - If applicable, create any visual aids (e.g. powerpoint) and ensure visual  aids are ready for display by the time of the presentation | [ ] | [ ] |
-| - Ask if there’s a theme for the event and do a quick evaluation on how my | topic fits in and adjust my message if necessary  | [ ] | [ ] |
+| - Ask if there’s a theme for the event and do a quick evaluation on how my topic fits in and adjust my message if necessary  | [ ] | [ ] |
 | - Clearly identify my desired outcomes for the presentation. *Examples:* | [ ] | [ ] |
 | -- Persuade the audience to make a decision | [ ] | [ ] |
 | -- Inform the audience of progress on a complex project | [ ] | [ ] |
@@ -122,8 +122,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | | | |
 | **Context:** At the start of the presentation... **Actions:** I... (see below) | [ ] | [ ] |
 | - Ensure that I’m aware of the other speakers and if any i.e Who went before me, Who’s going after me and on which topics? | [ ] | [ ] |
-| - Get a rough estimate of how many people will be in the audience to project | as needed | [ ] | [ ] |
-| - Check if everyone in the room can hear me, by asking “Can everyone hear | me” and project my voice as needed | [ ] | [ ] |
+| - Get a rough estimate of how many people will be in the audience to project as needed | [ ] | [ ] |
+| - Check if everyone in the room can hear me, by asking “Can everyone hear me” and project my voice as needed | [ ] | [ ] |
 | - Start with an inspirational note on the topic of my presentation | [ ] | [ ] |
 | - Ensure that I’m using the right body language. *Examples:*  | [ ] | [ ] |
 | -- Turning towards the audience  | [ ] | [ ] |
@@ -132,7 +132,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | | | |
 | **Context:** During the presentation... **Actions:** I... (see below) | [ ] | [ ] |
 | - If applicable, reference visual aids when necessary to highlight key points and promote organization of content delivery | [ ] | [ ] |
-| - Periodically (every 1 to 3 minutes) do a mental check of my body language | to ensure I am engaging with audience | [ ] | [ ] |
+| - Periodically (every 1 to 3 minutes) do a mental check of my body language to ensure I am engaging with audience | [ ] | [ ] |
 | | | |
 | **Context:** At the end of the presentation... **Actions:** I... (see below) | [ ] | [ ] |
 | - Summarize the main points of my message  | [ ] | [ ] |
