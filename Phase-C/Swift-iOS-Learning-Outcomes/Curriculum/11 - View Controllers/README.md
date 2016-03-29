@@ -27,8 +27,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to split your View Controllers into tabs, **Action:** I’ll employ the use  of a Tab Bar Controller | [ ] | [ ] |
-| **Context:** When I need to automate to and fro navigation between View Controllers, **Action:** I employ the use of the Navigation Controller. | [ ] | [ ] |
+| **Context:** When I need to split your View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I’ll employ the use  of a Tab Bar Controller | [ ] | [ ] |
+| **Context:** When I need to automate the to and fro navigation between View Controllers using a `UINavigationBar`, **Action:** I employ the use of the Navigation Controller. | [ ] | [ ] |
 | **Context:** When I need a page that should contain just a table, **Action:** I should make use of a Table View Controller. | [ ] | [ ] |
 | **Context:** When I need a collection of items in my app to fill a page, **Action:** the page should be created as a Collection View Controller. | [ ] | [ ] |
 
@@ -37,5 +37,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that the various View Controllers are abstractions of the `UIViewController` with added custom Behaviors. | [ ] | [ ] |
-| I believe that the Table View Controller and Collection View Controllers should contain a monolith element / template that’s repeated. | [ ] | [ ] |
+| I believe that the various View Controllers are abstractions of the `UIViewController` class, with some added Behaviors. | [ ] | [ ] |
+| I believe that the `TableViewController` and `CollectionViewController` should contain a monolith element(s) / template(s) that can repeated. | [ ] | [ ] |
+| I believe that the Navigation, Tab View Controllers, the Page View Controllers are used to simplify creation of tabs and pages to achieve the akin User Experience. | [ ] | [ ] |
