@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What elements can be added to a View Controller (in the Scene)? | [ ] | [ ] |
 | How to switch View Controllers non-programmatically? (Segues) | [ ] | [ ] |
 | In what circumstances do you embed View Controllers in Navigation and Tab Bar Controllers? | [ ] | [ ] |
-| What are the other abstractions of the `UIViewController` (Page, Table, Collection etc)? | [ ] | [ ] |
+| What are the other forms of the `UIViewController` (Page, Table, Collection etc)? | [ ] | [ ] |
 
 
 ## Behaviors
