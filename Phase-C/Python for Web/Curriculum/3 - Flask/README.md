@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How to create view functions for Flask routes | [ ] | [ ] |
 | How to render templates | [ ] | [ ] |
 | How to access request data | [ ] | [ ] |
-| How to send response | [ ] | [ ] |
+| How to send response to the client | [ ] | [ ] |
 
 
 
@@ -41,8 +41,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working with an API... **Action:** I always read the documentation extensively to get familiar with the different endpoints and corresponding parameters | [ ] | [ ] |
-| **Context:** When testing with an API... **Action:** I make use of [POSTMAN](https://www.getpostman.com/) or [Httpie](https://github.com/jkbrzt/httpie) | [ ] | [ ] |
+| **Context:** When creating a flask application... **Action:** I always read the documentation extensively to get familiar with the different endpoints and corresponding parameters | [ ] | [ ] |
 
 
 
