@@ -22,6 +22,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | In what circumstances do you embed View Controllers in Navigation and Tab Bar Controllers? | [ ] | [ ] |
 | What are the other forms of the `UIViewController` (Page, Table, Collection etc)? | [ ] | [ ] |
 
+------
 
 ## Behaviors
 
@@ -32,6 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need a page that should contain just a table, **Action:** I should make use of a Table View Controller. | [ ] | [ ] |
 | **Context:** When I need a collection of items in my app to fill a page, **Action:** the page should be created as a Collection View Controller. | [ ] | [ ] |
 
+------
 
 ## Beliefs
 
