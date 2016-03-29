@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How to switch View Controllers non-programmatically? (Segues) | [ ] | [ ] |
 | In what circumstances do you embed View Controllers in Navigation and Tab Bar Controllers? | [ ] | [ ] |
 | What are the other forms of the `UIViewController` (Page, Table, Collection etc)? | [ ] | [ ] |
+| How do I link my View Controller in the Scene, to a custom View Controller class I have created? | [ ] | [ ] |
 
 ------
 
@@ -32,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to automate the to and fro navigation between View Controllers using a `UINavigationBar`, **Action:** I employ the use of the Navigation Controller. | [ ] | [ ] |
 | **Context:** When I need a page that should contain just a table, **Action:** I should make use of a Table View Controller. | [ ] | [ ] |
 | **Context:** When I need a collection of items in my app to fill a page, **Action:** the page should be created as a Collection View Controller. | [ ] | [ ] |
-
+| **Context:** When I need to add code functionality to my View Controller Scene, **Action:** I create a script with a class that implements the View Controllers' class and reference it in the Scene | [ ] | [ ] |
 ------
 
 ## Beliefs
