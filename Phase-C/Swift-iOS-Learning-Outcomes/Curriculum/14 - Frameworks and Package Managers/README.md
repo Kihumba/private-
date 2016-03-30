@@ -7,6 +7,8 @@ Frameworks give you access to methods and procedures that have been developed by
 Package Managers, provide a structure to control the Frameworks that are installed and / or used in your application.
 
 -------
+
+## Outputs
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
 1. Install CocoaPod Package Manager, and install the `AlamoFire` Framework, Use AlamoFire to make a request to GitHub API (fetching the repos of a said user) and embed the result into a table list.
