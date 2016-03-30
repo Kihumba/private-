@@ -43,4 +43,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I believe that the _will_ Lifecycle functions are called before the _did_ Lifecycle functions in iOS | [ ] | [ ] |
-| I belive that overriding the Lifecycle functions, gives me the flexibility to control to the detail, the user experience presented by my application. | [ ] | [ ] |
+| I believe that overriding the Lifecycle functions, gives me the flexibility to control to the detail, the user experience presented by my application. | [ ] | [ ] |
