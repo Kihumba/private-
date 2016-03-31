@@ -2,10 +2,12 @@
 
 Skill Description
 ----------
-
+Sessions and cookies are very important when building a web application. This outcome touches on how to create sessions and cookies using rails and their importance.
 
 Outputs
 ----------
+1. In checkpoint 2 and simulation project, appropriately make use of sessions and cookies.
+2. Write a blog post on session hijacking and how to curb it.
 
 
 ----------
@@ -14,7 +16,21 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is version control? Our definition of version control versus leaving it to the bootcamper to find out what it is. | [ ] | [ ]  |
+| What are sessions? | [ ] | [ ]  |
+| What are cookies? | [ ] | [ ]  |
+| How is the session "hash" different from the cookies "hash"? | [ ] | [ ]  |
+| Session hijacking: | | |
+| What do we mean by session hijacking? | [ ] | [ ]  |
+| How can we prevent session hijacking? | [ ] | [ ]  |
+| How are sessions and cookies related? | [ ] | [ ]  |
+| How do we store session? | [ ] | [ ]  |
+| Merits and demerits of storing session data on the client side and storing it on the server side. | [ ] | [ ]  |
+| Merits and demerits of storing session data using cache versus a database. | [ ] | [ ]  |
+| How does session work in rails? | [ ] | [ ]  |
+| How do we configure session options? | [ ] | [ ]  |
+| How do we set and read sessions and cookies data? | [ ] | [ ]  |
+| Relationship between sessions and flash messages. | [ ] | [ ]  |
+| Relationship between cookies session store and secret key base. | [ ] | [ ]  |
 
 
 ----------
@@ -22,9 +38,13 @@ Outputs
 
 ## **Behaviors**
 
+
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** Whenever I’m setting up Git on a new machine... **Action:** I ensure I've setup my SSH keys. | [ ] | [ ]  |
+| **Context:** When working with data that will persist throughout an application, **Action:** I use sessions. | [ ] | [ ]  |
+| **Context:** When working with sessions, **Action:** I always store session data on the server side for security reason. | [ ] | [ ]  |
+| **Context:** When building a rails application, **Action:** I store minimal data in sessions or cookies to improve efficiency and speed. | [ ] | [ ]  |
+| **Context:** When building a rails application, **Action:** I do not store sensitive data in cookies/sessions to reduce the effect of session hijacking. | [ ] | [ ]  |
 
 
 ----------
@@ -35,4 +55,7 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that branching creates a safe space to try new things when I’m implementing a new feature. | [ ] | [ ]  |
+| I  believe that session hijacking is real. | [ ] | [ ]  |
+| I believe that sessions and cookies are very vital to web applications. | [ ] | [ ]  |
+| I believe that I can speed up my application by making good use of sessions. | [ ] | [ ]  |
+| I believe that my secret key base should never be made public. | [ ] | [ ]  |
