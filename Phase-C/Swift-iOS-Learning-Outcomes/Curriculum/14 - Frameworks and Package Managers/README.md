@@ -1,20 +1,19 @@
 # Outcome 14 - Frameworks and Package Managers
 
-Skill Description
------
+## Skill Description
+
 Frameworks give you access to methods and procedures that have been developed by open-source contributor, operating in efficiency, helping you eliminate the stress of developing these procedures yourself. A lot of Frameworks exists that can help you complete some operations that are ubiquitous, a good example will be 3rd party authentication, which most app employ.
 
 Package Managers, provide a structure to control the Frameworks that are installed and / or used in your application.
 
--------
-
-## Outputs
+## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Install CocoaPod Package Manager, and install the `AlamoFire` Framework, Use AlamoFire to make a request to GitHub API (fetching the repos of a said user) and embed the result into a table list.
+- Install CocoaPod Package Manager, and install the `AlamoFire` Framework, Use AlamoFire to make a request to GitHub API (fetching the repos of a said user) and embed the result into a table list.
 
 
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -28,7 +27,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -38,7 +37,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** Before I use an iOS SDK Framework, **Action:** I add and reference them in the _Linked Frameworks and Libraries_ section under the _General Tab_ in the Project's Properties. | [ ] | [ ] |
 ------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

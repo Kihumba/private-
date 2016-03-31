@@ -1,20 +1,19 @@
 # Outcome 12 - Views and  Constraints
+## Skill Description
 
-Skill Description
------
 The _Views_ are the UI Elements you add to your app. All the UI Elements in iOS are implementations of the `UIView` class, which contain all the basic UI properties like _size_, _backgroundColor_, _alpha_ etc.
 
 _Constraints_ are rules that bind the Views to the positions they occupy on the Screen of the mobile device. The Constraints help arrange or lock the elements, so there are no glitches when the app is deployed on various devices with different screen sizes and orientations.
 
-Outputs
--------
+## Output
+
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Create an iOS Project, add UI Elements to its View Controller, each UI Element to linked to their Outlets and Actions as required.
+- Create an iOS Project, add UI Elements to its View Controller, each UI Element to linked to their Outlets and Actions as required.
+- Create an iOS project with a View Controller (with UI Elements) and a Controller. Add Constraints in the UI Elements so they have the same positions across all Apple mobile devices (3.5” - 5.5”).
 
-2. Create an iOS project with a View Controller (with UI Elements) and a Controller. Add Constraints in the UI Elements so they have the same positions across all Apple mobile devices (3.5” - 5.5”).
-
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -34,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -44,7 +43,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

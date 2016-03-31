@@ -1,15 +1,15 @@
 # Outcome 8 - Persisting Data
-Skill Description
------
+## Skill Description
+
 In real life applications, data is received and sent over-the-air (OTA) following the CRUD pattern (Create, Read, Update and Delete). More often than none, data will need to be accessed offline, data that might affect the way requests are made to the server or data thats written and read frequently. This Skill covers the methods available in iOS that can be used to persist data on a mobile device.
 
-Outputs
--------
+## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. An iOS Project is to be created which includes CoreData in the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults, NSKeyedArchiver and CoreData.
+- An iOS Project is to be created which includes CoreData in the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults, NSKeyedArchiver and CoreData.
 
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -23,8 +23,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What query structure is employed in the various Data storage systems?  | [ ] | [ ] |
 | What are the storage limits of the Data storage systems? | [ ] | [ ] |
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -34,8 +35,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to save non-relational data, **Action:** I can use NSKeyedArchiver or the User Defaults. | [ ] | [ ] |
 | **Context:** When saving key-value data or data that is relatively small, **Action:** I make use of User Defaults. | [ ] | [ ] |
 
+-------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

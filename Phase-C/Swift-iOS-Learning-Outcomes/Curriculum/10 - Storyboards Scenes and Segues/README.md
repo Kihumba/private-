@@ -1,19 +1,18 @@
 # Outcome 10 - Storyboards, Scenes and Segues
+## Skill Description
 
-Skill Description
------
 Storyboards are layouts showing the path a user traverses will using your applications. It contains the Scenes and the transitions between the Scenes (Segues).
 
 A scene represents an onscreen content area. A container view controller facilitates navigation and presentation of scenes. Scenes can be connected by relationships or segues
 
-Outputs
--------
+## Output
+
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1.  Create an iOS project containing a Storyboard, add View Controllers (Scenes), Table View Controllers and all other abstractions of the View Controller.
+- Create an iOS project containing a Storyboard, add View Controllers (Scenes), Table View Controllers and all other abstractions of the View Controller.
 
-
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -25,8 +24,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What are Storyboard references used for? | [ ] | [ ] |
 | Controls used to trigger the Segues | [ ] | [ ] |
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -35,8 +35,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** To Transition from one Scene to another, **Action:** I will make use of Segues. | [ ] | [ ] |
 | **Context:** When creating user interactive transitions, **Action:** I create the Segues from the  Control element (e.g button) to the Scene. | [ ] | [ ] |
 
+-------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

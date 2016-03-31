@@ -1,17 +1,18 @@
 # Outcome 3 - Data Types
 
-Skill Description
-------
+## Skill Description
+
 Data types are simply a representation of data in forms that best suite their value. Common types are Strings and Characters, Integers, Floats and Doubles, Booleans, and the collections, in this case Arrays.
 
-Outputs
--------
+## Output
+
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A Swift Playground Application that returns varying outputs based on an input data type. A function with optional arguments will be used. Its arguments will encompass all the common data types.
+- A Swift Playground Application that returns varying outputs based on an input data type. A function with optional arguments will be used. Its arguments will encompass all the common data types.
 
 
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -26,8 +27,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What are optionals in swift? | [ ] | [ ] |
 | How do you force / assert that an Optional has a value? (Unwrapping)? | [ ] | [ ] |
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -38,7 +40,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I create a collection, **Action:**, I add only the same Data type to that collection. | [ ] | [ ] |
 | **Context:** When creating a variable that is allowed to have no value i.e. `nil`, **Action:** I use Optionals, which allows the variable exists as `nil` even after assigning it a value. | [  ] | [ ] |
 
-## Beliefs
+-------
+
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

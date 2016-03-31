@@ -1,36 +1,35 @@
 # Outcome 6 - Testing
-Skill Description
------
+## Skill Description
+
 Testing is a method of assessing the functionality of a software program. This consists of assertions, that compare the application's real outputs with its ideal or expected outputs. Swift comes with an inbuilt testing framework called `XCTest`. To use it in your application, you have to import the namespace to your application, using the `import` keyword. This skill consists of:
 
 - Writing a basic Unit Test
 - Running tests
 - Assertions
 
+## Output
 
-Outputs
--------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. An iOS project with custom Test cases setup. These tests will contain Passing and Failing assertions.
+- An iOS project with custom Test cases setup. These tests will contain Passing and Failing assertions.
+- An iOS project with failing tests cases intended to cover the functions defined.
+- An iOS Project with passing tests to cover the defined functions.
 
-2. An iOS project with failing tests cases intended to cover the functions defined.
-
-3. An iOS Project with passing tests to cover the defined functions.
-
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | What is a unit test? | [ ] | [ ] |
-| How do I write a unit test? | [ ] | | [ ] |
+| How do I write a unit test? | [ ] |  [ ] |
 | What is TDD? Test Driven Development. | [ ] | [ ] |
 | What is the purpose of Testing? | [ ] | [ ] |
 | What are Test Assertions? | [ ] | [ ] |
 | How do pick the right assertion to use? | [ ] | [ ] |
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -39,8 +38,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to build an application, **Action:**  I begin with tests, making the methods abstracted, testable and scalable as independent units (modular). | [ ] | [ ] |
 | **Context:** Before writing  a test, **Action:** I select the assertion that most matches the expectation of the method or value to be tested | [ ] | [ ] |
 
+-------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

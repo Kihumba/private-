@@ -1,16 +1,16 @@
 # Outcome 7 - Multithreading
-Skill Description
------
+## Skill Description
 Keeping your app responsive is easier said than done. Once your app needs to perform more than a handful of tasks, things get complicated quickly. There isn’t much time to perform heavy work in the main run loop and still provide a responsive UI. Such tasks could be delegate to run in the background (new threads), so they don’t affect or slow down the UI interaction of the application.
 
 
-Outputs
--------
+## Outputs
+
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. An iOS project that performs an operation in a background thread before doing the same on the main thread
+- An iOS project that performs an operation in a background thread before doing the same on the main thread
 
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -22,8 +22,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How is _NSOperation_ used? | [ ] | [ ] |
 | How is _NSThread_ used? | [ ] | [ ] |
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -32,7 +33,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to run a method that interacts with the User Interface, **Action:** I run the process on the main queue, which is the UI Thread. | [ ] | [ ] |
 | **Context:** When I need to run two or more processes that consume resources, **Action:** I run them on new threads in parallel. | [ ] | [ ] |
 
-## Beliefs
+-------
+
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

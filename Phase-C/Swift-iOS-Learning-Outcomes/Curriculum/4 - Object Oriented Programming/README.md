@@ -1,22 +1,20 @@
 # Outcome 4 - Object Oriented Programming
 
-Skill Description
-------
+## Skill Description
+
 OOP (Object Oriented Programming) is a programming paradigm where everything is treated as objects, as compared to the real world. The essential properties of OOP are: Abstraction, Polymorphism, Inheritance, Encapsulation.
 
 
-Outputs
--------
+## Output
+
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. In the Swift Playground, create a class that implements / extends the NSObject class.
+- In the Swift Playground, create a class that implements / extends the NSObject class.
+- By default the Playground included the Foundation namespace. Remove the Foundation namespace, take note of what happens. Create a comment under the Foundation import with your note.
+- Extend the `String` class, and add a function that returns an Array of words in a sentence.
 
-2. By default the Playground included the Foundation namespace. Remove the Foundation namespace, take note of what happens. Create a comment under the Foundation import with your note.
-
-3. Extend the `String` class, and add a function that returns an Array of words in a sentence.
-
-
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -32,7 +30,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What is P.O.P? (`protocol`) | [ ] | [ ] |
 | How can I extend the functionality of an already existing class? (`extension`) | [ ] | [ ] |
 
-## Behaviors
+-------
+
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -42,8 +42,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to encapsulate a few relatively simple data values, **Action:** I make use of Structs. | [ ] | [ ] |
 | **Context:** When I need to extend the functionality of an existing Class, to add methods or properties, **Action:** I use the `extension` concept. | [ ] | [ ] |
 
+-------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

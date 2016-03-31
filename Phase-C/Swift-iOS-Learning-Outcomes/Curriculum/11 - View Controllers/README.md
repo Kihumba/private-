@@ -1,17 +1,17 @@
 # Outcome 11 - View Controllers
+## Skill Description
 
-Skill Description
------
 The View Controller is the container in the Scene where all the UI Elements are placed, which include, buttons, text, images and other interactive Elements.
 
-Outputs
--------
+## Output
+
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1.  An iOS project with a View Controller embedded in a Navigation Controller, that navigates 2 controllers deep (excluding the initial View Controller) by clicking buttons.
+- An iOS project with a View Controller embedded in a Navigation Controller, that navigates 2 controllers deep (excluding the initial View Controller) by clicking buttons.
 
 
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -25,7 +25,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to add code functionality to my View Controller Scene, **Action:** I create a script with a class that implements the View Controllers' class and reference it in the Scene | [ ] | [ ] |
 ------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

@@ -1,15 +1,15 @@
 # Outcome 13 - View Controller Lifecycle
+## Skill Description
 
-Skill Description
------
 These consists of methods that iOS automatically calls at appropriate times when a view controller transitions between states. When you create a view controller subclass, it inherits the methods defined in `UIViewController` and lets you add your own custom behavior for each method. It’s important to understand when these methods get called, so you can set up or tear down the views you’re displaying at the appropriate step in the process.
 
--------
+## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Create an iOS project that overrides the four major View Controller Lifecycle function. The dummy view controller should be presented from any parent View Controller. Animations will be rendered right after the Views, a simple key-value shown in the dialog after the view is loaded and before the view is dismissed.
+- Create an iOS project that overrides the four major View Controller Lifecycle function. The dummy view controller should be presented from any parent View Controller. Animations will be rendered right after the Views, a simple key-value shown in the dialog after the view is loaded and before the view is dismissed.
 
-## Knowledge
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

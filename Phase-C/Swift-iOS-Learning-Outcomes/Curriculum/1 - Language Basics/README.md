@@ -1,7 +1,7 @@
 # Outcome 1 - Language Basics
 
-Skill Description
-----------
+## Skill Description
+
 Swift is a modern Object Oriented Programming language similar to Java and Javascript.
 Swift provides its own versions of all fundamental C and Objective-C types, including Int for integers, Double and Float for floating-point values, Bool for Boolean values, and String for textual data. Swift also provides powerful versions of the three primary collection types, Array, Set, and Dictionary.
 
@@ -9,17 +9,17 @@ This outcome targets:
  1. Variables and Constants
  2. Control Flow Statements
 
+## Output
 
-Outputs
-----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A program in Swift Playground that uses variables and constants.
-2. A Playground Project that processes an input and produces a conditioned output.
-3. A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
+- A program in Swift Playground that uses variables and constants.
+- A Playground Project that processes an input and produces a conditioned output.
+- A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
 
+## Objectives
 
-## Knowledge
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -36,8 +36,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What are loops? | [ ] | [ ] |
 | What are the types of Loops? (for, for-in, while) | [ ] | [ ] |  
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -49,7 +50,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I have procedures to run, that depend on a certain input or value, **Action:** I use a conditional expression to cater for the optional procedure to run. | [ ] | [ ] |
 | **Context:** When I have a collection of data to process, **Action:** I use a procedure inside the loop to repeat the operation for each item in the collection. | [ ] | [ ] |
 
-## Beliefs
+-------
+
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

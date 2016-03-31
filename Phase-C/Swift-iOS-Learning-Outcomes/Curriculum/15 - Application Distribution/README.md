@@ -1,22 +1,20 @@
 # Outcome 15 - Application Distribution
+## Skill Description
 
-Skill Description
------
 Application Distribution is the medium used to share your complied application to the public.
 Most applications are hosted on the Apple App Store and are made available to the public or to a certain group of people better testers.
 
-This skill also covers
+This skill covers:
 1. Localization
 2. Regional Distribution
--------
 
-## Outputs
+## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Create an iOS Application with Localization for English, French and German. Text will be rendered from the Storyboard views and programmatically, so as to employ both Localization string files.
+- Create an iOS Application with Localization for English, French and German. Text will be rendered from the Storyboard views and programmatically, so as to employ both Localization string files.
 
 
-## Knowledge
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -32,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -42,7 +40,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** After uploading my application to the Apple App Store, **Action:** I select the Regions (countries) I'd like the application to be available in, or Globally to make it available in all Stores. | [ ] | [ ] |
 ------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|

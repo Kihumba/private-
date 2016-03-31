@@ -1,18 +1,17 @@
 # Outcome 9 - MVC Pattern in iOS
-Skill Description
------
+## Skill Description
 In iOS application design, the MVC Pattern is employed.
 Your services are split into Models, Views and Controllers created independent of each other. The 3 are brought together to form the MVC Pattern that represents your application’s structure, each service performing their functions, depending on each other to provide the resource they need to perform their designation operations.
 
-Outputs
--------
+## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1.  Create a model highlighting fields that represent a user object, mapped to a persistent data store (NSKeyedArchiver or Core Data).
-2. Create a ViewController with is Script and UI Component (in the Storyboard)
+- Create a model highlighting fields that represent a user object, mapped to a persistent data store (NSKeyedArchiver or Core Data).
+- Create a ViewController with is Script and UI Component (in the Storyboard)
 
+## Objectives
 
-## Knowledge
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -29,8 +28,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Creating a model to work with your data store. | [ ] | [ ] |
 | How are models, views and controllers interconnected? | [ ] | [ ] |
 
+-------
 
-## Behaviors
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -39,8 +39,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I access or manipulate data, **Action:** I will create a Model that assumes the structure of data I'd like to modify, and carries out all the operations of that data. | [ ] | [ ] |
 | **Context:** While styling an application, **Action:** I'll make or the adjustments of the UI Elements in a View, belonging to a Storyboard. | [ ] | [ ] |
 
+-------
 
-## Beliefs
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
