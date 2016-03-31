@@ -19,7 +19,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 3. A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
 
 
-
 ## Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
