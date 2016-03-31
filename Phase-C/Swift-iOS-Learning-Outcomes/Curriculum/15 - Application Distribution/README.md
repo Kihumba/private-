@@ -10,8 +10,7 @@ This skill also covers
 2. Regional Distribution
 -------
 
-Outputs
------
+## Outputs
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
 1. Create an iOS Application with Localization for English, French and German. Text will be rendered from the Storyboard views and programmatically, so as to employ both Localization string files.
