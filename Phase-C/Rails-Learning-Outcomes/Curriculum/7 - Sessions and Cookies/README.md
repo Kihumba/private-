@@ -20,8 +20,8 @@ Outputs
 | What are cookies? | [ ] | [ ]  |
 | How is the session "hash" different from the cookies "hash"? | [ ] | [ ]  |
 | Session hijacking: | | |
-| What do we mean by session hijacking? | [ ] | [ ]  |
-| How can we prevent session hijacking? | [ ] | [ ]  |
+| <ul><li> What do we mean by session hijacking? | [ ] | [ ]  |
+| <ul><li> How can we prevent session hijacking? | [ ] | [ ]  |
 | How are sessions and cookies related? | [ ] | [ ]  |
 | How do we store session? | [ ] | [ ]  |
 | Merits and demerits of storing session data on the client side and storing it on the server side. | [ ] | [ ]  |
