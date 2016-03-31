@@ -7,9 +7,9 @@ Rake is a build tool implemented in Ruby. This outcome introduces rake, the comm
 
 Outputs
 ----------
-1. Write a blog post about rake tasks.
-2. Create a single rake task that finds all the models in an application and creates csv files for you to fill in the seed data.
-3. <b>Extension</b>: Create another rake task that reads seed data from the csv files created above and populate the db with the data.
+- Write a blog post about rake tasks.
+- Create a single rake task that finds all the models in an application and creates csv files for you to fill in the seed data.
+- <b>Extension</b>: Create another rake task that reads seed data from the csv files created above and populate the db with the data.
 
 
 ----------
@@ -18,7 +18,7 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is Rake? | [ ] | [ ]  |
+| I can explain what Rake is. | [ ] | [ ]  |
 | I can clearly explain the need for rake. | [ ] | [ ]  |
 | I can describe the following rake tasks: | |  |
 | <ul><li> rake db:create | [ ] | [ ]  |
@@ -33,12 +33,12 @@ Outputs
 | <ul><li> rake rollback | [ ] | [ ]  |
 | <ul><li> rake db:drop | [ ] | [ ]  |
 | <ul><li> rake --task | [ ] | [ ]  |
-| Custom rake tasks: | | |
+| I understand the importance of custom rake tasks, including: | | |
 | <ul><li> How to create custom rake tasks? | [ ] | [ ]  |
 | <ul><li> When to create rake tasks? | [ ] | [ ]  |
 | <ul><li> How to namespace rake tasks? | [ ] | [ ]  |
-| <ul><li> Why is it important to namespace custom rake tasks? | [ ] | [ ]  |
-| CRON jobs | | |
+| <ul><li> Why it is important to namespace custom rake tasks? | [ ] | [ ]  |
+| I can clearly explain the importance of CRON jobs, including: | | |
 | <ul><li> How to use cron to schedule a rake task? | [ ] | [ ]  |
 | <ul><li> When to use cron jobs? | [ ] | [ ]  |
 
