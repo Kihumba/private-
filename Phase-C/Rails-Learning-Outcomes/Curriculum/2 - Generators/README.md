@@ -16,14 +16,14 @@ In checkpoint and simulation projects, consistently use rails generators to impr
 |:-------------|:------------------:|:--------:|
 | I can clearly explain what generators are. | [ ] | [ ]  |
 | I am familiar with the following commands: | [ ] | [ ]  |
-| rails generate scaffold | [ ] | [ ]  |
-| rails generate model | [ ] | [ ]  |
-| rails generate controller | [ ] | [ ]  |
-| rails generate migration | [ ] | [ ]  |
-| rails generate view | [ ] | [ ]  |
-| rails generate helper | [ ] | [ ]  |
-| rails generate resource | [ ] | [ ]  |
-| rails generate task | [ ] | [ ]  |
+| <ul><li> rails generate scaffold | [ ] | [ ]  |
+| <ul><li>rails generate model | [ ] | [ ]  |
+| <ul><li> rails generate controller | [ ] | [ ]  |
+| <ul><li> rails generate migration | [ ] | [ ]  |
+| <ul><li> rails generate view | [ ] | [ ]  |
+| <ul><li> rails generate helper | [ ] | [ ]  |
+| <ul><li> rails generate resource | [ ] | [ ]  |
+| <ul><li> rails generate task | [ ] | [ ]  |
 | I can create custom generators | [ ] | [ ]  |
 | I can configure generator settings in a rails application | [ ] | [ ]  |
 
