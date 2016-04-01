@@ -56,9 +56,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When making new code changes, **Action:** I monitor for any major metric change. | [ ] | [ ]  |
-| **Context:** When setting up any deployment environment, **Action:** I make sure that various monitoring tools are set up for every service. | [ ] | [ ]  |
+| **Context:** When setting up any deployment environment, **Action:** I make sure that specific monitoring tools are set up for every service e.g. databases, web-server, etc. | [ ] | [ ]  |
 | **Context:** When setting up monitoring tools, **Action:** I identify metrics that will be monitored in real-time and those that will be mined from log data. | [ ] | [ ]  |
-| **Context:** When choosing a logging strategy, **Action:** I consider using SaaS solutions so the logging service does not go down with apps (centralized logs). | [ ] | [ ]  |
+| **Context:** When choosing a logging strategy for a distributed environment, **Action:** I consider keeping the logs on a separate server from the one running the apps so the logging service does not go down with the apps (centralized logs). | [ ] | [ ]  |
 | **Context:** When setting up monitoring for any environment, **Action:** I make sure I set up alerts and notification for critical metrics and events. | [ ] | [ ]  |
 | **Context:** When [TBD]... **Action:** ... | [ ] | [ ]  |
 | **Context:** When [TBD]... **Action:** ... | [ ] | [ ]  |
@@ -70,12 +70,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that monitoring is vital for identifying performance bottlenecks of any system. | [ ] | [ ]  |
-| I believe that proactive monitoring helps solve anticipated problems. | [ ] | [ ]  |
-| I believe that performance is key to a great user experience for any application. | [ ] | [ ]  |
-| I believe that every good monitoring strategy should accompanied with a sound logging solution | [ ] | [ ]  |
-| I believe that, to maintain integrity in monitoring, developer access to the _live server_ should be blocked and they should be directed to the logging app instead. | [ ] | [ ]  |
-| I believe that logs need to be easy to use and understand, otherwise they will be useless. | [ ] | [ ]  |
+| Monitoring is vital for identifying performance bottlenecks of any system. | [ ] | [ ]  |
+| Proactive monitoring helps solve anticipated problems. | [ ] | [ ]  |
+| Performance is key to a great user experience for any application. | [ ] | [ ]  |
+| Every good monitoring strategy should accompanied with a sound logging solution | [ ] | [ ]  |
+| To maintain integrity in monitoring, developer access to the _live server_ should be blocked and they should be directed to the logging app instead. | [ ] | [ ]  |
+| Logs need to be easy to use and understand, otherwise they will be useless. | [ ] | [ ]  |
 
 
 
