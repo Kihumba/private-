@@ -23,20 +23,20 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | What is programming? | [ ] | [ ]  |
 | The basic elements needed in programming: | | |
-| * Programming Environment | [ ] | [ ]  |
-| * Basic Syntax     | [ ] | [ ]  |
-| * Data Types      | [ ] | [ ]  |
-| * Variables      | [ ] | [ ]  |
-| * Keywords | [ ] | [ ]  |
-| * Basic Operators | [ ] | [ ]  |
-| * Decision Making | [ ] | [ ]  |
-| * Loops | [ ] | [ ]  |
-| * Numbers | [ ] | [ ]  |
-| * Characters | [ ] | [ ]  |
-| * Arrays | [ ] | [ ]  |
-| * Strings | [ ] | [ ]  |
-| * Functions | [ ] | [ ]  |
-| * File I/O | [ ] | [ ]  |
+| <ul><li> Programming Environment | [ ] | [ ]  |
+| <ul><li> Basic Syntax     | [ ] | [ ]  |
+| <ul><li> Data Types      | [ ] | [ ]  |
+| <ul><li> Variables      | [ ] | [ ]  |
+| <ul><li> Keywords | [ ] | [ ]  |
+| <ul><li> Basic Operators | [ ] | [ ]  |
+| <ul><li> Decision Making | [ ] | [ ]  |
+| <ul><li> Loops | [ ] | [ ]  |
+| <ul><li> Numbers | [ ] | [ ]  |
+| <ul><li> Characters | [ ] | [ ]  |
+| <ul><li> Arrays | [ ] | [ ]  |
+| <ul><li> Strings | [ ] | [ ]  |
+| <ul><li> Functions | [ ] | [ ]  |
+| <ul><li> File I/O | [ ] | [ ]  |
 | How to write simple Python programs. | [ ] | [ ]  |
 | Understand variables, data types, control structures, functions and modules in Python. | [ ] | [ ]  |
 

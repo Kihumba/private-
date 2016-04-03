@@ -24,34 +24,34 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Definition of HTTP. | [ ] | [ ]  |
 | How HTTP works. | [ ] | [ ]  |
 | Basic HTTP concepts | | |
-| * Verbs    | [ ] | [ ]  |
-| * Status Codes     | [ ] | [ ]  |
-| * Request and Response  | [ ] | [ ]  |
-| Technologies that comprise front-end web development (HTML, CSS, Javascript)    | [ ] | [ ]  |
+| <ul><li> Verbs    | [ ] | [ ]  |
+| <ul><li> Status Codes     | [ ] | [ ]  |
+| <ul><li> Request and Response  | [ ] | [ ]  |
+| Technologies that comprise front-end web development: |||
 | HTML     | | |
-| * How browsers render documents     | [ ] | [ ]  |
-| * Basic HTML Syntax:     | | |
-| 	** HTML Document Structure    | [ ] | [ ] |
-| 	** Common Tags available and what they are used for (title, h1… h6, a, div, table, section, header, p)   | [ ] | [ ] |
-|	** Semantic HTML elements - header, section, article, nav  | [ ] | [ ] |
+| <li> How browsers render documents     | [ ] | [ ]  |
+| <li> Basic HTML Syntax:     | | |
+| <ul><li> HTML Document Structure    | [ ] | [ ] |
+| 	<ul><li> Common Tags available and what they are used for (title, h1… h6, a, div, table, section, header, p)   | [ ] | [ ] |
+|	<ul><li> Semantic HTML elements - header, section, article, nav  | [ ] | [ ] |
 | CSS  | | |
-| * Definition of terms (CSS Property, Property Value, Pseudo Classes, Selectors)  | [ ] | [ ] |
-| * Common CSS properties  | [ ] | [ ] |
-| * Box Layout  | [ ] | [ ] |
-| * CSS Positioning  | [ ] | [ ] |
+| <ul><li> Definition of terms (CSS Property, Property Value, Pseudo Classes, Selectors)  | [ ] | [ ] |
+| <ul><li> Common CSS properties  | [ ] | [ ] |
+| <ul><li> Box Layout  | [ ] | [ ] |
+| <ul><li> CSS Positioning  | [ ] | [ ] |
 | Javascript  | | |
-| * Basic Javascript Syntax. | [ ] | [ ] |
-| * Creating Javascript variables using the var keyword. | [ ] | [ ] |
-| * Javascript data types.  | [ ] | [ ] |
-| * Different operators available in Javascript and what they do.  | [ ] | [ ] |
-| * Control flow syntax in Javascript - if-else, for, while, do-while, switch and how they work.  | [ ] | [ ] |
-| * Javascript function syntax.  | [ ] | [ ] |
+| <ul><li> Basic Javascript Syntax. | [ ] | [ ] |
+| <ul><li> Creating Javascript variables using the var keyword. | [ ] | [ ] |
+| <ul><li> Javascript data types.  | [ ] | [ ] |
+| <ul><li> Different operators available in Javascript and what they do.  | [ ] | [ ] |
+| <ul><li> Control flow syntax in Javascript - if-else, for, while, do-while, switch and how they work.  | [ ] | [ ] |
+| <ul><li> Javascript function syntax.  | [ ] | [ ] |
 | Definition of MVC. | [ ] | [ ] |
 | Identify and understand components of an MVC pattern when structuring a web application: | | |
-| * Models | [ ] | [ ] |
-| * Views | [ ] | [ ] |
-| * Controllers | [ ] | [ ] |
-| * Routes | [ ] | [ ] |
+| <ul><li> Models | [ ] | [ ] |
+| <ul><li> Views | [ ] | [ ] |
+| <ul><li> Controllers | [ ] | [ ] |
+| <ul><li> Routes | [ ] | [ ] |
 
 
 

@@ -27,10 +27,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Identify characteristics of a good software.     | [ ] | [ ]  |
 | Definition of Software development life cycle.  | [ ] | [ ]  |
 | SDLC models:     | | |
-| * Waterfall Model     | [ ] | [ ]  |
-| * Agile Model     | [ ] | [ ]  |
-| * Iterative Model     | [ ] | [ ] |
-| * Spiral Model     | [ ] | [ ] |
+| <ul><li> Waterfall Model     | [ ] | [ ]  |
+| <ul><li> Agile Model     | [ ] | [ ]  |
+| <ul><li> Iterative Model     | [ ] | [ ] |
+| <ul><li> Spiral Model     | [ ] | [ ] |
 | Big bang Model     | [ ] | [ ] |
 | The most commonly used SDLC model.  | [ ] | [ ] |
 

@@ -21,14 +21,14 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | Why is sorting and searching important in Computer science? | [ ] | [ ]  |
 | Search algorithms: | | |
-| * Binary Search | [ ] | [ ]  |
-| * Linear Search    | [ ] | [ ]  |
+| <ul><li> Binary Search | [ ] | [ ]  |
+| <ul><li> Linear Search    | [ ] | [ ]  |
 | Sorting algorithms:     | | |
-| * Insertion sort   | [ ] | [ ]  |
-| * Selection sort     | [ ] | [ ]  |
-| * Bubble sort     | [ ] | [ ]  |
-| * Merge sort     | [ ] | [ ]  |
-| * Quicksort     | [ ] | [ ] |
+| <ul><li> Insertion sort   | [ ] | [ ]  |
+| <ul><li> Selection sort     | [ ] | [ ]  |
+| <ul><li> Bubble sort     | [ ] | [ ]  |
+| <ul><li> Merge sort     | [ ] | [ ]  |
+| <ul><li> Quicksort     | [ ] | [ ] |
 | How to implement sorting and searching algorithms in Python.  | [ ] | [ ]  |
 
 

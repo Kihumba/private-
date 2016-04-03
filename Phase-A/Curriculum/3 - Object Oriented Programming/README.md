@@ -1,4 +1,4 @@
-# Outcome 3 - Object Oriented Programming
+<ul><li> # Outcome 3 - Object Oriented Programming
 
 **Skill Description**
 ----------
@@ -22,13 +22,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | Definition of a class and an object. | [ ] | [ ]  |
 | Definition of common OOP principles and concepts: | | |
-| * Inheritance | [ ] | [ ]  |
-| * Encapsulation    | [ ] | [ ]  |
-| * Polymorphism      | [ ] | [ ]  |
-| * Constructor      | [ ] | [ ]  |
-| * Destructor | [ ] | [ ]  |
-| * Instance Variables | [ ] | [ ]  |
-| * Class and Static methods | [ ] | [ ]  |
+| <ul><li> Inheritance | [ ] | [ ]  |
+| <ul><li> Encapsulation    | [ ] | [ ]  |
+| <ul><li> Polymorphism      | [ ] | [ ]  |
+| <ul><li> Constructor      | [ ] | [ ]  |
+| <ul><li> Destructor | [ ] | [ ]  |
+| <ul><li> Instance Variables | [ ] | [ ]  |
+| <ul><li> Class and Static methods | [ ] | [ ]  |
 | Implement the above OOP concepts using Python. | [ ] | [ ]  |
 | Using OOP to write DRY code. | [ ] | [ ]  |
 | Give examples of where OOP can be successfully applied. | [ ] | [ ]  |

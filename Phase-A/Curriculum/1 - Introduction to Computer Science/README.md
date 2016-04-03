@@ -27,12 +27,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | State the differences between a programmer and a computer scientist|   [ ]   |   [ ] |
 | WWho |   [ ]   |   [ ] |
 | The basics / overview of important computer science concepts: | | |
-| * Algorithm | [ ] | [ ]  |
-| * Programming     | [ ] | [ ]  |
-| * Data structures      | [ ] | [ ]  |
-| * Artificial Intelligence      | [ ] | [ ]  |
-| * Computer security | [ ] | [ ]  |
-| * Big Data | [ ] | [ ]  |
+| <ul><li> Algorithm | [ ] | [ ]  |
+| <ul><li> Programming     | [ ] | [ ]  |
+| <ul><li> Data structures      | [ ] | [ ]  |
+| <ul><li> Artificial Intelligence      | [ ] | [ ]  |
+| <ul><li> Computer security | [ ] | [ ]  |
+| <ul><li> Big Data | [ ] | [ ]  |
 
 
 	
