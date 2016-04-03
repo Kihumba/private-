@@ -44,7 +44,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When doing OOP data modelling **Action:** I identify the objects, their properties and their behaviours. | [ ] | [ ]  |
+| **Context:** When creating model classes, **Action:** I properly represent the objects and behaviors of the class. | [ ] | [ ]  |
 | **Context:** When modelling an object **Action:** I define my attributes as variables and behaviour as methods within my class. |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modelling **Action:** I strive to ensure my code is DRY by building reusable components. |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modelling **Action:** I take advantage of Inheritance to ensure I am reusing code as much as possible. |   [ ]   |   [ ]  |
