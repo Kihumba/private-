@@ -1,4 +1,4 @@
-<ul><li> # Outcome 3 - Object Oriented Programming
+# Outcome 3 - Object Oriented Programming
 
 **Skill Description**
 ----------
