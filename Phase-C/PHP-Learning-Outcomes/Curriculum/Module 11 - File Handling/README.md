@@ -54,7 +54,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building an application with PHP.. **Action:**  I can use inbuilt functions like file_get_contents to read contents from a file.| [ ] | [ ]  |
+| **Context:** When building an application with PHP.. **Action:**  I will use inbuilt functions like file_get_contents to read contents from a file.| [ ] | [ ]  |
 | **Context:** When Interacting with directories within my PHP program.. **Action:**  I use DirectoryIterator and RecursiveDirectoryIterator classes| [ ] | [ ]  |
 
 
