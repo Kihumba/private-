@@ -65,8 +65,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want a collection of methods, properties or attributes that I need to re-use.. **Action:**  I will create a Class that contains this methods and attributes, and create instances of that Class when I need to.| [ ] | [ ]  |
-| **Context:**  When I need to create a Class that that needs some existing behaviours already present in another Class...**Action:**I will create a Class that inherits these behaviours from another Class.|   [ ]   |   [ ] |
+| **Context:** When I want to reuse a collection of methods, properties or attributes... **Action:**  I will create an instance of a class that contains those collections when needed. | [ ] | [ ]  |
+| **Context:**  When I need to create a class that needs some existing behaviors already present in another class...**Action:** I will create a class that inherits these behaviors.|   [ ]   |   [ ] |
 | **Context:** When I need to access classes, function and variables... **Action:**  I will import the encapsulating namespace and reference them accordingly. |   [ ]   |   [ ] |
 
 
