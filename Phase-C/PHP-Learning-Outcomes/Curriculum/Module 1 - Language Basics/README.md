@@ -1,14 +1,14 @@
 # Module 1: PHP Language Basics - KBBs
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand control flow and structure.
-- Understand the various primitive data types in PHP.
-- Understand how operators work.
-- Understand Functions.
-- Understand Variables and Constants.
-- Understand Language Constructs and Coding Standards.
-- Understand try-catch and finally statement in PHP to handle exceptions.
-- Understand Super Global Variables in PHP.
+- Control flow and structure.
+- The various primitive data types in PHP.
+- Operators.
+- Functions.
+- Variables and Constants.
+- Language Constructs and Coding Standards.
+- Try-catch and finally statement in PHP to handle exceptions.
+- Super Global Variables in PHP.
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for PHP Language Basics
 
@@ -62,7 +62,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to define variables or constants... **Action:** I use names that are descriptive of what the variables or constants contain.| [ ] | [ ]  |
-| **Context:** When I need to run a collection of procedures that shoul run from top to bottom... **Action:** I will make use of functions when I need to run. |   [ ]   |   [ ] |
+| **Context:** When I need to run a collection of procedures that should run from top to bottom... **Action:** I will make use of functions when I need to run. |   [ ]   |   [ ] |
 | **Context:** When I have procedures to run, that depend on a certain input or value... **Action:** I will use a conditional expression to cater for the optional procedure to run. |   [ ]   |   [ ] |
 | **Context:** When I have to loop through a collection of data, where some elements don’t need alteration... **Action:** I will use break and continue to cater for such process.|   [ ]   |   [ ] |
 | **Context:**  When I need to create, reference or manipulate data... **Action:** I will just assign the value to a variable and let PHP automatically detect the type. |   [ ]   |   [ ] |
@@ -80,9 +80,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that I can make use of superglobal variables when I need to pass data from one file to another without losing state.  | [ ] | [ ]  |
-| I believe that I can make use of superglobal variables when making various web requests such as GET or POST.|   [ ]   |   [ ] |
-| I believe that knowing how to use the available operators in PHP will allow me perform better computations.|   [ ]   |   [ ] |
-| I believe I can use conditional statements to express optional procedures based off an input or value that should affect the output of a process.|   [ ]   |   [ ] |
-| I believe that I can make use of functions when I need to run procedures, from top to bottom without any implied interruptions.|   [ ]   |   [ ] |
-| I believe that using variables and constants appropriately will make my programs more efficient and readable.|   [ ]   |   [ ] |
+| I can make use of superglobal variables when I need to pass data from one file to another without losing state.  | [ ] | [ ]  |
+| I can make use of superglobal variables when making various web requests such as GET or POST.|   [ ]   |   [ ] |
+| Knowing how to use the available operators in PHP will allow me perform better computations.|   [ ]   |   [ ] |
+| I can use conditional statements to express optional procedures based off an input or value that should affect the output of a process.|   [ ]   |   [ ] |
+| I can make use of functions when I need to run procedures, from top to bottom without any implied interruptions.|   [ ]   |   [ ] |
+| Using variables and constants appropriately will make my programs more efficient and readable.|   [ ]   |   [ ] |
