@@ -52,7 +52,7 @@ When working on checkpoint 2, your rails application should:
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building a rails application... **Action:** I use Gemfile to manage my application's gem dependencies. | [ ] | [ ]  |
+| **Context:** When adding gems to my application... **Action:** I use Gemfile to manage my application's gem dependencies. | [ ] | [ ]  |
 | **Context:** When building a rails application... **Action:** I place each application file in their appropriate directory.E.g. I place model files in app/models directory.| [ ] | [ ]  |
 
 
@@ -64,6 +64,6 @@ When working on checkpoint 2, your rails application should:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that it easy to get up and running with rails. | [ ] | [ ]  |
-| I believe that I can quickly build/deploy an application using the rails framework. | [ ] | [ ]  |
-| I believe that rails is magical. | [ ] | [ ]  |
+| It easy to get up and running with rails. | [ ] | [ ]  |
+| I can quickly build/deploy an application using the rails framework. | [ ] | [ ]  |
+| The magical nature of rails enables me to do more with less code. | [ ] | [ ]  |

@@ -67,6 +67,6 @@ In checkpoint 2 and simulation project:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can build a scalable application by appropriately using routes. | [ ] | [ ]  |
-| I believe I can dry up links using route helper methods. | [ ] | [ ]  |
-| I believe I can do more with less using resources and nested resources. | [ ] | [ ]  |
+| I can build a scalable application by appropriately using routes. | [ ] | [ ]  |
+| I can dry up links using route helper methods. | [ ] | [ ]  |
+| I can do more with less using resources and nested resources. | [ ] | [ ]  |

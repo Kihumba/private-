@@ -55,7 +55,7 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I  believe that session hijacking is real. | [ ] | [ ]  |
-| I believe that sessions and cookies are very vital to web applications. | [ ] | [ ]  |
-| I believe that I can speed up my application by making good use of sessions. | [ ] | [ ]  |
-| I believe that my secret key base should never be made public. | [ ] | [ ]  |
+| Session hijacking is real. | [ ] | [ ]  |
+| Sessions and cookies are very vital to web applications. | [ ] | [ ]  |
+| I can speed up my application by making good use of sessions. | [ ] | [ ]  |
+| My secret key base should never be made public | [ ] | [ ]  |

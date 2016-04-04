@@ -67,6 +67,6 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe rake tasks are easy to create and use. | [ ] | [ ]  |
-| I believe using rake tasks help improve development speed. | [ ] | [ ]  |
-| I believe there is value in namespacing rake tasks. | [ ] | [ ]  |
+| Rake tasks are easy to create and use. | [ ] | [ ]  |
+| Rake tasks help improve development speed. | [ ] | [ ]  |
+| There is value in namespacing rake tasks. | [ ] | [ ]  |

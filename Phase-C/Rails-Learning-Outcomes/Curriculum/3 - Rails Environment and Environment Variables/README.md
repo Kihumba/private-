@@ -37,6 +37,9 @@ In checkpoint and simulation projects,
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When adding a gem in the Gemfile... **Action:** I add the gem to the appropriate group/environment. | [ ] | [ ]  |
+| **Context:** When running tests for a rails application... **Action:** I set the application to use rails test environment. | [ ] | [ ]  |
+| **Context:** When developing a rails application locally... **Action:** I set the application to use rails development environment. | [ ] | [ ]  |
+| **Context:** When deploying a rails application... **Action:** I set the application to use rails production environment. | [ ] | [ ]  |
 | **Context:** When building out a rails application... **Action:** I use different settings for different environments. | [ ] | [ ]  |
 | **Context:** When using sensitive configurations data in a rails application... **Action:** I use environment variables to store the data. | [ ] | [ ]  |
 | **Context:** When working with environment variables... **Action:** I use figaro gem to manage the environment variables. | [ ] | [ ]  |
@@ -50,6 +53,6 @@ In checkpoint and simulation projects,
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe all sensitive configurations data should be stored using environment variables. | [ ] | [ ]  |
-| I believe using environment variables improves application security. | [ ] | [ ]  |
-| I believe using different rails environments improves deployment workflow. | [ ] | [ ]  |
+| All sensitive configurations data should be stored using environment variables. | [ ] | [ ]  |
+| Environment variables makes it easier to configure application settings. | [ ] | [ ]  |
+| The whole goal of having multiple environments is to reduce the rework of reconfiguring settings each time you want to deploy or test your application. | [ ] | [ ]  |

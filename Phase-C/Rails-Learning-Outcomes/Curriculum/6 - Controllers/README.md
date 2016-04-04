@@ -63,6 +63,6 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that controllers should be slim. | [ ] | [ ]  |
-| I believe that controllers are the backbone of a rails application. | [ ] | [ ]  |
-| I believe in using strong parameters to whitelist user data. | [ ] | [ ]  |
+| Controllers should be slim. | [ ] | [ ]  |
+| Controllers are the backbone of a rails application. | [ ] | [ ]  |
+| It pays to use strong parameters to whitelist user data. | [ ] | [ ]  |
