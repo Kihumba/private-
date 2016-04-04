@@ -53,7 +53,7 @@ In checkpoint 2 and simulation project:
 | **Context:** When building a rails application... **Action:** I specify routes for the application. | [ ] | [ ]  |
 | **Context:** When I need to create all seven restful route for a resource... **Action:** I use the `resources` method. | [ ] | [ ]  |
 | **Context:** When adding links to my views... **Action:** I use route helper methods as against adding the raw link. | [ ] | [ ]  |
-| **Context:** When building a rails application... **Action:** I always specify a `root` route. | [ ] | [ ]  |
+| **Context:** When defining routes for an application... **Action:** I always specify a `root` route. | [ ] | [ ]  |
 | **Context:** When I want to know the different routes supported by my application... **Action:** I use the `rake routes` command. | [ ] | [ ]  |
 | **Context:** When auto generated route names are too complex or hard to remember... **Action:** I explicitly name my routes. | [ ] | [ ]  |
 | **Context:** When building out an API... **Action:** I namespace my routes. | [ ] | [ ]  |

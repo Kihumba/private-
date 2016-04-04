@@ -41,10 +41,10 @@ Outputs
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working with data that will persist throughout an application, **Action:** I use sessions. | [ ] | [ ]  |
-| **Context:** When working with sessions, **Action:** I always store session data on the server side for security reason. | [ ] | [ ]  |
-| **Context:** When building a rails application, **Action:** I store minimal data in sessions or cookies to improve efficiency and speed. | [ ] | [ ]  |
-| **Context:** When building a rails application, **Action:** I do not store sensitive data in cookies/sessions to reduce the effect of session hijacking. | [ ] | [ ]  |
+| **Context:** When working with data that will persist throughout an application... **Action:** I use sessions. | [ ] | [ ]  |
+| **Context:** When working with sessions... **Action:** I always store session data on the server side for security reason. | [ ] | [ ]  |
+| **Context:** When working with sessions application... **Action:** I store minimal data in sessions or cookies to improve efficiency and speed. | [ ] | [ ]  |
+| **Context:** When working with sessions in a rails application... **Action:** I do not store sensitive data in cookies/sessions to reduce the effect of session hijacking. | [ ] | [ ]  |
 
 
 ----------
@@ -58,4 +58,5 @@ Outputs
 | Session hijacking is real. | [ ] | [ ]  |
 | Sessions and cookies are very vital to web applications. | [ ] | [ ]  |
 | I can speed up my application by making good use of sessions. | [ ] | [ ]  |
-| My secret key base should never be made public | [ ] | [ ]  |
+| My secret key base should never be made public. | [ ] | [ ]  |
+| I can use sessions and cookies to maintain state across every part of my web applications. | [ ] | [ ]  |

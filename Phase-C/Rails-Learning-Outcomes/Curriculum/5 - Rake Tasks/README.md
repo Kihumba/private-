@@ -51,12 +51,12 @@ Outputs
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working on repetitive tasks, **Action:** I automate the task using rake. | [ ] | [ ]  |
-| **Context:** When I need to run rake tasks at certain intervals, **Action:** I use cron. | [ ] | [ ]  |
-| **Context:** When working on repetitive tasks, **Action:** I create custom rake task if there are no inbuilt rake tasks to handle the task. | [ ] | [ ]  |
-| **Context:** When building a rails application, **Action:** I set the default rake task to the most commonly used task. | [ ] | [ ]  |
-| **Context:** When building a rails application, **Action:** I always use namespaces to organize tasks. | [ ] | [ ]  |
-| **Context:** When creating a custom rake task, **Action:** I use “rails generate task” to set up boilerplate code for the task. | [ ] | [ ]  |
+| **Context:** When working on repetitive tasks... **Action:** I automate the task using rake. | [ ] | [ ]  |
+| **Context:** When I need to run rake tasks at certain intervals... **Action:** I use cron. | [ ] | [ ]  |
+| **Context:** When working on repetitive tasks... **Action:** I create custom rake task if there are no inbuilt rake tasks to handle the task. | [ ] | [ ]  |
+| **Context:** When using rake in a rails application... **Action:** I set the default rake task to the most commonly used task. | [ ] | [ ]  |
+| **Context:** When creating custom rake tasks for a rails application... **Action:** I use namespaces to organize tasks. | [ ] | [ ]  |
+| **Context:** When creating a custom rake task... **Action:** I use “rails generate task” to set up boilerplate code for the task. | [ ] | [ ]  |
 
 
 ----------

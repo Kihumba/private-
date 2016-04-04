@@ -45,13 +45,13 @@ Outputs
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating a controller, **Action:** I follow rails controller naming convention. | [ ] | [ ]  |
-| **Context:** When getting user data from input fields, **Action:** I use strong parameters to whitelist its contents? | [ ] | [ ]  |
-| **Context:** When building a rails application, **Action:**  I make my controllers very slim by delegating tasks to models and other poro classes. | [ ] | [ ]  |
-| **Context:** When sending status messages to the view, **Action:** I use flash objects. | [ ] | [ ]  |
-| **Context:** When I want to render status messages on the same page, **Action:** I use “flash.now” | [ ] | [ ]  |
-| **Context:** When retrieving data passed by a user,  **Action:** I access the params object. | [ ] | [ ]  |
-| **Context:** When I want render status messages, **Action:** I use the appropriate flash keys (i.e error, notice, etc.) | [ ] | [ ]  |
+| **Context:** When creating a controller... **Action:** I follow rails controller naming convention. | [ ] | [ ]  |
+| **Context:** When getting user data from input fields... **Action:** I use strong parameters to whitelist its contents? | [ ] | [ ]  |
+| **Context:** When structuring and refactoring rails controllers... **Action:**  I make my controllers very slim by delegating tasks to models and other poro classes. | [ ] | [ ]  |
+| **Context:** When sending status messages to the view... **Action:** I use flash objects. | [ ] | [ ]  |
+| **Context:** When I want to render status messages on the same page... **Action:** I use “flash.now” | [ ] | [ ]  |
+| **Context:** When retrieving data passed by a user...  **Action:** I access the params object. | [ ] | [ ]  |
+| **Context:** When I want render status messages... **Action:** I use the appropriate flash keys (i.e error, notice, etc.) | [ ] | [ ]  |
 
 
 ----------
