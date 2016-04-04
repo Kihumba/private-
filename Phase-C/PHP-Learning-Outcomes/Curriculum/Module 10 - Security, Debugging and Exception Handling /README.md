@@ -2,12 +2,12 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand commonly encountered security threats and consideration.
-- Understand CSRF(Cross Site Request Forgery) and how to handle it in PHP.
-- Understand SQL Injection and how to prevent it in PHP.
-- Understand how to use die and var_dump as debugging tools in your PHP code.
-- Understand try-catch and finally statement in PHP to handle exceptions.
-- Understand the art of debugging and profiling with XDebug in PHP.
+- Commonly encountered security threats and consideration.
+- CSRF(Cross Site Request Forgery) and how to handle it in PHP.
+- SQL Injection and how to prevent it in PHP.
+- How to use die and var_dump as debugging tools in your PHP code.
+- Try-catch and finally statement in PHP to handle exceptions.
+- The art of debugging and profiling with XDebug in PHP.
 
 
 
@@ -58,11 +58,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can prevent Cross Site Request Forgery in my apps. | [ ] | [ ]  |
-| I believe I can build apps that are resistant to SQL Injection attacks.  |   [ ]   |   [ ] |
-| I believe I can handle all forms of exceptions in my PHP programs. |   [ ]   |   [ ] |
-| I believe I can debug PHP programs more efficiently with XDebug and var_dump |   [ ]   |   [ ] |
-| I believe I can build very secure and functional web applications with PHP|   [ ]   |   [ ] |
+| I can prevent Cross Site Request Forgery in my apps. | [ ] | [ ]  |
+| I can build apps that are resistant to SQL Injection attacks.  |   [ ]   |   [ ] |
+| I can handle all forms of exceptions in my PHP programs. |   [ ]   |   [ ] |
+| I can debug PHP programs more efficiently with XDebug and var_dump |   [ ]   |   [ ] |
+| I can build very secure and functional web applications with PHP|   [ ]   |   [ ] |
 
 
 

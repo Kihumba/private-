@@ -2,22 +2,22 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand how to install and configure the Laravel framework using Composer.
-- Understand the file structure and organisation of components of the Laravel Framework.
-- Understand the concepts of MVC (Model - View - Controllers).
-- Understand Routing and Middleware in Laravel.
-- Understand and use Controllers in Laravel.
-- Understand how to apply HTTP concepts within Laravel including the Request-Response pattern and Form handling.
-- Understand how to render views and templates in Laravel.
-- Understand API Design in Laravel.
-- Understand Authentication using Laravel.
-- Understand Encryption, File Handling, Mail and Helpers in Laravel.
-- Understand Event Handling in Laravel
-- Understand Cron Jobs and Scheduling in Laravel
-- Understand Laravel Migrations, Seeding and working with databases in Laravel.
-- Understand thoroughly how to use the Eloquent ORM to access databases.
-- Understand how to handle and implement Queues in Laravel.
-- Understand how to create and bundle independent packages in Laravel.
+- Installation and configure the Laravel framework using Composer.
+- The file structure and organisation of components of the Laravel Framework.
+- The concepts of MVC (Model - View - Controllers).
+- Routing and Middleware in Laravel.
+- Controllers in Laravel.
+- HTTP concepts within Laravel including the Request-Response pattern and Form handling.
+- Rendering views and templates in Laravel.
+- API Design in Laravel.
+- Authentication using Laravel.
+- Encryption, File Handling, Mail and Helpers in Laravel.
+- Event Handling in Laravel
+- Cron Jobs and Scheduling in Laravel
+- Laravel Migrations, Seeding and working with databases in Laravel.
+- Eloquent ORM to access databases.
+- Handle and implement Queues in Laravel.
+- Create and bundle independent packages in Laravel.
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for Introduction to HTTP Concepts, Forms, Sessions and Web Services.
 
@@ -73,10 +73,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can develop a RESTFUL API with PHP | [ ] | [ ]  |
-| I believe I can use sessions and cookies to maintain state across every part of my web applications.  |   [ ]   |   [ ] |
-| I believe I can process forms with PHP |   [ ]   |   [ ] |
-| I believe I can develop applications faster with MVC frameworks |   [ ]   |   [ ] |
+| I can develop a RESTFUL API with PHP | [ ] | [ ]  |
+| I can use sessions and cookies to maintain state across every part of my web applications.  |   [ ]   |   [ ] |
+| I can process forms with PHP |   [ ]   |   [ ] |
+| I can develop applications faster with MVC frameworks |   [ ]   |   [ ] |
 
 
 

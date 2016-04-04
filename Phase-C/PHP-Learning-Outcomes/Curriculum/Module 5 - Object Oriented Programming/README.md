@@ -2,14 +2,14 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand Object oriented programming concepts, classes and objects.
-- Understand and implement concepts of Inheritance, Polymorphism and Encapsulation, among others, in PHP programming.
-- Understand the concept of Traits, Interfaces and Abstraction in PHP.
-- Understand the concept of type-hinting non-scalar and scalar values in PHP.
-- Understand the concept of Inversion of Control in PHP.
-- Understand the concept of Method overloading using __call() and __callStatic().
-- Understand and use PHP magic methods available to objects and how to use them e.g Getters, Setters and Destructors.
-- Understand Object Serialization in PHP.
+- Object oriented programming concepts, classes and objects.
+- Concepts of Inheritance, Polymorphism and Encapsulation, among others, in PHP programming.
+- The concept of Traits, Interfaces and Abstraction in PHP.
+- The concept of type-hinting non-scalar and scalar values in PHP.
+- The concept of Inversion of Control in PHP.
+- The concept of Method overloading using __call() and __callStatic().
+- PHP magic methods available to objects and their uses e.g Getters, Setters and Destructors.
+- Object Serialization in PHP.
 
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for Callbacks and Closures.
@@ -78,8 +78,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that knowing the essentials of object oriented programming will allow me write well decoupled and reusable code.| [ ] | [ ]  |
-| I believe I can use the concept of Inheritance and Abstraction to avoid writing duplicated  blocks of code. |   [ ]   |   [ ] |
-| I believe every thing in the real world can be modelled in terms of objects interacting with each other. |   [ ]   |   [ ] |
+| Knowing the essentials of object oriented programming will allow me write well decoupled and reusable code.| [ ] | [ ]  |
+| I can use the concept of Inheritance and Abstraction to avoid writing duplicated  blocks of code. |   [ ]   |   [ ] |
+| Every thing in the real world can be modeled in terms of objects interacting with each other. |   [ ]   |   [ ] |
 
 

@@ -2,10 +2,10 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand how to install the PHPUnit package.
-- Understand TDD and how to write unit tests for applications using PHPUnit.
-- Understand the concepts of functional testing and how to implement this using Selenium and PHPUnit.
-- Understand the concepts of Behaviour Driven Development and how to implement this using PHPSpec.
+- Installing the PHPUnit package.
+- TDD and how to write unit tests for applications using PHPUnit.
+- The concepts of functional testing and how to implement this using Selenium and PHPUnit.
+- The concepts of Behavior Driven Development and how to implement this using PHPSpec.
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for PHP Data Structures.
 
@@ -53,8 +53,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can find and fix bugs in the early stage of development by writing tests.| [ ] | [ ]  |
-| I believe I can write modular code that can be easily maintained using the test-driven development approach. |   [ ]   |   [ ] |
-| I believe I can write functional tests for my applications.|   [ ]   |   [ ] |
-| I believe I can use BDD style to write very legible and understandable tests for my programs. |   [ ]   |   [ ] |
+| I can find and fix bugs in the early stage of development by writing tests.| [ ] | [ ]  |
+| I can write modular code that can be easily maintained using the test-driven development approach. |   [ ]   |   [ ] |
+| I can write functional tests for my applications.|   [ ]   |   [ ] |
+| I can use BDD style to write very legible and understandable tests for my programs. |   [ ]   |   [ ] |
 

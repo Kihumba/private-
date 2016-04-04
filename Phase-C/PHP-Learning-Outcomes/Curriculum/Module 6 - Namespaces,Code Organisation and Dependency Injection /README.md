@@ -2,11 +2,11 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand and implement namespacing, aliasing and important and how to implement these principles using the namespace and use keywords.
-- Understand thoroughly how to apply namespacing in Classes, Traits, Interfaces and Object Oriented Code.
-- Understand principles of modular application design.
-- Understand Dependency Injection using Composer and the composer package library Packagist.
-- Understand the concept of PSR-4 and PSR-2 Autoloading.
+- Namespacing and aliasing.
+- Application of namespacing in Classes, Traits, Interfaces and Object Oriented Code.
+- Principles of modular application design.
+- Dependency Injection using Composer and the composer package library Packagist.
+- The concept of PSR-4 and PSR-2 Autoloading.
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for Namespaces, Code Organisation and Dependency Injection.
 
@@ -63,11 +63,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believeI can use Traits to achieve multiple inheritance in PHP| [ ] | [ ]  |
-| I believe I can use composer to manage the reuse of open source code in my PHP program. |   [ ]   |   [ ] |
-| I believe I can use Dependency Injection to write decoupled PHP programs. |   [ ]   |   [ ] |
-| I believe I can write reusable PHP code in form of Packages and make it available to the public by uploading it to Packagist. |   [ ]   |   [ ] |
-| I believe I can use PSR-2 Coding Standard to ensure my program is well-indented, readable and legible. |   [ ]   |   [ ] |
-| I believe I can write a loosely coupled and modular PHP program by adhering to the SOLID principle. |   [ ]   |   [ ] |
+| I can use Traits to achieve multiple inheritance in PHP| [ ] | [ ]  |
+| I can use composer to manage the reuse of open source code in my PHP program. |   [ ]   |   [ ] |
+| I can use Dependency Injection to write decoupled PHP programs. |   [ ]   |   [ ] |
+| I can write reusable PHP code in form of Packages and make it available to the public by uploading it to Packagist. |   [ ]   |   [ ] |
+| I can use PSR-2 Coding Standard to ensure my program is well-indented, readable and legible. |   [ ]   |   [ ] |
+| I can write a loosely coupled and modular PHP program by adhering to the SOLID principle. |   [ ]   |   [ ] |
 
 

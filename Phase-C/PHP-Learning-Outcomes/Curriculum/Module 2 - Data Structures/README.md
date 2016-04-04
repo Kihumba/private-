@@ -1,12 +1,12 @@
 # Module 2: PHP Data Structures - KBBs
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand what arrays are and how to work with them.
-- Understand the different types of array available in PHP and how to traverse them using the foreach function.
+- Arrays and it's workings.
+- The different types of array available in PHP and how to traverse them using the foreach function.
 - Have a thorough understanding of a vast majority of the operations possible with arrays including the list function and array sort functions.
-- Understand the concept of Iterators and Generators in PHP.
-- Understand what the SPL is and how to use SPL functionality.
-- Understand how to use the SPL data structures (Maps, Heaps, Doubly Linked Lists, Fixed Size Arrays, Stacks and Queues)
+- The concept of Iterators and Generators in PHP.
+- SPL functionality.
+- SPL data structures (Maps, Heaps, Doubly Linked Lists, Fixed Size Arrays, Stacks and Queues)
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for PHP Data Structures.
 
@@ -67,8 +67,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can write more efficient PHP programs that saves memory by writing generator functions to deal with large datasets.| [ ] | [ ]  |
-| I believe I can use Iterators to traverse a list of values. |   [ ]   |   [ ] |
-|I believe I can make use of array functions to simplify operations performed on arrays.|   [ ]   |   [ ] |
-| I believe I can make use of arrays as a form of data store. |   [ ]   |   [ ] |
+| I can write more efficient PHP programs that saves memory by writing generator functions to deal with large datasets.| [ ] | [ ]  |
+| I can use Iterators to traverse a list of values. |   [ ]   |   [ ] |
+| I can make use of array functions to simplify operations performed on arrays.|   [ ]   |   [ ] |
+| I can make use of arrays as a form of data store. |   [ ]   |   [ ] |
 

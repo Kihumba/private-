@@ -2,11 +2,11 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understanding of fundamental concepts of HTTP and how the web works (Request-Response Life Cycle).
-- Apply htaccess for URL routing.
-- Understanding Web Service Architecture and how to build RESTful web services using PHP.
-- Understand RESTful API Design using Slim.
-- Understand Server Side Session Handling and Cookies in PHP.
+- Fundamental concepts of HTTP and how the web works (Request-Response Life Cycle).
+- Application of  htaccess for URL routing.
+- Web Service Architecture and building RESTful web services using PHP.
+- RESTful API Design using Slim.
+- Server Side Session Handling and Cookies in PHP.
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for Introduction to HTTP Concepts, Forms, Sessions and Web Services.
 
@@ -57,9 +57,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can develop a RESTFUL API with PHP | [ ] | [ ]  |
-| I believe I can use sessions and cookies to maintain state across every part of my web applications.  |   [ ]   |   [ ] |
-| I believe I can use process forms with PHP |   [ ]   |   [ ] |
+| I can develop a RESTFUL API with PHP | [ ] | [ ]  |
+| I can use sessions and cookies to maintain state across every part of my web applications.  |   [ ]   |   [ ] |
+| I can use process forms with PHP |   [ ]   |   [ ] |
 
 
 

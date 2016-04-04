@@ -2,9 +2,9 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand callbacks and closures in PHP and how to apply them.
-- Understand practical applications of Callables in PHP like in the array_walk() function.
-- Understand how these concepts are applied in modern day PHP frameworks.
+- Callbacks and closures in PHP and their applications.
+- Practical applications of Callables in PHP like in the array_walk() function.
+- Application of callbacks and closures in modern day PHP frameworks.
 
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for Callbacks and Closures.
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I’m writing a program.. **Action:** I can use lambdas when I need to use a function once but I don’t want it to be in the global scope as an argument to another function.| [ ] | [ ]  |
+| **Context:** When I am writing a program.. **Action:** I can use lambdas when I need to use a function once but I don’t want it to be in the global scope as an argument to another function.| [ ] | [ ]  |
 | **Context:**  When I am writing callbacks and Closures in a PHP program...**Action:** I can typehint them with the callback type and Closure class.|   [ ]   |   [ ] |
 | **Context:** When I am writing a PHP program that involves passing functions as arguments... **Action:**  I will use callbacks and Closures to achieve that. |   [ ]   |   [ ] |
 
@@ -49,9 +49,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can use callbacks and closures for functional programming.| [ ] | [ ]  |
-| I believe I can use lambdas and closures where it doesn’t make sense to define named functions. |   [ ]   |   [ ] |
-| I believe I can use closures in place of lambdas to access variables outside the scope of anonymous functions.|   [ ]   |   [ ] |
-| I believe that lambdas can come in handy when building components for a larger system to allow for flexibility for developer use. |   [ ]   |   [ ] |
-| I believe I can use closures as callbacks. |   [ ]   |   [ ] |
+| I can use callbacks and closures for functional programming.| [ ] | [ ]  |
+| I can use lambdas and closures where it does not make sense to define named functions. |   [ ]   |   [ ] |
+| I can use closures in place of lambdas to access variables outside the scope of anonymous functions.|   [ ]   |   [ ] |
+| Lambdas can come in handy when building components for a larger system to allow for flexibility for developer use. |   [ ]   |   [ ] |
+| I can use closures as callbacks. |   [ ]   |   [ ] |
 

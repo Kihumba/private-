@@ -2,9 +2,9 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand basic file operations and how to perform them using PHP - Create a File, Open a File, Close a File, Read a File, Write to a File, Append to a File.
-- Understand basic directory operations using PHP - Open a Directory, Read contents within a directory, Change working directory.
-- Understand more advanced directory operations in PHP using the DirectoryIterator and RecursiveDirectoryIterator classes. Also serves as an introduction to working with SPL Iterator classes.
+- Basic file operations and how to perform them using PHP - Create a File, Open a File, Close a File, Read a File, Write to a File, Append to a File.
+- Basic directory operations using PHP - Open a Directory, Read contents within a directory, Change working directory.
+- More advanced directory operations in PHP using the DirectoryIterator and RecursiveDirectoryIterator classes. Also serves as an introduction to working with SPL Iterator classes.
 
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for File Handling.
@@ -63,10 +63,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can read the contents of a file with PHP | [ ] | [ ]  |
-| I believe I can read the contents of a directory with PHP | [ ] | [ ] |
-| I believe I can perform all sorts of file operations with PHP  |   [ ]   |   [ ] |
-| I believe I can handle a PHP web application that deals with lots of file processing  |   [ ]   |   [ ] |
+| I can read the contents of a file with PHP | [ ] | [ ]  |
+| I can read the contents of a directory with PHP | [ ] | [ ] |
+| I can perform all sorts of file operations with PHP  |   [ ]   |   [ ] |
+| I can handle a PHP web application that deals with lots of file processing  |   [ ]   |   [ ] |
 
 
 

@@ -2,8 +2,8 @@
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand native PHP syntax for connecting to database, querying databases and working with query results using MySQLi (MySQLi).
-- Understand PDO, a database agnostic PHP component, and how to use it to perform more complex database operations like Prepared Statements, Stored Procedures and Transactions.
+- Native PHP syntax for connecting to database, querying databases and working with query results using MySQLi (MySQLi).
+- PDO, a database agnostic PHP component, and how to use it to perform more complex database operations like Prepared Statements, Stored Procedures and Transactions.
 
 The following are the Outputs, Knowledge, Behaviors, and Beliefs for Working with Databases.
 
@@ -49,9 +49,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe I can use PDO to develop a database agnostic PHP application. | [ ] | [ ]  |
-| I believe I can use PHP MYSQLi driver in writing PHP programs that works with only MYSQL database.  |   [ ]   |   [ ] |
-| I believe I can use stored procedures and transactions in improving the efficiency of database calls in my application. |   [ ]   |   [ ] |
+| I can use PDO to develop a database agnostic PHP application. | [ ] | [ ]  |
+| I can use PHP MYSQLi driver in writing PHP programs that works with only MYSQL database.  |   [ ]   |   [ ] |
+| I can use stored procedures and transactions in improving the efficiency of database calls in my application. |   [ ]   |   [ ] |
 
 
 
