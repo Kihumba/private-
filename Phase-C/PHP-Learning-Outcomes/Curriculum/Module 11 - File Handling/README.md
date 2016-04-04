@@ -14,7 +14,11 @@ The following are the Outputs, Knowledge, Behaviors, and Beliefs for File Handli
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A Simple File Manager
+1. A Simple File Manager with these features:
+    a. Show the list of files in a directory
+    b. Create a new file
+    c. Write to a new file
+    d. Delete a particular file
 
 
 ----------
