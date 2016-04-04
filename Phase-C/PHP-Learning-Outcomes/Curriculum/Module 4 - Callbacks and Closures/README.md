@@ -36,8 +36,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am writing a program.. **Action:** I can use lambdas when I need to use a function once but I don’t want it to be in the global scope as an argument to another function.| [ ] | [ ]  |
-| **Context:**  When I am writing callbacks and Closures in a PHP program...**Action:** I can typehint them with the callback type and Closure class.|   [ ]   |   [ ] |
+| **Context:** When I am writing a program.. **Action:** I will use lambdas to pass functions as arguments to other functions. | [ ] | [ ]  |
+| **Context:**  When I am writing callbacks and Closures in a PHP program...**Action:** I will type-hint them with the callback type and Closure class.|   [ ]   |   [ ] |
 | **Context:** When I am writing a PHP program that involves passing functions as arguments... **Action:**  I will use callbacks and Closures to achieve that. |   [ ]   |   [ ] |
 
 
