@@ -9,7 +9,7 @@ Every provider have their own tools to implement scaling but the model/architect
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able following:
+After attaining this skill, and as a demonstration of it, a person should be able to do following:
 
 - Configure _auto-scaling_ on an AWS deployment.
 - Run simulated requests to demonstrate how the deployment performs on varying load.

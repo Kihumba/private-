@@ -7,7 +7,7 @@ Monitoring and analysis application/deployment behavior (trends, anomalies and t
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able following:
+After attaining this skill, and as a demonstration of it, a person should be able to do the following:
 
 - Set up monitoring for a _production_ environment, using appropriate tools for that particular environment. (Preferably the tools should be open-source with no cost implications).
 - Analyze the collected metrics for 5 days and write a comprehensive report with recommendations.
