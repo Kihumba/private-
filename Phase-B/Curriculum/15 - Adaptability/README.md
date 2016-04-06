@@ -8,6 +8,7 @@ The Fellow regularly demonstrates shortcomings in Adaptability (e.g. anxious or 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Trainer observation notes  on Bootcamper response to various change related tasks.
 2. Blog  reflections on change focused improv exercises and Bootcamp events that pose great changes.
 

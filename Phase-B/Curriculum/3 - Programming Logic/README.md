@@ -8,6 +8,7 @@ By the end of Phase B - Bootcamp, aspiring Andelans should be about 20% of the w
 **Outputs**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. At least 5 Easy Hackerrank code katas solved.
 2. At least 2 Medium Hackerrank code katas solved.
 

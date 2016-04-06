@@ -8,6 +8,7 @@ By the end of Phase B - Bootcamp, aspiring Andelans should be about 10% of the w
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Templates/Views for final project built using HTML, CSS and Javascript.
 
 

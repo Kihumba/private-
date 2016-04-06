@@ -9,6 +9,7 @@ The Fellow understands that establishing and strengthening relationships is valu
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. A blog section on
 2. Comprehensive/ informative self introduction
 3. A report on interesting attributes of four fellows and one member of staff a Bootcamper has proactively interacted with within one week

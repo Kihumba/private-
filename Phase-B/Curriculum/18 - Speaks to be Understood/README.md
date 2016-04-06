@@ -8,6 +8,7 @@ The Fellow recognizes how speaking is distinct from being understood. The Fellow
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Trainers observation of Bootcamper speaking during:
   - Class interactions
   - One on One

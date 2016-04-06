@@ -8,6 +8,7 @@ By the end of Phase B - Bootcamp, aspiring Andelans should be about 20% of the w
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Data wrangling assignment that involves consuming a public API using `requests`.
 
 

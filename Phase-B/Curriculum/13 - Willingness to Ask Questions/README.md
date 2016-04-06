@@ -8,6 +8,7 @@ The Fellow regularly demonstrates shortcomings in one or more elements of Willin
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Trainer observation notes on willingness to ask questions
 2. Bootcamper comments and feedback to colleagues  in writing prompts and blogs.
 

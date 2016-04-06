@@ -1,4 +1,4 @@
-# Outcome 2 - Agile Methodology 
+# Outcome 2 - Agile Methodology
 
 **Skill Description**
 ----------
@@ -8,6 +8,7 @@ By the end of Phase B - Bootcamp, aspiring Andelans should be about 30% of the w
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Project plan for Bootcamp final project using standard Scrum framework.
     - An active Trello board for above project
 2. Project plan for a 30 min project class project defined in this document *(Link coming soon)*.

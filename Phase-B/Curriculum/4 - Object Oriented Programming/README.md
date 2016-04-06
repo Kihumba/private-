@@ -8,6 +8,7 @@ By the end of Phase B - Bootcamp, aspiring Andelans should be about 30% of the w
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Object Oriented Programming assignment - Model a real-world problem using OOP taking advantage of Inheritance, Encapsulation, Polymorphism and the other OOP concepts.
 
 

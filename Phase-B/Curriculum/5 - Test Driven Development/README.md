@@ -8,6 +8,7 @@ Outcome - By the end of Phase B - Bootcamp, aspiring Andelans should be about 30
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. 10 test cases for a Factorial/Fibonacci/FizzBuzz function.
 2. 20 test cases for a mid level/advanced code kata.
 

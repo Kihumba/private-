@@ -8,6 +8,7 @@ By the end of Phase B - Bootcamp, aspiring Andelans should be about 30% of the w
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. A blog post on what the HEAD is and how it’s important
 2. A personal repo with commits
 3. A shared repo with commits, conflicts and at least one merge

@@ -8,6 +8,7 @@ The Fellow is able to recognize and describe several important differences betwe
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
 1. Writing prompt
 2. Blog post.
 3. Bootcamp project report.
