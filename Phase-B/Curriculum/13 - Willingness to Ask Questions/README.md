@@ -37,6 +37,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:**  When working with teams or working on projects **Action:** I shyly ask questions majority of which are inconcise. | [ ] |    [ ] |
 | **Context:**  When working with teams or working on projects **Action:** I willingly ask many non detailed and close ended questions and few open ended powerful questions. | [ ] |    [ ] |
 | **Context:**  When interacting with teams or working on projects **Action:** I ask  questions  publicly for the benefit of the group/team. | [ ] |    [ ] |
+|**Context** When I first join the team,**Actions**Engage in the question loop, (see knowledge section) | [ ] |    [ ] |
+|**Context** When I first join the team,**Actions** Identify WHAT  I need to know.| [ ] |    [ ] |
+|**Context** When I first join the team,**Actions** Identify WHERE AND HOW I  can get that info. Examples:| [ ] |    [ ] |
+|**Context** When I first join the team,**Actions** ASK effective questions to the appropriate sourc | [ ] |    [ ] |
 
 ----------
 
