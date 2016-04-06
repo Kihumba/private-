@@ -49,5 +49,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Even well-architected deployment need regular optimization because over time deployments grow organically in ways that you never plan. | [ ] | [ ]  |
 | Performance optimization go hand-in-hand with cost optimization. | [ ] | [ ]  |
 | Monitoring is key for optimization, since you cannot optimize without available data to inform. | [ ] | [ ]  |
-| TBD | [ ] | [ ]  |
 

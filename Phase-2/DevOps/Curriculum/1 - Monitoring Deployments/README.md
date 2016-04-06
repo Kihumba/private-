@@ -60,10 +60,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When setting up monitoring tools, **Action:** I identify metrics that will be monitored in real-time and those that will be mined from log data. | [ ] | [ ]  |
 | **Context:** When choosing a logging strategy for a distributed environment, **Action:** I consider keeping the logs on a separate server from the one running the apps so the logging service does not go down with the apps (centralized logs). | [ ] | [ ]  |
 | **Context:** When setting up monitoring for any environment, **Action:** I make sure I set up alerts and notification for critical metrics and events. | [ ] | [ ]  |
-| **Context:** When [TBD]... **Action:** ... | [ ] | [ ]  |
-| **Context:** When [TBD]... **Action:** ... | [ ] | [ ]  |
-
-
 
 
 ## **Beliefs**
