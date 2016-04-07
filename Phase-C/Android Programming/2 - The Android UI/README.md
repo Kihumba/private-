@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What is an XML? And how do you write a basic XML file?| [ ] | [ ] |
 | How do you edit the Android UI from the xml view and from the design view? | [ ] | [ ] |
 | How do you work with layout types and view groups? | [ ] | [ ] |
-| What android UI controls/components are available? How to add add input components and menus to an app? | [ ] | [ ] |
+| What android UI controls/components are available? How to add input components and menus to an app? | [ ] | [ ] |
 | What are event listeners? What are the different methods for capturing events on Android apps? How to work with events? | [ ] | [ ] |
 | What are the ways to separate design components for reusability?| [ ] | [ ] |
 | How do you manage app resources, such as images, drawables and styles? | [ ] | [ ] |

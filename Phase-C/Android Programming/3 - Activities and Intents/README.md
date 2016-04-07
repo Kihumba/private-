@@ -5,7 +5,7 @@ Every screen in an Android application is an Activity. Activities render the use
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-- _Build a simple android app which 3 activities_
+- _Build a simple android app which has 3 activities_
   - First activity is a fancy splash screen
   - Second activity shows up after the splash screen vanishes, this activity has an imageView, "upload picture", "take picture" buttons
   - Users should be able able to upload a picture to the imageView or take a picture with camera and load to the imageView
