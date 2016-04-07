@@ -5,31 +5,40 @@ The Android devices have a nice collection of sensors which enrich the user expe
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following Android app:
-### Push Up Trainer
 
-### Requirements
+**Push Up Trainer**
+
+**_Requirements_**
+
 To complete this checkpoint you must have completed Modules 13 to 16
 
-### Problem Description
+**_Problem Description_**
+
 In this exercise you will be required to implement an app that helps to plan, remind and count your daily push ups. This will help users to stay discipline, see monitoring report of how well they are doing with their daily exercise, and of course stay fit.
 
-### Task 0 - Startup Screen
+**_Task 0 - Startup Screen_**
+
 Create a start up screen that has a button that allows users to start counting their push ups - the startup screen shows up based on what has been planned. The push ups last for the time/number of push ups configured for it to last, after which a beep goes off to show that the time/count has elapsed.
 
-### Task 1 - Customize time/number of push ups
+**_Task 1 - Customize time/number of push ups_**
+
 Allow the user to customise the minimum time necessary for a number of push ups. Default is 5 minutes. An alternative is the user to customise by minimum number of push ups.
 
-### Task 2 - Record Daily Push ups
+**_Task 2 - Record Daily Push ups_**
+
 Store the number of push ups counted daily and allow the user to view this later on.
 
-### Task 3 - Analytics
+**_Task 3 - Analytics_**
+
 Prepare a graph showing the performance of the user over the last 7 days in terms of number of push ups achieved.
 
-### Task 4 - Planning
+**_Task 4 - Planning_**
+
 Allow the user plan how they would like to organise their push up training. The user can also choose to be reminded when it’s time.
 Note that all planning and time customization can be attached to settings.
 
-### Task 5 - Reminder
+**_Task 5 - Reminder_**
+
 An alarm goes up at the time the user is due to begin push up (with a notification) as a reminder.
 
 ## Objectives
