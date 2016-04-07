@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow regularly demonstrates shortcomings in one or more elements of Willingness to Ask Questions (e.g. does not have the confidence, awareness, or skill to ask appropriate, relevant, or effective questions on a regular basis). At a minimum the Fellow sees asking questions as important.
+The Fellow  sees asking questions as important.Shows a readiness to ask  many questions, majority of which are task oriented, and are adressed to persons the Fellow is comfortable or familliar with. 
 
 
 **Output**
