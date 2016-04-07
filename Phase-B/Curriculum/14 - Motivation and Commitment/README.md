@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow regularly demonstrates shortcomings in one or more elements of of Motivation & Commitment. The Fellow sees high levels of motivation and commitment to objectives as good and desirable, but struggles to maintain drive and determination in the face of challenges. Does not consistently set high standards or take full responsibility.
+The Fellow sees high levels of motivation and commitment to objectives as good and desirable, and requires assistance  to maintain drive and determination in the face of challenges. Is more comfortable setting standards as ateam than individually and takes  responsibility for lower priority and lower risk tasks .
 
 
 **Output**
