@@ -36,7 +36,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:**  When working with a team **Action:** I proactively seek to form partnerships and leverage on team strengths to achieve goals. | [ ] |    [ ] |
 | **Context:**  When working with colleagues **Action:** I continuously improve on my rapport building | [ ] |    [ ] |
 | **Context:**  When working with colleagues **Action:** I proactively reach out to collaborate rather than compete | [ ] |    [ ] |
-
+|**Context**  When having initial interactions with team members, Fellows or trainersgetting **Action:**   Communicates and  shares details about background and interests in attempt to find common ones.| [ ] |    [ ] |
+|**Context**   When having initial interactions with team members, Fellows or trainersgetting **Action:** Expresses a genuine interest in the other person and their activities, interest and well-being | [ ] |    [ ] |
+|**Context**   When tensions or disagreements arise in the course of working with others on a project **Action:** Productively addresses and resolves interpersonal conflicts, especially those that negatively impact work. Apologizes genuinely for transgressions. | [ ] |    [ ] |
+|**Context**  When brainstorming with a team about an idea or a project **Action:** Validates other’s perspectives, contributions, and concerns even in the face of disagreement. | [ ] |    [ ] |
+|**Context**  When joining a team or welcoming others into a team **Action:** Accepts people as they are, does not feel that you have to agree with them all the time to have a relationship. | [ ] |    [ ] |
 ----------
 
 
