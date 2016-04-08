@@ -67,10 +67,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can read the contents of a file with PHP | [ ] | [ ]  |
-| I can read the contents of a directory with PHP | [ ] | [ ] |
-| I can perform all sorts of file operations with PHP  |   [ ]   |   [ ] |
-| I can handle a PHP web application that deals with lots of file processing  |   [ ]   |   [ ] |
+| The DirectoryIterator class provides a simple interface for viewing the contents of filesystem directories. | [] | [] |
+| Compared to the inbuilt file functions, The Iterator Classes provides better and fluent methods for file and directory operations  | [] | [] |
 
 
 
