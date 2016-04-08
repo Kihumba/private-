@@ -1,17 +1,15 @@
-# Module 8: Publishing Android Apps - KBBs
-**Summary:**
-The learning outcomes expected of a fellow that has covered this module are as follows:
-- Understand the Android app publishing process.
-- How to prepare apps for release.
-- Versioning and signing apps.
-- How to publish to other stores such as Amazon market store.
+# Outcome 8 - Publishing Android Apps
 
+## Skill Description
+By publishing your android app, you share it with the world. Usually after completing all previous learning outcomes, this is one additional skill to learn - publishing your android apps. Android apps are published primarily through the Google Play Store, there are other third party stores as well for publishing such as the Amazon Appstore.
 
-The following are the Knowledge, Behaviors, and Beliefs for Publishing Android Apps.
+## Output
+After attaining this skill, and as a demonstration of it, a person should be able to do the following:
+- Publish the app built on Outcome 7 to the Google Play Store.
 
-----------
-## **Knowledge**
+## Objectives
 
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -21,19 +19,17 @@ The following are the Knowledge, Behaviors, and Beliefs for Publishing Android A
 
 ----------
 
-
 ## **Behaviors**
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have completed an android app ... **Action:** I deploy the app by publishing on the Google Play Store. | [ ] | [ ]  |
 | **Context:** When I want to release an update of my app ... **Action:** I version it before deploying it to the Play Store.  | [ ] | [ ]  |
-----------
 
+----------
 
 ## **Beliefs**
 
-
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that I one way to share my android app with my friends, family and clients is to deploy to the Google Play Store.| [ ] | [ ]  |
+| One way to share my android app easily is to publishß to the Google Play Store.| [ ] | [ ]  |
