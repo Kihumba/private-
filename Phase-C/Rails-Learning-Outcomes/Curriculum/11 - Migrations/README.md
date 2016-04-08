@@ -1,4 +1,4 @@
-# Outcome
+# Outcome - Migrations
 
 Skill Description
 ----------
@@ -52,7 +52,7 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 | **Context:** When working in different environments... **Action:**  I run migrations specific to the environment.| [ ] | [ ]  |
 | **Context:** When I want to view the database structure... **Action:**  I check out the schema file.| [ ] | [ ]  |
 
- 
+
 
 ----------
 
@@ -64,4 +64,3 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 |:-------------|:------------------:|:--------:|
 | Migrations help in database schema versioning | [ ] | [ ]  |
 | Migrations are powerful. | [ ] | [ ]  |
-

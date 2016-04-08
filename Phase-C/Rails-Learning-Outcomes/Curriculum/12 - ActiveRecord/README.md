@@ -1,4 +1,4 @@
-# Outcome
+# Outcome - ActiveRecord
 
 Skill Description
 ----------
