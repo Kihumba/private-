@@ -4,7 +4,7 @@
 Well-written tests can help you catch bugs early in your android app development. Thus, writing and running tests as part of your Android app development is highly important. Before you start writing and running your tests, you must set up your test development environment. You also need to learn to configure your project for instrumentation testing.
 
 ## Output
-After attaining this skill, together with skills from outcomes 1 to 4, and as a demonstration of it, a person should be able to create the following app:
+After attaining this skill, together with skills from outcomes 1 to 3, and as a demonstration of it, a person should be able to create the following app:
 
 **Note Taker**
 
