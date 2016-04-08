@@ -59,6 +59,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that modelling my code design in an object oriented way helps me think about problems better and helps me write sustainable and reusable program components. | [ ] | [ ]  |
+| I have a clear picture of a programming problem when I model using OOP.| [ ] | [ ]  |
+| My application's codebase is more sustainable and resuable when I use OOP. | [ ] | [ ]  |
+
 
 

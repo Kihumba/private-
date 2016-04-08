@@ -58,6 +58,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using the most appropriate data structure will help program efficiency. | [ ] | [ ]  |
+| Computer programs are more efficient with the right data structures in place.  | [ ] | [ ]  |
 
 

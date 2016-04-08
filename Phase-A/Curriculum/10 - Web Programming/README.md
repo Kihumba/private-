@@ -80,8 +80,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using frontend technology, I can replicate any web design I can imagine. | [ ] | [ ]  |
-| I believe that using javascript, I can replicate any dynamic web page. | [ ] | [ ]  |
+| With frontend technology, I can replicate any web design I can imagine. | [ ] | [ ]  |
+| With javascript, I can replicate any dynamic web page. | [ ] | [ ]  |
 | I am able to make application react to any user action. | [ ] | [ ]  |
 | I can successfully apply relevant programming logic when building a web application. | [ ] | [ ]  |
 

@@ -56,7 +56,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe competency in searching and sorting algorithms will help me develop better softwares. | [ ] | [ ]  |
-| I believe demonstrating competency in searching and sorting algorithms will help me get a job as a software developer. | [ ] | [ ]  |
-| I believe that using the most appropriate searching and sorting algorithms aid program efficiency. | [ ] | [ ]  |
+| Good programs are written with the best searching and sorting algorithms. | [ ] | [ ]  |
+| Software craftsmen are competent in searching and sorting algorithms. | [ ] | [ ]  |
+| High end software developer jobs require that one is competent in searching and sorting algorithms. | [ ] | [ ]  |
 

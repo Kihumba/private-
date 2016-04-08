@@ -55,7 +55,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that recursion has disadvantages and should be used appropriately. | [ ] | [ ]  |
-| I believe in using iteration over recursion where needed. | [ ] | [ ]  |
-| I believe that recursion when not used appropriately can cause inefficiency in a program. | [ ] | [ ]  |
-| I believe that many algorithms can be expressed much more elegantly recursively than iteratively. | [ ] | [ ]  |
+| Recursion has disadvantages and should be used appropriately. | [ ] | [ ]  |
+| Iteration over recursion where needed. | [ ] | [ ]  |
+| Recursion when not used appropriately can cause inefficiency in a program. | [ ] | [ ]  |
+| Many algorithms can be expressed much more elegantly recursively than iteratively. | [ ] | [ ]  |

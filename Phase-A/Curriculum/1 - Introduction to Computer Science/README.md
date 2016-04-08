@@ -56,3 +56,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Understanding basic computer science concepts will help me in whichever computer science field I want to specialize in. | [ ] | [ ]  |
+| World class developers understand basic computer science concepts. | [ ] | [ ]  |

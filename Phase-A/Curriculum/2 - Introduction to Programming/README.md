@@ -68,6 +68,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that programming is an important concept in computer science because it affects technology and technology affects me. | [ ] | [ ]  |
-| There are several core concepts in programming that will help you learn to use any programming language. | [ ] | [ ]  |
-| I believe that I can tell the computer to do what I want using programming. | [ ] | [ ]  |
+| Programming is valuable to me as it affects technology and technology affects me. | [ ] | [ ]  |
+| I can code in any language with the knowledge of core programming concepts. | [ ] | [ ]  |
+| With computer programming, I can tell the computer to do what I want. | [ ] | [ ]  |

@@ -57,7 +57,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that software engineers have a very important role in a SDLC. | [ ] | [ ]  |
-| I believe that understanding the role of a software engineer will ease the software development process. | [ ] | [ ]  |
-| I believe that having a software engineer and an SDLC model in software development helps in developing good softwares. | [ ] | [ ]  |
+| There is no SDLC without a software engineer and vice versa. | [ ] | [ ]  |
+| A good software is built with a software engineer and an SDLC model being part of the process.| [ ] | [ ]  |
+| Software development process is easier with a software engineer involved in the process. | [ ] | [ ]  |
+
+
+
+
 
