@@ -43,5 +43,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| There are a variety of activity templates I can choose from on the Android studio when building my android app.| [ ] | [ ]  |
-| Fragments are powerful tools in the fight against code repetition. |   [ ]   |   [ ] |
+| Using Android Studio templates saves me time.| [ ] | [ ]  |
+| Fragments annihilate code repetition |   [ ]   |   [ ] |
+| Using Loaders enhances the user experience  |   [ ]   |   [ ] |

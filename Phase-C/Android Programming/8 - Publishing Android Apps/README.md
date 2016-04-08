@@ -32,4 +32,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| One way to share my android app easily is to publishß to the Google Play Store.| [ ] | [ ]  |
+| One way to share my android app easily is to publish to the Google Play Store.| [ ] | [ ]  |

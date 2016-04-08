@@ -37,4 +37,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Storing and persisting data is highly valuable for keeping and retrieving data on android apps.| [ ] | [ ]  |
+| Well stored and retrievable data ensures the continuity of use of my android app.| [ ] | [ ]  |
+| Personalized profile experiences are created by storing and persisting data.| [ ] | [ ]  |

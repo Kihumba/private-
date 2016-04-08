@@ -74,4 +74,4 @@ Using any instrumentation test of choice (Solo or Espresso is recommended), writ
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Writing and running tests is extremely important in order to build a bug-free android app | [ ] | [ ]  |
+| Writing and running tests is extremely important for building bug-free android apps | [ ] | [ ]  |
