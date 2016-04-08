@@ -49,9 +49,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can use callbacks and closures for functional programming.| [ ] | [ ]  |
-| I can use lambdas and closures where it does not make sense to define named functions. |   [ ]   |   [ ] |
+| Callbacks and closures are essential for functional programming.| [ ] | [ ]  |
+| Lambdas and closures are handy alternatives for named functions. |   [ ]   |   [ ] |
 | I can use closures in place of lambdas to access variables outside the scope of anonymous functions.|   [ ]   |   [ ] |
 | Lambdas can come in handy when building components for a larger system to allow for flexibility for developer use. |   [ ]   |   [ ] |
-| I can use closures as callbacks. |   [ ]   |   [ ] |
+| Closures can be used as callbacks. |   [ ]   |   [ ] |
 
