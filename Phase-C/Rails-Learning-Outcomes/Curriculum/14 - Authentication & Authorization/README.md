@@ -55,9 +55,8 @@ In checkpoints 3 project:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Users of my application are protected by implementation very good authentication/authorization in my application | [ ] | [ ]  |
-| Users of my application have permission to view specific resource when they are authorized | [ ] | [ ]  |
+| Good authentication/authorization system help protect my users | [ ] | [ ]  |
+| Authorization help restrict users permission | [ ] | [ ]  |
 | Authentication ask the question `Who are you` | [ ] | [ ]  |
 | Authorization ask the question `What are you allowed to do` | [ ] | [ ]  |
-| Authentication/Authorization are necessary to reduce fraud | [ ] | [ ]  |
-| Every application that is mission critical eg apps that deal with money, health, very sensitive data must pay very close attention to how users they are authenticated and authorized | [ ] | [ ]  |
+| Authentication and authorization of users in high stake apps are mission critical when building it. | [ ] | [ ]  |
