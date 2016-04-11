@@ -73,10 +73,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can develop a RESTFUL API with PHP | [ ] | [ ]  |
-| I can use sessions and cookies to maintain state across every part of my web applications.  |   [ ]   |   [ ] |
-| I can process forms with PHP |   [ ]   |   [ ] |
-| I can develop applications faster with MVC frameworks |   [ ]   |   [ ] |
+| A Restful API can easily be crafted with a PHP MVC framework | [ ] | [ ]  |
+| Sessions and cookies are used to maintain state across every part of web applications.  |   [ ]   |   [ ] |
+| MVC frameworks make form processing trivial |   [ ]   |   [ ] |
+| Applications are developed faster with MVC frameworks |   [ ]   |   [ ] |
 
 
 
