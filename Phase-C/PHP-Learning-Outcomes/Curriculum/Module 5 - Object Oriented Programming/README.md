@@ -78,8 +78,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Knowing the essentials of object oriented programming will allow me write well decoupled and reusable code.| [ ] | [ ]  |
-| I can use the concept of Inheritance and Abstraction to avoid writing duplicated  blocks of code. |   [ ]   |   [ ] |
+| The essentials of object oriented programming allows one to write well decoupled and reusable code.| [ ] | [ ]  |
+| Inheritance and Abstraction are essential techniques that can be employed to avoid writing duplicated blocks of code. |   [ ]   |   [ ] |
 | Every thing in the real world can be modeled in terms of objects interacting with each other. |   [ ]   |   [ ] |
 
 
