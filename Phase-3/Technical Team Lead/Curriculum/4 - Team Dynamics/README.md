@@ -19,7 +19,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Common team roles and responsibilities | [ ] | [ ]  |
 | * My team members' roles and responsibilities | [ ] | [ ]  |
 | * Responsibilities of a Technical Team Lead     | [ ] | [ ]  |
 
@@ -33,9 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** When managing a team **Action:** I set up systems and processes that help me consistently keep track of the contributions of my team members eg Pivotal Tracker | [ ] | [ ]  |
 | **Context:** When onboarding a new member of the team **Action:** I make sure they are aware of every existing team member, their role and how it intersects with theirs |   [ ]   |   [ ]  |
-| **Context:** When ???... **Action:** I execute test scenarios and document reports on % completion of tests and % coverage of business requirements | [ ] |    [ ] |
-| **Context:** When ???... **Action:** I identify defects based on executed tests and document the steps needed to reproduce each defect. | [ ] |    [ ] |
-| **Context:** When ???... **Action:** I accurately assign priorities to identified defects based on client goals. | [ ] |    [ ] |
+| **Context:** At the end of every sprint **Action:** I analyze my team's throughput to identify areas where my influence could have increased team performance |   [ ]   |   [ ]  |
 
 
 ----------
@@ -46,5 +43,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that my success on the team/project is tied to the success of my team members on the team/project | [ ] | [ ]  |
-| I believe that by being more aware of my team dynamics, I can help other members of my team develop better team dynamics | [ ] | [ ]  |
+| My success on the team/project is tied to the success of my team members on the team/project | [ ] | [ ]  |
+| By being constantly aware of my team dynamics, I can help other members of my team develop excellent awareness team dynamics | [ ] | [ ]  |
