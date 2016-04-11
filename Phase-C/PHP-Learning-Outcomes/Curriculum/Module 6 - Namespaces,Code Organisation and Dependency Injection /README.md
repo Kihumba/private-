@@ -63,11 +63,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can use Traits to achieve multiple inheritance in PHP| [ ] | [ ]  |
-| I can use composer to manage the reuse of open source code in my PHP program. |   [ ]   |   [ ] |
-| I can use Dependency Injection to write decoupled PHP programs. |   [ ]   |   [ ] |
-| I can write reusable PHP code in form of Packages and make it available to the public by uploading it to Packagist. |   [ ]   |   [ ] |
-| I can use PSR-2 Coding Standard to ensure my program is well-indented, readable and legible. |   [ ]   |   [ ] |
-| I can write a loosely coupled and modular PHP program by adhering to the SOLID principle. |   [ ]   |   [ ] |
+| Traits are used to achieve the concept of multiple inheritance in PHP| [ ] | [ ]  |
+| Composer is a tool used to manage the reuse of open source code in PHP programs. |   [ ]   |   [ ] |
+| Dependency Injection is essential in writing decoupled PHP programs. |   [ ]   |   [ ] |
+| Reusable PHP code in form of Packages can be made available to the public by uploading it to Packagist. |   [ ]   |   [ ] |
+| The PSR-2 Coding Standard ensures programs are well-indented, readable and legible. |   [ ]   |   [ ] |
+| The SOLID principle is a guide to writing loosely coupled and modular PHP programs. |   [ ]   |   [ ] |
 
 

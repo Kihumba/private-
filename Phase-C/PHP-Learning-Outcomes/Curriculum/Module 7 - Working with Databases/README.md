@@ -49,9 +49,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can use PDO to develop a database agnostic PHP application. | [ ] | [ ]  |
-| I can use PHP MYSQLi driver in writing PHP programs that works with only MYSQL database.  |   [ ]   |   [ ] |
-| I can use stored procedures and transactions in improving the efficiency of database calls in my application. |   [ ]   |   [ ] |
+| PDO is required to develop a database agnostic PHP application. | [ ] | [ ]  |
+| The PHP MYSQLi driver is a tool used in writing PHP programs that works only with MYSQL databases.  |   [ ]   |   [ ] |
+| Stored procedures and transactions can help improve the efficiency of database calls in my application. |   [ ]   |   [ ] |
 
 
 

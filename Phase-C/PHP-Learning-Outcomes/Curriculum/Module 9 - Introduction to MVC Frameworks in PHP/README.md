@@ -75,7 +75,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | A Restful API can easily be crafted with a PHP MVC framework | [ ] | [ ]  |
 | Sessions and cookies are used to maintain state across every part of web applications.  |   [ ]   |   [ ] |
-| MVC frameworks make form processing trivial |   [ ]   |   [ ] |
+| MVC frameworks make authentication and authorization implementation trivial |   [ ]   |   [ ] |
 | Applications are developed faster with MVC frameworks |   [ ]   |   [ ] |
 
 

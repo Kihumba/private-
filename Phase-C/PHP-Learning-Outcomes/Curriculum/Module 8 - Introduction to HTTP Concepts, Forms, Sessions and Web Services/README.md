@@ -57,9 +57,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can develop a RESTFUL API with PHP | [ ] | [ ]  |
-| I can use sessions and cookies to maintain state across every part of my web applications.  |   [ ]   |   [ ] |
-| I can use process forms with PHP |   [ ]   |   [ ] |
+| A Restful API can easily be crafted in PHP. | [ ] | [ ]  |
+| Sessions and cookies are used to maintain state across every part of web applications. |   [ ]   |   [ ] |
+| Form processing is trivial in PHP. |   [ ]   |   [ ] |
 
 
 
