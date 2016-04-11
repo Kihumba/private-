@@ -66,8 +66,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can write more efficient PHP programs that saves memory by writing generator functions to deal with large datasets.| [ ] | [ ]  |
-| I can use Iterators to traverse a list of values. |   [ ]   |   [ ] |
-| I can make use of array functions to simplify operations performed on arrays.|   [ ]   |   [ ] |
-| I can make use of arrays as a form of data store. |   [ ]   |   [ ] |
+| Generator can be used to write very efficient PHP programs that saves memory when dealing with large datasets.| [ ] | [ ]  |
+| Iterators are very efficient at traversing a list of values. |   [ ]   |   [ ] |
+| PHP Array functions can ease operations performed on arrays.|   [ ]   |   [ ] |
+| Arrays are forms of data store. |   [ ]   |   [ ] |
 
