@@ -53,8 +53,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can find and fix bugs in the early stage of development by writing tests.| [ ] | [ ]  |
-| I can write modular code that can be easily maintained using the test-driven development approach. |   [ ]   |   [ ] |
-| I can write functional tests for my applications.|   [ ]   |   [ ] |
-| I can use BDD style to write very legible and understandable tests for my programs. |   [ ]   |   [ ] |
+| Tests in the early stage of development help find and fix bugs easily.| [ ] | [ ]  |
+| The test-driven development approach ensures writing of maintainable, loosely-coupled and modular code |   [ ]   |   [ ] |
+| Functional tests are necessary for web applications.|   [ ]   |   [ ] |
+| Legible and understandable tests in a program can be achieved with the BDD style. |   [ ]   |   [ ] |
 
