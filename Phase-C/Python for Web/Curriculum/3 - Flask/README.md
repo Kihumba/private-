@@ -6,7 +6,7 @@ To show complete understanding of the Flask skill, one must have an understandin
 
 - Flask Basics, Routing and URLs
 - Requests and Responses
-- Sessions, Cookies and Flash Messaging
+- Sessions and Cookies
 - Forms
 - Error Handling
 - Using SQLAlchemy
