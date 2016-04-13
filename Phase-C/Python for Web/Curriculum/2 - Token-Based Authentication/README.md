@@ -4,8 +4,9 @@
 ----------
 Complete understanding of this skill means a good grasp of the best practices associated with:
 
+- Process of Token-Based Authentication
 - Creating Tokens
-- Using Tokens for Authentication
+- Workflow associated with using Tokens for Authentication
 
 
 **Output**
@@ -22,11 +23,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| Differences between Token-Based Authentication and Server-Based Authentication | [ ] | [ ] |
-| Steps involved in Token-Based Authentication | [ ] | [ ] |
-| Pros and Cons of Token-Based Authentication | [ ] | [ ] |
-| Anatomy of a JWT Token | [ ] | [ ] |
-| Process of encoding and decoding JWT Token | [ ] | [ ] |
+| Differences between Token-Based Authentication and Server-Based Authentication. | [ ] | [ ] |
+| Steps involved in Token-Based Authentication - User logs in, User Data is encoded as token using a secret key, Token is sent back to the client, Token is stored in the client, Token in sent in the header with all subsequent requests. | [ ] | [ ] |
+| Pros and Cons of Token-Based Authentication. | [ ] | [ ] |
+| Anatomy of a JWT Token - Header, Payload and Signature - and what they contain. | [ ] | [ ] |
+| Process of encoding and decoding JWT Token. | [ ] | [ ] |
 
 
 ----------
@@ -39,8 +40,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I want to implement stateless transactions on my application... **Action:** I make use Token-Based Authentication | [ ] | [ ] |
 | **Context:** After creating a token for my user... **Action:** I always ensure store the token on the client for subsequent requests | [ ] | [ ] |
 | **Context:** When making use of Token-Based Authentication... **Action:** I add the token to the Authorization Header of every HTTP request to every protected route | [ ] | [ ] |
-| **Context:** When creating tokens... **Action:** I encode the user data in the token | [ ] | [ ] |
+| **Context:** When making use of Token-Based Authentication... **Action:** I allow my server accept requests from all domains using `Access-Control-Allow-Origin: *` | [ ] | [ ] |
+| **Context:** When creating tokens... **Action:** I encode enough data to identify the user in the token | [ ] | [ ] |
 | **Context:** When creating tokens... **Action:** I always ensure to set a reasonable expiry time for my tokens | [ ] | [ ] |
+| **Context:** When using tokens in my web application... **Action:** I encode the data using the key and use the same key to decode the token. | [ ] | [ ] |
 | **Context:** When validating tokens... **Action:** I always check that the token is valid, not expired and has the appropriate use data | [ ] | [ ] |
 
 
@@ -55,6 +58,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that Token-Based Authentication will reduce the processing load on my server. | [ ] | [ ] |
-| I believe that my application is very secure when using Token-Based Authentication. | [ ] | [ ] |
-| I believe that my application is more scalable when using Token-Based Authentication. | [ ] | [ ] |
+| Token-Based Authentication can and will reduce the processing load on my server. | [ ] | [ ] |
+| My application is very secure when using Token-Based Authentication. | [ ] | [ ] |
+| My application is much more scalable when I use Token-Based Authentication. | [ ] | [ ] |
+| My application is much more standard-based when I use Token-Based Authentication. | [ ] | [ ] |
