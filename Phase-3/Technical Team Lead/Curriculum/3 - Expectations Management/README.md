@@ -25,8 +25,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * What are the capabilities of my team members?  | [ ] | [ ]  |
 | * How to facilitate sessions to gather team output estimates? | [ ] | [ ]  |
 | * What are the indicators of success for my team members? Do they know them?  | [ ] | [ ]  |
-| * What are the goals nd motivations of my team members?  | [ ] | [ ]  |
-
+| * What are the goals and motivations of my team members?  | [ ] | [ ]  |
+| * What do you do when there are unreasonable expectations from team members or other stakeholders?  | [ ] | [ ]  |
 
 ----------
 
@@ -41,6 +41,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** At the end of each sprint **Action:** I compare the actual team output to the projected output | [ ] |    [ ] |
 | **Context:** When delivery of milestones may not be met timely **Action:** I proactively inform all stakeholders of the situation | [ ] |    [ ] |
 | **Context:** When informing stakeholders about delays in delivering milestones **Action:** I offer courses of action to mitigate the milestone delivery concerns | [ ] |    [ ] |
+| **Context:** When there are unreasonable expectations for/within my team **Action:** I reject them and offer reasonable ones with reasons | [ ] |    [ ] |
 
 
 ----------
