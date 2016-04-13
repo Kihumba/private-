@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * My team members' roles and responsibilities | [ ] | [ ]  |
 | * Responsibilities of a Technical Team Lead     | [ ] | [ ]  |
+| * The historical working experience/relationships of my team members (conflicts, conflict resolutions, and success stories) prior to when I became their Team Lead     | [ ] | [ ]  |
 
 
 ----------
@@ -30,6 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
+| **Context:** When I newly join a team **Action:** I engage in conversations with team members to know and undertand their historical working relationships (conflicts, conflict resolutions, and success stories) | [ ] | [ ]  |
 | **Context:** When managing a team **Action:** I set up systems and processes that help me consistently keep track of the contributions of my team members eg Pivotal Tracker | [ ] | [ ]  |
 | **Context:** When onboarding a new member of the team **Action:** I make sure they are aware of every existing team member, their role and how it intersects with theirs |   [ ]   |   [ ]  |
 | **Context:** At the end of every sprint **Action:** I analyze my team's throughput to identify areas where my influence could have increased team performance |   [ ]   |   [ ]  |
@@ -45,3 +47,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | My success on the team/project is tied to the success of my team members on the team/project | [ ] | [ ]  |
 | By being constantly aware of my team dynamics, I can help other members of my team develop excellent awareness team dynamics | [ ] | [ ]  |
+| If I know the historical working experiences/relationships of my team members, I can be more tactful about improving the team's dynamics | [ ] | [ ]  |
