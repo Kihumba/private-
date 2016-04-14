@@ -1,15 +1,12 @@
-# Outcome 1 - HTTP and Web Services
+# Outcome 5 - Django Models
 
 **Skill Description**
 ----------
 To show complete understanding of HTTP and Web services skill, one must have an understanding of the following:
 
-- The HTTP Protocol and how HTTP Works
-- HTTP Verbs
-- HTTP Status Codes
-- REST
-- Consuming APIs
-- Using the request library
+- Model fields
+- Effective use of Querysets
+- Migrations
 
 
 **Output**

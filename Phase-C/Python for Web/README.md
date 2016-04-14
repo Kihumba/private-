@@ -6,7 +6,7 @@ The Python for Web curriculum detailed here shows all the Knowledge, Behaviors a
 1. HTTP and Web Services
 2. Token Based Authentication
 3. API Design using Flask
-4. Django Basics
+4. Django MVT Basics
 5. Django Models
 6. Django Views
 7. Django Templates
