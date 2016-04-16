@@ -1,7 +1,22 @@
-# Version Control - KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs in the version control skill needed by the end of Bootcamp.
+# Outcome 1 - Version Control
 
+**Skill Description**
 ----------
+By the end of Phase B - Bootcamp, aspiring Andelans should be about 30% of the way to client readiness with version control. This means they can build and manage personal and shared repos using conventional git workflows and Github.
+
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+1. A blog post on what the HEAD is and how it’s important
+2. A personal repo with commits
+3. A shared repo with commits, conflicts and at least one merge
+
+
+**Objectives**
+----------
+
 ## **Knowledge**
 
 
@@ -43,4 +58,3 @@
 |:-------------|:------------------:|:--------:|
 | I believe that branching creates a safe space to try new things when I’m implementing a new feature. | [ ] | [ ]  |
 | I believe using Git for my personal project is very valuable for tracking my progress. |   [ ]   |   [ ] |
-
