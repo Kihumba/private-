@@ -75,5 +75,5 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | My listening habits reflect the respect I have for others. | [ ] | [ ] |
 | Powerful listening springs from humility and results in trust and achievement. | [ ] | [ ] |
 | I listen with my whole body. | [ ] | [ ] |
-| I listen best when I do not assume that I have understand the other person. | [ ] | [ ] |
+| I listen best when I do not assume that I have understood the other person. | [ ] | [ ] |
 | Listening is hard work that bears many fruits. | [ ] | [ ] |
