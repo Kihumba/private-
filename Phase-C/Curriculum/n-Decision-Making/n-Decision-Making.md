@@ -7,9 +7,9 @@ The Fellow displays an objective, balanced approach toward decision making. Incl
 
 
 ## Output
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-- *[list of outputs that will be used to evaluate Fellow attainment of this skill here]*
+1. Written proposal recommending a course of action for my team that describes research, data, and the pros and cons of various alternatives compared to team and organizational priorities.
 
 
 ## Objectives

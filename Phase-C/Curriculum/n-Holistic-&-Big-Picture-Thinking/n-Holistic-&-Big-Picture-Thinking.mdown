@@ -3,70 +3,62 @@
 
 ## Skill Description
 
-The Fellow is able to understand the work that needs to be delivered by multiple members of a team, see how it all fits together toward the completion of a goal, and engage with stakeholders/members of the team from that perspective
+The Fellow is able to understand the big picture of how their work impacts their client, the application they are working on and the end user of the product.   They incorporate their understanding to ask questions to better flesh out the feature and ensure that the changes they make address all these factors rather than strictly implementing a request as specified.
 
 
 ## Output
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-- *[list of outputs that will be used to evaluate Fellow attainment of this skill here]*
+1. Written or recorded description of how my work affects the organizations I am a part of, the application(s) I am building, and the users of the application.
+2. A list of questions I have asked that helped me better flesh out a feature I was building to meet the big picture needs of my organization, application, and/or users.
 
 
-## Objectives
+##Objectives
 
 ### Knowledge
 
 
 | Knowledge Unit | Studied | Memorized |
 |:---|:---:|:---:|
+| I can describe the following from memory: | | |
 | | | |
-| Knowledge description | [ ] | [ ] |
+| - how my work affects the Client (varies by Fellow). | [ ] | [ ] |
+| - how my work affects the application/product (varies by Fellow). | [ ] | [ ] |
+| - how my work affects the end user of the product (varies by Fellow). | [ ] | [ ] |
+| - the effect a given change will have on the product (varies by task) | [ ] | [ ] |
+| - the big picture that describes my work, my organization, the product(s) I am working on, and the users of that product (varies by person and project). | [ ] | [ ] |
+| - the types of questions one asks when working on software products if they have a holstic / big picture perspective. | [ ] | [ ] |
+| - the potential drawbacks of strictly implementing a request as specfied. | [ ] | [ ] |
 | | | |
-| Knowledge description. *Examples:* | [ ] | [ ] |
-| -- *example for knowledge description* |  |  |
-| | | |
-| Knowledge description w/ list [studied/memorized check off for list title] | [ ] | [ ] |
-| - List item 1 |  |  |
-| - List item 2. *Example(s):* |  |  |
-| -- *example for list item* |  |  |
-| | | |
-| Knowledge description w/ list [studied/memorized check off for list items] |  |  |
-| - List item 1 | [ ] | [ ] |
-| - List item 2 *Example(s):* | [ ] | [ ] |
-| -- *example for list item* |  |  |
 
 
 ---
 
 ### Behaviors
 
-
-**CONTEXT BIN 1**
-> *[Context Bin 1] - high level context categories, e.g. e.g. WHEN WORKING ON A TEAM, WHEN IN A REMOTE CALL, WHEN WORKING ON A TASK OR PROJECT*
-
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| ***Context Category*** *[mid-level context category, e.g. When new people join the team, When first beginning the remote call, When I am not going to meet a deadline]*  | [ ] | [ ] |
-| **Context:** When ... ... **Action:** I ... *[single action]* | [ ] | [ ] |
-| **Context:** When ... ... **Action(s):** I ... (see below) *[w/ list of actions]* |  |  |
-| - List item | [ ] | [ ] |
-| - List item. *Examples:* | [ ] | [ ] |
-| -- *example for list item* |  |  |
-| - List item | [ ] | [ ] |
+| **Context:** When working on a project within an organization (e.g. Andela or a Client), **Action:** I... | [ ] | [ ] |
+| - gain a complete understanding of how the organization works, and how my work affects the organization, project, and users. I do this by reviewing all related documents, organizational tools, and online resources, paying careful attention during meetings, presentations, and conversations, and inquiring with multiple stakeholders | [ ] | [ ] |
+| - use the product extensively, adopting the perspetive of actual users, in order to fully understand the user experience. | [ ] | [ ] |
+| - regularly ask questions about the organization, product, and users that are driven by my understanding of the big picture of my work | [ ] | [ ] |
 | | | |
-| ***Context Category*** *[mid-level context category, e.g. When new people join the team, When first beginning the remote call, When I am not going to meet a deadline]*  | [ ] | [ ] |
-| **Context:** When ... ... **Action:** I ... *[single action]* | [ ] | [ ] |
-| ... | [ ] | [ ] |
+| **Context:** When making changes to a program, **Action:** I... | [ ] | [ ] |
+| - regularly ask myself and members of my team, "how will this change affect the organization/application/users?" | [ ] | [ ] |
+| - explicitly discuss with my team the affect my work will have on the organization, application, and users and ask if there is anything I am not anticipating. | [ ] | [ ] |
+| - write down the affects I anticipate the change having on the organization, application, and users and compare my predictions with actual impact to continuously check and improve my ability to understand these affects. | [ ] | [ ] |
 | | | |
-
-**CONTEXT BIN 2**
-> *[Context Bin 2] - high level context categories, e.g. WHEN WORKING ON A TEAM, WHEN IN A REMOTE CALL, WHEN WORKING ON A TASK OR PROJECT*
-
-| Observable Behavior | Observed | Mastered |
-|:---|:---:|:---:|
+| **Context:** When assigned a task, and I believe there is a more optimal solution for the needs of the organization, application, and/or users compared to the stated specifications of the request, **Action:** I... | [ ] | [ ] |
+| - ask questions to gain a complete understanding of why the task specifications are the way they are. | [ ] | [ ] |
+| - identify to my team that I believe there is a more optimal solution and explicitly describe how an alternative solution would better meet the needs of the organization, application, and/or users. | [ ] | [ ] |
+| - employ decision making skill set to identify alternatives and propose a recommended course of action. | [ ] | [ ] |
+| - once I have buy in from the necessary stakeholders, implement the solution that would be most optimal. | [ ] | [ ] |
 | | | |
-|...|...|...|
+| **Context:** After a change I have made to a program has been implented, **Action:** I review the impact the change had on the organization, the application, and the users to continuously improve my holistic / big-picture thinking. | [ ] | [ ] |
+| | | |
+| **Context:** When I find myself strictly implementing a request as specified, **Action:** I take time to think through the affects of implementing the request as specified and ask myself, "is there a different way to do this that better meets the needs of the organization, application, and/or users?" | [ ] | [ ] |
+| | | |
 
 ---
 
@@ -76,5 +68,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief | Felt | Demonstrated |
 |:---|:---:|:---:|
-| I believe ... | [ ] | [ ] |
-| I believe ... | [ ] | [ ] |
+| My work impacts people's lives. | [ ] | [ ] |
+| I am capable of gaining a complete understanding of any organization I am a part of. | [ ] | [ ] |
+| I am a problem solver, not a task completer. | [ ] | [ ] |
+| I have unique insight that is critical for optimizing project features. | [ ] | [ ] |
