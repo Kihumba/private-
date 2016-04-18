@@ -20,13 +20,13 @@ In checkpoints 3 project:
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| I can describe from memory, the difference between authentication and authorization? | [ ] | [ ]  |
-| I can describe from memory, why `#has_secure_password` is a handy method | [ ] | [ ]  |
-| I can describe from memory, the basic overview of how to authenticate a user with that method | [ ] | [ ]  |
-| I can describe from memory, the additional steps (on a high level) that are needed to actually "remember" a user after they've closed the browser | [ ] | [ ]  |
-| I can describe from memory, what the Devise gem is and why it is useful | [ ] | [ ]  |
-| I can describe from memory, the necessary steps needed to add third party authentication (eg facebook, github etc) using omniauth gem | [ ] | [ ]  |
-| I can describe from memory, the necessary steps needed to use `cancancan` gem to authorize users of an application | [ ] | [ ]  |
+| I know the difference between authentication and authorization? | [ ] | [ ]  |
+| I know why `#has_secure_password` is a handy method | [ ] | [ ]  |
+| I know the basic overview of how to authenticate a user with that method | [ ] | [ ]  |
+| I know the additional steps (on a high level) that are needed to actually "remember" a user after they've closed the browser | [ ] | [ ]  |
+| I know what the Devise gem is and why it is useful | [ ] | [ ]  |
+| I know the necessary steps needed to add third party authentication (eg facebook, github etc) using omniauth gem | [ ] | [ ]  |
+| I know the necessary steps needed to use `cancancan` gem to authorize users of an application | [ ] | [ ]  |
 
 
 ----------
@@ -59,4 +59,4 @@ In checkpoints 3 project:
 | Authorization help restrict users permission | [ ] | [ ]  |
 | Authentication ask the question `Who are you` | [ ] | [ ]  |
 | Authorization ask the question `What are you allowed to do` | [ ] | [ ]  |
-| Authentication and authorization of users in high stake apps are mission critical when building it. | [ ] | [ ]  |
+| Authentication and authorization of users in high stake apps are mission critical when building them. | [ ] | [ ]  |

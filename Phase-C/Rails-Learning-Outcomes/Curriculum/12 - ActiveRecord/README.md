@@ -20,27 +20,27 @@ Lay out the data architecture you'd need to implement to build the following sce
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| I can describe from memory, what an ORM is | [ ] | [ ]  |
-| I can describe from memory, why ActiveRecord is more useful than just using SQL | [ ] | [ ]  |
-| I can describe from memory, why ActiveRecord::Relation is important and what it means | [ ] | [ ]  |
-| I can describe from memory, what Lazy Evaluation mean | [ ] | [ ]  |
-| I can describe from memory, the difference between Lazy Evaluation and Eager Evaluation | [ ] | [ ]  |
-| I can describe from memory, how to make a relation evaluate into an array | [ ] | [ ]  |
-| I can describe from memory, how to check whether a database already contains a record | [ ] | [ ]  |
-| I can describe from memory, why #find_by useful is and how it is used | [ ] | [ ]  |
-| I can describe from memory, the difference between what's returned using a #where query and a #find query | [ ] | [ ]  |
-| I can describe from memory, how to join tables together in Rails | [ ] | [ ]  |
-| I can describe from memory, when to use symbols / hashes and when to use explicit strings for query parameters | [ ] | [ ]  |
-| I can describe from memory, what `scopes` are and why are they useful | [ ] | [ ]  |
-| I can describe from memory, What needs to happen for a class method to act like a scope | [ ] | [ ]  |
-| I can describe from memory, how Rails normally know which table and foreign key to use when you have an association (e.g. User.first.posts) | [ ] | [ ]  |
-| I can describe from memory, when I would need to specify the :class_name option in an association | [ ] | [ ]  |
-| I can describe from memory, when I would need to specify the :foreign_key option in an association | [ ] | [ ]  |
-| I can describe from memory, when I would need to specify the :source option in an association | [ ] | [ ]  |
-| I can describe from memory, what polymorphic association are and when I would you use one | [ ] | [ ]  |
-| I can describe from memory, what the two ways to use the association to create a new object instead of just calling YourObject.new including why it is useful and the preferred method | [ ] | [ ]  |
-| I can describe from memory, how to automatically destroy all a User's Post objects if that user is deleted? | [ ] | [ ]  |
-| I can describe from memory, how to set up a self-association, like with Users following Users | [ ] | [ ]  |
+| I know what an ORM is | [ ] | [ ]  |
+| I know why ActiveRecord is more useful than just using SQL | [ ] | [ ]  |
+| I know why ActiveRecord::Relation is important and what it means | [ ] | [ ]  |
+| I know what Lazy Evaluation mean | [ ] | [ ]  |
+| I know the difference between Lazy Evaluation and Eager Evaluation | [ ] | [ ]  |
+| I know how to make a relation evaluate into an array | [ ] | [ ]  |
+| I know how to check whether a database already contains a record | [ ] | [ ]  |
+| I know why #find_by useful is and how it is used | [ ] | [ ]  |
+| I know the difference between what's returned using a #where query and a #find query | [ ] | [ ]  |
+| I know how to join tables together in Rails | [ ] | [ ]  |
+| I know when to use symbols / hashes and when to use explicit strings for query parameters | [ ] | [ ]  |
+| I know what `scopes` are and why are they useful | [ ] | [ ]  |
+| I know What needs to happen for a class method to act like a scope | [ ] | [ ]  |
+| I know how Rails normally know which table and foreign key to use when you have an association (e.g. User.first.posts) | [ ] | [ ]  |
+| I know when I would need to specify the :class_name option in an association | [ ] | [ ]  |
+| I know when I would need to specify the :foreign_key option in an association | [ ] | [ ]  |
+| I know when I would need to specify the :source option in an association | [ ] | [ ]  |
+| I know what polymorphic association are and when I would you use one | [ ] | [ ]  |
+| I know what the two ways to use the association to create a new object instead of just calling YourObject.new including why it is useful and the preferred method | [ ] | [ ]  |
+| I know how to automatically destroy all a User's Post objects if that user is deleted? | [ ] | [ ]  |
+| I know how to set up a self-association, like with Users following Users | [ ] | [ ]  |
 
 
 ----------

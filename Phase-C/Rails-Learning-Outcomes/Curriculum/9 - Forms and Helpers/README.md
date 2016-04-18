@@ -72,9 +72,6 @@ In checkpoint two and simulation project:
 
 
 ----------
-I believe using helpers improve development speed.
-I believe that helpers keep our views clean and DRY.
-I believe helpers help make view logic easier to test.
 
 
 ## **Beliefs**
@@ -82,6 +79,6 @@ I believe helpers help make view logic easier to test.
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Using helpers improve development speed. | [ ] | [ ]  |
+| Using helpers improves development speed. | [ ] | [ ]  |
 | Helpers keep our views clean and DRY. | [ ] | [ ]  |
 | Helpers help make view logic easier to test. | [ ] | [ ]  |

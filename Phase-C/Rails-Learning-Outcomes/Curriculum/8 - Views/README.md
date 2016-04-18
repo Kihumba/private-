@@ -36,8 +36,7 @@ Write a blog post about preprocessors in rails.
 | I know the magical Rails shortcut for rendering `a user`, `a bunch of users` | [ ] | [ ]  |
 | I know what asset tags are and why are they used | [ ] | [ ]  |
 | I know how to use other template engines in a rails application. | [ ] | [ ]  |
-
-
+| I know users interact with a web application through the views | [ ] | [ ]  |
 
 ----------
 
@@ -62,6 +61,5 @@ Write a blog post about preprocessors in rails.
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Views are the eyes to the soul of a rails application. | [ ] | [ ]  |
-| Users interact with a web application through the views | [ ] | [ ]  |
 | Preprocessors are indispensable | [ ] | [ ]  |
 | I am not limited to the default template engine (erb) that rails provides. | [ ] | [ ]  |

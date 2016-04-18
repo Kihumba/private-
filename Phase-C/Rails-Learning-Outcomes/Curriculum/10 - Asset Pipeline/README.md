@@ -6,7 +6,8 @@ This outcome touches on asset pipeline as a tool and mechanism by which Javascri
 
 Outputs
 ----------
-Write a blog post on rails asset pipeline.
+- In checkpoint two and simulation project, make use of rails asset pipeline to manage all your application assets(Javascript, css, images, sass etc)
+- Write a blog post on rails asset pipeline.
 
 
 ----------
