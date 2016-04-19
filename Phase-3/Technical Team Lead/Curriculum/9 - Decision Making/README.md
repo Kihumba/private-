@@ -21,8 +21,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to facilitate team discussions to make decisions | [ ] | [ ]  |
-| * How do team meetings usually go off-course from their original objectives? | [ ] | [ ]  |
-| * How do you prepare for faiclitating group discussions/meetings | [ ] | [ ]  |
+| * Factors that derail meeting objectives and methods to bring them back on course | [ ] | [ ]  |
+| * How do you prepare for facilitating group discussions/meetings | [ ] | [ ]  |
 
 
 ----------
@@ -41,6 +41,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When facilitating group discussions **Action:** I invite the less talktative team members to share their thoughts | [ ] |    [ ] |
 | **Context:** When facilitating group discussions **Action:** I continue to push the group to stick to the point of the discussion always save time at the end to resolve/commit to next steps | [ ] |    [ ] |
 | **Context:** When facilitating group discussions **Action:** I make sure that the discussion ends with some form of consensus/decision/next step | [ ] |    [ ] |
+| **Context:** When soliciting team input into a key decision **Action:** I offer the same prompt to each team member requesting they add their unique perspective to the decision making process | [ ] |    [ ] |
+| **Context:** When leading new team members on a project **Action:** I keep track of the decision making inputs each of them offers to the group until I'm confident everyone is being heard | [ ] |    [ ] |
 
 
 ----------
@@ -54,4 +56,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Team members put more effort in their work when they feel that they are part of the decision making process | [ ] | [ ]  |
 | Setting and communicating the desired outcome for a discussion/meeting guides the meeting towards a resolution | [ ] | [ ]  |
 | Having a clear agenda frames a discussion for organization and productivity | [ ] | [ ]  |
+| A decision made using each team member's input is better than a decision made by a single member or a subset of the team | [ ] | [ ]  |
 
