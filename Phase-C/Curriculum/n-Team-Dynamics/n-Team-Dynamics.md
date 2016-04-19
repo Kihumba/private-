@@ -3,4 +3,4 @@
 
 ## Skill Description
 
-The Fellow understands their expanded role as a senior member of a team, with others reporting to them, and how they are responsible not only for their own individual contributions but also the work that their team contributes. 
+The Fellow understands their role within the structure of the team and what's expected of them; understands the roles of team members and how to work well with them. Adept at their role within the team, promotes team (Andela, Class, Client, Etc) first, creates environment that team thrives in.
