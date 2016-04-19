@@ -24,6 +24,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Factors that derail meeting objectives and methods to bring them back on course | [ ] | [ ]  |
 | * How do you prepare for facilitating group discussions/meetings | [ ] | [ ]  |
 | * How to weigh the value of relevant points when making a decision | [ ] | [ ]  |
+| * The parties (stakeholders and other people) impacted by your team's decisions | [ ] | [ ]  |
 
 
 ----------
