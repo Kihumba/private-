@@ -26,6 +26,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * How to facilitate sessions to gather team output estimates? | [ ] | [ ]  |
 | * What are the indicators of success for my team members? Do they know them?  | [ ] | [ ]  |
 | * What are the goals and motivations of my team members?  | [ ] | [ ]  |
+| * How to identify reasonable vs unreasonable expectations?  | [ ] | [ ]  |
 | * What do you do when there are unreasonable expectations from team members or other stakeholders?  | [ ] | [ ]  |
 
 ----------
@@ -55,6 +56,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can build trust externally by regularly communicating the capabilities and potential output of my team | [ ] | [ ]  |
 | My team members will deliver good value if they had clear expectations of what needs to be delivered at what time | [ ] | [ ]  |
 | My team members will feel valued and energized if their work contributes to their personal goals and motivations  | [ ] | [ ]  |
-| It's okay to say no if I explain why  | [ ] | [ ]  |
+| It's okay to say no to unreasonable expectations if I explain why  | [ ] | [ ]  |
+| I can get higher output from my team by managing the expectations of my team members,  | [ ] | [ ]  |
 
 
