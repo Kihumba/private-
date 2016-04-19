@@ -22,6 +22,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * My team members' roles and responsibilities | [ ] | [ ]  |
 | * Responsibilities of a Technical Team Lead     | [ ] | [ ]  |
 | * The historical working experience/relationships of my team members (conflicts, conflict resolutions, and success stories) prior to when I became their Team Lead     | [ ] | [ ]  |
+| * The potential shifts in team dynamics that could result from one team member getting promoted to a Team Lead role    | [ ] | [ ]  |
 
 
 ----------
@@ -35,6 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When managing a team **Action:** I set up systems and processes that help me consistently keep track of the contributions of my team members eg Pivotal Tracker | [ ] | [ ]  |
 | **Context:** When onboarding a new member of the team **Action:** I make sure they are aware of every existing team member, their role and how it intersects with theirs |   [ ]   |   [ ]  |
 | **Context:** At the end of every sprint **Action:** I analyze my team's throughput to identify areas where my influence could have increased team performance |   [ ]   |   [ ]  |
+| **Context:** When I get promoted to Team Lead in an existing team **Action:** I engage my former peers in an open conversation about how team dynamics might change |   [ ]   |   [ ]  |
 
 
 ----------
@@ -48,3 +50,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | My success on the team/project is tied to the success of my team members on the team/project | [ ] | [ ]  |
 | By being constantly aware of my team dynamics, I can help other members of my team develop excellent awareness team dynamics | [ ] | [ ]  |
 | If I know the historical working experiences/relationships of my team members, I can be more tactful about improving the team's dynamics | [ ] | [ ]  |
+| I can manage existing peers | [ ] | [ ]  |
