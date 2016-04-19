@@ -56,6 +56,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | The application of knowledge is more meaningful tracked in real-time while it's being applied to a practical context. | [ ] | [ ]  |
 | I am completely capable of sensing another person's beliefs and observing another person's behaviors. | [ ] | [ ]  |
 | Regular and frequent access to one's Learning Map progress provides the feedback that they need and accelerates their professional growth. | [ ] | [ ]  |
+| _Check video for missing belief_ . | [ ] | [ ]  |
 
 
 
