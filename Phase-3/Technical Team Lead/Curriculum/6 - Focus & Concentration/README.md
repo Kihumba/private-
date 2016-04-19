@@ -8,8 +8,8 @@ The Fellow knows how to keep his team focused on the client's top priorities but
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Document logging emotional/psychological/fatigue state of team members
-2. Team syncs focused on progress towards project/organization priorities
+1. One aseesment of emotional/psychological/fatigue state of team members (e.g. red, yellow, green indicators)
+2. Team syncs (e.g. sprint sessions, update sessions) focused on progress towards project/organization priorities
 
 
 **Objectives**
@@ -47,5 +47,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Focus on client/team priorities is a major key to success | [ ] | [ ]  |
-| Adequate rest is necessary to maintain focus & concentration levels and performance of my team | [ ] | [ ]  |
-| A well-rested and healthy competent team will produce finer work than a tired and unhealthy one | [ ] | [ ]  |
+| A well-rested and healthy competent team is more focused will produce finer work than a tired and unhealthy one | [ ] | [ ]  |
+| My team is more efficient when each team member focuses on their specific role | [ ] | [ ]  |
