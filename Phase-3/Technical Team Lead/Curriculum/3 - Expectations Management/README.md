@@ -57,6 +57,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | My team members will deliver good value if they had clear expectations of what needs to be delivered at what time | [ ] | [ ]  |
 | My team members will feel valued and energized if their work contributes to their personal goals and motivations  | [ ] | [ ]  |
 | It's okay to say no to unreasonable expectations if I explain why  | [ ] | [ ]  |
-| I can get higher output from my team by managing the expectations of my team members,  | [ ] | [ ]  |
+| I can get higher output from my team by managing the expectations of my team members  | [ ] | [ ]  |
 
 
