@@ -8,7 +8,8 @@ The fellow is capable of motivating their team and maintaining their team's ener
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Document logging team members' energy and commitment levels
+1. One assessment of energy and commitment levels (e.g red, yellow, green) in team member profile output
+2. Post-milestone short survey sent out to team members to measure motivation & commitment towards milestone
 
 
 **Objectives**
