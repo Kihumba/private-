@@ -56,7 +56,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| The amount of attention to detail my team members put into their work output is a reflection of my attention to detail capacity | [ ] | [ ]  |
+| My behaviors will set the bar for attention to detail that my teammates will hold themselves to | [ ] | [ ]  |
 | Looking out for the details in the work of others helps me to become more detail-oriented | [ ] | [ ]  |
 | By offering reasons why attention to detail is important, I reinforce my team members detail-orientedness | [ ] | [ ]  |
 | I can help my team members cultivate habits that will enable them output more detail-oriented work | [ ] | [ ]  |
