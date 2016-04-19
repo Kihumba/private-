@@ -23,6 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * How to facilitate team discussions to make decisions | [ ] | [ ]  |
 | * Factors that derail meeting objectives and methods to bring them back on course | [ ] | [ ]  |
 | * How do you prepare for facilitating group discussions/meetings | [ ] | [ ]  |
+| * How to weigh the value of relevant points when making a decision | [ ] | [ ]  |
 
 
 ----------
@@ -43,6 +44,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When facilitating group discussions **Action:** I make sure that the discussion ends with some form of consensus/decision/next step | [ ] |    [ ] |
 | **Context:** When soliciting team input into a key decision **Action:** I offer the same prompt to each team member requesting they add their unique perspective to the decision making process | [ ] |    [ ] |
 | **Context:** When leading new team members on a project **Action:** I keep track of the decision making inputs each of them offers to the group until I'm confident everyone is being heard | [ ] |    [ ] |
+| **Context:** When I receive input towards making a decision **Action:** I consider the input with other stakeholders' perpectives in mind | [ ] |    [ ] |
+| **Context:** When I receive input towards making a decision **Action:** I weigh the inputs against the outcomes of the desied decision | [ ] |    [ ] |
 
 
 ----------
@@ -57,4 +60,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Setting and communicating the desired outcome for a discussion/meeting guides the meeting towards a resolution | [ ] | [ ]  |
 | Having a clear agenda frames a discussion for organization and productivity | [ ] | [ ]  |
 | A decision made using each team member's input is better than a decision made by a single member or a subset of the team | [ ] | [ ]  |
+| Careful consideration of inputs now will save future headaches | [ ] | [ ]  |
 
