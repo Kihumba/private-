@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Sprint Retrospectives and when to do them     | [ ] | [ ]  |
 | * Burndown Chart      | [ ] | [ ]  |
 | * Technical Debt     | [ ] | [ ]  |
-
+| * The benefits of Agile over other Software Development Methodologies    | [ ] | [ ]  |
 
 ----------
 
@@ -40,6 +40,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When my team is not making strong progress between sprint planning sessions **Action:** I use the retrospectives to figure out why and to create possible solutions | [ ] |    [ ] |
 | **Context:** When team members pick stories/tasks during sprint planning sessions **Action:** I encourage team members to pick stories that they want to work on from the prioritized backlog | [ ] |    [ ] |
 | **Context:** During every sprint **Action:** I use the burndown chart to predict how well the team is going to meet their sprint goals and manage expectations accordingly  | [ ] |    [ ] |
+| **Context:** When I'm on a team that may be unfamiliar with Agile methodologies **Action:** I articulate the benefits of Agile over other software methodologies  | [ ] |    [ ] |
 
 
 ----------
