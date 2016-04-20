@@ -42,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I set my internal expectations of my team members **Action:** I clearly communicate my expectations to them | [ ] | [ ]  |
 | **Context:** When I set growth and learning expectations for junior members of the team **Action:** I set the expectations within their ZPD | [ ] | [ ]  |
 | **Context:** When I assign tasks to team members **Action:**  I take into account their individual strengths and capabilities | [ ] | [ ]  |
-| **Context:** When a new team member joins my team **Action:**  I assign them simple tasks (eg bug fixes, tests) and gradually increase their scope of contribution | [ ] | [ ]  |
+| **Context:** When a new team member joins my team **Action:**  I assign them tasks to help them get more familiar with the development environment and gradually increase their scope of contribution | [ ] | [ ]  |
 
 
 
