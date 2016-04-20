@@ -26,7 +26,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * How to use design to make spreadsheets more user friendly. | [ ] | [ ]  |
 | * Multiple uses for spreadsheets | [ ] | [ ]  |
 | * Different spreadsheet programs/solutions | [ ] | [ ]  |
-| * How to use Pivot Tables | [ ] | [ ]  |
 
 
 ----------
