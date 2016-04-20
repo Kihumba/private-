@@ -76,4 +76,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Powerful listening springs from humility and results in trust and achievement. | [ ] | [ ] |
 | I listen with my whole body. | [ ] | [ ] |
 | I listen best when I do not assume that I have understood the other person. | [ ] | [ ] |
-| Listening is hard work that bears many fruits. | [ ] | [ ] |
+| While listening takes effort, it also reaps many rewards. | [ ] | [ ] |

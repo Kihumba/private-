@@ -27,7 +27,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - The pros and cons of various alternatives (varies by situation). | [ ] | [ ] |
 | - Team and organizational priorities and their relationship with various alternatives for action (varies by situation). | [ ] | [ ] |
 | - My personal assumptions in relation to a given decision (varies by person and situation) | [ ] | [ ] |
-| -  | [ ] | [ ] |
+| | | |
 
 ---
 
@@ -48,7 +48,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 | **Context:** When conducting research and gathering data on alternatives, **Action:** I... | [ ] | [ ] |
 | - determine the amount of time I have to offer the recommendations or make the decision | [ ] | [ ] |
-| - decide the appropriate scope and depth of research to conduct and data to gather given the relative priority of the decision and the amount of time I have for making the recommedendation / decision | [ ] | [ ] |
+| - decide the appropriate scope and depth of research to conduct and data to gather given the relative priority of the decision and the amount of time I have for making the recommendendation / decision | [ ] | [ ] |
 | - explicitly identify assumptions I have about the decision at hand. | [ ] | [ ] |
 | - conduct balanced and unbiased research that aims to gather the information required to make a prudent decision supported by data, rather than seeking evidence to support prior-held beliefs and preferences that are not supported by data. | [ ] | [ ] |
 | - explicitly define the problem I am trying to solve and desired outcomes. Define research questions, desired data points, and data collection methods given the problem / desired outcomes and the amount of time I have to conduct research. Focus on the most impactful (relative to goals and priorities) and realistic (relative to timeframe) research and data collection methods. | [ ] | [ ] |
