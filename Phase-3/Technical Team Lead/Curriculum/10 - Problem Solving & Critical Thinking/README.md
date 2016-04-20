@@ -8,7 +8,7 @@ The Fellow is able to display logical reasoning by drawing inferences that can b
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A risk assessment document that covers observations, assumptions, and predictions of a potential decision on a simulation project
+1. A risk assessment document that covers observations, assumptions, and predictions of a potential decision on a project
 
 
 **Objectives**
@@ -18,9 +18,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| I can describe, from memory, common types of testing, including the following: | | |
-| * Risk Assessment| [ ] | [ ]  |
+| I can describe the following from memory: | | |
+| * Definition of inferences, extrapolation, logical reasoning| [ ] | [ ]  |
+| * Types of data that support problem solving| [ ] | [ ]  |
 | * Roles of observations, assumptions and predictions in risk assessment | [ ] | [ ]  |
+| * How to draw inferences from limited data | [ ] | [ ]  |
+| * How to extrapolate potential outcomes for a situation | [ ] | [ ]  |
 
 
 ----------
@@ -30,8 +33,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
+| **Context:** When I am solving a problem **Action:** I gather facts to support my solution design  | [ ] | [ ]  |
+| **Context:** When I gather facts **Action:** I draw inferences based on those facts  | [ ] | [ ]  |
 | **Context:** When I present ideas/solutions **Action:** I present them with facts that the solutions are based on and facts that the ideas could be correlated with  | [ ] | [ ]  |
-| **Context:** When I make predictions/recommendations **Action:** I highlight potential risks/unintended consequences of the recommendations |   [ ]   |   [ ]  |
+| **Context:** When I present ideas/solutions **Action:** I offer multiple predicted outcomes |   [ ]   |   [ ]  |
+| **Context:** When I make predictions/recommendations **Action:** I highlight potential pitfalls of the recommendations and address them |   [ ]   |   [ ]  |
+| **Context:** When I encounter new problems **Action:** I consider and leverage solutions/results from my prior experiences that may be similar |   [ ]   |   [ ]  |
+
 
 ----------
 
@@ -41,4 +49,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that my ideas will be more compelling if I base them on facts and offer predictions that account for vulnerability | [ ] | [ ]  |
+| My ideas will be more compelling if they are based on facts, offer multiple predicted outcomes, and address potential pitfalls | [ ] | [ ]  |
+| Risk is inevitable, it is my job to anticipate potential risks and work to mitigate their impact | [ ] | [ ]  |
+| It is rare to know all the facts before making a decision and that it is okay to make a decision based on assumptions and inferences | [ ] | [ ]  |
+| My prior experiences are a valuable resource for making effective inferences in new situations | [ ] | [ ]  |
+
