@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have a large task/project goal **Action:** I leverage the support of my team to break down the task into smaller tasks that can be completed by individuals  | [ ] | [ ]  |
-| **Context:** When estimating work **Action:** I break down the request into smaller units that can be more reliable estimated and then total up the individual estimates  | [ ] | [ ]  |
+| **Context:** When estimating work **Action:** I break down the request into smaller units that can be more reliably estimated and then total up the individual estimates  | [ ] | [ ]  |
 | **Context:** When I have broken down tasks **Action:** I collaboratively facilitate sessions with my team members to estimate the LOE/time required to complete the tasks  |   [ ]   |   [ ]  |
 | **Context:** When I'm estimating a set of decomposed tasks **Action:** I consider the throughput of my team and their relative experience levels at the given tasks  |   [ ]   |   [ ]  |
 | **Context:** When finalizing an estimate for a large project **Action:** I do a "gut check" to determine how much padding is needed to make me confident we can deliver  |   [ ]   |   [ ]  |
