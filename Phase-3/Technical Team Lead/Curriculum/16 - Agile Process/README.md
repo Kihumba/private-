@@ -1,4 +1,4 @@
-# Outcome 15 - Agile Process
+# Outcome 16 - Agile Process
 
 **Skill Description**
 ----------
@@ -35,6 +35,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I’m working with a new team **Action:** I identify the Agile methods they currently have in place and adopt them | [ ] | [ ]  |
 | **Context:** When I notice a possible improvement in a team’s process (eg. they could use more retrospectives) **Action:** I share my observations and discuss the advantages of making the modifications at the appropriate point in their current process |   [ ]   |   [ ]  |
 | **Context:** Whenever I notice technical debt accruing **Action:** I log it using the current debt logging system. If none exists, I start one | [ ] |    [ ] |
+| **Context:** Whenever I run daily standups **Action:** I urge team members to keep their updates short | [ ] |    [ ] |
+| **Context:** Whenever I run sprint retrospectives **Action:** I ask team members to discuss what worked, what did not work and what they'd like to change | [ ] |    [ ] |
+| **Context:** When team members pick stories/tasks during sprint planning sessions **Action:** I encourage team members to pick stories that they want to work on from the prioritized backlog | [ ] |    [ ] |
 
 
 ----------
@@ -45,7 +48,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Agile processes are one of the most effective ways to manage team contributions to a software product. | [ ] | [ ]  |
-| Everything can be iteratively improved on, even the process you’re using to improve.  | [ ] | [ ]  |
-| Improvement is best done within your current working process as an “evolution.”   | [ ] | [ ]  |
-| Revolutionaries waste time and gum up the works.  | [ ] | [ ]  |
+| Agile processes are one of the most effective ways to manage team contributions to a software product | [ ] | [ ]  |
+| Everything can be iteratively improved on, even the process you’re using to improve  | [ ] | [ ]  |
+| Improvement is best done within your current working process as an “evolution”   | [ ] | [ ]  |
+| Revolutionaries waste time and gum up the works  | [ ] | [ ]  |
