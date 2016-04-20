@@ -33,11 +33,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I’m working with a new team **Action:** I identify the Agile methods they currently have in place and adopt them | [ ] | [ ]  |
-| **Context:** When I notice a possible improvement in a team’s process (eg. they could use more retrospectives) **Action:** I share my observations and discuss the advantages of making the modifications at the appropriate point in their current process |   [ ]   |   [ ]  |
-| **Context:** Whenever I notice technical debt accruing **Action:** I log it using the current debt logging system. If none exists, I start one | [ ] |    [ ] |
+| **Context:** When I notice areas of improvement in a team’s process (eg. they could use more retrospectives) **Action:** I share my observations and discuss the advantages of making the modifications at the appropriate point in their current process |   [ ]   |   [ ]  |
+| **Context:** Whenever I notice technical debt accruing **Action:** I log it using the current debt logging system (eg as a chore in the project backlog). If none exists, I start one | [ ] |    [ ] |
 | **Context:** Whenever I run daily standups **Action:** I urge team members to keep their updates short | [ ] |    [ ] |
 | **Context:** Whenever I run sprint retrospectives **Action:** I ask team members to discuss what worked, what did not work and what they'd like to change | [ ] |    [ ] |
+| **Context:** When my team is not making strong progress between sprint planning sessions **Action:** I use the retrospectives to figure out why and to create possible solutions | [ ] |    [ ] |
 | **Context:** When team members pick stories/tasks during sprint planning sessions **Action:** I encourage team members to pick stories that they want to work on from the prioritized backlog | [ ] |    [ ] |
+| **Context:** During every sprint **Action:** I use the burndown chart to predict how well the team is going to meet their sprint goals and manage expectations accordingly  | [ ] |    [ ] |
 
 
 ----------
