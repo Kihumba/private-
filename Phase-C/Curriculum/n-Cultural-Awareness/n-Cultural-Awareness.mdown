@@ -3,13 +3,14 @@
 
 ## Skill Description
 
-The Fellow is able to identify and understand the regional and organizational culture of their client and how it differs from the fellow’s home. They also have the ability to adapt to other cultural norms as if they were their own. 
+The Fellow is able to identify and understand the regional and organizational culture of their client and how it differs from the Fellow’s home. They also have the ability to adapt to other cultural norms as if they were their own. 
 
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-- *[list of outputs that will be used to evaluate Fellow attainment of this skill here]*
+1. Written or recorded explanation of differences between regional culture in common Client locations and local culture.
+2. Written or recorded description of Andela culture.
 
 
 ## Objectives
