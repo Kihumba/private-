@@ -47,3 +47,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | The quality of my written communication is a reflection of my level of professionalism | [ ] | [ ]  |
 | Reports that have calls for action backing up the issues are likely to be better received and acted upon | [ ] | [ ]  |
+| I can command respect from senior management by communicating with concise and insightful reports | [ ] | [ ]  |
