@@ -50,5 +50,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that the efficiency of a program is determined by the algorithm being used. | [ ] | [ ]  |
-| I believe that the time spent making algorithms more efficient is never wasted. | [ ] | [ ]  |
+| Efficiency of a program is determined by the algorithm being used. | [ ] | [ ]  |
+| Time spent making algorithms more efficient is never wasted. | [ ] | [ ]  |
+

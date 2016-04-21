@@ -5,7 +5,7 @@ Testing is a method of assessing the functionality of a software program. This c
 
 - Writing a basic Unit Test
 - Running tests
-- Assertions
+- Testing Assertions
 
 ## Output
 
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I need to assert the proper functioning of an application, **Action:** I write tests to compare the output of the methods with their ideal outputs. | [ ] | [ ] |
 | **Context:** While writing tests, **Action:** I use assertions to create the expectations for my methods and procedures. | [ ] | [ ] |
 | **Context:** When I need to build an application, **Action:**  I begin with tests, making the methods abstracted, testable and scalable as independent units (modular). | [ ] | [ ] |
-| **Context:** Before writing  a test, **Action:** I select the assertion that most matches the expectation of the method or value to be tested | [ ] | [ ] |
+| **Context:** Before writing a test, **Action:** I select the assertion that most matches the expectation of the method or value to be tested. | [ ] | [ ] |
 
 -------
 

@@ -25,14 +25,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Understand the role of a computer scientist, what a computer scientist does and does not do. |   [ ]   |   [ ] |
 | Describe what computer science is in a way that anybody can understand |   [ ]   |   [ ] |
 | State the differences between a programmer and a computer scientist|   [ ]   |   [ ] |
-| WWho |   [ ]   |   [ ] |
 | The basics / overview of important computer science concepts: | | |
-| * Algorithm | [ ] | [ ]  |
-| * Programming     | [ ] | [ ]  |
-| * Data structures      | [ ] | [ ]  |
-| * Artificial Intelligence      | [ ] | [ ]  |
-| * Computer security | [ ] | [ ]  |
-| * Big Data | [ ] | [ ]  |
+| <ul><li> Algorithm | [ ] | [ ]  |
+| <ul><li> Programming     | [ ] | [ ]  |
+| <ul><li> Data structures      | [ ] | [ ]  |
+| <ul><li> Artificial Intelligence      | [ ] | [ ]  |
+| <ul><li> Computer security | [ ] | [ ]  |
+| <ul><li> Big Data | [ ] | [ ]  |
 
 
 	
@@ -45,8 +44,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I come across a new concept in computing, **Action:**  I do a few minutes of research to see if I understand it, how it might affect me, and whether I want to learn more about it. | [ ] |    [ ] |
+| **Context:** When I see someone reference a computer science term for programming, **Action:**  I clarify/understand the difference and when needed communicate the difference to anyone I engage with. | [ ] |    [ ] |
 
-
+ 
 ----------
 
 
@@ -55,4 +55,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that understanding basic computer science concepts will help me in whichever computer science field I want to specialize in. | [ ] | [ ]  |
+| Understanding basic computer science concepts will help me in whichever computer science field I want to specialize in. | [ ] | [ ]  |
+| World class developers understand basic computer science concepts. | [ ] | [ ]  |

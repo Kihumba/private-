@@ -22,13 +22,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | Definition of a class and an object. | [ ] | [ ]  |
 | Definition of common OOP principles and concepts: | | |
-| * Inheritance | [ ] | [ ]  |
-| * Encapsulation    | [ ] | [ ]  |
-| * Polymorphism      | [ ] | [ ]  |
-| * Constructor      | [ ] | [ ]  |
-| * Destructor | [ ] | [ ]  |
-| * Instance Variables | [ ] | [ ]  |
-| * Class and Static methods | [ ] | [ ]  |
+| <ul><li> Inheritance | [ ] | [ ]  |
+| <ul><li> Encapsulation    | [ ] | [ ]  |
+| <ul><li> Polymorphism      | [ ] | [ ]  |
+| <ul><li> Constructor      | [ ] | [ ]  |
+| <ul><li> Destructor | [ ] | [ ]  |
+| <ul><li> Instance Variables | [ ] | [ ]  |
+| <ul><li> Class and Static methods | [ ] | [ ]  |
 | Implement the above OOP concepts using Python. | [ ] | [ ]  |
 | Using OOP to write DRY code. | [ ] | [ ]  |
 | Give examples of where OOP can be successfully applied. | [ ] | [ ]  |
@@ -44,7 +44,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When doing OOP data modelling **Action:** I identify the objects, their properties and their behaviours. | [ ] | [ ]  |
+| **Context:** When creating model classes, **Action:** I properly represent the objects and behaviors of the class. | [ ] | [ ]  |
 | **Context:** When modelling an object **Action:** I define my attributes as variables and behaviour as methods within my class. |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modelling **Action:** I strive to ensure my code is DRY by building reusable components. |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modelling **Action:** I take advantage of Inheritance to ensure I am reusing code as much as possible. |   [ ]   |   [ ]  |
@@ -59,6 +59,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that modelling my code design in an object oriented way helps me think about problems better and helps me write sustainable and reusable program components. | [ ] | [ ]  |
+| I have a clear picture of a programming problem when I model using OOP.| [ ] | [ ]  |
+| My application's codebase is more sustainable and resuable when I use OOP. | [ ] | [ ]  |
+
 
 

@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow has the ability to establish themselves as a trusted advisor to the client, where the client sees them as having the client's best interest at hand and capable of giving unbiased advice on the best solution for a client's needs.
+This is a specific aspect of Relationship Building related to a Technical Team Lead's responsibilities to Clients. The Technical Team Lead has the ability to establish themselves as a trusted advisor to the Client, where the Client sees them as having the Client's best interest at hand and capable of giving unbiased advice on the best solution for the Client's needs.
 
 **Output**
 ----------
@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * What does it mean to be a trusted advisor to a client? | [ ] | [ ]  |
 | * What are the top 3 most critical needs of my client ? | [ ] | [ ]  |
+| * What are the differences between the best interests of my Client, Andela, and myself ? | [ ] | [ ]  |
 
 
 ----------
@@ -42,8 +43,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that my opinions matter | [ ] | [ ]  |
+| My opinions matter | [ ] | [ ]  |
 | I am capable of offering suggestions and ideas that are instrumental to my client company's growth and success | [ ] | [ ]  |
-| I believe that by demonstrating advisorship to clients, I can build trust that leads to my Client hiring additional Fellows | [ ] | [ ]  |
+| By demonstrating advisorship to clients, I can build a level of trust that leads to my Client hiring additional Fellows | [ ] | [ ]  |
 
 

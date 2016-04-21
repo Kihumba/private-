@@ -9,7 +9,7 @@ The Fellow is able to facilitate group discussions and lead them towards making 
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Meeting notes highlighting action points agreed upon by team during a team meeting
+1. Discussion/team meeting notes highlighting objectives of discussion, and action points (agreed upon by team) that suggest steps towards resolution of the objectives
 
 
 **Objectives**
@@ -21,6 +21,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to facilitate team discussions to make decisions | [ ] | [ ]  |
+| * Factors that derail meeting objectives and methods to bring them back on course | [ ] | [ ]  |
+| * How do you prepare for facilitating group discussions/meetings | [ ] | [ ]  |
+| * How to weigh the value of relevant points when making a decision | [ ] | [ ]  |
+| * The parties (stakeholders and other people) impacted by your team's decisions | [ ] | [ ]  |
 
 
 ----------
@@ -30,11 +34,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When facilitating group discussions **Action:** I set a desired outcome and keep people focused on moving towards it | [ ] | [ ]  |
-| **Context:** When facilitating group discussions **Action:** I don’t let the group get side-tracked with aimless debates than 5 minutes |   [ ]   |   [ ]  |
-| **Context:** When facilitating group discussions **Action:** I identify who in the group is speaking freely and who may need more time to think or alternate ways to contribute | [ ] |    [ ] |
+| **Context:** Before scheduling group discussions **Action:** I create an agenda and desired outcomes for the discussion | [ ] | [ ]  |
+| **Context:** When scheduling group discussions **Action:** I send agenda items and desired outcomes to all participants | [ ] | [ ]  |
+| **Context:** At the start of group discussions **Action:** I ensure that notes are being taken by a team representative (could be me) | [ ] | [ ]  |
+| **Context:** When facilitating group discussions **Action:** I don’t let the group get side-tracked with aimless debates for more than 5 minutes |   [ ]   |   [ ]  |
+| **Context:** When there are outstanding questions/topics that may take long to resolve **Action:** I ask the note-taker to document them for further discussion at the end of the meeting (if there's time) or at a later discussion |   [ ]   |   [ ]  |
+| **Context:** When facilitating group discussions **Action:** I identify who in the group is speaking freely and who may need more time to think and contribute | [ ] |    [ ] |
+| **Context:** When facilitating group discussions **Action:** I invite the less talktative team members to share their thoughts | [ ] |    [ ] |
 | **Context:** When facilitating group discussions **Action:** I continue to push the group to stick to the point of the discussion always save time at the end to resolve/commit to next steps | [ ] |    [ ] |
-| **Context:** When facilitating group discussions **Action:** I make sure that the discussion ends with some form of consensus/decision | [ ] |    [ ] |
+| **Context:** When facilitating group discussions **Action:** I make sure that the discussion ends with some form of consensus/decision/next step | [ ] |    [ ] |
+| **Context:** When soliciting team input into a key decision **Action:** I offer the same prompt to each team member requesting they add their unique perspective to the decision making process | [ ] |    [ ] |
+| **Context:** When leading new team members on a project **Action:** I keep track of the decision making inputs each of them offers to the group until I'm confident everyone is being heard | [ ] |    [ ] |
+| **Context:** When I receive input towards making a decision **Action:** I consider the input with other stakeholders' perpectives in mind | [ ] |    [ ] |
+| **Context:** When I receive input towards making a decision **Action:** I weigh the inputs against the outcomes of the desied decision | [ ] |    [ ] |
 
 
 ----------
@@ -45,5 +57,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that teams put more effort in their work when they feel that their voices were heard in the decision making process | [ ] | [ ]  |
+| Team members put more effort in their work when they feel that they are part of the decision making process | [ ] | [ ]  |
+| Setting and communicating the desired outcome for a discussion/meeting guides the meeting towards a resolution | [ ] | [ ]  |
+| Having a clear agenda frames a discussion for organization and productivity | [ ] | [ ]  |
+| A decision made using each team member's input is better than a decision made by a single member or a subset of the team | [ ] | [ ]  |
+| Careful consideration of inputs now will save future headaches | [ ] | [ ]  |
 
