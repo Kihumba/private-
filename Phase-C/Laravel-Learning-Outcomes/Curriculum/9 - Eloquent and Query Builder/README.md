@@ -69,7 +69,7 @@ Lay out the data architecture you'd need to implement to build the following sce
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Building queries with scopes help keep things DRY. | [ ] | [ ]  |
-| Query Builder methods return results faster than Eloquent methods. | [] | [] |
+| Query Builder methods return results faster than Eloquent methods. | [ ] | [ ] |
 | ORM makes working with databases in a laravel application easier. | [ ] | [ ]  |
 | ORMs built using the ActiveRecord pattern are easier to work with than those built with other patterns (e.g DataMapper pattern). | [ ] | [ ]  |
 | Retrieving related data using Eloquent associations is easy. | [ ] | [ ]  |
