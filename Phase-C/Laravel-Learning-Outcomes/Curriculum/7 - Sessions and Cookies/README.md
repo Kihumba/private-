@@ -60,7 +60,7 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Session hijacking is real. | [ ] | [ ]  |
-| Sessions and cookies are very vital to web applications. | [ ] | [ ]  |
-| I can speed up my application by making good use of sessions. | [ ] | [ ]  |
-| I can use sessions and cookies to maintain state across every part of my web applications. | [ ] | [ ]  |
+| Sessions stored securely are less prone to hijacking. | [ ] | [ ]  |
+| Sessions and cookies help track user information across web application pages. | [ ] | [ ]  |
+| Sessions make information storage and retrieval faster in a web application. | [ ] | [ ]  |
+| With Sessions, I can continue where I left off in a web application. | [ ] | [ ]  |
