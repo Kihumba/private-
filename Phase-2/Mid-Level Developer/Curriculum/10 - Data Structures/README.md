@@ -8,12 +8,7 @@ The fellow also understands binary trees, heaps, b-trees, and graphs, and how to
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create implementations of the following:
  
-1. Binary Trees
-2. Binary Search Algorithm
-3. Heaps
-4. Graphs
-5. Breadth-first Search Algorithm
-5. Depth-first Search Algorithm
+1. HackerRank exercises that cover Binary Trees, Heaps, and Graphs 
 
 
 **Objectives**
@@ -48,5 +43,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that leveraging appropriate Data Structures will help me create more efficient solutions to problems | [ ] | [ ]  |
+| Leveraging appropriate Data Structures will help me create more efficient solutions to problems | [ ] | [ ]  |
 
