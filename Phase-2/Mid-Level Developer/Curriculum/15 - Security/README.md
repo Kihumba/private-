@@ -20,9 +20,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Security vulnerability | [ ] | [ ]  |
+| * Security vulnerabilities | [ ] | [ ]  |
 | * Types of attacks/exploits     | [ ] | [ ]  |
-| * Common vulnerabilities with web and mobile application     | [ ] | [ ]  |
+| * Common vulnerabilities with web and mobile applications     | [ ] | [ ]  |
+| * How to close common vulnerabilities with web and mobile applications     | [ ] | [ ]  |
+| * How to report vulnerabilites in my organization     | [ ] | [ ]  |
 
 
 ----------
@@ -32,8 +34,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I build applications **Action:** I test my code with the mindset of an attacker seeking vulnerabilities | [ ] | [ ]  |
-| **Context:** When I test my code **Action:** I run security tests for common vulnerabilities | [ ] | [ ]  |
+| **Context:** When I test programs **Action:** I do so with the mindset of an attacker seeking vulnerabilities to exploit | [ ] | [ ]  |
+| **Context:** When I test my programs **Action:** I run security tests for common vulnerabilities | [ ] | [ ]  |
+| **Context:** When I identify vulnerabilities in a program I built **Action:** I close the vulnerabilities and test again to ensure that they are gone | [ ] | [ ]  |
+| **Context:** When I identify vulnerabilities in a program built by my organization **Action:** I report them to the appropriate stakeholders | [ ] | [ ]  |
 
 
 
@@ -45,5 +49,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that I can build more secure applications by thinking like an attacker when building and testing | [ ] | [ ]  |
+| Being able to identify security vulnerabilities makes me an asset to my organization | [ ] | [ ]  |
+| I can build more secure applications by thinking like an attacker when building and testing | [ ] | [ ]  |
 
