@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The fellow demonstrates the ability to build a basic CRUD (Create, Read, Update, Delete) API.
+The Fellow demonstrates the ability to build a basic CRUD (Create, Read, Update, Delete) API.
 
 **Output**
 ----------
