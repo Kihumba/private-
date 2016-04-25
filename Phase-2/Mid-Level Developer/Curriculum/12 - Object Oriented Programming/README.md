@@ -24,6 +24,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Liskov Subsitution Principle | [ ] | [ ]  |
 | * Interface Segregation Principle | [ ] | [ ]  |
 | * Dependency Inversion     | [ ] | [ ]  |
+| * The advantages of SOLID principles     | [ ] | [ ]  |
 
 
 ----------
@@ -33,7 +34,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I write or review programs **Action:** I look out for potential violations of the SOLID principles and make or recommend appropriate changes | [ ] | [ ]  |
+| **Context:** When I write object-oriented programs **Action:** I adhere to the SOLID principles | [ ] | [ ]  |
+| **Context:** When I review object-oriented programs **Action:** I look out for potential violations of the SOLID principles and recommend appropriate changes | [ ] | [ ]  |
 
 
 
@@ -45,5 +47,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that adhering to the SOLID principles make my code more modular, reusable and extendable | [ ] | [ ]  |
+| Adhering to the SOLID principles make my code more modular, reusable and extendable | [ ] | [ ]  |
 
