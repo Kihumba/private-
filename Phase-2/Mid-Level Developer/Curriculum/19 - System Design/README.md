@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The fellow demonstrates an understanding of how design decisions are made in software development, trade-offs between stacks and technologies
+The Fellow demonstrates an understanding of how design decisions are made in software development, trade-offs between stacks and technologies
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A project with documentation explaining why what stacks/technologies were used
+1. Document explaining why what stacks/technologies were used on a particular project
 
 
 **Objectives**
@@ -19,8 +19,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Tradeoffs between Web and Mobile | [ ] | [ ]  |
+| * Tradeoffs between Web and Mobile systems/development | [ ] | [ ]  |
 | * Tradeoffs between Java, Javascript, PHP, Python and Ruby    | [ ] | [ ]  |
+| * Systems architecture patterns and their applications    | [ ] | [ ]  |
+| * How to choose the right tool for the job    | [ ] | [ ]  |
+
 
 
 ----------
@@ -30,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** Before I start building applications **Action:** I analyze the application needs and choose the optimal language, frameworks, database, architecture after comparing the tradeoffs of all the options | [ ] | [ ]  |
+| **Context:** Before I start building applications **Action:** I analyze the application needs/requirements and choose the optimal language, frameworks, database, architecture after comparing the tradeoffs of all the options | [ ] | [ ]  |
 
 
 
@@ -42,5 +45,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that by investing time to select the optimal technlogies for a new system, I will build more durable applications for the long term | [ ] | [ ]  |
+| I always advocate for the right tool for the job | [ ] | [ ]  |
+| Investing time to select the optimal technlogies for a new system helps me build more durable applications for the long term | [ ] | [ ]  |
 
