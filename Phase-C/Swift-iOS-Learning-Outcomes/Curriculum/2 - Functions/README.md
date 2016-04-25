@@ -11,17 +11,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - A program in Swift Playground that can parse different data types, and return a result.
 - The function should take an argument, a Function as well, and call it with any argument e.g String, that gets printed out.
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 1_, available upon request.**
+
 ## Objectives
 
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What are functions?| [ ] | [ ] |
-| What are Arguments and Parameters? | [ ] | [ ] |
-| How can you make an Argument Optional? | [ ] | [ ] |
-| How do you pass Functions as Arguments to Functions? (Callbacks in Swift) | [ ] | [ ] |
-| What are the Function shorthands in Swift | [ ] | [ ] |
+| Functions and methods. [ ] | [ ] |
+| Difference between Arguments and Parameters. | [ ] | [ ] |
+| Creating `Optional` Arguments. | [ ] | [ ] |
+| Passing Functions as Arguments.  (Callbacks in Swift) | [ ] | [ ] |
+| Shorthands for Functions in Swift (functional Swift). | [ ] | [ ] |
 
 ----------
 ### Behaviors
@@ -37,5 +39,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that making use  of functions when I need to run procedures will run them from top to bottom without any interruptions. | [ ] | [ ] |
-| I believe that working directly with Parameters of functions, not creating redundant variables or references improves the performance of my application by saving memory | [ ] | [ ] |
+| Functions will run my procedures from top to bottom without any interruptions. | [ ] | [ ] |
+| Memory is saved when I use Parameters directly, without creating redundant variables references. | [ ] | [ ] |

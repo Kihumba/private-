@@ -41,5 +41,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using Frameworks gives me the power to use complicated services that run super efficiently. | [ ] | [ ] |
-| I believe that using Package Managers will help organize the Frameworks I use in my Xcode Workspace. | [ ] | [ ] |
+| Frameworks give me access to services that make my work efficient. | [ ] | [ ] |
+| Package Managers give me control over my Frameworks. | [ ] | [ ] |

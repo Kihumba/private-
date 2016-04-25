@@ -14,15 +14,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - A Swift Playground Program that throws a custom error when it receives and invalid input, without any form of error handling. The custom Error should be enumerated and catch as such.
 - A Swift Playground Program that catches any generic error as NSError, and outputs the error message.
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 1_, available upon request.**
+
+
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What class is commonly used to represent errors in Swift? (`NSError`)? | [ ] | [ ] |
-| What types of errors exist in Swift? | [ ] | [ ] |
-| What’s the syntax for catching Errors in Swift? `do-try-catch` | [ ] | [ ] |
-| How do I throw an Error? `guard-throws` | [ ] | [ ] |
+| The properties of common error class in Swift `NSError` (domain, code). | [ ] | [ ] |
+| Types of Errors in Swift. | [ ] | [ ] |
+| Handling errors in Swift using `do-try-catch` blocks. | [ ] | [ ] |
+| Throwing errors using `guard-throws`. | [ ] | [ ] |
 
 -------
 
@@ -40,4 +43,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that handling and dealing with errors will avoid the application from crashing at runtime. | [ ] | [ ] |
+| Applications can crash at runtime if errors are not handled. | [ ] | [ ] |

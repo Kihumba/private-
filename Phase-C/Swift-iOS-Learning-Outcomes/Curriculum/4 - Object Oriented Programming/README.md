@@ -12,22 +12,22 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - By default, the Playground includes the Foundation namespace. Remove the Foundation namespace, take note of what happens. Create a comment under the Foundation import with your note.
 - Extend the `String` class, and add a function that returns an Array of words in a sentence.
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 1_, available upon request.**
+
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is O.O.P? | [ ] | [ ] |
-| What are Namespaces? | [ ] | [ ] |
-| What are Classes? And how are they similar to Structs? | [ ] | [ ] |
-| What are Enumerations and how are they used? | [ ] | [ ] |
-| _Computed Properties_ |
-| What are Computed Properties? (Getters and Setters) | [ ] | [ ] |
-| What are the advantages of using Computed Properties as opposed to manually performing the operations | [ ] | [ ] |
-| How and where are Computed Properties created? | [ ] | [ ] |
-| _Protocol Oriented Programing_ | [ ] | [ ] |
-| What is P.O.P? (`protocol`) | [ ] | [ ] |
-| How can I extend the functionality of an already existing class? (`extension`) | [ ] | [ ] |
+| Namespace referencing in Swift. | [ ] | [ ] |
+| Similarities and Differences between Structs and Classes. | [ ] | [ ] |
+| Use cases for Classes and Structs. | [ ] | [ ] |
+| Using Enumerations with Conditionals. | [ ] | [ ] |
+| Using Computed Properties (Getters and Setters) in Classes. | [ ] | [ ] |
+| The advantages of using Computed Properties as opposed to manually calling methods. | [ ] | [ ] |
+| Syntax for creating Getters and Setters. | [ ] | [ ] |
+| Protocol Oriented Programming using `protocol` and `extension`. | [ ] | [ ] |
+| Adding methods to existing Classes using `extension`. | [ ] | [ ] |
 
 -------
 
@@ -47,11 +47,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that knowing the essentials of object oriented programming will allow me write well decoupled and reusable code. | [ ] | [ ] |
-| I believe using the concept of Inheritance and Abstraction will prevent me from writing duplicate blocks of code, [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). | [ ] | [ ] |
-| I believe that I can identify the uses cases of Structs and Classes and use the one more pertinent to the use case. | [ ] | [ ] |
-| I believe that using Computed Properties will improve my code quality by abstracting property operations. | [ ] | [ ] |
-| I believe that namespaces help make importing and referencing of packages and methods more explicit | [ ] | [ ] |
-| I believe that creating inheritable behaviors and characteristics that I need to transcend down a Class or Struct by achieved easily in Swift using Protocols. | [ ] | [ ] |
-| I believe that extending already existing classes and adding custom functionality to them for my perusal can be achieved easily in Swift by making use of `extension`. | [ ] | [ ] |
-| I believe that `protocol` and `extension` make Inheritance, Abstraction and other concepts of O.O.P easy to implement in Swift. | [ ] | [ ] |
+| The essentials of object oriented programming helps me write well decoupled and reusable code. | [ ] | [ ] |
+| Inheritance and Abstraction will prevent me from writing duplicate blocks of code, [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself). | [ ] | [ ] |
+| Computed Properties will improve my code quality by abstracting property procedures. | [ ] | [ ] |
+| Namespaces gives me the ability to explicitly reference a particular package. | [ ] | [ ] |
+| Protocols and Extension helps me implement Inheritance and Abstraction in O.O.P. | [ ] | [ ] |

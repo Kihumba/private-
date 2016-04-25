@@ -16,24 +16,23 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - A Playground Project that processes an input and produces a conditioned output.
 - A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
 
-## Objectives
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 1_, available upon request.**
 
+## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | _Variables and Constants_ |
-| What is a variable? | [ ] | [ ] |
-| What is a constant? | [ ] | [ ] |
-| A constant as an immutable variable | [ ] | [ ] |
-| How do you create Variables and Constants? How to use `var` and `let` respectively.| [ ] | [ ] |
+| Variables, as a value reference. | [ ] | [ ] |
+| Constants as immutable variables. | [ ] | [ ] |
+| A constant as an immutable variable. | [ ] | [ ] |
+| Syntax for creating Variables and Constants, using `var` and `let` respectively.| [ ] | [ ] |
 | _Control Flow Statements_ |
-| What are Control Flow Statements?| [ ] | [ ] |
-| What are the types of Control Flow Statements? | [ ] | [ ] |
-| What are Conditionals? | [ ] | [ ] |
-| What are the type of Conditionals? (if-else, switch-case, do-catch) | [ ] | [ ] |
-| What are loops? | [ ] | [ ] |
-| What are the types of Loops? (for, for-in, while) | [ ] | [ ] |  
+| Types of Control Flow Statements. | [ ] | [ ] |
+| The type of Conditionals (if-else, switch-case, do-catch). | [ ] | [ ] |
+| Looping to repeat a procedure for a number of items in a collection. | [ ] | [ ] |
+| Types of Loops (for, for-in, while). | [ ] | [ ] |  
 
 -------
 
@@ -55,8 +54,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| _Variables and Constants_ |
-| I believe that using variables and constants appropriately will make my programs more efficient and readable. | [ ] | [ ] |
-| _Control Flow Statements_ |
-| I believe that using Loops when I need to repeat a procedure for a number of items in a collection will keep my code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) | [ ] | [ ] |
-| I believe that using conditional statements to express optional procedures based off an input or value will affect the output of a process. | [ ] | [ ] |
+| Appropriate use of variables and constants will make my application run efficiently. | [ ] | [ ] |
+| Conditional statements allow me condition an output based on a input. | [ ] | [ ] |

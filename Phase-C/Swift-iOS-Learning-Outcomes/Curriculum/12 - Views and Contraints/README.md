@@ -47,6 +47,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I believe that creating a View Controller with the appropriate UIView elements creates a seamless user experience. | [ ] | [ ] |
-| I believe that creating an Outlet (`IBOutlet`) for a `UIView` makes the `UIView` object available in my Controller's script. | [ ] | [ ] |
-| I believe that creating an Action (`IBAction`) for a `UIView` makes it possible to assign actions / events to a `UIView` and hand them in the Controller's script. | [ ] | [ ] |
+| With `IBAction` I can make a view react to any user action. | [ ] | [ ] |
 | I believe that adding the pertinent Constraints to my UI Elements will make them display properly on all screens. | [ ] | [ ] |

@@ -20,7 +20,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What elements can be added to a View Controller (in the Scene's container)? | [ ] | [ ] |
 | How to switch View Controllers non-programmatically(Segues) and programmatically? | [ ] | [ ] |
 | In what circumstances do you embed View Controllers in Navigation and Tab Bar Controllers? | [ ] | [ ] |
-| What are the other forms of the `UIViewController` (Page, Table, Collection etc)? | [ ] | [ ] |
+| Other forms of the `UIViewController` (Page, Table, Collection etc). | [ ] | [ ] |
+| View Controllers are abstractions of the `UIViewController` class, with some added Behaviors. | [ ] | [ ] |
+| `TableViewController` and `CollectionViewController` should contain a monolith element(s) / template(s) that are repeated for a collection of data. | [ ] | [ ] |
 | How do I link my View Controller in the Scene, to a custom View Controller class I have created? | [ ] | [ ] |
 
 ------
@@ -40,6 +42,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that the various View Controllers are abstractions of the `UIViewController` class, with some added Behaviors. | [ ] | [ ] |
-| I believe that the `TableViewController` and `CollectionViewController` should contain a monolith element(s) / template(s) that are repeated for a collection of data. | [ ] | [ ] |
-| I believe that the Navigation, Tab View Controllers, the Page View Controllers are used to simplify creation of tabs and pages to achieve the akin User Experience. | [ ] | [ ] |
+| With View Controllers, I can achieve any User Experience. | [ ] | [ ] |
