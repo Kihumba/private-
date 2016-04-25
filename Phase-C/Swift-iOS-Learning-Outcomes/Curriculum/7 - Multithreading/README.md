@@ -10,18 +10,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 - An iOS project that performs an operation in a background thread and displays the result in the main thread on completion.
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 2_, available upon request.**
+
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is Multithreading? | [ ] | [ ] |
-| Why it is important to run tasks in parallel? | [ ] | [ ] |
-| What are the available Multithreading methods in Swift? | [ ] | [ ] |
-| How is the _Grand General Dispatcher_ used? | [ ] | [ ] |
-| What are queues? | [ ] | [ ] |
-| How is _NSOperation_ used? | [ ] | [ ] |
-| How is _NSThread_ used? | [ ] | [ ] |
+| Multithreading, working with different queues in Swift. | [ ] | [ ] |
+| Importance of running tasks in Parallel (Async over Sync). | [ ] | [ ] |
+| Using the _Grand General Dispatcher_. | [ ] | [ ] |
+| The generic Queues available in Swift. | [ ] | [ ] |
+| Multithreading with _NSOperation_. | [ ] | [ ] |
+| Multithreading with _NSThread_ used. | [ ] | [ ] |
 
 -------
 
@@ -40,5 +41,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that running background processes on new threads will prevent my app from Freezing. | [ ] | [ ] |
-| I believe that running two or more processes in parallel will make them complete and produce results on time and asynchronously. | [ ] | [ ] |
+| My Application will not Freeze or stutter if I run blocking processes on background queues. | [ ] | [ ] |
+| Processes that run in parallel will complete and return results asynchronously. | [ ] | [ ] |

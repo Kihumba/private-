@@ -10,24 +10,21 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - Create a model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`).
 - Create a `UIViewController` with its Script and UI Component (the container of the Scene in the Storyboard).
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 3_, available upon request.**
+
 ## Objectives
 
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What does the model represent in MVC? | [ ] | [ ] |
-| What does the view represent in MVC? | [ ] | [ ] |
-| What does the controller represent in the MVC? | [ ] | [ ] |
-| What is contained in the Controller? | [ ] | [ ] |
-| What is the function of the Controller? | [ ] | [ ] |
-| How do you link a Controller to a view? | [ ] | [ ] |
-| What is contained in the view? | [ ] | [ ] |
-| How is a view represented in iOS? | [ ] | [ ] |
-| What is the function of the Model? | [ ] | [ ] |
-| What persistent data stores a available in iOS? | [ ] | [ ] |
+| The MVC Pattern consists of a Model, a View and a Controller all playing their appropriate roles. | [ ] | [ ] |
+| The function of the Model in MVC. | [ ] | [ ] |
+| The function of the View in MVC. | [ ] | [ ] |
+| The function of the Controller in MVC. | [ ] | [ ] |
+| Connecting a Controller to a View. | [ ] | [ ] |
+| Using a Persisting Data store with your Model (`CoreData`). | [ ] | [ ] |
 | Creating a model to work with your data store. | [ ] | [ ] |
-| How are models, views and controllers interconnected? | [ ] | [ ] |
 | Using a Controller with different views. | [ ] | [ ] |
 
 -------
@@ -47,5 +44,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that a well structured application should consist of a Model, a View and a Controller all playing their appropriate roles. | [ ] | [ ] |
-| I believe that using the MVC Pattern by separation of concerns makes the application easy to manage and scale. | [ ] | [ ] |
+| MVC Pattern by separation of concerns makes my application easy to manage and scale. | [ ] | [ ] |

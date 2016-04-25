@@ -8,20 +8,27 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 - An iOS Project is to be created which includes `CoreData` in the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults (`NSUserDefaults`), `NSKeyedArchiver` and `CoreData`.
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 2_, available upon request.**
+
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| Why is it important to Persist Data? | [ ] | [ ] |
-| What type of data can be persisted?  | [ ] | [ ] |
-| What tools / libraries can be used to persist data? | [ ] | [ ] |
+| The importance of Persisting Data. | [ ] | [ ] |
+| The Tools / libraries used to persist data. | [ ] | [ ] |
 | What case is un-persistent data useful? | [ ] | [ ] |
-| What type of data can be stored in User Defaults (`NSUserDefaults`)? | [ ] | [ ] |
-| What type of data can be stored in `NSKeyedArchiver` | [ ] | [ ] |
-| What type of data can be stored in `CoreData`? | [ ] | [ ] |
-| What query structure is employed in the various Data storage systems?  | [ ] | [ ] |
-| What are the storage limits of the Data storage systems? | [ ] | [ ] |
+| Storing data in User Defaults (`NSUserDefaults`). | [ ] | [ ] |
+| Storing data in `NSKeyedArchiver`. | [ ] | [ ] |
+| Storing data in `CoreData`. | [ ] | [ ] |
+| Data query methods (reading and writing) used with  |
+| `NSUserDefaults` | [ ] | [ ] |
+| `NSKeyedArchiver` | [ ] | [ ] |
+| `CoreData` | [ ] | [ ] |
+| The data storage limits and recommended usage of  |
+| `NSUserDefaults` | [ ] | [ ] |
+| `NSKeyedArchiver` | [ ] | [ ] |
+| `CoreData` | [ ] | [ ] |
 
 -------
 
@@ -41,7 +48,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that data should be saved on the device when its to read or written frequently by the device. | [ ] | [ ] |
-| I believe that User Defaults (`NSUserDefaults`) is used to get / set data only when quick access to said data is required. | [ ] | [ ] |
-| I believe that `CoreData` can be used to save relational data on a local device. | [ ] | [ ] |
-| I believe that `CoreData` runs on SQLite Engine in the background. | [ ] | [ ] |
+| Data is saved on the device when its to read or written frequently. | [ ] | [ ] |
+| User Defaults (`NSUserDefaults`) gives me the ability to store lite data for quick access. | [ ] | [ ] |
+| `CoreData` runs on SQLite Engine and will allow me store relational data. | [ ] | [ ] |

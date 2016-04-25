@@ -15,17 +15,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 - An iOS project with failing tests cases intended to cover the functions defined.
 - An iOS Project with passing tests to cover the defined functions.
 
+- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 1_, available upon request.**
+
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is a unit test? | [ ] | [ ] |
-| How do I write a unit test? | [ ] |  [ ] |
-| What is TDD? Test Driven Development. | [ ] | [ ] |
-| What is the purpose of Testing? | [ ] | [ ] |
-| What are Test Assertions? | [ ] | [ ] |
-| How do pick the right assertion to use? | [ ] | [ ] |
+| Unit tests, testing modular units of your application. | [ ] | [ ] |
+| Writing UI Tests, its similarities with E2E testing. | [ ] | [ ] |
+| Writing Unit tests using TDD (Test Driven Development) approach. | [ ] | [ ] |
+| The purpose of Testing. | [ ] | [ ] |
+| The test Assertions available in Swift. | [ ] | [ ] |
+| Selecting the most appropriate assertion to match the test's context. | [ ] | [ ] |
 
 -------
 
@@ -44,5 +46,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that writings tests at the early stage of an application helps reduce the potential of bugs. | [ ] | [ ] |
-| I believe that the test-driven development approach, will enable me write modular code that can be easily maintained and tested. | [ ] | [ ] |
+| The potential of bugs are reduced when I write tests. | [ ] | [ ] |
+| The Test Driven Development approach forces me to write modular code. | [ ] | [ ] |
