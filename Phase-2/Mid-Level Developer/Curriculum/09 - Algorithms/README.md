@@ -1,8 +1,8 @@
-# Outcome 14 - Algorithms
+# Outcome 9 - Algorithms
 
 **Skill Description**
 ----------
-The fellow understands the most common search, data analysis and optimization algorithms and has the ability to identify the correct algorithm for a given situation based on accuracy and efficiency.
+The Fellow understands the most common search, data analysis and optimization algorithms and has the ability to identify the correct algorithm for a given situation based on accuracy and efficiency.
 
 **Output**
 ----------
@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * In-order, Pre-order, Posr-order tree traversal | [ ] | [ ]  |
+| * In-order, Pre-order, Post-order tree traversal | [ ] | [ ]  |
 | * Breadth-first search     | [ ] | [ ]  |
 | * Depth-first search     | [ ] | [ ]  |
 
@@ -44,5 +44,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that familiarity of common algorithms will help me come up with solutions faster because I'd be able to identify common solution patterns for similar problems | [ ] | [ ]  |
+| Familiarity of common algorithms will help me come up with solutions faster because I'd be able to identify common solution patterns for similar problems | [ ] | [ ]  |
 
