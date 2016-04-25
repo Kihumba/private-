@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * API | [ ] | [ ]  |
 | * CRUD     | [ ] | [ ]  |
+| * HTTP status codes     | [ ] | [ ]  |
 | * Web/HTTP API Best Practices     | [ ] | [ ]  |
 
 
@@ -31,9 +32,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I build an Web/HTTP API **Action:** I ensure that I follow the best practices for writing Web/HTTP APIs | [ ] | [ ]  |
-| **Context:** When I build an API **Action:** I ensure that I write documenation | [ ] | [ ]  |
-| **Context:** When I build API documentation **Action:** I ensure it is detailed, comprehensive and has examples for each method | [ ] | [ ]  |
+| **Context:** When I build an Web/HTTP API **Action:** I follow the best practices for writing Web/HTTP APIs | [ ] | [ ]  |
+| **Context:** When I build an API **Action:** I support it with documentation | [ ] | [ ]  |
+| **Context:** When I write API documentation **Action:** I make it detailed, comprehensive and has examples for each API method | [ ] | [ ]  |
 
 
 
@@ -45,5 +46,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that building APIs gives me flexibility I need to build device/platform-agnostic applications | [ ] | [ ]  |
+| Building APIs gives me flexibility I need to build device/platform-agnostic applications | [ ] | [ ]  |
 
