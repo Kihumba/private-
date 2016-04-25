@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The fellow understand the pros and cons of multiple types of databases and how to assess a product's needs to identify the right one for the job.  They are comfortable setting up a database and creating complex queries.
+The Fellow understands the pros and cons of multiple types of databases and how to assess a product's needs to identify the right one for the job.  They are comfortable setting up a database and creating complex queries.
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Project involving database design and interaction with complex queries
 
 
 **Objectives**
@@ -21,7 +21,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * Relational Database | [ ] | [ ]  |
 | * Non-relational Database     | [ ] | [ ]  |
-| * Pros and Cons of Relational vs Non-relational Databses     | [ ] | [ ]  |
+| * Examples of Relational vs Non-relational Databses     | [ ] | [ ]  |
+| * When and where to use Relational vs Non-relational Databses     | [ ] | [ ]  |
+| * How to set up a database     | [ ] | [ ]  |
+| * Security best practices for setting up databases     | [ ] | [ ]  |
+| * How to optimize complex queries     | [ ] | [ ]  |
 
 
 ----------
@@ -31,7 +35,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I'm designing an application **Action:** I draw the data models and uses cases then I use the pros and cons of different database types to decide the optimal database to use/recommend for the application | [ ] | [ ]  |
+| **Context:** When I'm designing a system **Action:** I draw the use cases and suitable data models for those use cases| [ ] | [ ]  |
+| **Context:** After drawing the data models **Action:** I do a pros and cons analysis to decide the optimal database for the system | [ ] | [ ]  |
+| **Context:** When setting up a database **Action:** I follow best practices for database security | [ ] | [ ]  |
+| **Context:** When I have a query that is complex **Action:** I look for ways to optimize the query without affecting the query desired results | [ ] | [ ]  |
 
 
 
@@ -43,5 +50,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that choosing the optimal type of database when setting out to build an application will make the application more scalable and will save me trouble in the long term | [ ] | [ ]  |
+| Proper considerations during database design saves me performance and scalability issues in the long term | [ ] | [ ]  |
+| Complex queries can be optimized | [ ] | [ ]  |
 
