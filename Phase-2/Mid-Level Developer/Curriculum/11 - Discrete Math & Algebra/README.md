@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The fellow also understands more complex concepts of discrete math including logic and proof functions, calculation of probability, and statistics. 
+The Fellow also understands more complex concepts of discrete math including logic and proof functions, calculation of probability, and statistics. 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to show the following:
 
-1. Completion of Khan Academy's Discrete Math and Probablity course
+1. Completion of Khan Academy's Discrete Math and Probablity course exercises
 
 
 **Objectives**
@@ -19,6 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
+| * Logic and proof functions | [ ] | [ ]  |
 | * Probablity | [ ] | [ ]  |
 | * Differential Statistics     | [ ] | [ ]  |
 | * Inferential Statistics     | [ ] | [ ]  |
