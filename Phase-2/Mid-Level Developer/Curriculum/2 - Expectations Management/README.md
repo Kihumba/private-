@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-The fellow proactively alerts stakeholders to slips in schedules as soon as they become aware of them along with a revised timeframe for delivery and a clear explanation of the cause for the slip.  The fellow presents to client / other stakeholders alternatives for requests that cannot be realistically met, along with clear pros and cons of each option and a recommendation for which option to pursue.
+The Fellow proactively alerts stakeholders to slips in schedules as soon as they become aware of them along with a revised timeframe for delivery and a clear explanation of the cause for the slip.  The Fellow presents to Client / other stakeholders alternatives for requests that cannot be realistically met, along with clear pros and cons of each option and a recommendation for which option to pursue.
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. Evidence of conversations with Client stakeholders
 
 
 
