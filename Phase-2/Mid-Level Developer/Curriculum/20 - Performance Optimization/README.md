@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The fellow understands the importance of application performance, how it impacts the overall goals of the company and consequences on users. In addition, the fellow can use tools to baseline performance, use their knowledge of software design and algorithms to improve, and clearly convey the results 
+The Fellow understands the importance of application performance, how it impacts the overall goals of the company and consequences on users. In addition, the fellow can use tools to baseline performance, use their knowledge of systems design and algorithms to improve, and clearly convey the results 
 
 **Output**
 ----------
@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Performance Optimization | [ ] | [ ]  |
-| * New Relic as a tool for measuring performance     | [ ] | [ ]  |
+| * Tools for measuring/monitoring performance     | [ ] | [ ]  |
 | * Common performance metrics    | [ ] | [ ]  |
 
 
@@ -32,7 +32,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I'm bulding an application **Action:** I set up a performance monitoring system along with it | [ ] | [ ]  |
+| **Context:** When deploying an application **Action:** I set up a performance monitoring system with it | [ ] | [ ]  |
+| **Context:** When I get negative performance reports **Action:** I investigate the reports to identify the cause of poor performance | [ ] | [ ]  |
+| **Context:** After identifying causes of poor performance **Action:** I leverage my understanding of systems design and algorithms/data structures to make improvement recommendations (solutions and expected results)  | [ ] | [ ]  |
+| **Context:** After performance improvement recommendations have been implemented **Action:** I compare the performance metrics to the expected metrics in the recommendations   | [ ] | [ ]  |
 
 
 
@@ -44,5 +47,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that by monitoring performance, I can make educated and informed performance improvements in my applications | [ ] | [ ]  |
+| Monitoring performance helps me make informed and educated performance improvements in my applications | [ ] | [ ]  |
 
