@@ -28,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are variables and constants?| [ ] | [ ] |
 | What are mutables and immutables?| [ ] | [ ] |
@@ -59,7 +59,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to define variables or constants... **Action:** I use names that are descriptive of what the variables or constants contain.| [ ] | [ ]  |
 | **Context:** When I need to run a collection of procedures that should run from top to bottom... **Action:** I will make use of functions when I need to run. |   [ ]   |   [ ] |

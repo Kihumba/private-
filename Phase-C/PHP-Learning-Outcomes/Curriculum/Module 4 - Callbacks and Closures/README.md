@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are anonymous functions(lambdas) in PHP? | [ ] | [ ] |
 | What are callbacks in PHP? | [ ] | [ ] |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am writing a program.. **Action:** I will use lambdas to pass functions as arguments to other functions. | [ ] | [ ]  |
 | **Context:**  When I am writing callbacks and Closures in a PHP program...**Action:** I will type-hint them with the callback type and Closure class.|   [ ]   |   [ ] |

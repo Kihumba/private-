@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to track tasks | [ ] | [ ]  |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When leading a team that uses Pivotal Tracker **Action:** I setup tracking for all tasks and use statuses to keep everyone informed of updates/changes in the stories   | [ ] | [ ]  |
 | **Context:** When any team member is using Pivotal Tracker wrongly (e.g. using inappropriate story types/states, not assigning themselves to cards they are working on, not moving cards to appropriate colums ) **Action:** I immediately offer feedback to help them use it correctly |   [ ]   |   [ ]  |

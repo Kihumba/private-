@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Knowledge of Growth vs. Fixed Mindset | [ ] |    [ ] |
 | Knowledge of How to do a basic personal development plan  | [ ] |    [ ] |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When I become aware of  my skill gaps  **Action:** I  reach out to those who have gone ahead of me to give me guidance, support and insights on how to level up . | [ ] |    [ ] |
 | **Context:** when faced with a task that is above my present  skill level  **Action:** I approach with the mindset that this is an opportunity to grow and learn  | [ ] |    [ ] |

@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * My team members' roles and responsibilities | [ ] | [ ]  |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I newly join a team **Action:** I engage in conversations with team members to know and undertand their historical working relationships (conflicts, conflict resolutions, and success stories) | [ ] | [ ]  |
 | **Context:** When managing a team **Action:** I set up systems and processes that help me consistently keep track of the contributions of my team members eg Pivotal Tracker | [ ] | [ ]  |

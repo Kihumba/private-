@@ -18,7 +18,7 @@ In checkpoint 2 and simulation project:
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I know what `Root` route represent | [ ] | [ ]  |
 | I know the seven routes for a resource | [ ] | [ ]  |
@@ -48,7 +48,7 @@ In checkpoint 2 and simulation project:
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building a rails application... **Action:** I specify routes for the application. | [ ] | [ ]  |
 | **Context:** When I need to create all seven restful route for a resource... **Action:** I use the `resources` method. | [ ] | [ ]  |

@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is version control? Our definition of version control versus leaving it to the bootcamper to find out what it is. | [ ] | [ ]  |
 | Possible use cases of version control |   [ ]   |   [ ] |
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 
 ### Git Workflow
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Whenever I’m setting up Git on a new machine... **Action:** I ensure I've setup my SSH keys. | [ ] | [ ]  |
 | **Context:** When creating a project that I intend to revisit... **Action:** I create a new remote repository on Github and pull down to my local repository. |   [ ]   |   [ ] |

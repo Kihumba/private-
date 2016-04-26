@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Define a function | [ ] | [ ]  |
 | Give examples of where we can make use of reusable functions. |   [ ]   |   [ ] |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am faced with a problem... **Action:** I make use of functions to facilitate reuse of code. | [ ] | [ ]  |
 | **Context:** When I write a function... **Action:** I return a value that represents the desired output for that function | [ ] |    [ ] |

@@ -15,7 +15,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What Frameworks exist in Xcode by default, and where can they be found? | [ ] | [ ] |
 | What Package Managers are available for iOS Swift? | [ ] | [ ] |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need a service that's overly complicated and might pose some redundancy building it from scratch, **Action:** I install and use a Framework that has this service. | [ ] | [ ] |
 | **Context:** When I need a Framework, **Action:** I install it using a Package Manager. | [ ] | [ ] |

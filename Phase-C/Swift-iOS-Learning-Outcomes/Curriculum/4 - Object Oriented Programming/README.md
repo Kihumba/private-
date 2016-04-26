@@ -15,7 +15,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is O.O.P? | [ ] | [ ] |
 | What are Namespaces? | [ ] | [ ] |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want a collection of methods, properties or attributes that I need to re-use, **Action:** I create a Class that contains these methods and attributes, and create instances of that Class when I needed. | [ ] | [ ] |
 | **Context:** When I need to create a Class that that needs some existing behaviors already present in another Class, **Action:** I will create a Class that inherits these behaviors. | [ ] | [ ] |

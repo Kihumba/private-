@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Zone of Proximal Development | [ ] | [ ]  |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I set growth and learning expectations for junior members of the team **Action:** I set the expectations within their ZPD | [ ] | [ ]  |
 | **Context:** When I assign tasks to team members **Action:**  I take into account their individual strengths and capabilities | [ ] | [ ]  |

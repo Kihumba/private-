@@ -18,7 +18,7 @@ Lay out the data architecture you'd need to implement to build the following sce
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I know what an ORM is | [ ] | [ ]  |
 | I know why ActiveRecord is more useful than just using SQL | [ ] | [ ]  |
@@ -49,7 +49,7 @@ Lay out the data architecture you'd need to implement to build the following sce
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working with a database in any rails application... **Action:** I use an ORM  | [ ] | [ ]  |
 | **Context:** When performing CRUD operation on my database... **Action:** I use ActiveRecord to construct my queries. | [ ] | [ ]  |

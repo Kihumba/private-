@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are databases? | [] | [] |
 | How do you connect to a database in PHP? |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to write a PHP program that can connect to any database without rewriting the codebase.. **Action:**  I will use PDO.| [ ] | [ ]  |
 | **Context:**  When I am writing a PHP program that strictly requires a MYSQL database...**Action:** I can use the PHP MYSQLi driver. |   [ ]   |   [ ] |

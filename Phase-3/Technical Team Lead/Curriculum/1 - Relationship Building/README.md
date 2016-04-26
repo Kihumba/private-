@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * What does it mean to be a trusted advisor to a client? | [ ] | [ ]  |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** During sprint planning, retrospective, strategy or problem solving sessions **Action:** I offer suggestions/ideas that carry the best interests of the clients (business and team members) at heart | [ ] | [ ]  |
 | **Context:** During decision making processes/discussions **Action:** I ask questions about other’s ideas in order to validate them through the lens of the team objectives and the client’s business goals |   [ ]   |   [ ]  |

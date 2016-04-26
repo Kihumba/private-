@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of software engineering. | [ ] | [ ]  |
 | The role of a software engineer. | [ ] | [ ]  |
@@ -41,7 +41,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working on software development team **Action:** I recommend using a SDLC model to the team before development. | [ ] | [ ]  |
 | **Context:** When given a software to develop **Action:** I identify the SDLC model that best suits the team and project. |   [ ]   |   [ ]  |

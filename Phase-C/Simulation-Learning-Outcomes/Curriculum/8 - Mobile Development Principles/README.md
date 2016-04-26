@@ -5,7 +5,7 @@
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | _Evolution of mobile application development_ | | |
     <ul><li>What different mobile platforms (iOS, Android, Blackberry, Mobile Web) exist?</li></ul> | [ ] | [ ] |
@@ -30,7 +30,7 @@
 
 
 ### Git Workflow
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building mobile web applications.. **Action:** I usually test for responsiveness by checking how it looks on different screen dimensions (example tablets, mobile phones) | [ ] | [ ]  |
 | **Context:** When building mobile apps... **Action:** I usually leverage of the available features of mobile apps such as camera, wifi, bluetooth, accelerometers etc. |   [ ]   |   [ ] |

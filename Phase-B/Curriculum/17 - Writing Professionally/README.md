@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Knowledge of principles of  effective communication (7Cs). | [ ] |    [ ] |
 | Knowledge of how to use various writing  platforms (e.g. Slack, email, blog, Google Docs). | [ ] |    [ ] |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When sending an email **Action:** I  ensure that it is of good quality but consistently lacks demonstration of 2 or more of the 7 Cs. | [ ] |    [ ] |
 | **Context:**  When using chat technologies **Action:** My writing Is of reasonable quality but I struggle with issues of tone, context and conciseness. | [ ] |    [ ] |

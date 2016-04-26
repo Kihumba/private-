@@ -13,7 +13,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are View Controllers used for? | [ ] | [ ] |
 | The `UIViewController` class in the UIKit [namespace](../4%20-%20Object%20Oriented%20Programming/). | [ ] | [ ] |
@@ -27,7 +27,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to split your View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I use the Tab Bar Controller | [ ] | [ ] |
 | **Context:** When I need to automate the to and fro navigation between View Controllers using a `UINavigationBar`, **Action:** I use the Navigation Controller. | [ ] | [ ] |

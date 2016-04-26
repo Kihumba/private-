@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is computer science? Definition of computer science in layman terms. | [ ] | [ ]  |
 | Understand who a computer scientist is. |   [ ]   |   [ ] |
@@ -41,7 +41,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I come across a new concept in computing, **Action:**  I do a few minutes of research to see if I understand it, how it might affect me, and whether I want to learn more about it. | [ ] |    [ ] |
 | **Context:** When I see someone reference a computer science term for programming, **Action:**  I clarify/understand the difference and when needed communicate the difference to anyone I engage with. | [ ] |    [ ] |

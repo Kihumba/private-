@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Types of questions - Open ended, Close ended, Powerful, Leading  | [ ] |    [ ] |
 | The importance of questions - Clarify the issues, Establish motive and interest, Helps maintain the focus on the key point. | [ ] |    [ ] |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When working with teams or working on projects **Action:** I shyly ask questions majority of which are inconcise. | [ ] |    [ ] |
 | **Context:**  When working with teams or working on projects **Action:** I willingly ask many non detailed and close ended questions and few open ended powerful questions. | [ ] |    [ ] |

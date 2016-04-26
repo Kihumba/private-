@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Why is sorting and searching important in Computer science? | [ ] | [ ]  |
 | Search algorithms: | | |
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am faced with a problem set that involves searching **Action:** I consider a set of search algorithms I know to be efficient, and prioritize them based on their Big O notation. | [ ] | [ ]  |
 | **Context:** When I am given a problem set that involves searching **Action:** I implement the most efficient search algorithm using Python. |   [ ]   |   [ ]  |

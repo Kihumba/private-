@@ -14,7 +14,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are Data Types? | [ ] | [ ] |
 | What are the types of Data available in Swift? | [ ] | [ ] |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to create, reference or manipulate data, **Action:** I use the most appropriate data type that best suites that data. | [ ] | [ ] |
 | **Context:** When I create a custom data type, **Action:** I use `typealias` to to make it easy to reference. | [ ] | [ ] |

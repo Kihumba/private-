@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to foster team adaptability | [ ] | [ ]  |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When goals and objectives of the company/project change **Action:** I facilitate discussions with team members in order to help them understand the reasons behind the changes and adapt better | [ ] | [ ]  |
 | **Context:** When new information that may influence project approach arises **Action:** I present new information to the team with explanations on how it could influence the current project approach | [ ] | [ ]  |

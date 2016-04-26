@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to perform code reviews | [ ] | [ ]  |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I accept feature pull requests **Action:** I review the product state and confirm that the submitted work behaves as it’s supposed to as specified by the feature description | [ ] | [ ]  |
 | **Context:** Before I accept feature pull requests **Action:** I review the code and confirm that the submitted work  adheres to the company/industry code standards | [ ] | [ ]  |

@@ -27,7 +27,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Type-hinting and how do you type-hint non-scalar and scalar values in PHP? | [] | [] |
 | What are Classes and Objects? | [ ] | [ ] |
@@ -63,7 +63,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to reuse a collection of methods, properties or attributes... **Action:**  I will create an instance of a class that contains those collections when needed. | [ ] | [ ]  |
 | **Context:**  When I need to create a class that needs some existing behaviors already present in another class...**Action:** I will create a class that inherits these behaviors.|   [ ]   |   [ ] |

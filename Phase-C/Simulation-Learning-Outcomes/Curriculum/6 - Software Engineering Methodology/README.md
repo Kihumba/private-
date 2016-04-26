@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a developer in simulat
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Software Engineering? | [ ] | [ ]  |
 | What are the various Software Engineering Methodologies? <ul><li>Agile Software Development</li><li>Rapid Application Development</li><li>Lean Development</li><li>Waterfall</li></ul>| [ ] | [ ]|
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a developer in simulat
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am presented with a software project to build... **Action:** I start by adopting a software development methodology. | [ ] | [ ]  |
 | **Context:** When I am faced with a task/project which requires a considerable amount of effort.. **Action:**  I always break down the functionality into the smallest units. |   [ ]   |   [ ] |

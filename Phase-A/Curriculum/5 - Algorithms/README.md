@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of an Algorithm. | [ ] | [ ]  |
 | The importance of algorithms. | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When given an algorithmic problem **Action:** I figure out the most efficient algorithm to use. | [ ] | [ ]  |
 | **Context:** When given an algorithmic problem **Action:** I am able to implement an efficient algorithm in Python. |   [ ]   |   [ ]  |
