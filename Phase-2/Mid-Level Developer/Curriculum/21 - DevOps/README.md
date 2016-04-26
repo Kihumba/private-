@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The fellow is able to demonstrate an understanding of DevOps, how it blends various functions of software development, and its role in a software environment. Is able to perform DevOps functions such as setting up continuous integration, test automation and release management permissioning. 
+The Fellow is able to demonstrate an understanding of DevOps, how it blends various functions of software development, and its role in a software environment. Is able to perform DevOps functions such as setting up continuous integration, test automation and release management 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. [Unsure of Output]
+1. A project set up with continuous integration, test automation and release management
 
 
 **Objectives**
@@ -19,10 +19,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * History of DevOps | [ ] | [ ]  |
+| * How DevOps fits in software development lifecyle | [ ] | [ ]  |
+| * Role of DevOps in software environments | [ ] | [ ]  |
 | * Continuous Integration     | [ ] | [ ]  |
 | * Test Automation     | [ ] | [ ]  |
-| * Release Management Permissioning     | [ ] | [ ]  |
+| * Release Management     | [ ] | [ ]  |
+| * DevOps tools and their use cases     | [ ] | [ ]  |
 
 
 ----------
@@ -34,6 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a project **Action:** I ensure that there is a continuous integration process set up | [ ] | [ ]  |
 | **Context:** When I set up continuous integration **Action:** I ensure that test automation is part of the build and deploy process | [ ] | [ ]  |
+| **Context:** When I set up release management **Action:** I leverage tools that help me best automate deploys with appropriate permissions  | [ ] | [ ]  |
 
 
 
@@ -45,5 +48,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that familiarity of DevOps will enable me to build more durable systems and ship product faster | [ ] | [ ]  |
+| With DevOps I can set up systems that enable teams to ship product faster | [ ] | [ ]  |
 
