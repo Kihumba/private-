@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The fellow can create their own commands / basic scripts for frequently used combinations to increase their productivity.
+The Fellow can create their own commands / basic scripts for frequently used combinations to increase their productivity.
 
 **Output**
 ----------
@@ -20,7 +20,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Command Line Alias | [ ] | [ ]  |
-| * Unix Scripting     | [ ] | [ ]  |
+| * Shell Scripting     | [ ] | [ ]  |
+| * Common command line chores     | [ ] | [ ]  |
 
 
 ----------
@@ -31,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have frequently used terminal commands that are longer than 5 characters **Action:** I create an alias for them | [ ] | [ ]  |
-| **Context:** When I have frequently used routines on my machine **Action:** I figure out if I can automate them with unix scripts then act accordinigly | [ ] | [ ]  |
+| **Context:** When I have frequently used routines on my machine **Action:** I figure out if I can automate them with scripts then act accordingly | [ ] | [ ]  |
 
 
 
@@ -43,5 +44,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that automating routine tasks using scripts and aliases make me a more productive programmer | [ ] | [ ]  |
+| Automating routine tasks using scripts and aliases make me a more productive programmer | [ ] | [ ]  |
+| Shell scripts wizardry is a powerful programming skill | [ ] | [ ]  |
 
