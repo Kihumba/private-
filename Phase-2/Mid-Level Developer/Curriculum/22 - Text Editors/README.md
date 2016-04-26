@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The fellow knows basic keyboard shortcuts that can increase their productivity.
+The Fellow knows basic keyboard shortcuts that can increase their productivity.
 
 **Output**
 ----------
@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * Shortcuts | [ ] | [ ]  |
 | * Common chores that do not require using the mouse     | [ ] | [ ]  |
+| * Shortcuts for common chores in my Text Editor of choice     | [ ] | [ ]  |
 
 
 ----------
@@ -31,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I use my text editor **Action:** I use shortcuts to navigate around | [ ] | [ ]  |
-| **Context:** When I see myself performing repeated actions using the UI of my text editor **Action:** I do a Google search to find shortcuts for those actions | [ ] | [ ]  |
+| **Context:** When I see myself performing repeated actions using the UI of my text editor **Action:** I find and get familiar with shortcuts for those actions | [ ] | [ ]  |
 
 
 
@@ -43,6 +44,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using shortcuts improves my development speed | [ ] | [ ]  |
-| I believe that using shortcuts saves my brainpower for more mentally challenging tasks | [ ] | [ ]  |
+| Using shortcuts increases my productivity | [ ] | [ ]  |
+| Using shortcuts saves my brainpower for more mentally challenging tasks | [ ] | [ ]  |
 
