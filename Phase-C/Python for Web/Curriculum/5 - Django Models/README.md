@@ -2,18 +2,19 @@
 
 **Skill Description**
 ----------
-To show complete understanding of HTTP and Web services skill, one must have an understanding of the following:
+To show complete understanding of Django Models skill, one must have an understanding of the following:
 
-- Model fields
-- Effective use of Querysets
-- Migrations
+- Model Manipulation
+- Django Admin
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
 
-1. Consume an API using the `requests` library
+1. Model a database using the Django Model ORM
+  - Implement relationships
+  - Create a Django Admin interface for working with the models.
 
 
 **Objectives**
@@ -23,16 +24,16 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| Meaning of HTTP | [ ] | [ ] |
-| Life-Cycle of an HTTP Request | [ ] | [ ] |
-| The different HTTP Verbs - `GET`, `POST`, `PUT`, `PATCH`, `DELETE` - and how to use them | [ ] | [ ] |
-| Parts of a URL and what they mean | [ ] | [ ] |
-| Composition of an HTTP Request and Response | [ ] | [ ] |
-| Most frequently used HTTP Header fields - `Accept`, `Accept-Encoding`, `Authorization`, `Content-Type`, `User-Agent`, `X-Requested-With`, `Allow`, `Access-Control-Allow-Origin`, `Last-Modified`, `X-Frame-Options`, `ETag`, `X-UA-Compatible` | [ ] | [ ] |
-| The majorly used HTTP Status codes and what they mean - `200 OK`, `201 CREATED`, `204 NO CONTENT`, `301 MOVED PERMANENTLY`, `302 REDIRECT`, `304 NOT MODIFIED`, `400 BAD REQUEST`, `404 NOT FOUND`, `500 INTERNAL SERVER ERROR`, `502 BAD GATEWAY` | [ ] | [ ] |
-| REST: Client-Server Model | [ ] | [ ] |
-| REST: HTTP Verb - Action Mapping | [ ] | [ ] |
-| `requests` library functions and parameters | [ ] | [ ] |
+| General Django model structure as being a collection of class variables representing corresponding table fields | [ ] | [ ] |
+| The `ForeignKey()` class and syntax for using it to create foreign key relationships between tables | [ ] | [ ] |
+| Common model relationships implemented natively within the Django Model ORM | [ ] | [ ] |
+| What Signals and Recievers are | [ ] | [ ] |
+| Functions available for making simple database queries using the Django Model ORM in the views - `get()`, `all()`, `filter()`, `limit()` | [ ] | [ ] |
+| Identify **Querysets** as return value of Django queries | [ ] | [ ] |
+| Common filter parameters available for the `filter()` function | [ ] | [ ] |
+| Django Aggregation functions - `annotate()` and `aggregate()` - their uses and parameters  | [ ] | [ ] |
+| Syntax for registering multiple models on the admin site | [ ] | [ ] |
+| Common Django Admin field types and their parameters | [ ] | [ ] |
 
 
 ----------
@@ -42,16 +43,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working with an API... **Action:** I always read the documentation extensively to get familiar with the different endpoints and corresponding parameters | [ ] | [ ] |
-| **Context:** When testing with an API... **Action:** I make use of [POSTMAN](https://www.getpostman.com/) or [Httpie](https://github.com/jkbrzt/httpie) | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I specify the resource I'm trying to access using the URL | [ ] | [ ] |
-| **Context:** When I have gotten a response from an HTTP request that I made... **Action:** I always inspect the response status code and message to get adequate situational information | [ ] | [ ] |
-| **Context:** When making an HTTP request to a RESTful API... **Action:** I indicate the function I'm trying to access via the corresponding HTTP verbs  | [ ] | [ ] |
-| **Context:** When making an HTTP `GET` request... **Action:** I specify parameters within the URI (after the question mark) | [ ] | [ ] |
-| **Context:** When making an HTTP `GET` request... **Action:** I separate multiple `GET` parameters using the `&` sign | [ ] | [ ] |
-| **Context:** When making an HTTP `POST` or `PUT` request to a RESTful API... **Action:** I specify parameters within the request body | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I define the operating parameters of the HTTP transaction within the header of the request | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I define the operating parameters of the HTTP transaction within the header of the request | [ ] | [ ] |
+| **Context:** When I want to start working on an application... **Action:** I ensure to model my data in an extremely detailed manner before I begin coding. | [ ] | [ ] |
+| **Context:** When defining a Django model... **Action:** I use the appropriate model field types available in Django. | [ ] | [ ] |
+| **Context:** When I want to create model relationships... **Action:** I use one of the relationships classes or `ForeignKey()` to define the relationship. | [ ] | [ ] |
+| **Context:** When I want to query my database... **Action:** I use Django's Model ORM functions. | [ ] | [ ] |
+| **Context:** When I need to access a model's related child objects... **Action:** I use the `related_set` syntax. | [ ] | [ ] |
+| **Context:** When I need to make complex queries beyond what the `filter` syntax provides... **Action:** I use the `Q` function. | [ ] | [ ] |
+| **Context:** When I need to make complex queries beyond what Django's ORM provides... **Action:** I use raw SQL queries using the `raw` function. | [ ] | [ ] |
+| **Context:** When I want to create automated actions that execute for specific database operations... **Action:** I create a receiver function to respond to the signal triggered by the database operation. | [ ] | [ ] |
+| **Context:** After I've created my data models... **Action:** I configure my DjangoAdmin to enable me easily access and manipulate data objects. | [ ] | [ ] |
+| **Context:** Before I try to access DjangoAdmin... **Action:** I create superuser account using `manage.py createsuperuser` command | [ ] | [ ] |
+| **Context:** When I'm configuring DjangoAdmin... **Action:** I register all the models I would like to have access to on the Admin site in `admin.py`. | [ ] | [ ] |
+| **Context:** When I'm configuring DjangoAdmin... **Action:** I ensure that I am as detailed as possible to give me optimum control for the data objects from the interface. | [ ] | [ ] |
 
 
 
@@ -63,4 +66,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I ensure that clients release QUALITY products/applications that accomplish client goals without major defects. | [ ] | [ ]  |
+| Using Django's ORM I am able to effectively manipulate any records in my database. | [ ] | [ ]  |
+| Django Admin gives me optimum control of my database records. | [ ] | [ ]  |
+| I can choose to use Django Admin as primary administrative interface for my application if well configured. | [ ] | [ ]  |

@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Setting up project-wide and app-specific routes | [ ] | [ ] |
 | URL setup regular expression syntax | [ ] | [ ] |
 | View function creation syntax | [ ] | [ ] |
-| Returning response from the view | [ ] | [ ] |
+| Returning responses from the view | [ ] | [ ] |
 | Mapping URLs to view functions using the `url` function | [ ] | [ ] |
 
 
@@ -57,7 +57,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I want to create data models for my application... **Action:** I define the model fields and parameters in the `models.py` file of the app. | [ ] | [ ] |
 | **Context:** When I create a new data model in my app... **Action:** I create and run migrations to apply the changes to my database. | [ ] | [ ] |
 | **Context:** When I am creating routes for my app... **Action:** I specify project-wide routes in the project's `urls.py` and app-specific routes in the app's `urls.py`. | [ ] | [ ] |
-| **Context:** When I need to access database data from my view function... **Action:** I import the model and perform the database using the ORM functions within the view functions. | [ ] | [ ] |
+| **Context:** When I need to access database data from my view function... **Action:** I import the model and perform the database transactions using the ORM functions within the view functions. | [ ] | [ ] |
 
 
 
