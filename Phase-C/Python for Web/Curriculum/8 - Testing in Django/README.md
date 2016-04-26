@@ -1,22 +1,19 @@
-# Outcome 1 - HTTP and Web Services
+# Outcome 8 - Testing in Django
 
 **Skill Description**
 ----------
 To show complete understanding of HTTP and Web services skill, one must have an understanding of the following:
 
-- The HTTP Protocol and how HTTP Works
-- HTTP Verbs
-- HTTP Status Codes
-- REST
-- Consuming APIs
-- Using the request library
+- Testing Routes in Django
+- Unit Testing within Django
+- E2E Testing with Selenium
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
 
-1. Consume an API using the `requests` library
+1. Write tests for a Django application
 
 
 **Objectives**
@@ -26,16 +23,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| Meaning of HTTP | [ ] | [ ] |
-| Life-Cycle of an HTTP Request | [ ] | [ ] |
-| The different HTTP Verbs - `GET`, `POST`, `PUT`, `PATCH`, `DELETE` - and how to use them | [ ] | [ ] |
-| Parts of a URL and what they mean | [ ] | [ ] |
-| Composition of an HTTP Request and Response | [ ] | [ ] |
-| Most frequently used HTTP Header fields - `Accept`, `Accept-Encoding`, `Authorization`, `Content-Type`, `User-Agent`, `X-Requested-With`, `Allow`, `Access-Control-Allow-Origin`, `Last-Modified`, `X-Frame-Options`, `ETag`, `X-UA-Compatible` | [ ] | [ ] |
-| The majorly used HTTP Status codes and what they mean - `200 OK`, `201 CREATED`, `204 NO CONTENT`, `301 MOVED PERMANENTLY`, `302 REDIRECT`, `304 NOT MODIFIED`, `400 BAD REQUEST`, `404 NOT FOUND`, `500 INTERNAL SERVER ERROR`, `502 BAD GATEWAY` | [ ] | [ ] |
-| REST: Client-Server Model | [ ] | [ ] |
-| REST: HTTP Verb - Action Mapping | [ ] | [ ] |
-| `requests` library functions and parameters | [ ] | [ ] |
+| Commands for running Django tests | [ ] | [ ] |
+| Available `TestCase` assertions | [ ] | [ ] |
+| Methods available in the `Client()` class for testing HTTP routes | [ ] | [ ] |
 
 
 ----------
@@ -45,16 +35,20 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working with an API... **Action:** I always read the documentation extensively to get familiar with the different endpoints and corresponding parameters | [ ] | [ ] |
-| **Context:** When testing with an API... **Action:** I make use of [POSTMAN](https://www.getpostman.com/) or [Httpie](https://github.com/jkbrzt/httpie) | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I specify the resource I'm trying to access using the URL | [ ] | [ ] |
-| **Context:** When I have gotten a response from an HTTP request that I made... **Action:** I always inspect the response status code and message to get adequate situational information | [ ] | [ ] |
-| **Context:** When making an HTTP request to a RESTful API... **Action:** I indicate the function I'm trying to access via the corresponding HTTP verbs  | [ ] | [ ] |
-| **Context:** When making an HTTP `GET` request... **Action:** I specify parameters within the URI (after the question mark) | [ ] | [ ] |
-| **Context:** When making an HTTP `GET` request... **Action:** I separate multiple `GET` parameters using the `&` sign | [ ] | [ ] |
-| **Context:** When making an HTTP `POST` or `PUT` request to a RESTful API... **Action:** I specify parameters within the request body | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I define the operating parameters of the HTTP transaction within the header of the request | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I define the operating parameters of the HTTP transaction within the header of the request | [ ] | [ ] |
+| **Context:** When testing my application... **Action:** I ensure to test the routes, models, utility functions and the UI (using Selenium). | [ ] | [ ] |
+| **Context:** When writing tests for my application... **Action:** I specify a different configuration for the test using a separate settings file. | [ ] | [ ] |
+| **Context:** When writing tests for my application... **Action:** I use different files for different types of tests e.g `test_routes` for routes, `test_e2e` for selenium tests, `test_models` for model tests. | [ ] | [ ] |
+| **Context:** When testing my models... **Action:** I make use of fixtures to initialize my database with large amounts of data. | [ ] | [ ] |
+| **Context:** When creating tests for my application... **Action:** I put all the initialization operations within the `setup()` function of the class. | [ ] | [ ] |
+| **Context:** When testing routes... **Action:** I create a `Client` object in the `setup()` method and use the object's methods to make test HTTP requests. | [ ] | [ ] |
+| **Context:** When writing assertions for route tests... **Action:** I test the status code as well as the data returned from the request. | [ ] | [ ] |
+| **Context:** When creating route tests... **Action:** I test for error conditions by supplying erroneous inputs. | [ ] | [ ] |
+| **Context:** When writing tests for my application... **Action:** I creating E2E tests that test visual components on the page. | [ ] | [ ] |
+| **Context:** When writing E2E test for my application... **Action:** I ensure to capture every operation performed by users in a step by step manner. | [ ] | [ ] |
+| **Context:** When writing E2E test for my application... **Action:** I subclass for `StaticLiveServerTestCase` to ensure the static files are properly loaded. | [ ] | [ ] |
+| **Context:** When we want to test the presence of an element on my page... **Action:** I use the wait syntax to make sure the element has loaded properly on the page. | [ ] | [ ] |
+| **Context:** When testing my models... **Action:** I make use of fixtures to initialize my database with large amounts of data. | [ ] | [ ] |
+| **Context:** When running tests from my command line... **Action:** I ensure to run the tests with the test configuration module set using the `--settings` parameter. | [ ] | [ ] |
 
 
 
@@ -66,4 +60,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I ensure that clients release QUALITY products/applications that accomplish client goals without major defects. | [ ] | [ ]  |
+| Writing tests for my application reduces the possibilities of having errors on my app. | [ ] | [ ]  |
+| Writing E2E tests, I'm able to simulate real-life user interactions with my app and cater for different scenarios. | [ ] | [ ]  |

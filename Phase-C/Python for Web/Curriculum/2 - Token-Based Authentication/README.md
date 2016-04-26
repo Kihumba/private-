@@ -1,4 +1,4 @@
-# Outcome 2- Token-Based Authentication
+# Outcome 2 - Token-Based Authentication
 
 **Skill Description**
 ----------
