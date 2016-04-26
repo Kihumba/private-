@@ -26,7 +26,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * How to use design to make spreadsheets more user friendly. | [ ] | [ ]  |
 | * Multiple uses for spreadsheets | [ ] | [ ]  |
 | * Different spreadsheet programs/solutions | [ ] | [ ]  |
-| * How to use Pivot Tables | [ ] | [ ]  |
 
 
 ----------
@@ -39,6 +38,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When using spreadsheets to report data **Action:** I select report format that’s most appropriate for the type of data I want to report | [ ] | [ ]  |
 | **Context:** When designing the visual aspect of spreadsheets **Action:** I consider the user and use colors, fonts, layout, and formatting intentionally | [ ] | [ ]  |
 | **Context:** When I do not know which forumula to use or how to use it **Action:** I consult the resources around me (internet, Andela Fellowship) | [ ] | [ ]  |
+| **Context:** When creating spreadsheets **Action:** I use the most appropriate formulae and methods to make effective spreadsheets in the most effective way | [ ] | [ ]  |
+
 
 ----------
 

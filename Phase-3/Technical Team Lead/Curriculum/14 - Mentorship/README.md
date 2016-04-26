@@ -39,6 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I'm serving as a mentor and someone has a question **Action:** I answer like a friend, not a prophet |   [ ]   |   [ ]  |
 | **Context:** When I am not being mentored by someone **Action:** I seek out a mentor |   [ ]   |   [ ]  |
 | **Context:** When I am not mentoring anyone **Action:** I seek out opportunities to mentor |   [ ]   |   [ ]  |
+| **Context:** Periodically throughout the mentorship relationship **Action:** I inquire and observe to get a sense of mentee progress and growth |   [ ]   |   [ ]  |
 
 
 ----------
