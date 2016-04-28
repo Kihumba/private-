@@ -59,6 +59,6 @@ When working on checkpoint 4, your Laravel application should:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| It easy to get up and running with Laravel. | [ ] | [ ]  |
-| I can quickly build/deploy an application using the Laravel framework. | [ ] | [ ]  |
+| Laravel is easy to set up. | [ ] | [ ]  |
+| Laravel framework is effective in quickly building/deploying an application. | [ ] | [ ]  |
 | The MVC nature of Laravel ensures separation of concerns when building a web application. | [ ] | [ ]  |
