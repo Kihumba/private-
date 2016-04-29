@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a new team **Action:** I observe their onboarding to see if they have processes to set up development environments then make recommendations accordingly | [ ] | [ ]  |
-| **Context:** When I join a new team with processes for setting up development environments **Action:** I conform to their processes to set up my development environment (and make enhancement suggestions if any) | [ ] | [ ]  |
+| **Context:** When I join a new team with processes for setting up development environments **Action:** I conform to their processes to set up my development environment (and make enhancement suggestions if I discover any) | [ ] | [ ]  |
 
 
 
@@ -46,5 +46,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Having a pre-configured script to set up a proper development environment saves me time when setting up new environments | [ ] | [ ]  |
+| Having a pre-configured script to set up a proper development environment saves me time | [ ] | [ ]  |
 
