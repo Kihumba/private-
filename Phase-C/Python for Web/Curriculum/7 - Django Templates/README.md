@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-To show complete understanding of HTTP and Web services skill, one must have an understanding of the following:
+To show complete understanding of Django Templates skill, one must have an understanding of the following:
 
 - Django Template Configuration
 - Django Template Syntax

@@ -45,6 +45,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to start working on an application... **Action:** I ensure to model my data in an extremely detailed manner before I begin coding. | [ ] | [ ] |
 | **Context:** When defining a Django model... **Action:** I use the appropriate model field types available in Django. | [ ] | [ ] |
+| **Context:** When defining a Django model... **Action:** I define all reusable logic that has to do with the models within the model class e.g validation, custom filters. | [ ] | [ ] |
 | **Context:** When I want to create model relationships... **Action:** I use one of the relationships classes or `ForeignKey()` to define the relationship. | [ ] | [ ] |
 | **Context:** When I want to query my database... **Action:** I use Django's Model ORM functions. | [ ] | [ ] |
 | **Context:** When I need to access a model's related child objects... **Action:** I use the `related_set` syntax. | [ ] | [ ] |
@@ -67,5 +68,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Using Django's ORM I am able to effectively manipulate any records in my database. | [ ] | [ ]  |
+| Django's ORM has most functions I will require to work with the data model in-built. | [ ] | [ ]  |
 | Django Admin gives me optimum control of my database records. | [ ] | [ ]  |
 | I can choose to use Django Admin as primary administrative interface for my application if well configured. | [ ] | [ ]  |

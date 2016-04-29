@@ -18,7 +18,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 1. Consume an API using the `requests` library
 
-
 **Objectives**
 ----------
 ## **Knowledge**
@@ -28,7 +27,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | Meaning of HTTP | [ ] | [ ] |
 | Life-Cycle of an HTTP Request | [ ] | [ ] |
-| The different HTTP Verbs - `GET`, `POST`, `PUT`, `PATCH`, `DELETE` - and how to use them | [ ] | [ ] |
+| The different HTTP Verbs and how to use them | [ ] | [ ] |
 | Parts of a URL and what they mean | [ ] | [ ] |
 | Composition of an HTTP Request and Response | [ ] | [ ] |
 | Most frequently used HTTP Header fields - `Accept`, `Accept-Encoding`, `Authorization`, `Content-Type`, `User-Agent`, `X-Requested-With`, `Allow`, `Access-Control-Allow-Origin`, `Last-Modified`, `X-Frame-Options`, `ETag`, `X-UA-Compatible` | [ ] | [ ] |

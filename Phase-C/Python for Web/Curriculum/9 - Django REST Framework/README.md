@@ -46,16 +46,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working with an API... **Action:** I always read the documentation extensively to get familiar with the different endpoints and corresponding parameters | [ ] | [ ] |
-| **Context:** When testing with an API... **Action:** I make use of [POSTMAN](https://www.getpostman.com/) or [Httpie](https://github.com/jkbrzt/httpie) | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I specify the resource I'm trying to access using the URL | [ ] | [ ] |
-| **Context:** When I have gotten a response from an HTTP request that I made... **Action:** I always inspect the response status code and message to get adequate situational information | [ ] | [ ] |
-| **Context:** When making an HTTP request to a RESTful API... **Action:** I indicate the function I'm trying to access via the corresponding HTTP verbs  | [ ] | [ ] |
-| **Context:** When making an HTTP `GET` request... **Action:** I specify parameters within the URI (after the question mark) | [ ] | [ ] |
-| **Context:** When making an HTTP `GET` request... **Action:** I separate multiple `GET` parameters using the `&` sign | [ ] | [ ] |
-| **Context:** When making an HTTP `POST` or `PUT` request to a RESTful API... **Action:** I specify parameters within the request body | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I define the operating parameters of the HTTP transaction within the header of the request | [ ] | [ ] |
-| **Context:** When making an HTTP request... **Action:** I define the operating parameters of the HTTP transaction within the header of the request | [ ] | [ ] |
+| **Context:** When I want to specify format for requests to my API and responses back to a client... **Action:** I create serializer | [ ] | [ ] |
+| **Context:** When I want to automatically generate a serializer from my models... **Action:** I make use of `serializers.ModelSerializer` to create my base serializer | [ ] | [ ] |
+| **Context:** When I am creating a serializer from scratch... **Action:** I always use the appropriate serializer fields for the different attributes I'm expecting in the request data and that I'm returning in my response body. | [ ] | [ ] |
+| **Context:** When I want to support saving instances using my serializer... **Action:** I override either or both of the `create()` and `update()` methods. | [ ] | [ ] |
+| **Context:** For `ModelSerializer` when I want to override default serializer save and update actions... **Action:** I override the corresponding functions in the serializer class. | [ ] | [ ] |
+| **Context:** When I want to validate a single field in my DRF serializer... **Action:** I override the `validate_<field_name>()` function in the serializer class (Where <field_name> refers to the particular field we want to validate). | [ ] | [ ] |
+| **Context:** When I want to validate multiple fields in my DRF serializer... **Action:** I override the `validate()` function in the serializer class. | [ ] | [ ] |
+| **Context:** When I want to create an API view fuction... **Action:** I can choose to write it using CBVs (using the `APIView` class) or FBVs (using the `@api_view()` decorator). | [ ] | [ ] |
+| **Context:** When I create an API view fuction... **Action:** I can choose to write it using CBVs (using the `APIView` class) or FBVs (using the `@api_view()` decorator). | [ ] | [ ] |
+| **Context:** When I create an an API using CBVs... **Action:** I use higher level abstractions like the `CreateAPIView`, `RetrieveUpdateDestroyAPIView` etc. to make writing the API more straightforward | [ ] | [ ] |
+| **Context:** When I want to specify permissions for an `APIView`... **Action:** I specify them as a tuple using the `permission_classes` class variable. | [ ] | [ ] |
+| **Context:** When I want to automatically create resource endpoints... **Action:** I create a viewset for each data model. | [ ] | [ ] |
+| **Context:** When working with viewsets... **Action:** I create all the URLs automatically using routes. | [ ] | [ ] |
 
 
 
@@ -67,4 +70,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I ensure that clients release QUALITY products/applications that accomplish client goals without major defects. | [ ] | [ ]  |
+| I can nest serializers. | [ ] | [ ]  |
+| DRF is a tool I can use to rapidly create APIs. | [ ] | [ ]  |

@@ -49,15 +49,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I want to start a Django project... **Action:** I create the project from the command line using the `django-admin.py startproject <project_name>` command. | [ ] | [ ] |
 | **Context:** When I want to create apps within that project... **Action:** I use the `manage.py startapp <app_name>` command. | [ ] | [ ] |
 | **Context:** When creating a Django project... **Action:** I divide my functionality into apps based on context e.g `authentication`, `books`, `orders`, `transactions` etc. | [ ] | [ ] |
+| **Context:** When I create a Django project... **Action:** I split the setting file for different environments preferrable Testing (for CircleCI), Development (for my dev machine) and Production (for Heroku/other server deployment). | [ ] | [ ] |
 | **Context:** When I create an app... **Action:** I add it to the `INSTALLED_APPS` list within the project settings file. | [ ] | [ ] |
 | **Context:** When I want to run my application... **Action:** I do so using the `manage.py runserver <port_number>` command. | [ ] | [ ] |
 | **Context:** When I want to create a new action within an app... **Action:** I start by creating a URL in the app's `urls.py` file. | [ ] | [ ] |
-| **Context:** When I create a new url for my app... **Action:** I create a corresponding view function in the app's `views.py` file, import the function into the `urls.py` file and link it to the url using the `url` function. | [ ] | [ ] |
+| **Context:** When I create a new url in my app... **Action:** I create a corresponding view function in the app's `views.py` file, import the function into the `urls.py` file and link it to the url using the `url` function. | [ ] | [ ] |
 | **Context:** When I need to access my database... **Action:** I do so through my data models defined in `models.py`. | [ ] | [ ] |
 | **Context:** When I want to create data models for my application... **Action:** I define the model fields and parameters in the `models.py` file of the app. | [ ] | [ ] |
 | **Context:** When I create a new data model in my app... **Action:** I create and run migrations to apply the changes to my database. | [ ] | [ ] |
 | **Context:** When I am creating routes for my app... **Action:** I specify project-wide routes in the project's `urls.py` and app-specific routes in the app's `urls.py`. | [ ] | [ ] |
+| **Context:** When I am creating routes for my app... **Action:** I use `include` in the project `urls.py` link app specific routes. | [ ] | [ ] |
 | **Context:** When I need to access database data from my view function... **Action:** I import the model and perform the database transactions using the ORM functions within the view functions. | [ ] | [ ] |
+| **Context:** When I need to test my models before I use them in my views... **Action:** I access them via the shell using the `python manage.py shell` command in the project folder. | [ ] | [ ] |
 
 
 
