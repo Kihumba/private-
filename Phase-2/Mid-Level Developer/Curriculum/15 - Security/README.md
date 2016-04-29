@@ -51,4 +51,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | Being able to identify security vulnerabilities makes me an asset to my organization | [ ] | [ ]  |
 | I can build more secure applications by thinking like an attacker when building and testing | [ ] | [ ]  |
+| It is my responsibility to protect people who use the things I create | [ ] | [ ]  |
+
+
 
