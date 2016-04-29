@@ -63,5 +63,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I’m an Andela Brand Ambassador | [ ] | [ ]  |
 | I’m valuable member of my Client organization and team | [ ] | [ ] |
 | I will become an expert on any organization I am a part of | [ ] | [ ] |
-| I am worthy of engaging with anyone | [ ] | [ ] |
+| I am worthy of engaging with anyone I work with | [ ] | [ ] |
 
