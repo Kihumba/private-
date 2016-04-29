@@ -47,9 +47,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I become aware of information that affects other people at Andela or my Client **Action:** I communicate with all stakeholders in a timely fashion | [ ] | [ ] |
 | **Context:** When I provide stakeholders with information **Action:** I provide the appropriate level of information for each stakeholder | [ ] | [ ] |
 | | | |
-| **Context:** When I am not sure of the appropriate stakeholders or timeliness for sharing certain information **Action:** I ask trusted members of my team or organization until I am sure of myself | [ ] | [ ] |
+| **Context:** When I am not sure of the appropriate stakeholders or timeliness for sharing certain information **Action:** I ask trusted members of my team or organization for clarity | [ ] | [ ] |
 | | | |
-| **Context:** When speaking to anyone about any ogranizations I work with **Action:** I am able to completely describe the team, roles, goals and history confidently that organization I work with |   [ ]   |   [ ]  |
+| **Context:** When speaking to anyone about ogranizations I work with **Action:** I am able to completely describe the team, roles, goals and history of those organizations confidently |   [ ]   |   [ ]  |
 | | | |
 
 ----------
