@@ -8,7 +8,7 @@ The Fellow demonstrates an understanding of how design decisions are made in sof
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Document explaining why what stacks/technologies were used on a particular project
+1. Document explaining all types of design decisions made on a project e.g database decisions, UX implementations, stacks/technologies etc. 
 
 
 **Objectives**
@@ -33,7 +33,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** Before I start building applications **Action:** I analyze the application needs/requirements and choose the optimal language, frameworks, database, architecture after comparing the tradeoffs of all the options | [ ] | [ ]  |
+| **Context:** Before I start building applications **Action:** I analyze the application needs/requirements | [ ] | [ ]  |
+| **Context:** After analyzing the system needs/requirements **Action:** I draw an architecture model that illustrates the needed system components and how they interact with each other | [ ] | [ ]  |
+| **Context:** After drawing the architecture model **Action:** I choose the optimal language, frameworks, databases for each system component | [ ] | [ ]  |
 
 
 
