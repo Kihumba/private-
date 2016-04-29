@@ -8,7 +8,7 @@ The Fellow understands the pros and cons of multiple types of databases and how 
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Project involving database design and interaction with complex queries
+1. Server-side component of a project involving database design and interaction with complex queries
 
 
 **Objectives**
