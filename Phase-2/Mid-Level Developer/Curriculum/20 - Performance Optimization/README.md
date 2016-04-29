@@ -47,5 +47,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Monitoring performance helps me make informed and educated performance improvements in my applications | [ ] | [ ]  |
-
+| If I don't monitor the performance of my applications, I cannot meaningfully improve them | [ ] | [ ]  |
+| Application performance is what sets great developers apart from merely competent developers | [ ] | [ ]  |
+| When it comes to building applications, performance is next to godliness | [ ] | [ ]  |
