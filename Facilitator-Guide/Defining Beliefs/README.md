@@ -18,7 +18,6 @@ After attaining this skill, and as a demonstration of it, an Andelan should be a
 | The differences between Growth Mindset and Fixed Mindset | [ ] | [ ]  |
 | The differences between a person's beliefs and their faith. | [ ] | [ ]  |
 | Examples of how beliefs can enable or limit behaviors.     | [ ] | [ ]  |
-| .     | [ ] | [ ]  |
 | The basic mechanics of cognitive reframes.    | [ ] | [ ]  |
 | Different types of emotive expression.    | [ ] | [ ]  |
 | A list of people who already demonstrate the desired enabling beliefs.    | [ ] | [ ]  |

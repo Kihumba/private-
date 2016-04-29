@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | - **Action:** I describe the phrase Andela uses to refer to the soft skill, and I ask Fellows to volunteer the words they associate with the skill I've introduced. |   [ ]   |   [ ]  |
 | - **Action:** I host a discussion with Fellows about what might be gained through the use of the soft skill I'm introducing. | [ ] |    [ ] |
 | - **Action:** I check for understanding and inspiration before moving to the next stage of facilitation. | [ ] |    [ ] |
-| **Context:** When I believe Fellows are clear on the soft skill and it's uses |  |     |
+| **Context:** When I believe Fellows are clear on the soft skill and its uses |  |     |
 | - **Action:** I ask them to recall scenarios in which they used the skill before  | [ ] |    [ ] |
 | - **Action:** I ask them to describe which scenarios they imagine might arise during their Fellowship where this skill would apply  | [ ] |    [ ] |
 | **Context:** When we have built a list of possible scenarios  |  |    |
