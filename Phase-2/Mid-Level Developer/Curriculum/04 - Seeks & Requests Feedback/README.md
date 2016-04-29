@@ -21,6 +21,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | - S.M.A.R.T goals | [ ] | [ ] |
+| - Stretch goals | [ ] | [ ] |
+| - The differences and possible combinations of SMART goals and Stretch goals | [ ] | [ ] |
 | - Methods for responding to feedback in a structured and systematic way | [ ] | [ ] |
 | - My current goals based on feedback I have received | [ ] | [ ] |
 
