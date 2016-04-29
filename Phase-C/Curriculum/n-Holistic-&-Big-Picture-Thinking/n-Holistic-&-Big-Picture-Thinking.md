@@ -22,13 +22,13 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
-| - how my work affects the Client (varies by Fellow). | [ ] | [ ] |
-| - how my work affects the application/product (varies by Fellow). | [ ] | [ ] |
-| - how my work affects the end user of the product (varies by Fellow). | [ ] | [ ] |
-| - the effect a given change will have on the product (varies by task) | [ ] | [ ] |
-| - the big picture that describes my work, my organization, the product(s) I am working on, and the users of that product (varies by person and project). | [ ] | [ ] |
-| - the types of questions one asks when working on software products if they have a holistic / big picture perspective. | [ ] | [ ] |
-| - the potential drawbacks of strictly implementing a request as specified. | [ ] | [ ] |
+| - How my work affects the Client (varies by Fellow). | [ ] | [ ] |
+| - How my work affects the application/product (varies by Fellow). | [ ] | [ ] |
+| - How my work affects the end user of the product (varies by Fellow). | [ ] | [ ] |
+| - The effect a given change will have on the product (varies by task) | [ ] | [ ] |
+| - The big picture that describes my work, my organization, the product(s) I am working on, and the users of that product (varies by person and project). | [ ] | [ ] |
+| - The types of questions one asks when working on software products if they have a holistic / big picture perspective. | [ ] | [ ] |
+| - The potential drawbacks of strictly implementing a request as specified. | [ ] | [ ] |
 | | | |
 
 
@@ -39,19 +39,19 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When working on a project within an organization (e.g. Andela or a Client), **Action:** I... | [ ] | [ ] |
-| - gain a complete understanding of how my work affects the organization, project, and users. I do this by reviewing all related documents, organizational tools, and online resources, paying careful attention during meetings, presentations, and conversations, and inquiring with multiple stakeholders | [ ] | [ ] |
-| - use the product extensively, adopting the perspective of actual users, in order to fully understand the user experience. | [ ] | [ ] |
-| - regularly ask questions about the organization, product, and users that are driven by my understanding of the big picture of my work | [ ] | [ ] |
+| **Context:** When working on a project within an organization (e.g. Andela or a Client) | [ ] | [ ] |
+| - **Action:** I gain a complete understanding of how my work affects the organization, project, and users. I do this by reviewing all related documents, organizational tools, and online resources, paying careful attention during meetings, presentations, and conversations, and inquiring with multiple stakeholders | [ ] | [ ] |
+| - **Action:** I use the product extensively, adopting the perspective of actual users, in order to fully understand the user experience. | [ ] | [ ] |
+| - **Action:** I regularly ask questions about the organization, product, and users that are driven by my understanding of the big picture of my work | [ ] | [ ] |
 | | | |
-| **Context:** When making changes to a piece of software, **Action:** I... | [ ] | [ ] |
-| - regularly ask myself and members of my team, "how will this change affect the organization/application/users?" | [ ] | [ ] |
-| - explicitly discuss with my team the affect my work will have on the organization, application, and users and ask if there is anything I am not anticipating. | [ ] | [ ] |
+| **Context:** When making changes to a piece of software | [ ] | [ ] |
+| - **Action:** I regularly ask myself and members of my team, "how will this change affect the organization/application/users?" | [ ] | [ ] |
+| - **Action:** I explicitly discuss with my team the affect my work will have on the organization, application, and users and ask if there is anything I am not anticipating. | [ ] | [ ] |
 | | | |
-| **Context:** When assigned a task, and I believe an alternative solution would better meet the needs of the organization, application, and/or users, **Action:** I... | [ ] | [ ] |
-| - ask questions to gain a complete understanding of why the task specifications are the way they are. | [ ] | [ ] |
-| - identify to my team that I believe there is a more optimal solution and explicitly describe how an alternative solution would better meet the needs of the organization, application, and/or users. | [ ] | [ ] |
-| - ask questions, make suggestions, and take action to ensure all the changes made address all big picture factors, rather than strictly implementing the request as stipulated. | [ ] | [ ] |
+| **Context:** When assigned a task, and I believe an alternative solution would better meet the needs of the organization, application, and/or users | [ ] | [ ] |
+| - **Action:** I ask questions to gain a complete understanding of why the task specifications are the way they are. | [ ] | [ ] |
+| - **Action:** I identify to my team that I believe there is a more optimal solution and explicitly describe how an alternative solution would better meet the needs of the organization, application, and/or users. | [ ] | [ ] |
+| - **Action:** I ask questions, make suggestions, and take action to ensure all the changes made address all big picture factors, rather than strictly implementing the request as stipulated. | [ ] | [ ] |
 | | | |
 | **Context:** After a change I have made to a project has been implemented, **Action:** I review the impact the change had on the organization, the application, and the users to continuously improve my holistic / big-picture thinking. | [ ] | [ ] |
 | | | |

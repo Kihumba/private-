@@ -44,24 +44,25 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When I am listening to someone speak, **Action:** I... | [ ] | [ ] |
-| - engage in positive body language and nonverbal communication. | [ ] | [ ] |
-| - maintain consistent eye contact. | [ ] | [ ] |
-| - minimize and manage distractions (both external, e.g. surfing the web, and mental, e.g. letting my mind wander). | [ ] | [ ] |
-| - avoid interrupting unless it is necessary and beneficial. | [ ] | [ ] |
-| - regularly employ checks for understanding (e.g. paraphrasing, repeating, asking clarification questions). | [ ] | [ ] |
-| - take notes (especially in an important meeting or presentation).  | [ ] | [ ] |
+| **Context:** When I am listening to someone | [ ] | [ ] |
+| - **Action:** I engage in positive body language and nonverbal communication. | [ ] | [ ] |
+| - **Action:** I pay attention to my physical responses, not just my mental responses. | [ ] | [ ] |
+| - **Action:** I maintain consistent eye contact. | [ ] | [ ] |
+| - **Action:** I minimize and manage distractions (both external, e.g. surfing the web, and mental, e.g. letting my mind wander). | [ ] | [ ] |
+| - **Action:** I avoid interrupting unless it is necessary and beneficial. | [ ] | [ ] |
+| - **Action:** I regularly employ checks for understanding (e.g. paraphrasing, repeating, asking clarification questions). | [ ] | [ ] |
+| - **Action:** I take notes (especially in an important meeting or presentation).  | [ ] | [ ] |
 | | | |
-| **Context:** When I think I should interrupt someone, **Action:** I... | [ ] | [ ] |
-| - consider whether it is necessary to interrupt by considering the value, relevance, and urgency of what you need to say. | [ ] | [ ] |
-| - if possible, wait for a time to interrupt that is the least disruptive (e.g. when someone has completed a thought). | [ ] | [ ] |
-| - politely state that you must interrupt, apologize for the disruption, and explain why you are interrupting. | [ ] | [ ] |
-| - interrupt with tact, respect, and 
+| **Context:** When I think I should interrupt someone | [ ] | [ ] |
+| - **Action:** I consider whether it is necessary to interrupt by considering the value, relevance, and urgency of what you need to say. | [ ] | [ ] |
+| - **Action:** I if possible, wait for a time to interrupt that is the least disruptive (e.g. when someone has completed a thought). | [ ] | [ ] |
+| - **Action:** I politely state that I must interrupt, apologize for the disruption, and explain why you are interrupting. | [ ] | [ ] |
+| - **Action:** I interrupt with tact and respect
 | | | |
-| **Context:** When I would like to speak during a conversation, meeting, or presentation, **Action:** I... | [ ] | [ ] |
-| - consider the value, relevance, and timeliness of what I want to say relative to the audience and situation. Do not share the information if it is of little value, is irrelevant, and is not timely for the conversation at hand. | [ ] | [ ] |
-| - request time to speak as an agenda item, if the issue comes to mind before the meeting or conversation. | [ ] | [ ] |
-| - wait for the appropriate time to speak (e.g. a natural break in the conversation, when someone asks if there are any questions or comments) or indicate that you would like to speak (e.g. by raising your hand or asking to speak). | [ ] | [ ] |
+| **Context:** When I would like to speak during a conversation, meeting, or presentation | [ ] | [ ] |
+| - **Action:** I consider the value, relevance, and timeliness of what I want to say relative to the audience and situation. Do not share the information if it is of little value, is irrelevant, and is not timely for the conversation at hand. | [ ] | [ ] |
+| - **Action:** I request time to speak as an agenda item, if the issue comes to mind before the meeting or conversation. | [ ] | [ ] |
+| - **Action:** I wait for the appropriate time to speak (e.g. a natural break in the conversation, when someone asks if there are any questions or comments) or indicate that you would like to speak (e.g. by raising your hand or asking to speak). | [ ] | [ ] |
 | | | |
 
 ---

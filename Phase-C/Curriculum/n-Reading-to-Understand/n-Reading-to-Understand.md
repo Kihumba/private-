@@ -40,27 +40,27 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When preparing to read material/content, **Action:** I... | [ ] | [ ] |
-| - get a general idea of what I will be reading. | [ ] | [ ] |
-| - get a sense of the relative importance and timeliness of the reading, based on the relevance and impact on my growth and work. | [ ] | [ ] |
-| - identify what I aim to gain from the reading. | [ ] | [ ] |
-| - estimate how long it will take to read and ensure I have enough time to read for understanding. | [ ] | [ ] |
+| **Context:** When preparing to read material/content | [ ] | [ ] |
+| - **Action:** get a general idea of what I will be reading. | [ ] | [ ] |
+| - **Action:** get a sense of the relative importance and timeliness of the reading, based on the relevance and impact on my growth and work. | [ ] | [ ] |
+| - **Action:** identify what I aim to gain from the reading. | [ ] | [ ] |
+| - **Action:** estimate how long it will take to read and ensure I have enough time to read for understanding. | [ ] | [ ] |
 | | | |
-| **Context:** When reading material/content, **Action:** I... | [ ] | [ ] |
-| - first skim the reading to get a sense of the organization and content. | [ ] | [ ] |
-| - take notes and markup the reading. | [ ] | [ ] |
-| - consistently perform mental checks for comprehension as I read, asking myself, "did I comprehend what I just read?" | [ ] | [ ] |
-| - reread sections that I feel are particularly important or that I do not undersand upon first reading. | [ ] | [ ] |
-| - take note of things I do not fully understand. | [ ] | [ ] |
+| **Context:** When reading material/content | [ ] | [ ] |
+| - **Action:** first skim the reading to get a sense of the organization and content. | [ ] | [ ] |
+| - **Action:** take notes and markup the reading. | [ ] | [ ] |
+| - **Action:** consistently perform mental checks for comprehension as I read, asking myself, "did I comprehend what I just read?" | [ ] | [ ] |
+| - **Action:** reread sections that I feel are particularly important or that I do not undersand upon first reading. | [ ] | [ ] |
+| - **Action:** take note of things I do not fully understand. | [ ] | [ ] |
 | | | |
-| **Context:** After reading material/content, **Action:** I... | [ ] | [ ] |
-| - check my ability to convey all of the key points of the reading by desribing them to someone else or putting them in writing. | [ ] | [ ] |
-| - write down everything in the reading that I would like to understand more fully. | [ ] | [ ] |
+| **Context:** After reading material/content | [ ] | [ ] |
+| - **Action:** check my ability to convey all of the key points of the reading by desribing them to someone else or putting them in writing. | [ ] | [ ] |
+| - **Action:** write down everything in the reading that I would like to understand more fully. | [ ] | [ ] |
 | | | |
-| **Context:** When I do not fully understand something in a reading, **Action:** I... | [ ] | [ ] |
-| - determine its relative importance compared to my growth and work priorities. Focus my effort on fully understanding the highest priortiy gaps in my current knowledge. | [ ] | [ ] |
-| - identify what it is that I need to know about the issues I do not fully understand. | [ ] | [ ] |
-| - gain a complete understanding of the issues by reviewing Andela resources and online resources, and inquiring with the poeple who have a more complete understanding of the issues. | [ ] | [ ] |
+| **Context:** When I do not fully understand something in a reading | [ ] | [ ] |
+| - **Action:** determine its relative importance compared to my growth and work priorities. Focus my effort on fully understanding the highest priortiy gaps in my current knowledge. | [ ] | [ ] |
+| - **Action:** identify what it is that I need to know about the issues I do not fully understand. | [ ] | [ ] |
+| - **Action:** gain a complete understanding of the issues by reviewing Andela resources and online resources, and inquiring with the poeple who have a more complete understanding of the issues. | [ ] | [ ] |
 | | | |
 | **Context:** When I do not have time to read an entire reading in detail, **Action:** I skim the reading, identify the most important parts of the reading, and spend the majority of the time reading the most important sections. | [ ] | [ ] |
 | | | |

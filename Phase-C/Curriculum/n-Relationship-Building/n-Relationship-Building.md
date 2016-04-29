@@ -18,13 +18,13 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
-| Difference between building rapport and establishing a long-term, enduring relationship | [ ] | [ ] |
-| Difference between personal and professional relationships | [ ] | [ ] |
-| Professional work relationship boundaries | [ ] | [ ] |
-| Knowledge about individuals in your workplace (varies by individual) | [ ] | [ ] |
-| Types of questions that help build relationships | [ ] | [ ] |
-| Personality and Temperament types and their impact on social interactions | [ ] | [ ] |
-| How the effect of "Personality on Behavior and Environment" is cyclic (Social Cognitive Theory) | [ ] | [ ] |
+| - Difference between building rapport and establishing a long-term, enduring relationship | [ ] | [ ] |
+| - Difference between personal and professional relationships | [ ] | [ ] |
+| - Professional work relationship boundaries | [ ] | [ ] |
+| - Knowledge about individuals in your workplace (varies by individual) | [ ] | [ ] |
+| - Types of questions that help build relationships | [ ] | [ ] |
+| - Personality and Temperament types and their impact on social interactions | [ ] | [ ] |
+| - How the effect of "Personality on Behavior and Environment" is cyclic (Social Cognitive Theory) | [ ] | [ ] |
 | | | |
 
 ---
@@ -38,10 +38,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | **Context:** When joining a new team **Action:** I reach out to everyone in the organization whose work directly affects mine to initiate communication within a short period of time | [ ] | [ ] |
 | **Context:** When working with a remote team **Action(s):** I identify points where other departments intersect with my role and initiate conversation with relevant stakeholders based on these connections | [ ] | [ ] |
 | **Context:** When placed on a remote team for an extended period of time **Action(s):** I intentionally build long-term, enduring relationships by scheduling consistent community building activities that aid in building lasting relationships incrementally | [ ] | [ ] |
-| **Context:** When interacting with a variety of people from a broad range of backgrounds (e.g. different departments, personalities, cultural) **Action(s):** I ... (see below)|  |  |
-| - Leverage my networks to learn about the cultural and behavioural norms of that new space from contacts who have prior experience | [ ] | [ ] |
-| - Communicate beliefs and norms from my own background that may conflict with theirs in a timely and appropriate manner | [ ] | [ ] |
-| - Intentionally identify beliefs, norms and interests that intersect and leverage them to build rapport | [ ] | [ ] |
+| **Context:** When interacting with a variety of people from a broad range of backgrounds (e.g. different departments, personalities, cultural) |  |  |
+| - **Action:** I leverage my networks to learn about the cultural and behavioural norms of that new space from contacts who have prior experience | [ ] | [ ] |
+| - **Action:** I communicate beliefs and norms from my own background that may conflict with theirs in a timely and appropriate manner | [ ] | [ ] |
+| - **Action:** I intentionally identify beliefs, norms and interests that intersect and leverage them to build rapport | [ ] | [ ] |
 | | | |
 
 ---

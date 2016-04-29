@@ -7,8 +7,8 @@ The fellow is able to apply creative thinking to solve problems and come up with
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-- Evidence of the outcome of creative thinking I have applied during simulations
-- A brief description of the creative process I used.
+1. Evidence of the outcome of creative thinking I have applied during simulations
+2. A brief description of the creative process I used.
 ## Objectives
 
 ### Knowledge
@@ -44,32 +44,32 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When working on a task **Action(s):** I ... (see below) |  |  |
-| - Consider what would be the most effective, robust, scalable solution regardless of time or expertise constraints | [ ] | [ ] |
-| - Periodically suspend judgment regarding the methods i know and consider what it would look like if i did the task in a totally different way | [ ] | [ ] |
-| - Identify and leverage environments conducive to testing new and innovative methods | [ ] | [ ] |
+| **Context:** When working on a task (see below) |  |  |
+| - **Action:** I consider what would be the most effective, robust, scalable solution regardless of time or expertise constraints | [ ] | [ ] |
+| - **Action:** I periodically suspend judgment regarding the methods i know and consider what it would look like if i did the task in a totally different way | [ ] | [ ] |
+| - **Action:** I identify and leverage environments conducive to testing new and innovative methods | [ ] | [ ] |
 | | | |
-| **Context:** When working on a large project where individual tasks will affect many stakeholders  **Action(s):** I ... (see below) |  |  |
-| - Research and stay abreast on innovative developments within the platform and technologies that intersect with the project | [ ] | [ ] |
-| - Always consider how the work i am doing can be robust and scalable enough to add value to other parts of the project | [ ] | [ ] |
-| - Regularly review the knowledge and skills unique to my experience and how they can add value to the current team and project | [ ] | [ ] |
+| **Context:** when working on a large project where individual tasks will affect many stakeholders |  |  |
+| - **Action:** I research and stay abreast on innovative developments within the platform and technologies that intersect with the project | [ ] | [ ] |
+| - **Action:** I always consider how the work i am doing can be robust and scalable enough to add value to other parts of the project | [ ] | [ ] |
+| - **Action:** I regularly review the knowledge and skills unique to my experience and how they can add value to the current team and project | [ ] | [ ] |
 | | | |
-| **Context:** When i come up with an idea that will add value to the client  **Action(s):** I ... (see below) |  |  |
-| - Consistently seek feedback regarding creative solutions that were rejected and the reason they were rejected | [ ] | [ ] |
-| - Consistently propose creative solutions to team problems during stand ups to see how well they are received | [ ] | [ ] |
-| - Evaluate and reflect on all key decisions that I make regarding pushing this idea forward to ensure that my progress is never hindered by fear | [ ] | [ ] |
+| **Context:** When I come up with an idea that will add value to the client |  |  |
+| - **Action:** I consistently seek feedback regarding creative solutions that were rejected and the reason they were rejected | [ ] | [ ] |
+| - **Action:** I consistently propose creative solutions to team problems during stand ups to see how well they are received | [ ] | [ ] |
+| - **Action:** I evaluate and reflect on all key decisions that I make regarding pushing this idea forward to ensure that my progress is never hindered by fear | [ ] | [ ] |
 | | | |
-| **Context:** When conventional solutions to a problem on a client project prove unsuccessful **Action(s):** I ... (see below) |  |  |
-| - Take a step back to review objectives of the project, required functionality of the task and what success looks like regardless of methodology | [ ] | [ ] |
-| - Brainstorm on different ways that problem and be solved regardless of the specific task being completed | [ ] | [ ] |
-| - Break the problem or task into its constituent parts and research/brainstorm creative solutions to each smaller section | [ ] | [ ] |
-| - Consider what it would look like if the task totally changed and a new issue was created to handle it | [ ] | [ ] |
-| - Collaborate with team members to brainstorm and ideate creative solutions to the problem | [ ] | [ ] | 
+| **Context:** When conventional solutions to a problem on a client project prove unsuccessfu |  |  |
+| - **Action:** I take a step back to review objectives of the project, required functionality of the task and what success looks like regardless of methodology | [ ] | [ ] |
+| - **Action:** I brainstorm on different ways that problem and be solved regardless of the specific task being completed | [ ] | [ ] |
+| - **Action:** I break the problem or task into its constituent parts and research/brainstorm creative solutions to each smaller section | [ ] | [ ] |
+| - **Action:** I consider what it would look like if the task totally changed and a new issue was created to handle it | [ ] | [ ] |
+| - **Action:** I collaborate with team members to brainstorm and ideate creative solutions to the problem | [ ] | [ ] | 
 | | | |
 | Pontential Contexts to Add: | | |
-| - when I am afraid to share my ideas | | |
-| - when an idea I present is rejected | | |
-| - when I or my team seem to be proceeding with a tried and true, inside-of-the-box idea | | |
+| when I am afraid to share my ideas | | |
+| when an idea I present is rejected | | |
+| when I or my team seem to be proceeding with a tried and true, inside-of-the-box idea | | |
 | | | |
 
 ---

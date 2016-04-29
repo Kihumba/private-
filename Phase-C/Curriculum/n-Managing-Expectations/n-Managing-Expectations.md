@@ -36,22 +36,22 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Observable Behaviour | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When assigned work on a project  team within an organisation **Action(s):** I ... (see below) |  |  |
-| - gain a complete understanding of the scope and level of effort required for a particular task by... | [ ] | [ ] |
-| - Collaboratively define clear and reasonable timelines for completion of work with relevant stakeholders | [ ] | [ ] |
-| - Review past and present tasks on team collaboration platforms that have similar scope to current task and compare effort required and time allocated | [ ] | [ ] |
-| - Communicate consistently with relevant stakeholders with updates on progress, plans and problems that may affect completion of the task | [ ] | [ ] |
-| **Context:** When planning for a project/task with set goals **Action(s):** I ... (see below) |  |  |
-| - Schedule the tasks within my calendar to ensure the timelines are reasonable and realistic | [ ] | [ ] |
-| - Compare the current tasks with others on the collaborative team board to estimate possible timeframe for completion | [ ] | [ ] |
-| **Context:** When a client or team lead allocates tasks or communicates expectations that are unrealistic **Action(s):** I ... (see below) |  |  |
-| - Review project board to understand how this particular task impacts the rest of the project | [ ] | [ ] |
-| - Collaboratively generate alternatives to the task that will still meet the requirements of the project in a more realistic manner | [ ] | [ ] |
-| - Clearly state that I do not believe I can meet the expectations as stated, and explain why I cannot meet it and/or the time or resources I would need in order to meet the expectations. | [ ] | [ ] |
-| **Context:** When it becomes apparent that i will be unable to meet expectations on a team task **Action(s):** I ... (see below) |  |  |
-| - Think through the implications of my failure to meet expectations to the overall team and project| [ ] | [ ] |
-| - Generate practical solutions and alternatives that will best satisfy team and organizational priorities. | [ ] | [ ] |
-| - Communicate early, to appropriate stakeholders with appropriate level of information | [ ] | [ ] |
+| **Context:** When assigned work on a project  team within an organisation |  |  |
+| - **Action:** I gain a complete understanding of the scope and level of effort required for a particular task by... | [ ] | [ ] |
+| - **Action:** I collaboratively define clear and reasonable timelines for completion of work with relevant stakeholders | [ ] | [ ] |
+| - **Action:** I review past and present tasks on team collaboration platforms that have similar scope to current task and compare effort required and time allocated | [ ] | [ ] |
+| - **Action:** I communicate consistently with relevant stakeholders with updates on progress, plans and problems that may affect completion of the task | [ ] | [ ] |
+| **Context:** When planning for a project/task with set goals |  |  |
+| - **Action:** I schedule the tasks within my calendar to ensure the timelines are reasonable and realistic | [ ] | [ ] |
+| - **Action:** I compare the current tasks with others on the collaborative team board to estimate possible timeframe for completion | [ ] | [ ] |
+| **Context:** When a client or team lead allocates tasks or communicates expectations that are unrealistic |  |  |
+| - **Action:** I review project board to understand how this particular task impacts the rest of the project | [ ] | [ ] |
+| - **Action:** I collaboratively generate alternatives to the task that will still meet the requirements of the project in a more realistic manner | [ ] | [ ] |
+| - **Action:** I clearly state that I do not believe I can meet the expectations as stated, and explain why I cannot meet it and/or the time or resources I would need in order to meet the expectations. | [ ] | [ ] |
+| **Context:** When it becomes apparent that i will be unable to meet expectations on a team task |  |  |
+| - **Action:** I think through the implications of my failure to meet expectations to the overall team and project| [ ] | [ ] |
+| - **Action:** I generate practical solutions and alternatives that will best satisfy team and organizational priorities. | [ ] | [ ] |
+| - **Action:** I communicate early, to appropriate stakeholders with appropriate level of information | [ ] | [ ] |
 | | | |
 
 ---
