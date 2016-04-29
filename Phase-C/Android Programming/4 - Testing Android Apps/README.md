@@ -65,7 +65,7 @@ Using any instrumentation test of choice (Solo or Espresso is recommended), writ
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When I want to build an android app's main logic ... **Action:** I employ the TDD approach where I write test first.|   [ ]   |   [ ] |
-| **Context:** When I want to start writing and running my android tests ... **Action:** I usually set up my test development environment first.| [ ] | [ ]  |
+| **Context:** When I want to start writing and running my android tests ... **Action:** I set up my test development environment first.| [ ] | [ ]  |
 | **Context:** When I want to test user actions on my android app  ... **Action:** I develop an instrumentation test based on the user stories given and following the BDD approach for testing. | [ ] | [ ]  |
 
 ----------

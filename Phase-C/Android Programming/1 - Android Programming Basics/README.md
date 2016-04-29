@@ -35,7 +35,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am starting out as an Android developer... **Action:** I first setup my environment by installing the java JDK and my IDE - the Android studio. | [ ] | [ ]  |
-**Context:** When I have code that's ready for testing.... **Action:**  I set up an emulator and a physical device and test on both. |   [ ]   |   [ ] |
+| **Context:** When I want to create an Android app... **Action:** I set up a new android project from the Android studio from `File` -> `New` -> `New Project`. | [ ] | [ ]  |
+| **Context:** When I want to add basic components to my android app.... **Action:**  I drag and drop the component in the Design view available on android studio. |   [ ]   |   [ ] |
+| **Context:** When I have code that's ready for testing.... **Action:**  I set up an emulator and a physical device and test on both. |   [ ]   |   [ ] |
 
 -------
 

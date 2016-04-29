@@ -25,7 +25,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
+| **Context:** When I need to run a long running process in the background ... **Action:** I use services.| [ ] | [ ]  |
 | **Context:** When faced with challenges relating to managing data while building android apps ... **Action:** I do not reinvent the wheel. I first seek out for available content providers or services/APIs.| [ ] | [ ]  |
+| **Context:** When I want to access data in a content provider ... **Action:** I use the `ContentResolver` object in my application's `Context` to communicate with the provider as a client.| [ ] | [ ]  |
 
 ----------
 
