@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have frequently used terminal commands that are longer than 5 characters **Action:** I create an alias for them | [ ] | [ ]  |
-| **Context:** When I have frequently used routines on my machine **Action:** I figure out if I can automate them with scripts then act accordingly | [ ] | [ ]  |
+| **Context:** When I have frequently used routines on my machine **Action:** I identify opportunities for automation and write scripts to optimize and accelerate my work | [ ] | [ ]  |
 
 
 
@@ -45,5 +45,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Automating routine tasks using scripts and aliases make me a more productive programmer | [ ] | [ ]  |
-| Shell scripts wizardry is a powerful programming skill | [ ] | [ ]  |
+| Shell scripts wizardry is one powerful programming skill that can earn me 1337 status with my fellow programmers | [ ] | [ ]  |
 
