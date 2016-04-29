@@ -36,9 +36,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working on a task or project **Action** I consistently compare current progress to anticipated timelines to proactively identify any slips in the original schedule for delivery | [ ] | [ ] |
-| **Context:** When I anticipate a slip in schedule **Action** I come up with well-thought recommendations for mitigating the slip | [ ] | [ ] |
+| **Context:** When I anticipate a slip in schedule **Action** I come up with thoughtful recommendations for mitigating the slip | [ ] | [ ] |
 | **Context:** When I come up with recommendations to manage schedule slips **Action** I immediately reach out to stakeholders with the cause and impact of the slip, my recommendations and a revised timeframe for delivery | [ ] | [ ] |
-| **Context:** When expectations have been set that cannot be realistically met **Action** clearly communicate the reasons why the expectations cannot be met, or discuss the resources that would be necessary to meet the expectations | [ ] | [ ] |
+| **Context:** When expectations have been set that cannot be realistically met **Action** I clearly communicate the reasons why the expectations cannot be met, or discuss the resources that would be necessary to meet the expectations | [ ] | [ ] |
 
 ----------
 
