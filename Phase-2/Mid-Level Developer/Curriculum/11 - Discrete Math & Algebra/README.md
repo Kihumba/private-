@@ -44,5 +44,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that a good understanding of Discrete Math gives me the ability to take a methodical approach when analyzing and solving problems | [ ] | [ ]  |
+| A good understanding of Discrete Math gives me the ability to take a methodical approach when analyzing and solving problems | [ ] | [ ]  |
+| Understanding math makes me a more powerful thinker | [ ] | [ ]  |
+
+
 
