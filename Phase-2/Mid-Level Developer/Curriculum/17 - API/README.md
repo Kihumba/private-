@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** When I build an Web/HTTP API **Action:** I follow the best practices for writing Web/HTTP APIs | [ ] | [ ]  |
 | **Context:** When I build an API **Action:** I support it with documentation | [ ] | [ ]  |
-| **Context:** When I write API documentation **Action:** I make it detailed, comprehensive and has examples for each API method | [ ] | [ ]  |
+| **Context:** When I write API documentation **Action:** I make it detailed, comprehensive and provide examples for each API method | [ ] | [ ]  |
 
 
 
