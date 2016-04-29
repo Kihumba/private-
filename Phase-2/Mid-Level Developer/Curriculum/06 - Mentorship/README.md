@@ -46,7 +46,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| True software craftsmen are committed mentors | [ ] | [ ] |
+| True craftspeople are committed mentors | [ ] | [ ] |
 | My wealth of experience and knowledge is of tremendous value to other people | [ ] | [ ] |
 | I learn at the highest level when I teach others | [ ] | [ ] |
 | My impact multiplies when I share my gifts | [ ] | [ ] |
