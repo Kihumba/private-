@@ -53,5 +53,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Designing with a scalability approach will save me scalability headaches in the future | [ ] | [ ]  |
-
+| By designing scalability into my software, I inject scalability into my career | [ ] | [ ]  |
