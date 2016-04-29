@@ -34,8 +34,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I write object-oriented programs **Action:** I adhere to the SOLID principles | [ ] | [ ]  |
-| **Context:** When I review object-oriented programs **Action:** I look out for potential violations of the SOLID principles and recommend appropriate changes | [ ] | [ ]  |
+| **Context:** Whenever I create a Class **Action:** I ensure that it has only one job | [ ] | [ ]  |
+| **Context:** Whenever I build object-oriented programs **Action:** I use interfaces to adhere to the Open-Closed principle | [ ] | [ ]  |
+| **Context:** Whenever I create an interface **Action:** I design it so it does not force its clients to depend on methods they do not need | [ ] | [ ]  |
+| **Context:** Whenever I create a derived Class **Action:** I write it to be substitutable for its base/parent class | [ ] | [ ]  |
+| **Context:** When I design object-oriented programs **Action:** I design my modules to rely on abstractions rather than other modules | [ ] | [ ]  |
 
 
 
