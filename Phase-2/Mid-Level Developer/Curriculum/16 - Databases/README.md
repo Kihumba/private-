@@ -51,5 +51,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Proper considerations during database design saves me performance and scalability issues in the long term | [ ] | [ ]  |
-| Complex queries can be optimized | [ ] | [ ]  |
+| Complex queries can always be optimized | [ ] | [ ]  |
 
