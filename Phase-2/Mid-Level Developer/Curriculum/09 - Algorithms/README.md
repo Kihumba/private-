@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the most common search, data analysis, and optimization algorithms, and has the ability to identify the correct algorithm for a given situation based on accuracy and efficiency.
+The Fellow understands the most common search and optimization algorithms, and has the ability to identify the correct algorithm for a given situation based on accuracy and efficiency.
 
 **Output**
 ----------
