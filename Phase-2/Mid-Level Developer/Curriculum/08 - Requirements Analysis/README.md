@@ -49,5 +49,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Understanding how technical requirements relate to the end users' needs is necessary to creating a system that meets those needs | [ ] | [ ]  |
+| Clarity about the system's technical requirements is a pre-requsite for developing a particular feature  | [ ] | [ ]  |
+| Getting technical requirements right is the difference between whether people love or hate your product  | [ ] | [ ]  |
+
+
+
 
 
