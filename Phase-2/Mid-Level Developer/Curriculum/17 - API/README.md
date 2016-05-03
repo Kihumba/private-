@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * API | [ ] | [ ]  |
 | * CRUD     | [ ] | [ ]  |
+| * Tradeoff between REST and SOAP     | [ ] | [ ]  |
 | * HTTP status codes     | [ ] | [ ]  |
 | * Web/HTTP API Best Practices     | [ ] | [ ]  |
 
@@ -46,5 +47,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Building APIs gives me flexibility I need to build device/platform-agnostic applications | [ ] | [ ]  |
+| Building APIs gives the flexibility needed to build device/platform-agnostic applications | [ ] | [ ]  |
+| APIs make it easier and more secure for other programs to interact with my application | [ ] | [ ]  |
+| Excellent API documentation empowers and encourages other developers to use my APIs | [ ] | [ ]  |
 
