@@ -24,6 +24,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | - Common departments that exist in B2B & B2C companies and their functions| [ ] | [ ] |
 | - How different departments work together and contribute to the goals of the organization | [ ] | [ ] |
 | - Departments/teams in my Client organization, their functions and goals and how they work together | [ ] | [ ] | 
+| - Actions required of me when an organization structure changes | [ ] | [ ] | 
 
 
 ----------
@@ -38,6 +39,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I join an organization (e.g. Andela or a Client) **Action:** I inquire across departments to fully understand the business goals and vision of the organization and how they contribute to them | [ ] | [ ]  |
 | **Context:** When talking about Andela or any organization I'm working in/with **Action:** I can converse fluently about their business type, model, and the different departments/teams | [ ] | [ ] |
 | | | |
+| **Context:** When an organization I'm working in/with changes in structure **Action:** I update myself with the new changes and how they affect my work | [ ] | [ ] |
+| | | |
 
 
 ----------
@@ -51,6 +54,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Independent research sets me up for successful inquiries about how an organization functions | [ ] | [ ]  |
 | I make more valuable decisions and contributions when I am highly aware of the goals and functions of my organization and its departments | [ ] | [ ]  |
 | By understanding the organizations I work with now, I will thrive when I lead organizations later | [ ] | [ ]  |
-
+| I support an organization better when I stay up to date with changes in its structure | [ ] | [ ]  |
 
 
