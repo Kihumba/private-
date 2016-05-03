@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow can identify multiple sets of stakeholders both within his Client and within Andela, and clearly understands what needs to be communicated to each set of stakeholders and how timely the information needs to be.  Has a complete understanding of Client and Andela's team, roles, goals and history.
+The Fellow fully understands all stakeholders within Andela that are associated with their Client engagement as well as stakeholders on the Client side, and clearly understands what needs to be communicated to each set of stakeholders and how timely the information needs to be.  Has a complete understanding of Client and Andela's team, roles, goals and history.
 
 
 **Output**
@@ -22,10 +22,9 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Andela's Goals | [ ] | [ ]  |
-| * Andela's Team Structure     | [ ] | [ ]  |
-| * Andela's Team Members' Roles       | [ ] | [ ]  |
-| * Andela's History      | [ ] | [ ]  |
+| * Goals of Andela team that supports me on Client engagement | [ ] | [ ]  |
+| * Structure and roles of Andela team that supports me on Client engagement | [ ] | [ ]  |
+| * History with Client of Andela team that supports me on Client engagement | [ ] | [ ]  |
 | * My Client's Goals      | [ ] | [ ]  |
 | * My Client's Team Structure   | [ ] | [ ]  |
 | * My Client's Team Members' Roles       | [ ] | [ ]  |
