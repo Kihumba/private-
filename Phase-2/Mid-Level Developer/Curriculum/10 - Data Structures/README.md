@@ -6,9 +6,9 @@ The fellow also understands binary trees, heaps, b-trees, and graphs, and how to
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to create implementations of the following:
+After attaining this skill, and as a demonstration of it, a person should be able to take and pass the following:
  
-1. HackerRank exercises that cover Binary Trees, Heaps, and Graphs 
+1. HackerRank exercises that cover Binary Trees, Heaps, and Graphs as specified by Success department
 
 
 **Objectives**
@@ -19,7 +19,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Applications of Trees | [ ] | [ ]  |
+| * How trees are applied in programming solutions | [ ] | [ ]  |
+| * How trees are applied in programming solutions | [ ] | [ ]  |
 | * Applications of Heaps     | [ ] | [ ]  |
 | * Applications of Graphs     | [ ] | [ ]  |
 
