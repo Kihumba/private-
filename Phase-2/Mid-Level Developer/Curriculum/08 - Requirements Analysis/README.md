@@ -21,6 +21,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * Requirements | [ ] | [ ]  |
 | * Requirements Analysis     | [ ] | [ ]  |
+| * How to translate user requirements into technical ones     | [ ] | [ ]  |
+| * How to extrapolate technical requirements from user stories     | [ ] | [ ]  |
+| * Common types of users     | [ ] | [ ]  |
+| * Common types of user goals     | [ ] | [ ]  |
+| * Common technical aspects that systems are required to meet     | [ ] | [ ]  |
+
 
 
 ----------
@@ -30,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I receive requirements **Action:** I break them down into actionable user stories with the involvement of team members and key stakeholders | [ ] | [ ]  |
+| **Context:** When I receive a user requirement / story **Action:** I identify all the techncial functions / features necessary to enable that requirement | [ ] | [ ]  |
 
 
 
@@ -42,5 +48,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that breaking big requirements down into smaller tasks makes them more actionable and realistic | [ ] | [ ]  |
+| Understanding how technical requirements relate to the end users' needs is necessary to creating a system that meets those needs | [ ] | [ ]  |
+
 
