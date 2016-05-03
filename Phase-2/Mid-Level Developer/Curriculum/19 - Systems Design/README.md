@@ -23,6 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Tradeoffs between Java, Javascript, PHP, Python and Ruby    | [ ] | [ ]  |
 | * Systems architecture patterns and their applications    | [ ] | [ ]  |
 | * How to choose the right tool for the job    | [ ] | [ ]  |
+| * How to write loosely-coupled and highly-cohesive programs    | [ ] | [ ]  |
 
 
 
@@ -36,6 +37,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** Before I start building applications **Action:** I analyze the application needs/requirements | [ ] | [ ]  |
 | **Context:** After analyzing the system needs/requirements **Action:** I draw an architecture model that illustrates the needed system components and how they interact with each other | [ ] | [ ]  |
 | **Context:** After drawing the architecture model **Action:** I choose the optimal language, frameworks, databases for each system component | [ ] | [ ]  |
+| **Context:** When designing each system component **Action:** I ensure that it is loosely coupled with other components while allowing other components to interact with it in a cohesive manner | [ ] | [ ]  |
+| **Context:** When designing each system component **Action:** I modularize my code | [ ] | [ ]  |
 
 
 
@@ -47,6 +50,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I always advocate for the right tool for the job | [ ] | [ ]  |
-| Investing time to select the optimal technlogies for a new system helps me build more durable applications for the long term | [ ] | [ ]  |
+| I always advocate for the best tool for the job | [ ] | [ ]  |
+| Investing time to select the optimal technologies for a new system helps me build more durable applications for the long term | [ ] | [ ]  |
 
