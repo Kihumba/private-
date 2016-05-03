@@ -45,5 +45,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Automating routine tasks using scripts and aliases make me a more productive programmer | [ ] | [ ]  |
-| Shell scripts wizardry is one powerful programming skill that can earn me 1337 status with my fellow programmers | [ ] | [ ]  |
+| Shell scripts wizardry is one powerful programming skill that gets me closer to 1337 status with my fellow programmers | [ ] | [ ]  |
 
