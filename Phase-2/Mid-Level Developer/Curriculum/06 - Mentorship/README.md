@@ -19,11 +19,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Mentorship | [ ] | [ ]  |
+| * The goals of mentorship | [ ] | [ ]  |
 | * Mentorship Best Practices | [ ] | [ ] |
 | * Common technical issues junior Fellows face | [ ] | [ ] |
 | * Common business situations junior Fellows may experience and have challenges with | [ ] | [ ] |
 | * Ideal communication avenues for sharing learnings with junior Fellows | [ ] | [ ] |
+| * How to identify when a peer needs guidance/support | [ ] | [ ] |
+
 
 ----------
 
@@ -36,6 +38,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | | | |
 | **Context:** When I notice that a Fellow could benefit from my guidance on a technical or business issue **Action:** I offer them my support | [ ] | [ ] |
 | | | |
+| **Context:** When a Fellow asks for help **Action:** I offer them support and guidance in a way that does not require me to do the work for them | [ ] | [ ] |
+| | | |
+| **Context:** Within 2 weeks of mentoring a Fellow **Action:** I check in with them and see if they learned from the mentorship experience and if there is anything else I can do to support | [ ] | [ ] |
+| | | |
+
 
 
 ----------
@@ -46,8 +53,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
+| I do not need to wait for someone to ask specifically for my help to offer my support | [ ] | [ ] |
 | True craftspeople are committed mentors | [ ] | [ ] |
-| My wealth of experience and knowledge is of tremendous value to other people | [ ] | [ ] |
+| My experience and knowledge are of tremendous value to other people | [ ] | [ ] |
 | I learn at the highest level when I teach others | [ ] | [ ] |
 | My impact multiplies when I share my gifts | [ ] | [ ] |
 | This Fellowship is transformative when we share our gifts | [ ] | [ ] |
+| I can mentor others even when I have more to learn about the topic myself | [ ] | [ ] |
+
+
+
