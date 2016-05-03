@@ -35,6 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** Prior to joining an organization (e.g. Andela or a Client) **Action:** I strive to gain a full understanding of the type of organization, and all of its departments | [ ] | [ ]  |
 | **Context:** Prior to joining (e.g. Andela or a Client) **Action:** I create a company/business profile of the organization before engaging with them for the first time | [ ] | [ ]  |
+| **Context:** When I join an organization (e.g. Andela or a Client) **Action:** I inquire across departments to fully understand the business goals and vision of the organization and how they contribute to them | [ ] | [ ]  |
 | **Context:** When talking about Andela or any organization I'm working in/with **Action:** I can converse fluently about their business type, model, and the different departments/teams | [ ] | [ ] |
 | | | |
 
