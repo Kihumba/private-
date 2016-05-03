@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow seeks & requests feedback and responds in a structured and systematic way (e.g., taking feedback and creating S.M.A.R.T. goals)
+The Fellow seeks & requests feedback and responds in a structured and systematic way
 
 
 **Output**
