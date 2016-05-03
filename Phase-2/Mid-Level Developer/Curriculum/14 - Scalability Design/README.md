@@ -39,7 +39,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When designing a system **Action:** I design for 10x of the projected systems usage | [ ] | [ ]  |
+| **Context:** When designing a system **Action:** I consider short and long term goals of the system's usage | [ ] | [ ]  |
+| **Context:** After knowing the short and long term goals of the system's usage **Action:** I consider the tradeoff of designing for 10x of the projected systems usage versus the need to roll out features fast | [ ] | [ ]  |
 | **Context:** When building a system **Action:** I set up monitoring systems to track usage and the impact of the usage | [ ] | [ ]  |
 | **Context:** When building a system **Action:** I set up load tests to predict system behavior under different scaling metrics | [ ] | [ ]  |
 | **Context:** When setting up monitoring systems **Action:** I configure the system to autoscale (vertically & horizontally) based on monitoring data | [ ] | [ ]  |
@@ -53,4 +54,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| By designing scalability into my software, I inject scalability into my career | [ ] | [ ]  |
+| Considering performance and scalability is a critical part of good system design | [ ] | [ ]  |
+| The effort of scalability design is rewarded when the system actually needs it | [ ] | [ ]  |
+| Scalability needs are dynamic over time and require regular re-evaluation | [ ] | [ ]  |
+
