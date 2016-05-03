@@ -1,4 +1,4 @@
-# Outcome 11 - Dicrete Math & Algebra
+# Outcome 11 - Discrete Math & Algebra
 
 **Skill Description**
 ----------
@@ -8,7 +8,7 @@ The Fellow also understands more complex concepts of discrete math including log
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to show the following:
 
-1. Completion of Khan Academy's Discrete Math and Probablity course exercises
+1. Completion of Khan Academy's Probablity course exercises
 
 
 **Objectives**
@@ -19,10 +19,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Induction and proof by induction | [ ] | [ ]  |
-| * Logic and proof functions | [ ] | [ ]  |
-| * Probablity | [ ] | [ ]  |
-| * Descriptive Statistics     | [ ] | [ ]  |
+| * How to use induction to prove statements | [ ] | [ ]  |
+| * How mathematical induction is applicable in software development | [ ] | [ ]  |
+| * How to use logic and proof functions | [ ] | [ ]  |
+| * How to apply probablity to problem solving | [ ] | [ ]  |
+| * How to apply descriptive statistics to data sets    | [ ] | [ ]  |
+| * The importance of Discrete Math to programming expertise    | [ ] | [ ]  |
 
 
 ----------
@@ -33,6 +35,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I build programs **Action:** I leverage Discrete Math to create appropriate data models | [ ] | [ ]  |
+| **Context:** When deciding on the most appropriate algorithm for a problem **Action:** I use proofs to objectively decide | [ ] | [ ]  |
+| **Context:** When using conditionals **Action:** I leverage probability to optimize for cases that are likely to occur more often | [ ] | [ ]  |
 
 
 
