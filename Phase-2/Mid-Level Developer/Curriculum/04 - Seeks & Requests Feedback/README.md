@@ -23,7 +23,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * How to create S.M.A.R.T goals | [ ] | [ ] |
 | * How to create stretch goals | [ ] | [ ] |
-| * The differences and possible combinations of SMART goals and Stretch goals | [ ] | [ ] |
+| * Appropriate use cases for S.M.A.R.T goals and stretch goals | [ ] | [ ] |
+| * The differences and possible combinations of S.M.A.R.T goals and Stretch goals | [ ] | [ ] |
+| * The best times and environments to ask for feedback | [ ] | [ ] |
 | * Methods for responding to feedback in a structured and systematic way | [ ] | [ ] |
 | * My current goals based on feedback I have received | [ ] | [ ] |
 
