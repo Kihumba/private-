@@ -6,9 +6,9 @@ The Fellow demonstrates basic leadership skills such as self-awareness, an abili
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, a person should be able to show the following:
 
-1. Anonymous leadership capacity survey results from 3+ Fellows who have witnessed or experienced my leadership abilities.
+1. Instances where I have demonstrated my leadership abilities
 
 
 **Objectives**
@@ -32,8 +32,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I join a team **Action:** I learn more about what inspires and motivates individual the team members through careful observation and asking directly |   [ ]   |   [ ]  |
-| **Context:** As a team member **Action:** I inspire and motivate other team members by applying knowledge of what drives and motivates them |   [ ]   |   [ ]  |
+| **Context:** When I first join a team **Action:** I learn more about what inspires and motivates individual team members|   [ ]   |   [ ]  |
+| **Context:** When I feel a member of my team is not motivated in their work **Action:** I take action to inspire and motivate them |   [ ]   |   [ ]  |
 | **Context:** When confronted with unexpected demands **Action:** I remain calm, cool, and collected |   [ ]   |   [ ]  |
 | **Context:** When confronted with unexpected demands **Action:** I resist the urge to make assumptions or jump to conclusions, and instead seek a full understanding of the demands |   [ ]   |   [ ]  |
 | **Context:** After understanding unexpected demands **Action:** I take action based on how the demand fit with organizational/team goals and priorities |   [ ]   |   [ ]  |
@@ -49,7 +49,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Self-awareness will unleash my leadership potential | [ ] | [ ]  |
-| I am be a force of inspiration wherever I go | [ ] | [ ]  |
+| I am a source of inspiration wherever I go | [ ] | [ ]  |
 | I can handle any demand with grace | [ ] | [ ] |
-| The best way to learn how to lead is through leading | [ ] | [ ] |
+| Learning how to lead effectively requires me to begin acting as a leader | [ ] | [ ] |
+| I am a leader | [ ] | [ ] |
 
