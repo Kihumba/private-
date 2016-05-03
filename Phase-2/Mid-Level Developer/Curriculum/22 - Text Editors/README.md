@@ -21,8 +21,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Shortcuts | [ ] | [ ]  |
-| * Common chores that do not require using the mouse     | [ ] | [ ]  |
-| * Shortcuts for common chores in my Text Editor of choice     | [ ] | [ ]  |
+| * Common tasks that do not require using the mouse     | [ ] | [ ]  |
+| * Shortcuts for common tasks in my Text Editor of choice     | [ ] | [ ]  |
 | * Common productivity-enhancing packages/extensions in my Text Editor of choice     | [ ] | [ ]  |
 
 
