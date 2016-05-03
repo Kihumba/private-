@@ -7,10 +7,10 @@ The Fellow can identify multiple sets of stakeholders both within his Client and
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to do the following:
 
 1. Discussion with a Staff Member correctly describing Andela's goals, team structure, team members' roles, and history
-2. Discussion with a Staff Member correctly describing Fellow's Client's goals, team structure, team members' roles, and history
+2. Discussion with a Staff Member correctly describing Fellow's Client's (external Client or internal placement) goals, team structure, team members' roles, and history
 3. Discussion with a Staff Member describing my habits of sharing information with multiple stakeholders in a timely fashion, supported by real examples from my work with my Client and at Andela
 
 
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * My Client's Team Members' Roles       | [ ] | [ ]  |
 | * My Client's History      | [ ] | [ ]  |
 | * Who my stakeholders are and what needs to be communicated with them | [ ] | [ ]  |
-| * Approriate timeliness and level of information to share with a stakeholder |
+| * Which situations require what depth and speed of responsiveness | [ ] | [ ]  |
 
 
 
@@ -42,9 +42,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working in an organization **Action:** I gain and maintain a thorough understanding of my team, stakeholder roles, team and organizational goals, and the organization's history | [ ] | [ ] |
+| **Context:** When I first join an organization **Action:** I gain an understanding of my team, stakeholder roles, team and organizational goals, and the organization's history | [ ] | [ ] |
 | | | |
-| **Context:** When I become aware of information that affects other people at Andela or my Client **Action:** I communicate with all stakeholders in a timely fashion | [ ] | [ ] |
+| **Context:** When I realize that I am unaware of the team, roles, goals, or history of any organization I work with **Action:** I research and inquire until I gain a complete understanding | [ ] | [ ] |
+| | | |
+| **Context:** When I become aware of information that affects other people at Andela or my Client **Action:** I communicate with all relevant stakeholders in a timely fashion | [ ] | [ ] |
 | **Context:** When I provide stakeholders with information **Action:** I provide the appropriate level of information for each stakeholder | [ ] | [ ] |
 | | | |
 | **Context:** When I am not sure of the appropriate stakeholders or timeliness for sharing certain information **Action:** I ask trusted members of my team or organization for clarity | [ ] | [ ] |
@@ -60,8 +62,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I’m an Andela Brand Ambassador | [ ] | [ ]  |
-| I’m valuable member of my Client organization and team | [ ] | [ ] |
-| I will become an expert on any organization I am a part of | [ ] | [ ] |
-| I am worthy of engaging with anyone I work with | [ ] | [ ] |
+| I am an expert on the structure and history of all organizations that I support | [ ] | [ ] |
+| The choice of who to communicate with, and in which order can be as important as what content is communicated | [ ] | [ ] |
 
