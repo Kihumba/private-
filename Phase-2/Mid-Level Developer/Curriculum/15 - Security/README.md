@@ -23,6 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Security vulnerabilities | [ ] | [ ]  |
 | * Types of attacks/exploits     | [ ] | [ ]  |
 | * Common vulnerabilities with web and mobile applications     | [ ] | [ ]  |
+| * How to evaluate relative priorities and urgency of different security vulnerabilites    | [ ] | [ ]  |
 | * How to close common vulnerabilities with web and mobile applications     | [ ] | [ ]  |
 | * How to report vulnerabilites in my organization     | [ ] | [ ]  |
 
