@@ -48,5 +48,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| With DevOps I can set up systems that enable teams to ship product faster | [ ] | [ ]  |
+| With DevOps I can set up systems and environments that enable teams to ship product faster | [ ] | [ ]  |
 
