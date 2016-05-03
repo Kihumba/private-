@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow actively seeks out challenges and proactively identifies areas that need to change for greater efficiency. 
+The Fellow actively seeks out challenges and proactively identifies and proposes areas that need to change for greater efficiency. 
 
 
 **Output**
@@ -41,6 +41,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I identify areas that need to change for greater efficiency **Action:** I offer well-thought-out recommendations to relevant stakeholders | [ ] | [ ]  |
 | **Context:** When my work is not sufficiently challenging **Action:** I look for opportunites where I could offer more value to my Client or Andela while being challenged | [ ] | [ ]  |
 | **Context:** When I identify areas where I could be more challenged **Action:** I communicate my desire for that change to relevant stakeholders | [ ] | [ ]  |
+| **Context:** When I propose a change that is not accepted **Action:** I adapt to the Client | [ ] | [ ]  |
 
 
 ----------
@@ -55,3 +56,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I will improve any group or organization I am a part of | [ ] | [ ] | 
 | I must be challenged in order to grow | [ ] | [ ] |
 | Nothing can stop me from continuously challenging myself | [ ] | [ ] |
+| Sometimes great ideas are rejected for good reason | [ ] | [ ] |
