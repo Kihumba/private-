@@ -3,7 +3,7 @@
 **Skill Description**
 ----------
 
-The Fellow proactively alerts stakeholders to slips in schedules as soon as they become aware of them along with a revised timeframe for delivery and a clear explanation of the cause for the slip.  The Fellow presents to Client / other stakeholders alternatives for requests that cannot realistically be met, along with clear pros and cons of each option and a recommendation for which option to pursue.
+The Fellow proactively alerts stakeholders to slips in schedules as soon as they become aware of them, along with a revised timeframe for delivery and a clear explanation of the cause for the slip.  The Fellow presents relevant stakeholders alternatives for requests that cannot realistically be met, along with clear pros and cons of each option and a recommendation for which option to pursue.
 
 
 
