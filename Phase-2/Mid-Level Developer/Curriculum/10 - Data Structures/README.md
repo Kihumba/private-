@@ -20,9 +20,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How trees are applied in programming solutions | [ ] | [ ]  |
-| * How trees are applied in programming solutions | [ ] | [ ]  |
-| * Applications of Heaps     | [ ] | [ ]  |
-| * Applications of Graphs     | [ ] | [ ]  |
+| * How heaps are applied in programming solutions | [ ] | [ ]  |
+| * How graphs are applied in programming solutions | [ ] | [ ]  |
+| * How to identify what data structure is best suited for different situations | [ ] | [ ]  |
+
 
 
 ----------
