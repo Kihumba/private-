@@ -23,6 +23,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Performance Optimization | [ ] | [ ]  |
 | * Tools for measuring/monitoring performance     | [ ] | [ ]  |
 | * Common performance metrics    | [ ] | [ ]  |
+| * Effective ways of conveying the results of performance optimization efforts    | [ ] | [ ]  |
+
 
 
 ----------
@@ -49,4 +51,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | If I don't monitor the performance of my applications, I cannot meaningfully improve them | [ ] | [ ]  |
 | Application performance is what sets great developers apart from merely competent developers | [ ] | [ ]  |
-| When it comes to building applications, performance is next to godliness | [ ] | [ ]  |
