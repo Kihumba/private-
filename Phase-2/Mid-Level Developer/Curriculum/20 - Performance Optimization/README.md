@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the importance of application performance, how it impacts the overall goals of the company and consequences on users. In addition, the Fellow can use tools to baseline performance, use their knowledge of systems design and algorithms to improve, and clearly convey the results of the performance improvements
+The Fellow understands the importance of application performance and how it impacts the overall goals of the company and the end users of the application. The Fellow can use tools to baseline performance, use their knowledge of systems design and algorithms to improve performance, and clearly convey the results of the performance improvements
 
 **Output**
 ----------
