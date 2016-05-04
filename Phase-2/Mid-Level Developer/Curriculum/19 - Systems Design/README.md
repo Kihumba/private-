@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow demonstrates an understanding of how design decisions are made in software development, trade-offs between stacks and technologies
+The Fellow demonstrates an understanding of how design decisions are made in software development and trade-offs between stacks and technologies
 
 **Output**
 ----------
