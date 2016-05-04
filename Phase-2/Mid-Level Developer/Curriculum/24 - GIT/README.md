@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands and uses git workflows, makes regular, well-written atomic commits; uses branches and merging. Comfortable with merge conflicts. Understands and uses git’s ‘rebase’ functionality. Can ‘cherry-pick’ commits.
+The Fellow understands and uses git workflows, makes regular, well-written atomic commits, uses branches and merging, is comfortable with merge conflicts, understands and uses git’s ‘rebase’ functionality, and can ‘cherry-pick’ commits.
 
 **Output**
 ----------
@@ -35,6 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a team that uses Git **Action:** I inquire about what git workflow they use and adapt accordingly | [ ] | [ ]  |
+| **Context:** When adapting to a new git workflow **Action:** I familiarize myself with all the git commands required in that workflow including how and when to use them  | [ ] | [ ]  |
 | **Context:** Before I begin working on a branch **Action:** I pull from the remote repository to ensure that my branch is up to date | [ ] | [ ]  |
 | **Context:** During development **Action:** I make atomic commits to capture my progress | [ ] | [ ]  |
 | **Context:** When making commits **Action:** I use descriptive commit messages and follow commit message conventions if the team uses any | [ ] | [ ]  |
