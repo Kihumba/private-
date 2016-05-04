@@ -10,7 +10,7 @@ The Fellow fully understands all stakeholders within Andela that are associated 
 After attaining this skill, and as a demonstration of it, I should be able to do the following:
 
 1. Discussion with a Staff Member correctly describing Andela's goals, team structure, team members' roles, and history
-2. Discussion with a Staff Member correctly describing Fellow's Client's (external Client or internal placement) goals, team structure, team members' roles, and history
+2. Discussion with a Staff Member correctly describing Fellow's Client's (external or internal) goals, team structure, team members' roles, and history
 3. Discussion with a Staff Member describing my habits of sharing information with multiple stakeholders in a timely fashion, supported by real examples from my work with my Client and at Andela
 
 
@@ -62,5 +62,5 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I am an expert on the structure and history of all organizations that I support | [ ] | [ ] |
-| The choice of who to communicate with, and in which order can be as important as what content is communicated | [ ] | [ ] |
+| The choice of who to communicate with, and at what time can be as important as what content is communicated | [ ] | [ ] |
 
