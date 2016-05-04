@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow also understands more complex concepts of discrete math including logic and proof functions, calculation of probability, and statistics. 
+The Fellow understands complex concepts of discrete math including logic and proof functions, calculation of probability, and statistics. 
 
 **Output**
 ----------
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I build programs **Action:** I leverage Discrete Math to create appropriate data models | [ ] | [ ]  |
+| **Context:** When I designing programming solutions **Action:** I leverage Discrete Math to create appropriate data and object models | [ ] | [ ]  |
 | **Context:** When deciding on the most appropriate algorithm for a problem **Action:** I use proofs to objectively decide | [ ] | [ ]  |
 | **Context:** When using conditionals **Action:** I leverage probability to optimize for cases that are likely to occur more often | [ ] | [ ]  |
 
@@ -48,7 +48,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| A good understanding of Discrete Math gives me the ability to take a methodical approach when analyzing and solving problems | [ ] | [ ]  |
+| Fluency with discrete math unlocks my powers of methodical problem solving and analysis | [ ] | [ ]  |
 | Understanding math makes me a more powerful thinker | [ ] | [ ]  |
 
 
