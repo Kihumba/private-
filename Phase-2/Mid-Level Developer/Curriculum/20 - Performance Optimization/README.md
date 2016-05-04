@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the importance of application performance, how it impacts the overall goals of the company and consequences on users. In addition, the fellow can use tools to baseline performance, use their knowledge of systems design and algorithms to improve, and clearly convey the results 
+The Fellow understands the importance of application performance, how it impacts the overall goals of the company and consequences on users. In addition, the Fellow can use tools to baseline performance, use their knowledge of systems design and algorithms to improve, and clearly convey the results of the performance improvements
 
 **Output**
 ----------
@@ -51,3 +51,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | If I don't monitor the performance of my applications, I cannot meaningfully improve them | [ ] | [ ]  |
 | Application performance is what sets great developers apart from merely competent developers | [ ] | [ ]  |
+| People only love applications if they perform well | [ ] | [ ]  |
+
