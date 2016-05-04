@@ -48,8 +48,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Familiarity of common algorithms enables me to identify common solution patterns for similar problems and solve problems faster | [ ] | [ ]  |
-| The more familiar I am with common algorithms, the easier it will be to fit in with the computer science professionals I work with | [ ] | [ ]  |
+| Familiarity of common algorithms enables me to innovate solutions faster for similar problems | [ ] | [ ]  |
+| Demostrating comfort with algorithms generates respect and credibility with my fellow programmers | [ ] | [ ]  |
 
 
 
