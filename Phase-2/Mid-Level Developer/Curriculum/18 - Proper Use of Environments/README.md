@@ -24,6 +24,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * Development workflow     | [ ] | [ ]  |
 | * My Client's development workflow     | [ ] | [ ]  |
 | * Best practices for development environments     | [ ] | [ ]  |
+| * How and when to update pre-configured development environments     | [ ] | [ ]  |
 
 
 ----------
@@ -35,6 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a new team **Action:** I observe their onboarding to see if they have processes to set up development environments then make recommendations accordingly | [ ] | [ ]  |
 | **Context:** When I join a new team with processes for setting up development environments **Action:** I conform to their processes to set up my development environment (and make enhancement suggestions if I discover any) | [ ] | [ ]  |
+| **Context:** When my workflow and project toolset changes **Action:** I update my development environment configuration to match the new workflow and toolset | [ ] | [ ]  |
 
 
 
@@ -47,4 +49,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Having a pre-configured script to set up a proper development environment saves me time | [ ] | [ ]  |
+| Development environments are a piece of software; they need to updated with the times to stay relevant | [ ] | [ ]  |
 
