@@ -24,6 +24,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * In-order, Pre-order, Post-order tree traversal | [ ] | [ ]  |
 | * Breadth-first search     | [ ] | [ ]  |
 | * Depth-first search     | [ ] | [ ]  |
+| * Dijkstra's algorithm    | [ ] | [ ]  |
 | * How to identify the best algorithm based on the overall needs of the system     | [ ] | [ ]  |
 
 
