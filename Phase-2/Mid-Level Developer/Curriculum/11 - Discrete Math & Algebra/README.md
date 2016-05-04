@@ -8,7 +8,7 @@ The Fellow also understands more complex concepts of discrete math including log
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to show the following:
 
-1. Completion of Khan Academy's Probablity course exercises
+1. Completion of Khan Academy's 'Probablity and Statistics' course exercises
 
 
 **Objectives**
