@@ -35,7 +35,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a new team **Action:** I observe their onboarding to see if they have processes to set up development environments then make recommendations accordingly | [ ] | [ ]  |
-| **Context:** When I join a new team with processes for setting up development environments **Action:** I conform to their processes to set up my development environment (and make enhancement suggestions if I discover any) | [ ] | [ ]  |
+| **Context:** When I join a new team with processes for setting up development environments **Action:** I conform to their processes to set up my development environment | [ ] | [ ]  |
+| **Context:** When setting up my development environment according to my team's processes **Action:** I make enhancement suggestions if I discover any | [ ] | [ ]  |
 | **Context:** When my workflow and project toolset changes **Action:** I update my development environment configuration to match the new workflow and toolset | [ ] | [ ]  |
 
 
