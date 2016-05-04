@@ -2,13 +2,14 @@
 
 **Skill Description**
 ----------
-The Fellow understands the pros and cons of multiple types of databases and how to assess a product's needs to identify the right one for the job.  They are comfortable setting up a database and creating complex queries.
+The Fellow understands the pros and cons of multiple types of databases and how to assess a product's needs to identify the right database for the job. The Fellow is comfortable setting up a database and creating complex queries.
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Server-side component of a project involving database design and interaction with complex queries
+1. Database design documentation(e.g diagram) of a project
+2. Codebase highlighting complex database queries
 
 
 **Objectives**
