@@ -21,7 +21,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | * Requirements | [ ] | [ ]  |
 | * Requirements Analysis     | [ ] | [ ]  |
-| * How to translate user requirements into technical ones     | [ ] | [ ]  |
 | * How to extrapolate technical requirements from user stories     | [ ] | [ ]  |
 | * Common types of users     | [ ] | [ ]  |
 | * Common types of user goals     | [ ] | [ ]  |
