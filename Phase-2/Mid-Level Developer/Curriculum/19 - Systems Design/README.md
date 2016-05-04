@@ -50,6 +50,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I always advocate for the best tool for the job | [ ] | [ ]  |
+| I build better tools when I advocate for the best tool for the job | [ ] | [ ]  |
 | Investing time to select the optimal technologies for a new system helps me build more durable applications for the long term | [ ] | [ ]  |
 
