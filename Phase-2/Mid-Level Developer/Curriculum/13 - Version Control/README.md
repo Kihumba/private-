@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow is able to resolve merge conflicts for code submitted between members of a team
+The Fellow is able to resolve merge conflicts for code submitted between members of a team.
 
 **Output**
 ----------
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When my junior teammates have merge conflicts **Action:** I help resolve them | [ ] | [ ]  |
-| **Context:** After I resolve merge conflicts **Action:** I perform end-to-end tests to ensure that the program still behaves as expected | [ ] | [ ]  |
+| **Context:** After I resolve merge conflicts **Action:** I perform end-to-end tests to ensure that the system/application still behaves as expected | [ ] | [ ]  |
 | **Context:** After I resolve merge conflicts **Action:** I perform regression tests to ensure that test suite still passes before pushing changes| [ ] | [ ]  |
 
 
