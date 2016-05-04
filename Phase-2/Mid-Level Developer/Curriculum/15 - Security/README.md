@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow demonstrates a general understanding of how to analyze code, identify and close vulnerabilities.
+The Fellow demonstrates a general understanding of how to analyze code to identify and close vulnerabilities.
 
 **Output**
 ----------
