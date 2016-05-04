@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I join a team that uses Git **Action:** I inquire about what git workflow they use and adapt accordingly | [ ] | [ ]  |
 | **Context:** When adapting to a new git workflow **Action:** I familiarize myself with all the git commands required in that workflow including how and when to use them  | [ ] | [ ]  |
 | **Context:** Before I begin working on a branch **Action:** I pull from the remote repository to ensure that my branch is up to date | [ ] | [ ]  |
-| **Context:** During development **Action:** I make atomic commits to capture my progress | [ ] | [ ]  |
+| **Context:** When making code changes **Action:** I make commits that are generally small and encompass only one irreducible feature, fix, or improvement | [ ] | [ ]  |
 | **Context:** When making commits **Action:** I use descriptive commit messages and follow commit message conventions if the team uses any | [ ] | [ ]  |
 
 
