@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The fellow also understands binary trees, heaps, b-trees, and graphs, and how to identify the most efficient structure to use in a given situation.
+The Fellow understands binary trees, heaps, b-trees, and graphs, and how to identify the most efficient structure to use in a given situation.
 
 **Output**
 ----------
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I have a problem to solve **Action:** I start by thinking about the appropriate Data Structures to use | [ ] | [ ]  |
+| **Context:** When I have a progamming problem to solve **Action:** I start by thinking about the appropriate Data Structures to use | [ ] | [ ]  |
 
 
 
@@ -45,5 +45,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Leveraging appropriate Data Structures will help me create more efficient solutions to problems | [ ] | [ ]  |
+| Data structures are key to efficiency | [ ] | [ ]  |
 
