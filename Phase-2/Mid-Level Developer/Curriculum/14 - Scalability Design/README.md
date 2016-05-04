@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the importance of scaling, how it impacts the overall goals of the company and consequences on users. They know when to make trade-offs between scalability designing for short term and long-terms goals. They're relentless in thinking about their design decisions and how it'll work in the future at 10x usage.
+The Fellow understands the importance of scaling, and how scaling impacts the overall goals of the company and end users. The Fellow knows when to make trade-offs between scalability designing for short term and long-terms goals. The Fellow is relentless in thinking about their design decisions and how the product will work in the future at 10x usage.
 
 **Output**
 ----------
@@ -41,8 +41,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | **Context:** When designing a system **Action:** I consider short and long term goals of the system's usage | [ ] | [ ]  |
 | **Context:** After knowing the short and long term goals of the system's usage **Action:** I consider the tradeoff of designing for 10x of the projected systems usage versus the need to roll out features fast | [ ] | [ ]  |
-| **Context:** When building a system **Action:** I set up monitoring systems to track usage and the impact of the usage | [ ] | [ ]  |
-| **Context:** When building a system **Action:** I set up load tests to predict system behavior under different scaling metrics | [ ] | [ ]  |
+| **Context:** Before deploying a system **Action:** I set up monitoring systems to track usage and the impact of the usage | [ ] | [ ]  |
+| **Context:** When putting together a test suite for a system **Action:** I set up load tests to predict system behavior under different scaling metrics | [ ] | [ ]  |
 | **Context:** When setting up monitoring systems **Action:** I configure the system to autoscale (vertically & horizontally) based on monitoring data | [ ] | [ ]  |
 
 
