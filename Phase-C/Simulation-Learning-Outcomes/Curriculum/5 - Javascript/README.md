@@ -10,7 +10,10 @@ Output
 
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. TBD
+- Create a small Web project, consist of a HTML file and a Javascript File.
+- Using either Angular, React, Backbone, Ember or Meteor. Create a form, with a text field and button.
+- The form submits its fields to the GitHub Api to pull the list of repos belonging to the user, whose handle was entered into the textfield.
+- The textfield should have some validation that prevents it from making the request when the textfield is empty.
 
 ## Knowledge
 
