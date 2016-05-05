@@ -1,0 +1,72 @@
+# Outcome 20 - Writing Professionally
+
+## Skill Description
+
+The Fellow adheres to the 7 C's in written communication: Completeness, Conciseness, Clarity, Correctness, Consideration, Courtesy, Concreteness. The Fellow is able to provide clear and concise communication via all modes of written communication relevant to my work, such as email, code, or documentation.
+
+
+## Output
+
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
+
+1. Three diverse email writing samples.
+2. Document writing sample
+3. Consistent quality slack communication
+
+
+## Objectives
+
+### Knowledge
+
+
+| Knowledge Unit | Studied | Memorized |
+|:---|:---:|:---:|
+| I can describe the following from memory: | | |
+| | | |
+| - The 7 C’s of Professional writing | [ ] | [ ] |
+| - How to effectively make a message more concise | [ ] | [ ] |
+| - Technical writing standards | [ ] | [ ] |
+| - Modes of written communication (e.g. Slack, email, code comments) and their uses in different contexts | [ ] | [ ] |
+| - How to tailor a message to my audience | [ ] | [ ] |
+| - Methods for constructing a written message efficiently | [ ] | [ ] |
+| - Technical vocabulary relevant to my work | [ ] | [ ] |
+| | | |
+
+
+
+---
+
+### Behaviors
+
+
+| Observable Behavior | Observed | Mastered |
+|:---|:---:|:---:|
+| | | |
+| **Contexts:** When preparing to write a message | | |
+| - **Action:** I consider my audience and how to best tailor the message to that audience | [ ] | [ ] |
+| - **Action:** I consider the mode of communication | [ ] | [ ] |
+| **Contexts:** Before sending a written message | | |
+| - **Action:** I make sure it is clear and concise | [ ] | [ ] |
+| - **Action:** I ensure it has no errors in writing standards (e.g. spelling, grammar, punctuation)| [ ] | [ ] |
+| **Contexts:** When I am not effective in communicating via a specific mode of written communication **Action:** I take action to learn the mode of communication until I have gained competency | [ ] | [ ] |
+| **Contexts:** When I have to communicate something in writing urgently **Action:** I do the best I can to follow the 7 C’s without delaying the message, with a special focus on clarity | [ ] | [ ] |
+| **Contexts:** When communicating to a technical audience about a topic that involves meaningful technical terms **Action:** I use the terms precisely and accurately | [ ] | [ ] |
+| | | |
+
+---
+
+
+### Beliefs
+
+
+| Embodied Belief | Felt | Demonstrated |
+|:---|:---:|:---:|
+| | | |
+| My quality of writing is a reflection of my capabilities | [ ] | [ ] |
+| My writing habits inspire trust and confidence in me | [ ] | [ ] |
+| People are impacted by what I write and how I write it | [ ] | [ ] |
+| Writing my bridge to reaching the whole world with my message | [ ] | [ ] |
+| What I have to express through writing is valuable and important | [ ] | [ ] |
+| The more I write the better I get | [ ] | [ ] |
+| | | |
+---
