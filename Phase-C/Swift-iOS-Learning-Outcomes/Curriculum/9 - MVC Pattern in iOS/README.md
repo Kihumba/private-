@@ -14,7 +14,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What does the model represent in MVC? | [ ] | [ ] |
 | What does the view represent in MVC? | [ ] | [ ] |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I build a application, **Action:** I separate the application's components into a Model, a View, and a Controller. | [ ] | [ ] |
 | **Context:** While building an application, **Action:** The logic and behavior of the application will be created in its Controllers. | [ ] | [ ] |

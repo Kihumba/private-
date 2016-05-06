@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Why is it important to Persist Data? | [ ] | [ ] |
 | What type of data can be persisted?  | [ ] | [ ] |
@@ -27,7 +27,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have data to store locally on a device, **Action:** I use the most appropriate persistent Data stores based on the data format. | [ ] | [ ] |
 | **Context:** When I need to save relational data, **Action:** I use `CoreData`. | [ ] | [ ] |

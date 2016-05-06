@@ -67,5 +67,5 @@ In checkpoint 4 :
 |:-------------|:------------------:|:--------:|
 | Grouping similar routes together eliminates code duplication | [ ] | [ ]  |
 | Middlewares are excellent components in intercepting Http requests made to routes to perform specific actions. | [] | [] |
-| Route helper methods dry up links in laravel applications. | [ ] | [ ]  |
-| With route resources, I can do more with less. | [ ] | [ ]  |
+| Route helper methods dry up links. | [ ] | [ ]  |
+| Route resource will create the route parameters for your resource routes based on the resource name. | [ ] | [ ]  |

@@ -20,7 +20,7 @@ Write a blog post about preprocessors in rails.
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can clearly explain from memory what a layout page do | [ ] | [ ]  |
 | I can differentiate between a view partial and a view template | [ ] | [ ]  |
@@ -43,7 +43,7 @@ Write a blog post about preprocessors in rails.
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When a building a rails application... **Action:** I always have a layout page. | [ ] | [ ]  |
 | **Context:** When I have similar html code block in multiple views... **Action:** I abstract the code block into a view partial. | [ ] | [ ]  |

@@ -16,7 +16,7 @@ In checkpoint two and simulation project:
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe what helpers are | [ ] | [ ]  |
 | I know how to make a helper method out of a controller method | [ ] | [ ]  |
@@ -61,7 +61,7 @@ In checkpoint two and simulation project:
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building a rails application... **Action:** I use helpers to extract complex logic out of my views. | [ ] | [ ]  |
 | **Context:** When I want to use a helper in a controller and view... **Action:** I define the method as a controller instance method and use helper_method to convert the instance method to a helper method eg current_user helper method.. | [ ] | [ ]  |

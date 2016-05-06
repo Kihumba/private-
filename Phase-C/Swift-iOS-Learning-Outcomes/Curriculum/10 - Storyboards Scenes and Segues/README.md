@@ -14,7 +14,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are the contents of a Storyboard? | [ ] | [ ] |
 | What purpose do the Scenes serve? | [ ] | [ ] |
@@ -28,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating Scenes in my application, **Action:** I create them inside a Storyboard. | [ ] | [ ] |
 | **Context:** When I need create a View Controller / Container, **Action:** I create it inside a Scene. | [ ] | [ ] |

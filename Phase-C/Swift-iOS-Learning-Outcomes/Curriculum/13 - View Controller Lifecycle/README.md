@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What Lifecycle states can be triggered? | [ ] | [ ] |
 | _What states trigger the methods below_ |
@@ -28,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | When I create a View Controller, I override the methods I need, to run my procedures at the appropriate Application State. | [ ] | [ ] |
 | When I need to run a procedure in the View Controller, I add my procedure to the `viewWillAppear` function, which runs just before the Views are displayed. | [ ] | [ ] |

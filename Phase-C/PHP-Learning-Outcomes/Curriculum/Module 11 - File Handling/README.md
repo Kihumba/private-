@@ -25,7 +25,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | How to perform basic file operations?
 | <ul><li>Create a File</li></ul> | [] | [] |
@@ -52,7 +52,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building an application with PHP.. **Action:**  I will use inbuilt functions like file_get_contents to read contents from a file.| [ ] | [ ]  |
 | **Context:** When Interacting with directories within my PHP program.. **Action:**  I use DirectoryIterator and RecursiveDirectoryIterator classes| [ ] | [ ]  |

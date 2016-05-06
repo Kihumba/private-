@@ -22,7 +22,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are Namespaces and the purpose of Namespacing? | [] | [] |
 | What are Aliases? | [] | [] |
@@ -44,7 +44,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to write a PHP Package that involves a bunch of Classes.. **Action:**  I will namespace the classes and use the PSR-4 Autoloading Standard.| [ ] | [ ]  |
 | **Context:**  When I am writing reusable code...**Action:** I will namespace it.|   [ ]   |   [ ] |

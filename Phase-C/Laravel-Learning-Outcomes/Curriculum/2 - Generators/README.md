@@ -61,5 +61,5 @@ In checkpoint and simulation projects, consistently use laravel generators to im
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can create custom generator commands whenever the need arises. | [ ] | [ ]  |
-| I can increase development speed by taking advantage of generators. | [ ] | [ ]  |
+| With Custom Generator Command, repeated manual tasks can be eliminated. | [ ] | [ ]  |
+| With Generators, development speed doubles. | [ ] | [ ]  |

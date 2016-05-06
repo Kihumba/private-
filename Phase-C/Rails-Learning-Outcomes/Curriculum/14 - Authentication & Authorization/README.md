@@ -18,7 +18,7 @@ In checkpoints 3 project:
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I know the difference between authentication and authorization? | [ ] | [ ]  |
 | I know why `#has_secure_password` is a handy method | [ ] | [ ]  |
@@ -35,7 +35,7 @@ In checkpoints 3 project:
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need some specific users to have access to some specific part of my application... **Action:** I authenticate users of my application | [ ] | [ ]  |
 | **Context:** When I have different users with different roles eg (:member, :admin, :authors, :editors :anonymous etc)... **Action:** I grant my users defined permissions using `cancancan` gem | [ ] | [ ]  |

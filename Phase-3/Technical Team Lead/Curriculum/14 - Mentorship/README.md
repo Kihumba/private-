@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Cognitive Apprenticeship     | [ ] | [ ]  |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I mentor junior engineers **Action:** I push them to figure out the answers by leveraging the resources around them | [ ] | [ ]  |
 | **Context:** When I pair program with junior engineers **Action:** I hardly touch the keyboard |   [ ]   |   [ ]  |

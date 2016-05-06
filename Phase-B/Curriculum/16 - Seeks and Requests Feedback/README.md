@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Importance/gains of requesting & seeking feedback | [ ] |    [ ] |
 | Approaches for constructively and effectively giving and receiving feedback. - Being tactful, Getting consent, Focus on key issue, The place of timing and environment | [ ] |    [ ] |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When receiving feedback **Action:** I acknowledge receipt of the feedback and the value of the same. | [ ] |    [ ] |
 | **Context:**  When receiving feedback **Action:** I may show tendencies towards being defensive, negative, shy while seeing the value of the feedback. | [ ] |    [ ] |

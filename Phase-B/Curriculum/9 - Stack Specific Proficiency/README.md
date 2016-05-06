@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of MVC/MVT depending on the case. | [ ] | [ ]  |
 | Identify front-end and backend components of a web application. |   [ ]   |   [ ] |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When presented with a problem... **Action:** I start by defining the data models as object models using an ORM. | [ ] | [ ]  |
 | **Context:** When building a web application... **Action:** I define routes and map them to specific functionality in my controller. | [ ] |    [ ] |

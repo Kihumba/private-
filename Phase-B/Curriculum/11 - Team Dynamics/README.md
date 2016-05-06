@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Team dynamics  | [ ] |    [ ] |
 | Understand the importance of working in teams - (1) Helps leverage on the strengths, experiences and insights of others to achieve better results faster. (2) Receiving feedback that enables improvements for the team and the individual. (3) Allows for specialisation allowing team members to focus on what they do best. This will help improve the quality of work and reduces turn over time. (4) In periods of individual low motivation, teams can play a great support role to the individual. (5) Team members become accountability partners who can hold us to our word and call us out when we slack.  | [ ] |    [ ] |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When working with a team **Action:** I proactively seek to form partnerships and leverage on team strengths to achieve goals. | [ ] |    [ ] |
 | **Context:**  When working with colleagues **Action:** I continuously improve on my rapport building | [ ] |    [ ] |

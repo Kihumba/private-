@@ -16,7 +16,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can explain what Rake is. | [ ] | [ ]  |
 | I can clearly explain the need for rake. | [ ] | [ ]  |
@@ -49,7 +49,7 @@ Outputs
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working on repetitive tasks... **Action:** I automate the task using rake. | [ ] | [ ]  |
 | **Context:** When I need to run rake tasks at certain intervals... **Action:** I use cron. | [ ] | [ ]  |

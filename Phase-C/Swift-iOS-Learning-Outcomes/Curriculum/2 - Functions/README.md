@@ -15,7 +15,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are functions?| [ ] | [ ] |
 | What are Arguments and Parameters? | [ ] | [ ] |
@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ----------
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to run a collection of procedures that should run from top to bottom, with abstracted with encapsulated data, **Action:** I use functions. | [ ] | [ ] |
 | **Context:** When making use of callback functions that contain Parameters that I need to work with directly, **Action:** I use the shorthands available and avoid creating variables or references to the Parameters | [ ] | [ ] |

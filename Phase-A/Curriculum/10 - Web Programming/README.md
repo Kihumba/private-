@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What does HTTP stand for? | [ ] | [ ]  |
 | Definition of HTTP. | [ ] | [ ]  |
@@ -61,7 +61,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating a web page **Action:** I layout all the required components on the page using semantic HTML syntax. | [ ] | [ ]  |
 | **Context:** When creating a web page **Action:** I link external CSS and Javascript to the page using the link and script tags. |   [ ]   |   [ ]  |

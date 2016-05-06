@@ -15,7 +15,7 @@ In checkpoint and simulation projects,
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can clearly explain the need for the different rails environment. | [ ] | [ ]  |
 | I can describe from memory, the following rails environments: | [ ] | [ ]  |
@@ -34,7 +34,7 @@ In checkpoint and simulation projects,
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When adding a gem in the Gemfile... **Action:** I add the gem to the appropriate group/environment. | [ ] | [ ]  |
 | **Context:** When running tests for a rails application... **Action:** I set the application to use rails test environment. | [ ] | [ ]  |

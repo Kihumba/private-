@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Level of Effort (LOE) | [ ] | [ ]  |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have a large task/project goal **Action:** I leverage the support of my team to break down the task into smaller tasks that can be completed by individuals  | [ ] | [ ]  |
 | **Context:** When estimating work **Action:** I break down the request into smaller units that can be more reliably estimated and then total up the individual estimates  | [ ] | [ ]  |

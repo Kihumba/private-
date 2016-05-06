@@ -13,7 +13,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Multithreading? | [ ] | [ ] |
 | Why it is important to run tasks in parallel? | [ ] | [ ] |
@@ -27,7 +27,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I run processes that should not distort the user interface of an application  **Action:** I run the processes on a new background thread.  | [ ] | [ ] |
 | **Context:** When I create a background thread, **Action:** the thread should be created on a non-blocking queue, not on the main queue. | [ ] | [ ] |

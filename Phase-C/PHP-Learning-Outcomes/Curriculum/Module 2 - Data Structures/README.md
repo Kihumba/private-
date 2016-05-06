@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What’s SPL? SPL refers to the STANDARD PHP LIBRARY. It’s a collection of interfaces and classes that are meant to solve common problems.| [ ] | [ ] |
 | What are SPL Data Structures?
@@ -48,7 +48,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When I want to store one or more values in a single variable... **Action:**  I will make use of arrays.| [ ] | [ ]  |
 | **Context:** When I want to perform operations on arrays...**Action:** I should be able to identify and use the appropriate array function that suites the operation that’s to be performed on the array.|   [ ]   |   [ ] |

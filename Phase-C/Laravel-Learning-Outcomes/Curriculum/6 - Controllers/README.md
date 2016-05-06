@@ -49,7 +49,6 @@ Outputs
 ## **Beliefs**
 
 
-
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Controllers should be slim. | [ ] | [ ]  |

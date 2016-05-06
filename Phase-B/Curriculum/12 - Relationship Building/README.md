@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Relationships can be one to one, one to many, or many to many  | [ ] |    [ ] |
 | Relationship building entails trying to understand each other's feelings or ideas and communicate well.  | [ ] |    [ ] |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 |**Context**   When Initiating or building relationships
 | **Context:** At the beginning of the relationship e.g when meeting the team  **Action:** I communicate and share details about my background and interests in an attempt to find common ones. | [ ] |    [ ] |

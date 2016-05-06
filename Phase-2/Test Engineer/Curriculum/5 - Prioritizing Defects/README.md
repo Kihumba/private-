@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe, from memory, common types of testing, including the following: | | |
 | * Functionality testing | [ ] | [ ]  |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When ???... **Action:** I engage with clients to learn about an application's specifications, user requirements, and business purposes | [ ] | [ ]  |
 | **Context:** When ???... **Action:** I identify and document test scenarios that correspond to business requirements |   [ ]   |   [ ]  |

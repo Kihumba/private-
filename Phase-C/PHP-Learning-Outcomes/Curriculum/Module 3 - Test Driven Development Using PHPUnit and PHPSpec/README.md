@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is a unit test?| [ ] | [ ] |
 | How to write a unit test using PHPUnit? | [ ] | [ ] |
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When I want to write functional tests.. **Action:**  I can use Selenium with PHPUnit to achieve that.| [ ] | [ ]  |
 | **Context:**  When I am writing tests for a PHP program...**Action:**I can use BDD style to write my tests like user stories.|   [ ]   |   [ ] |

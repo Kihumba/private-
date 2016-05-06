@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | The difference between assessing and tracking. | [ ] | [ ]  |
 | The difference between self-reporting and colleague observations. | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When a Fellow has completed a progress event **Action:** I verify that their Learning Map is updated to reflect the progress event | [ ] | [ ]  |
 | **Context:** When observing a Fellow applying a knowledge unit at the appropriate time **Action:** I add a checkmark to the appropriate column in the Knowledge section of the corresponding Learning Outcome |   [ ]   |   [ ]  |
