@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I feel a member of my team is not motivated in their work **Action:** I take action to inspire and motivate them |   [ ]   |   [ ]  |
 | **Context:** When confronted with unexpected demands **Action:** I remain calm, cool, and collected |   [ ]   |   [ ]  |
 | **Context:** When confronted with unexpected demands **Action:** I resist the urge to make assumptions or jump to conclusions, and instead seek a full understanding of the demands |   [ ]   |   [ ]  |
-| **Context:** After understanding unexpected demands **Action:** I take action based on how the demand fit with organizational/team goals and priorities |   [ ]   |   [ ]  |
+| **Context:** After understanding unexpected demands **Action:** I take action based on how the demands fit with organizational/team goals and priorities |   [ ]   |   [ ]  |
 | **Context:** Everyday **Action:** I engage myself in introspection to improve my self-awareness |   [ ]   |   [ ]  |
 
 
