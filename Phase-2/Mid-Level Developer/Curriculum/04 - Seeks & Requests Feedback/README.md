@@ -21,6 +21,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
+| * Benefits and importance of setting S.M.A.R.T goals | [ ] | [ ] |
+| * Benefits and importance of setting stretch goals | [ ] | [ ] |
 | * How to create S.M.A.R.T goals | [ ] | [ ] |
 | * How to create stretch goals | [ ] | [ ] |
 | * Appropriate use cases for S.M.A.R.T goals and stretch goals | [ ] | [ ] |
@@ -36,7 +38,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** In any engagement **Action:** I frequently seek feedback from all stakeholders to identify areas for improvement |   [ ]   |   [ ]  |
+| **Context:** In any engagement **Action:** frequently seek feedback at appropriate times and avenues from all stakeholders to identify areas for improvement |   [ ]   |   [ ]  |
 | **Context:** After I receive feedback **Action:** I write down the specific areas for improvement and share it with the person who delivered the feedback for confirmation |   [ ]   |   [ ]  |
 | **Context:** After confirming areas for improvement **Action:** I decided whether to use SMART vs Stretch goals (or a combination) as a structured approach to address those areas for improvement |   [ ]   |   [ ]  |
 | **Context:** After deciding on a structured approach to address feedback **Action:** I put the structured approach to acting on the feedback in writing and share it with relevant stakeholders |   [ ]   |   [ ]  |
@@ -50,7 +52,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Feedback is critical to self-awareness. Structure is critical to self-improvement. | [ ] | [ ] |
+| I'm not perfect | [ ] | [ ] |
+| Feedback is critical to self-awareness. Structure is critical to self-improvement | [ ] | [ ] |
 | Systematic response to feedback breeds trust and respect | [ ] | [ ] |
 | If I truly value feedback I must commit to acting on it | [ ] | [ ] | 
 | When I add structure to my goals, I become a much more powerful learner | [ ] | [ ] |
