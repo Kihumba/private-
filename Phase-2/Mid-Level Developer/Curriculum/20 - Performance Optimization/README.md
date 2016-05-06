@@ -10,6 +10,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 1. Performance monitoring configuration for an existing system
 2. System improvements based on monitoring report
+3. Proposed correlations between system improvements and benefits to the business
 
 
 **Objectives**
@@ -38,6 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** When I get negative performance reports **Action:** I investigate the reports to identify the cause of poor performance | [ ] | [ ]  |
 | **Context:** After identifying causes of poor performance **Action:** I leverage my understanding of systems design and algorithms/data structures to make improvement recommendations (solutions and expected results)  | [ ] | [ ]  |
 | **Context:** After performance improvement recommendations have been implemented **Action:** I compare the performance metrics to the expected metrics in the recommendations   | [ ] | [ ]  |
+| **Context:** When sharing performance improvements **Action:** I include the benefits of those improvements to the business   | [ ] | [ ]  |
 
 
 
@@ -52,4 +54,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | If I don't monitor the performance of my applications, I cannot meaningfully improve them | [ ] | [ ]  |
 | Application performance is what sets great developers apart from merely competent developers | [ ] | [ ]  |
 | People only love applications if they perform well | [ ] | [ ]  |
+| The business impact of performance improvements are as important as the system performance improvements | [ ] | [ ]  |
 
