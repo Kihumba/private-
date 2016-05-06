@@ -8,7 +8,8 @@ The Fellow mentors more junior Fellows in the program by providing specific guid
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Written or recorded testimony of experiences mentoring other Fellows, common technical and business issues faced by junior Fellows, and key learnings from mentoring others.
+1. Written or recorded testimony of experiences mentoring other Fellows, common technical and business issues faced by junior Fellows, and key learnings from mentoring others
+2. Testimony of mentorship experiences by Fellows mentored
 
 
 **Objectives**
@@ -40,9 +41,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | | | |
 | **Context:** When a Fellow asks for help **Action:** I offer them support and guidance in a way that does not require me to do the work for them | [ ] | [ ] |
 | | | |
+| **Context:** When providing support or guidance to another Fellow **Action:** I ensure that they're actually learning and not just getting an answer | [ ] | [ ] |
+| | | |
 | **Context:** Within 2 weeks of mentoring a Fellow **Action:** I check in with them and see if they learned from the mentorship experience and if there is anything else I can do to support | [ ] | [ ] |
 | | | |
-
 
 
 ----------
