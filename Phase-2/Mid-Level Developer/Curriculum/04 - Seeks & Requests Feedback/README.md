@@ -52,7 +52,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I'm not perfect | [ ] | [ ] |
+| I can always improve myself | [ ] | [ ] |
 | Feedback is critical to self-awareness. Structure is critical to self-improvement | [ ] | [ ] |
 | Systematic response to feedback breeds trust and respect | [ ] | [ ] |
 | If I truly value feedback I must commit to acting on it | [ ] | [ ] | 
