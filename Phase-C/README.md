@@ -21,6 +21,6 @@ Learning Outcomes
 15. Seeks & Requests Feedback
 16. Speaking to Be Understood
 17. Stakeholder Management
-18 Team Dynamics
+18. Team Dynamics
 19. Willingness to Ask Questions
 20. Writing Professionally
