@@ -17,13 +17,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What Frameworks exist in Xcode by default, and where can they be found? | [ ] | [ ] |
-| What Package Managers are available for iOS Swift? | [ ] | [ ] |
-| Why is it important to use a Package Manager? | [ ] | [ ] |
+| Existing Frameworks in Xcode (for iOS). | [ ] | [ ] |
+| The Package Managers are available for iOS Swift. | [ ] | [ ] |
+| Importance of Package Managers. | [ ] | [ ] |
 | _How can I add a Framework to my existing iOS Project?_ |
 | 1. manually using the `.framework` file | [ ] | [ ] |
 | 2. using a Package Manager _(CocoaPod)_ | [ ] | [ ] |
-| How do you use a Framework added to your iOS Project | [ ] | [ ] |
+| Importing and using a Framework into your iOS Project | [ ] | [ ] |
 
 ------
 

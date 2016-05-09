@@ -15,15 +15,14 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What are View Controllers used for? | [ ] | [ ] |
 | The `UIViewController` class in the UIKit [namespace](../4%20-%20Object%20Oriented%20Programming/). | [ ] | [ ] |
-| What elements can be added to a View Controller (in the Scene's container)? | [ ] | [ ] |
-| How to switch View Controllers non-programmatically(Segues) and programmatically? | [ ] | [ ] |
-| In what circumstances do you embed View Controllers in Navigation and Tab Bar Controllers? | [ ] | [ ] |
+| The Elements present a View Controller (in the Scene's container)? | [ ] | [ ] |
+| Switching between View Controllers non-programmatically(Segues) and programmatically. | [ ] | [ ] |
+| Embedding View Controllers in Navigation and Tab Bar Controllers. | [ ] | [ ] |
 | Other forms of the `UIViewController` (Page, Table, Collection etc). | [ ] | [ ] |
 | View Controllers are abstractions of the `UIViewController` class, with some added Behaviors. | [ ] | [ ] |
 | `TableViewController` and `CollectionViewController` should contain a monolith element(s) / template(s) that are repeated for a collection of data. | [ ] | [ ] |
-| How do I link my View Controller in the Scene, to a custom View Controller class I have created? | [ ] | [ ] |
+| Linking your View Controller in a Scene to your custom View Controller Class (swift code file). | [ ] | [ ] |
 
 ------
 

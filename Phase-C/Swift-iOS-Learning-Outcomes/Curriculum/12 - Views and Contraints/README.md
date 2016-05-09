@@ -18,16 +18,15 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | _Views_ |
-| What is a UIView? (class `UIView`) | [ ] | [ ] |
-| Where in the Scenes is a `UIView` added to? | [ ] | [ ] |
+| `UIView` as the base class for all UI Elements. | [ ] | [ ] |
+| Adding `UIViews` to a Scene's container. | [ ] | [ ] |
 | All UI Elements are abstractions from the UIView class. | [ ] | [ ] |
 | The common Elements include `UIButton`, `UILabel`, `UITextView`, `UITextField`, `UIImageView` all inherit the properties of the `UIView` alongside their custom properties. | [ ] | [ ] |
 | Each UIView has its specific purpose and Traits that depict what they represent e.g the `UIImageView` has the Image trait. | [ ] | [ ] |
 | A `UIView` can be referenced as an Outlet (as a variable reference, `IBOutlet`) or as an Action (event triggered by the Element `IBAction`) based on their traits. | [ ] | [ ] |
 | _Constraints_ |
-| What are Constraints? | [ ] | [ ] |
-| How do you add Constraints to your UI Elements? | [ ] | [ ] |
-| Why do I need to add Constraints to my UI Elements? | [ ] | [ ] |
+| Restricting a `UIView` to a position on the screen using `Constraints`. | [ ] | [ ] |
+| Programatic Constraints. | [ ] | [ ] |
 
 
 ------
@@ -46,6 +45,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that creating a View Controller with the appropriate UIView elements creates a seamless user experience. | [ ] | [ ] |
-| With `IBAction` I can make a view react to any user action. | [ ] | [ ] |
-| I believe that adding the pertinent Constraints to my UI Elements will make them display properly on all screens. | [ ] | [ ] |
+| Views can respond to input when I assign them an `IBAction`. | [ ] | [ ] |
+| Constraints on my UI Elements will make them display properly on all screens. | [ ] | [ ] |

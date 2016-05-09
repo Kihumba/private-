@@ -19,9 +19,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | The requirements for Application Distribution on App Store (Developer License). | [ ] | [ ] |
-| What is the process of uploading an App to the Apple App Store? | [ ] | [ ] |
-| Why is it important to have Beta testers of your application before the final release of the Application? | [ ] | [ ] |
-| What is Localization? | [ ] | [ ] |
+| Uploading an App to the Apple App Store. | [ ] | [ ] |
+| Alpha and Beta Testing of your uploaded application. | [ ] | [ ] |
 | Localization in iOS app development |
 | 1. Localization string file (_Localizable.strings_ file) | [ ] | [ ] |
 | 2. Storyboard Localization string file (_Main.strings_ file) | [ ] | [ ] |
@@ -44,6 +43,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using Beta testers to test run a application before its final release, simulates the real life scenario of downloading the app, and gives a full test of the application's initialization on local devices. | [ ] | [ ] |
-| I believe that using Localization in my application makes it show the pertinent language on the different Locales that are supported by my application. | [ ] | [ ] |
-| I believe that Regionalizing my application allows me target and restrict my audience. | [ ] | [ ] |
+| Beta tester helps me simulate my application's initialization on an iOS device over-the-air. | [ ] | [ ] |
+| Localization gives me the power to distribute a single application with different language support. | [ ] | [ ] |
+| Regionalizing my application allows me target and restrict my audience. | [ ] | [ ] |

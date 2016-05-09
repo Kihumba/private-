@@ -13,16 +13,16 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What Lifecycle states can be triggered? | [ ] | [ ] |
 | _What states trigger the methods below_ |
 | `viewDidLoad()` | [ ] | [ ] |
 | `viewDidAppear(animated: Bool)` | [ ] | [ ] |
 | `viewWillUnload()` | [ ] | [ ] |
 | `viewWillAppear(animated: Bool)` | [ ] | [ ] |
 | How often are the Lifecycle functions called? | [ ] | [ ] |
+| The _will_ Lifecycle functions are called before the _did_ Lifecycle functions in iOS. | [ ] | [ ] |
 | Some other important methods to override in your Controller. |
 | `prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?)` | [ ] | [ ] |
-| What operations should be carried out in these functions? | [ ] | [ ] |
+| The Operations that should be carried out in these functions. | [ ] | [ ] |
 
 ------
 
@@ -42,5 +42,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that the _will_ Lifecycle functions are called before the _did_ Lifecycle functions in iOS. | [ ] | [ ] |
-| I believe that overriding the Lifecycle functions, gives me the flexibility to control to the detail, the user experience of my Application. | [ ] | [ ] |
+| The user experience of my Application can be controlled to the detail when I  overriding the Lifecycle functions. | [ ] | [ ] |
