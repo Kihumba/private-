@@ -2,12 +2,12 @@
 
 Skill Description
 ----------
-Fat Code Refactoring Techniques
+It is very important that we know how to refactor code. This outcome touches on some best practices as well as refactoring techniques that are useful while building a rails application.
 
 Outputs
 ----------
-Write a blog post on refactoring techniques.
-Implement these techniques in checkpoints and simulation projects.
+- Write a blog post on refactoring techniques.
+- Implement these techniques in checkpoints and simulation projects.
 
 ----------
 ## **Knowledge**

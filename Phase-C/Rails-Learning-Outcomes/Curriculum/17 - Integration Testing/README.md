@@ -2,11 +2,12 @@
 
 Skill Description
 ----------
-Integration Testing
+Integration testing is a component of Extreme Programming (XP).
+With integration testing, we are able to verify that all components of our applications function as it is supposed to. Also, integration testing exposes problems with components of our application before it is exposed to the real world.
 
 Outputs
 ----------
-In checkpoint 2 and 3,
+In checkpoint 2 and 3:
 - write integration tests using capybara and request specs respectively.
 In simulation project,
 - write integration tests for all feature implemented.
