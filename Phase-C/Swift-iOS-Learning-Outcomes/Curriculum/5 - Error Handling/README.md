@@ -4,7 +4,7 @@
 Error handling is the process of responding to and recovering from error conditions in your program. Swift provides support for throwing, catching, propagating, and manipulating recoverable errors at runtime.
 
 Error handling is important as programming in its dynamism could have properties and attributes set and unset at runtime.
-A common scenario could be reading or writing a file programmatically. The file, being independent of the program could not exist or even have restricted read/write permissions, etc. This cases need to be taken care of, and that’s were error handling comes in.
+A common scenario could be reading or writing a file programmatically. The file, being independent of the program could not exist or even have restricted read/write permissions, etc. These cases need to be taken care of, and that's were error handling comes in.
 
 ## Output
 
@@ -17,22 +17,21 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What is an error? | [ ] | [ ] |
 | What class is commonly used to represent errors in Swift? (`NSError`)? | [ ] | [ ] |
-| What types of errors exist? | [ ] | [ ] |
-| What’s the syntax for catching Errors in Swift? Do-try-catch | [ ] | [ ] |
-| How do I throw an Error? guard-throws | [ ] | [ ] |
+| What types of errors exist in Swift? | [ ] | [ ] |
+| What’s the syntax for catching Errors in Swift? `do-try-catch` | [ ] | [ ] |
+| How do I throw an Error? `guard-throws` | [ ] | [ ] |
 
 -------
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When dealing with Errors in Swift, **Action:** I can easily relate its structure with Exceptions in other programming languages and leverage on that as the case may be. | [ ] | [ ] |
-| **Context:** When throwing Errors that have steps or categories, **Action:** I will create a enumerated ErrorType that throws different Errors in steps to increase flexibility in the Error Handling.  | [ ] | [ ] |
+| **Context:** When throwing Errors that have steps or categories, **Action:** I create an enumerated ErrorType that throws different Errors in steps to increase flexibility in the Error Handling.  | [ ] | [ ] |
 | **Context:** When I need to catch an Error from an Abstracted method, **Action:** I catch the Error as an NSError type and proceed to displaying the Error message as the case may be.  | [ ] | [ ] |
 
 -------

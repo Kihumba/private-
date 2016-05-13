@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Root cause analysis | [ ] | [ ]  |
@@ -30,10 +30,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I attempt to fix a bug **Action:** I reproduce the problem | [ ] | [ ]  |
 | **Context:** When finding the root cause of a bug/problem **Action:** I split up the program into smaller independent components | [ ] | [ ]  |
+| **Context:** When investigating a defect **Action:** I look beyond the immediate cause of the issue to try and find the underlying cause that may cause additional defects if not corrected | [ ] | [ ]  |
 | **Context:** After splitting the program into components **Action:** I run the components in isolation to identify abnormal behavior | [ ] | [ ]  |
 | **Context:** After identifying the component with abnormal behaviour **Action:** I recursively split the component into smaller components while testing sub-components for abnormal behaviour until I have arrived at the smallest problematic component | [ ] | [ ]  |
 
@@ -46,5 +47,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that discovering the root cause of a bug is the first step towards fixing that bug  | [ ] | [ ]  |
-| I believe that fixing a bug by solving the root cause problem is the most effective and best long term solution for fixing bugs  | [ ] | [ ]  |
+| Discovering the root cause of a bug is the first step towards fixing that bug  | [ ] | [ ]  |
+| Fixing a bug by solving the root cause problem is the most effective and best long term solution for fixing bugs and eliminate future bugs related to that issue   | [ ] | [ ]  |
+

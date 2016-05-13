@@ -2,15 +2,14 @@
 
 **Skill Description**
 ----------
-The fellow includes junior members of their team as stakeholders and understands how to appropriately communicate the right level of information to them.
+The Fellow includes junior members of their team as stakeholders and understands how to appropriately communicate the right level of information to them.
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Periodic reports/presentations on product state including product recommendations
-2. Sprint-level accounting of team throughput
-3. Weekly reports on team members including reflections and people recommendations/progress reports
+1. A log that highlights instances where Technical Team Lead manages/assigns tasks to junior team members while offering perspective on how those tasks fit into the organization/project's goals
+2. A log that highlights instances where Technical Team Lead updates junior team members on happenings in the organization
 
 
 **Objectives**
@@ -18,11 +17,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Kinds of stakeholders | [ ] | [ ]  |
-| * How to engage with each kind of stakeholder     | [ ] | [ ]  |
+| * How to engage with my junior team members as stakeholders?    | [ ] | [ ]  |
 | * What do my junior team members need to know to work effectively?    | [ ] | [ ]  |
 | * What forms of communication do my junior team members respond to the most?   | [ ] | [ ]  |
 
@@ -32,9 +30,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When leading my team **Action:** I update team members regularly with detailed information that enables them to think holistically about their tasks and not so detailed that it distracts them from their priorities.  | [ ] | [ ]  |
+| **Context:** When leading my team **Action:** I send them regular updates on happenings in the organization.  | [ ] | [ ]  |
+| **Context:** When providing my team with updates **Action:** I do so with detailed information that enables them to see how their tasks fit into the goals of the organization/project | [ ] | [ ]  |
+| **Context:** When providing my team with updates **Action:** I manage the level of detail so that the updates do not distract them from their priorities.  | [ ] | [ ]  |
+| **Context:** When assigning tasks/responsibilities **Action:** I provide insight into how those tasks/responsibilities tie into the organization/project goals  | [ ] | [ ]  |
 | **Context:** When communicating with my team **Action:** I am conscious of their communication channel preferences and leverage those to make sure that the information is received by my team members |   [ ]   |   [ ]  |
 
 ----------
@@ -45,5 +46,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that involving both senior and junior members of my organization as stakeholders, adds value to individuals, teams, and the organization | [ ] | [ ]  |
-| I believe that I can leverage the unique roles and preferences of all stakeholders to promote success for myself, my team, and my organization(s) | [ ] | [ ]  |
+| Involving junior members of my organization as stakeholders, increases the amount of value that they create for the team and organization | [ ] | [ ]  |
+| I can leverage the unique roles and preferences of ALL stakeholders to promote success for myself, my team, and my organization(s) | [ ] | [ ]  |

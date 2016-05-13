@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Shell, and how can I access it? | [ ] | [ ]  |
 | What are the different types of Unix shells? <ul><li>Bash</li><li>Zsh</li><li>Ksh</li><li>Fish</li><li>Powershell</li></ul>| [ ] | [ ]|
@@ -50,7 +50,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am faced with repeated processes... **Action:** I automate them by creating custom shell scripts. | [ ] | [ ]  |
 | **Context:** When I have long commands to type... **Action:** I create aliases instead and use them in place of long commands. |   [ ]   |   [ ] |

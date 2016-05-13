@@ -5,7 +5,7 @@
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is User Interface (UI)? | [ ] | [ ]  |
 | What is the User Experience (UX)? | [ ] |  [ ] |
@@ -26,7 +26,7 @@
 
 
 ### Git Workflow
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to build a user interface.. **Action:** I create wireframes to map out the User interface specs before starting the detailed design. | [ ] | [ ]  |
 | **Context:** When designing a product... **Action:** I will ensure that I pay attention to the design of every piece/component no matter how small. |   [ ]   |   [ ] |

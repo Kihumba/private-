@@ -18,21 +18,21 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of the internet. | [ ] | [ ]  |
 | How the internet works. | [ ] | [ ]  |
 | Basic internet tools and concepts | | |
-| * Browser    | [ ] | [ ]  |
-| * WWW     | [ ] | [ ]  |
-| * Url  | [ ] | [ ]  |
-| * Domain name server     | [ ] | [ ]  |
-| * Hypertext and Hypermedia     | [ ] | [ ]  |
-| * HTML     | [ ] | [ ]  |
-| * HTTP     | [ ] | [ ] |
-| * Clients and Servers     | [ ] | [ ] |
-| * Networking     | [ ] | [ ] |
-| * Email  | [ ] | [ ] |
+| <ul><li> Browser    | [ ] | [ ]  |
+| <ul><li> WWW     | [ ] | [ ]  |
+| <ul><li> Url  | [ ] | [ ]  |
+| <ul><li> Domain name server     | [ ] | [ ]  |
+| <ul><li> Hypertext and Hypermedia     | [ ] | [ ]  |
+| <ul><li> HTML     | [ ] | [ ]  |
+| <ul><li> HTTP     | [ ] | [ ] |
+| <ul><li> Clients and Servers     | [ ] | [ ] |
+| <ul><li> Networking     | [ ] | [ ] |
+| <ul><li> Email  | [ ] | [ ] |
 | How the world wide web works.  | [ ] | [ ] |
 | Differences between the Internet and WWW.  | [ ] | [ ] |
 
@@ -43,7 +43,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When looking for information **Action:** I use the internet to find and share information. | [ ] | [ ]  |
 | **Context:** When I want to use the internet **Action:** I identify the tools I need to use it. |   [ ]   |   [ ]  |

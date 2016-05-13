@@ -17,17 +17,27 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of data structure.| [ ] | [ ]  |
 | Different types of data structure: | | |
-| * Primitive Data Structures. | [ ] | [ ]  |
-| * Abstract Data Strucutres. | [ ] | [ ]  |
+| <li> Primitive Data Structures |||
+| <ul><li> Boolean | [ ] | [ ]  |
+| <ul><li> Character | [ ] | [ ]  |
+| <ul><li> Floating-point| [ ] | [ ]  |
+| <ul><li> Double | [ ] | [ ]  |
+| <ul><li> Integer | [ ] | [ ]  |
+| <li> Abstract Data Strucutres |||
+| <ul><li> List | [ ] | [ ]  |
+| <ul><li> Stack | [ ] | [ ]  |
+| <ul><li> Queue | [ ] | [ ]  |
+| <ul><li> Tree | [ ] | [ ]  |
+| <ul><li> Graph | [ ] | [ ]  |
+| <ul><li> Set | [ ] | [ ]  |
 | Differences between Primitive and Abstract data structures with examples. | [ ] | [ ]  |
 | Differences between linear and hierarchical structures with examples.    | [ ] | [ ]  |
 | Importance of data structure.     | [ ] | [ ]  |
 | How to represent different data structures in Python.      | [ ] | [ ]  |
-
 
 ----------
 
@@ -35,7 +45,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When given a problem **Action:** I use the most appropriate data structure to represent data. | [ ] | [ ]  |
 
@@ -48,6 +58,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using the most appropriate data structure will help program efficiency. | [ ] | [ ]  |
+| Computer programs are more efficient with the right data structures in place.  | [ ] | [ ]  |
 
 

@@ -1,5 +1,4 @@
 # Outcome 4 - Object Oriented Programming
-
 ## Skill Description
 
 OOP (Object Oriented Programming) is a programming paradigm where everything is treated as objects, as compared to the real world. The essential properties of OOP are: Abstraction, Polymorphism, Inheritance, Encapsulation.
@@ -10,13 +9,13 @@ OOP (Object Oriented Programming) is a programming paradigm where everything is 
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
 - In the Swift Playground, create a class that implements / extends the NSObject class.
-- By default the Playground included the Foundation namespace. Remove the Foundation namespace, take note of what happens. Create a comment under the Foundation import with your note.
+- By default, the Playground includes the Foundation namespace. Remove the Foundation namespace, take note of what happens. Create a comment under the Foundation import with your note.
 - Extend the `String` class, and add a function that returns an Array of words in a sentence.
 
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is O.O.P? | [ ] | [ ] |
 | What are Namespaces? | [ ] | [ ] |
@@ -34,9 +33,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want a collection of methods, properties or attributes that I need to re-use, **Action:** I  create a Class that contains this methods and attributes, and create instances of that Class when I need to. | [ ] | [ ] |
+| **Context:** When I want a collection of methods, properties or attributes that I need to re-use, **Action:** I create a Class that contains these methods and attributes, and create instances of that Class when I needed. | [ ] | [ ] |
 | **Context:** When I need to create a Class that that needs some existing behaviors already present in another Class, **Action:** I will create a Class that inherits these behaviors. | [ ] | [ ] |
 | **Context:** When I need to access classes, function and variables, **Action:**  I will import the encapsulating namespace and reference them accordingly. | [ ] | [ ] |
 | **Context:** When I need to encapsulate a few relatively simple data values, **Action:** I make use of Structs. | [ ] | [ ] |
@@ -54,5 +53,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I believe that using Computed Properties will improve my code quality by abstracting property operations. | [ ] | [ ] |
 | I believe that namespaces help make importing and referencing of packages and methods more explicit | [ ] | [ ] |
 | I believe that creating inheritable behaviors and characteristics that I need to transcend down a Class or Struct by achieved easily in Swift using Protocols. | [ ] | [ ] |
-| I believe that extending already existing classes and adding custom functionality to them for my perusal by achieved easily in Swift by making use of Extensions. | [ ] | [ ] |
-| I believe that `protocol` and `extensions` make Inheritance, Abstraction and other concepts of O.O.P, easy to implement in Swift. | [ ] | [ ] |
+| I believe that extending already existing classes and adding custom functionality to them for my perusal can be achieved easily in Swift by making use of `extension`. | [ ] | [ ] |
+| I believe that `protocol` and `extension` make Inheritance, Abstraction and other concepts of O.O.P easy to implement in Swift. | [ ] | [ ] |

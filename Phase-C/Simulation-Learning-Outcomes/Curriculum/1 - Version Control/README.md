@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Version Control? | [ ] | [ ] |
 | Possible use cases of Version Control | [ ] | [ ] |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating a project that I intend to revisit **Action:** I create a new remote repository on Github and pull down to my local repository. | [ ] | [ ] |
 | **Context:** When I am about to continue work on an ongoing project **Action:** I pull in changes from the remote repository. | [ ] | [ ] |

@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of recursion. | [ ] | [ ]  |
 | When to use recursive functions. | [ ] | [ ]  |
@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When faced with an infinite recursion **Action:** I implement the right control structure to stop the recursion. | [ ] | [ ]  |
 | **Context:** When faced with a recursive function, **Action:** I am able to identify the recursive function. |   [ ]   |   [ ]  |
@@ -55,7 +55,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that recursion has disadvantages and should be used appropriately. | [ ] | [ ]  |
-| I believe in using iteration over recursion where needed. | [ ] | [ ]  |
-| I believe that recursion when not used appropriately can cause inefficiency in a program. | [ ] | [ ]  |
-| I believe that many algorithms can be expressed much more elegantly recursively than iteratively. | [ ] | [ ]  |
+| Recursion has disadvantages and should be used appropriately. | [ ] | [ ]  |
+| Iteration over recursion where needed. | [ ] | [ ]  |
+| Recursion when not used appropriately can cause inefficiency in a program. | [ ] | [ ]  |
+| Many algorithms can be expressed much more elegantly recursively than iteratively. | [ ] | [ ]  |

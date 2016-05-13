@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can fully describe what a database is. | [ ] | [ ]  |
 | I understand why databases is important as a persistent storage: | [ ] | [ ] |
@@ -80,7 +80,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need a datastore... **Action:** I will select a SQL or NoSQL database based on the needs of the project. | [ ] | [ ]  |
 | **Context:** When I’m writing a complex query... **Action:** I use the most efficient strategy (optimized queries employing VIEWS / JOINS etc when required). | [ ] | [ ]  |

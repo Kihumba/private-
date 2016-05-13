@@ -17,18 +17,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Why is sorting and searching important in Computer science? | [ ] | [ ]  |
 | Search algorithms: | | |
-| * Binary Search | [ ] | [ ]  |
-| * Linear Search    | [ ] | [ ]  |
+| <ul><li> Binary Search | [ ] | [ ]  |
+| <ul><li> Linear Search    | [ ] | [ ]  |
 | Sorting algorithms:     | | |
-| * Insertion sort   | [ ] | [ ]  |
-| * Selection sort     | [ ] | [ ]  |
-| * Bubble sort     | [ ] | [ ]  |
-| * Merge sort     | [ ] | [ ]  |
-| * Quicksort     | [ ] | [ ] |
+| <ul><li> Insertion sort   | [ ] | [ ]  |
+| <ul><li> Selection sort     | [ ] | [ ]  |
+| <ul><li> Bubble sort     | [ ] | [ ]  |
+| <ul><li> Merge sort     | [ ] | [ ]  |
+| <ul><li> Quicksort     | [ ] | [ ] |
 | How to implement sorting and searching algorithms in Python.  | [ ] | [ ]  |
 
 
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am faced with a problem set that involves searching **Action:** I consider a set of search algorithms I know to be efficient, and prioritize them based on their Big O notation. | [ ] | [ ]  |
 | **Context:** When I am given a problem set that involves searching **Action:** I implement the most efficient search algorithm using Python. |   [ ]   |   [ ]  |
@@ -56,7 +56,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe competency in searching and sorting algorithms will help me develop better softwares. | [ ] | [ ]  |
-| I believe demonstrating competency in searching and sorting algorithms will help me get a job as a software developer. | [ ] | [ ]  |
-| I believe that using the most appropriate searching and sorting algorithms aid program efficiency. | [ ] | [ ]  |
+| Good programs are written with the best searching and sorting algorithms. | [ ] | [ ]  |
+| Software craftsmen are competent in searching and sorting algorithms. | [ ] | [ ]  |
+| High end software developer jobs require that one is competent in searching and sorting algorithms. | [ ] | [ ]  |
 

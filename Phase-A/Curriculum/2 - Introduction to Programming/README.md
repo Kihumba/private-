@@ -19,24 +19,24 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is programming? | [ ] | [ ]  |
 | The basic elements needed in programming: | | |
-| * Programming Environment | [ ] | [ ]  |
-| * Basic Syntax     | [ ] | [ ]  |
-| * Data Types      | [ ] | [ ]  |
-| * Variables      | [ ] | [ ]  |
-| * Keywords | [ ] | [ ]  |
-| * Basic Operators | [ ] | [ ]  |
-| * Decision Making | [ ] | [ ]  |
-| * Loops | [ ] | [ ]  |
-| * Numbers | [ ] | [ ]  |
-| * Characters | [ ] | [ ]  |
-| * Arrays | [ ] | [ ]  |
-| * Strings | [ ] | [ ]  |
-| * Functions | [ ] | [ ]  |
-| * File I/O | [ ] | [ ]  |
+| <ul><li> Programming Environment | [ ] | [ ]  |
+| <ul><li> Basic Syntax     | [ ] | [ ]  |
+| <ul><li> Data Types      | [ ] | [ ]  |
+| <ul><li> Variables      | [ ] | [ ]  |
+| <ul><li> Keywords | [ ] | [ ]  |
+| <ul><li> Basic Operators | [ ] | [ ]  |
+| <ul><li> Decision Making | [ ] | [ ]  |
+| <ul><li> Loops | [ ] | [ ]  |
+| <ul><li> Numbers | [ ] | [ ]  |
+| <ul><li> Characters | [ ] | [ ]  |
+| <ul><li> Arrays | [ ] | [ ]  |
+| <ul><li> Strings | [ ] | [ ]  |
+| <ul><li> Functions | [ ] | [ ]  |
+| <ul><li> File I/O | [ ] | [ ]  |
 | How to write simple Python programs. | [ ] | [ ]  |
 | Understand variables, data types, control structures, functions and modules in Python. | [ ] | [ ]  |
 
@@ -48,7 +48,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am given a program to write regardless of the language **Action:** I identify the required software setup needed to write, compile and execute the program. | [ ] | [ ]  |
 | **Context:** When I am writing a Python program **Action:** I declare variables that conforms with the syntax of Python to hold data. |   [ ]   |   [ ]  |
@@ -68,6 +68,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that programming is an important concept in computer science because it affects technology and technology affects me. | [ ] | [ ]  |
-| I believe that understanding core programming concepts is important because I can write programs in any language using the same concepts. | [ ] | [ ]  |
-| I believe that I can tell the computer to do what I want using programming. | [ ] | [ ]  |
+| Programming is valuable to me as it affects technology and technology affects me. | [ ] | [ ]  |
+| I can code in any language with the knowledge of core programming concepts. | [ ] | [ ]  |
+| With computer programming, I can tell the computer to do what I want. | [ ] | [ ]  |

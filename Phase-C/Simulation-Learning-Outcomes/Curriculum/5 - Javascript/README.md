@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Javascript? Understand Javascript as a language for the web. | [ ] | [ ] |
 | How is Javascript written? The Basic syntax governing Javascript (Targeting ES5) | [ ] | [ ] |
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** After I've written some Javascript code, **Action:**  I refine it to make sure it's DRY, well commented and follows the adopted style guide. | [ ] | [ ] |
 | **Context:** When I need to create a loop in Javascript, **Action:** I use the most appropriate Loop control flow (e.g for-in for objects, for for Arrays) to iterate through collections. | [ ] | [ ] |
