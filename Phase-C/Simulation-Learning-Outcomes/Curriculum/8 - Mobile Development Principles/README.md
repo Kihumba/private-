@@ -1,9 +1,20 @@
-# Mobile Development Principles - KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
+### Outcome 8 - Mobile Development Principles
+## Skill Description
+The following are the Knowledge, Behaviors, and Beliefs for Mobile Development Principles.
 
-----------
-## **Knowledge**
+## Output
 
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+
+- Responsive User Interfaces as required in:
+  - Checkpoint 4 for Javascript
+  - Checkpoint 4 for PHP Laravel
+  - Checkpoint 2 for Ruby on Rails
+  - Checkpoint X for Python Django
+- **For Android and iOS Stack**: Completion of Checkpoints 3 and 4 asserts coverage of this skill.
+
+## Objectives
+### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
@@ -26,10 +37,8 @@
 ----------
 
 
-## **Behaviors**
+### Behaviors
 
-
-### Git Workflow
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building mobile web applications.. **Action:** I usually test for responsiveness by checking how it looks on different screen dimensions (example tablets, mobile phones) | [ ] | [ ]  |
@@ -38,8 +47,9 @@
 ----------
 
 
-## **Beliefs**
+----------
 
+### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
