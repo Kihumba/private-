@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Applied |
+| Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | _Evolution of mobile application development_ | | |
     <ul><li>What different mobile platforms (iOS, Android, Blackberry, Mobile Web) exist?</li></ul> | [ ] | [ ] |
