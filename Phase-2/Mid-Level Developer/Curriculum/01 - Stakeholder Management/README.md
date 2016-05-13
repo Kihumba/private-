@@ -22,9 +22,9 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Goals of Andela team that supports me on Client engagement | [ ] | [ ]  |
-| * Structure and roles of Andela team that supports me on Client engagement | [ ] | [ ]  |
-| * History with Client of Andela team that supports me on Client engagement | [ ] | [ ]  |
+| * Goals of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
+| * Structure and roles of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
+| * History with Client of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
 | * My Client's Goals      | [ ] | [ ]  |
 | * My Client's Team Structure   | [ ] | [ ]  |
 | * My Client's Team Members' Roles       | [ ] | [ ]  |
@@ -45,6 +45,8 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | | | |
 | **Context:** When I realize that I am unaware of the team, roles, goals, or history of any organization I work with **Action:** I research and inquire until I gain a complete understanding | [ ] | [ ] |
 | | | |
+| **Context:** After identifying stakeholders **Action:** I identify the type of information and the level of detail that would likely be relevant to them | [ ] | [ ] |
+| | | |
 | **Context:** When I become aware of information that affects other people at Andela or my Client **Action:** I communicate with all relevant stakeholders in a timely fashion | [ ] | [ ] |
 | **Context:** When I provide stakeholders with information **Action:** I provide the appropriate level of information for each stakeholder | [ ] | [ ] |
 | | | |
@@ -52,6 +54,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | | | |
 | **Context:** When speaking to anyone about ogranizations I work with **Action:** I am able to completely describe the team, roles, goals and history of those organizations confidently |   [ ]   |   [ ]  |
 | | | |
+
 
 ----------
 

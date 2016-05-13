@@ -19,12 +19,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Requirements | [ ] | [ ]  |
-| * Requirements Analysis     | [ ] | [ ]  |
+| * Technical requirements | [ ] | [ ]  |
+| * Benefits of requirements analysis     | [ ] | [ ]  |
 | * How to extrapolate technical requirements from user stories     | [ ] | [ ]  |
 | * Common types of users     | [ ] | [ ]  |
 | * Common types of user goals     | [ ] | [ ]  |
-| * Common technical aspects that systems are required to meet     | [ ] | [ ]  |
+| * Common types of technical documents used to design or describe systems and features     | [ ] | [ ]  |
+ 
 
 
 
