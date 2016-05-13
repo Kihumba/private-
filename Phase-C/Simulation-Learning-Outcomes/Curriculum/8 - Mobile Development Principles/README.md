@@ -10,8 +10,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
   - Checkpoint 4 for Javascript
   - Checkpoint 4 for PHP Laravel
   - Checkpoint 2 for Ruby on Rails
-  - Checkpoint X for Python Django
-- **For Android and iOS Stack**: Completion of Checkpoints 3 and 4 asserts coverage of this skill.
+  - Checkpoints 3 and 4 for Python Django
+
+
+- For Android and iOS Stacks: Completion of Checkpoints 3 and 4 asserts the coverage of this skill.
 
 ## Objectives
 ### Knowledge
