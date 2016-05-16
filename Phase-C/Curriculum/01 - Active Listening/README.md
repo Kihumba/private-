@@ -2,14 +2,14 @@
 
 ## Skill Description
 
-Encompasses skills related to being present and engaging fully in verbal communication. Finds ways to soften unavoidable interruptions to lessen their negative impact. Engaging, fully present, providing good eye contact, body language, and good judgment in choosing the proper time to speak. Able to achieve full understanding of key information and expectations from any conversation.
+The Fellow is consistently present and fully engaged during verbal communication. Finds ways to soften unavoidable interruptions to lessen their negative impact. Engaging, fully present, provides good eye contact, body language, and demonstrates good judgment in choosing the proper time to speak. Able to achieve full understanding of key information and expectations from any conversation.
 
 ## Output
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. Video Recording or Live conversation with Fellows, Trainers or Success capturing my demonstration of strong active listening skills.
-2. Written description of factors that affect my ability to listen and behaviors that would facilitate masterful listening.
+1. Video Recording or live conversation capturing my demonstration of strong active listening skills.
+2. Written description of factors that affect my ability to listen effectively.
 
 ## Objectives
 
@@ -23,10 +23,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | - Factors that affect our ability to listen actively | [ ] | [ ] |
 | - What it means to be fully present when listening | [ ] | [ ] |
 | - Body language that is conducive to active listening | [ ] | [ ] |
-| - Various checks for understanding and their value | [ ] | [ ] |
-| - Appropriate situations to interrupt or speak | [ ] | [ ] |
-| - How to know when it is the proper time to speak | [ ] | [ ] |
-| - The difference between hearing and understanding | [ ] | [ ] |
+| - Various methods for checking for understanding | [ ] | [ ] |
+| - When it is appropriate to interupt | [ ] | [ ] |
+| - The difference between hearing, listening, and understanding | [ ] | [ ] |
 | | | |
 
 ---
@@ -40,7 +39,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | - **Action:** I am fully engaged and attentive | [ ] | [ ] |
 | - **Action:** I engage in positive body language, paying attention to my physical behaviors and mannerisms and their impact on the conversation | [ ] | [ ] |
 | - **Action:** I proactively minimize and manage distractions | [ ] | [ ] |
-| **Context:** When someone expresses a complex or important idea **Action:** I check for understanding, rather than assume I have understood. | [ ] | [ ] |
+| **Context:** When someone expresses a complex or important idea **Action:** I check for understanding. | [ ] | [ ] |
 | **Context:** When I need to interrupt someone **Action:** I do so in a way that is tactful, appropriate, and minimally disruptive | [ ] | [ ] |
 | **Context:** When I am expected to listen actively for an extended period of time **Action:** I pay attention to changes in my attentiveness and physical behaviors | [ ] | [ ] |
 | **Context:** When I am losing focus when I should be listening **Action:** I refocus or request a break | [ ] | [ ] |
