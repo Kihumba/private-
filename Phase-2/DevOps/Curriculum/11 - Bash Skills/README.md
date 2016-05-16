@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Monitoring and analysis application/deployment behavior (trends, anomalies and thresholds) using analytics tools to quickly see opportunities to optimize performance.
+Using the command line interpreter to perform various system administration tasks and writing scripts to perform routine tasks.
 
 
 **Output**
@@ -58,7 +58,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knows the common bash pitfalls and how to avoid them | [ ] | [ ]  |
 | Bash builtins can be chained together to solve complex tasks. | [ ] | [ ]  |
 | Knows the common bash builtin variables. | [ ] | [ ]  |
-
-
-
-
