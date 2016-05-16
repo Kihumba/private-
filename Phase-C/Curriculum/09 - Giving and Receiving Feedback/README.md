@@ -9,8 +9,8 @@ The Fellow is relentless in their pursuit of external information that will faci
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. Action plan outlining practices in response to self-initiated feedback
-2. List of accountability partners for specific skills or areas
-3. Report of questions asked requesting feedback over a period of time
+2. Report of questions asked requesting feedback over a period of time
+3. Narrative of time I acted on feedback and bettered myself as a result
 
 ## Objectives
 
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - Relative benefits and drawbacks to receiving feedback from the source rather than through a middleman, and why the former is generally better | [ ] | [ ] |
 | - Methods for getting more direct, open, and actionable feedback from someone | [ ] | [ ] |
 | - The difference between feedback and advice | [ ] | [ ] |
-| - When feedback should be shared publically vs privately | [ ] | [ ] |
+| - When feedback should be shared publicly vs privately | [ ] | [ ] |
 | - How to develop a personal improvement plan | [ ] | [ ] |
 | | | |
 
@@ -49,11 +49,12 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - **Action:** I inform the person that delivered the feedback that I am acting on their feedback | [ ] | [ ] |
 | **Context:** When I do not agree with feedback I have received or believe it is based on false information | | | |
 | - **Action:** I suspend judgment and gain an understanding of why the person perceives me that way | [ ] | [ ] |
+| - **Action:** I seek input from an invested 3rd party to determine if I am failing to recognize the validity of the feedback | [ ] | [ ] |
 | - **Action:** I calmly discuss the feedback with the person until there is mutual understanding | [ ] | [ ] |
-| **Context:** When I have not received actionable feedback in more than seven days from my team and/or supervisor **Action:** I seek and request feedback from my teammates and/or supervisor  | [ ] | [ ] |
+| **Context:** When I have not recently received actionable feedback from my team and/or supervisor **Action:** I seek and request feedback from my teammates and/or supervisor  | [ ] | [ ] |
 | **Context:** When I receive feedback from a middle man rather than directly from the source (e.g. from Success rather than my Client)
 | - **Action:** I find out why it was not delivered to me directly | [ ] | [ ] |
-| - **Action:** I request that the person deliver feedback to me directly in the future, emphasizing the value of doing so | [ ] | [ ] |
+| - **Action:** I identify ways to get more open and direct feedback from the person in the future | [ ] | [ ] |
 | **Context:** When I notice that a key stakeholder (e.g. my Client team lead) is not willing to share honest feedback with me | | |
 | - **Action:** I work with them to improve the flow of open and direct feedback | [ ] | [ ] |
 | - **Action:** I guide conversations with them to uncover more open, direct, and actionable feedback | [ ] | [ ] |
