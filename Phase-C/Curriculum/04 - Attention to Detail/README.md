@@ -30,6 +30,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - Methods and tools for supporting attention to detail | [ ] | [ ] |
 | - Standards and specifications a given output must meet | [ ] | [ ] |
 | - How to determine the relative importance and priority of details | [ ] | [ ] |
+| - Details that affect my users and stakeholders | [ ] | [ ] |
 | | | |
 
 
@@ -45,8 +46,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I begin working on an output **Action:** I gain a complete understanding of all standards and expectations that must be met | [ ] | [ ] |
 | **Context:** When completing a task or assignment | | |
 | - **Action:** I address everything that is being requested | [ ] | [ ] |
-| - **Action:** I pay attention to the context of the problem and create thorough solutions | [ ] | [ ] |
-| - **Action:** I create thorough solutions that address the entire issue and any corresponding issues | [ ] | [ ] |
+| - **Action:** I pay attention to the context of the problem and create thorough solutions that address the entire issue and any corresponding issues | [ ] | [ ] |
 | **Context:** When given an example to work with on completing a task **Action:** I go beyond the example and resolve all instances of the issue | [ ] | [ ] |
 | **Context:** When I am about to deliver an output **Action:** I carefully review the output and ensure it meets all standards and expectations before sending | [ ] | [ ] |
 | | | |
