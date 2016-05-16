@@ -2,7 +2,7 @@
 
 ## Skill Description
 
-The Fellow understands the importance of seeking help and asking questions to seek clarity, gain understanding, and solve problems. Consistently demonstrates the ability and willingness to ask questions effectively. Asks open-ended and powerful questions to gain enough information to thoroughly understand and solve problems..
+The Fellow understands the importance of seeking help and asking questions to seek clarity, gain understanding, and solve problems. Consistently demonstrates the ability and willingness to ask questions effectively. Asks open-ended and powerful questions to gain enough information to thoroughly understand and solve problems.
 
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
@@ -23,6 +23,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - When and how to seek help | [ ] | [ ] |
 | - Open-ended questions and situations in which they add value | [ ] | [ ] |
 | - What makes a question irrelevant | [ ] | [ ] |
+| - Why is it important to ask questions | [ ] | [ ] |
+| - When it is important to ask questions | [ ] | [ ] |
 | | | |
 
 ---
@@ -31,20 +33,19 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
-| | |
+| | | |
 | **Context:** When I am stuck on a problem **Action:** I do not hesitate to seek help | [ ] | [ ] |
 | **Context:** When tasks or priorities are unclear **Action:**  I ask questions until I gain clarity | [ ] | [ ] |
-| **Context:** When I do not know what to do to meet expectations **Action:** I quickly ask for help | [ ] | [ ] |
-| **Context:** When expected to contribute in a class, workshop or a meeting | | |
-| - **Action:** I ask effective and relevant questions | [ ] | [ ] |
+| **Context:** When I do not know what to do to meet expectations **Action:** I am quick to ask for help | [ ] | [ ] |
+| **Context:** When I am participating in a class, workshop or a meeting **Action:** I ask effective and relevant questions | [ ] | [ ] |
 | **Context:** When my questions are not being answered clearly **Action:** I rephrase and/or restate the question | [ ] | [ ] |
-| **Context:** When challenged to expand knowledge in a certain field | | |
-| - **Action:** I identify knowledge gaps and phrase as questions | [ ] | [ ] |
-| - **Action:** I ensure that I vary between closed and open ended questions to draw out as much valuable information from the respondent(s) | [ ] | [ ] |
-| **Context:** When I find myself using “brute force”, guess-and-check methods to code my way to a solution | | |
+| **Context:** When challenged to expand knowledge in a certain field **Action:** I identify knowledge gaps and ask questions of others to support my learning | [ ] | [ ] |
+| **Context:** When I find myself using “brute force”, guess-and-check methods to find a solution | | |
 | - **Action:** I ask questions until I fully understand the problem and context for the problem | [ ] | [ ] |
 | - **Action:** I seek help until I have a strong understanding of the best approaches / methods to solve the problem | [ ] | [ ] |
-| **Context:** When inquiring about a feature or product I am contributing to **Action:** I ask big picture questions that demonstrate my holistic perspective on the product and the company | [ ] | [ ] |
+| **Context:** When inquiring about a feature or product I am contributing to
+| - **Action:** I ask big picture questions that originate from my holistic perspective on the product and the company | [ ] | [ ] |
+| - **Action:** I ask detail level questions to ensure that I know everything necessary to not only implement the feature but address the underlying issue to be addressed by the feature | [ ] | [ ] |
 | | | |
 
 ---
@@ -54,10 +55,12 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief | Felt | Demonstrated |
 |:---|:---:|:---:|
 | | | |
-| Asking questions displays my wisdom and confidence | [ ] | [ ] |
+| Asking questions is a sign of wisdom and confidence | [ ] | [ ] |
+| Questions are the master key to understanding | [ ] | [ ] |
 | My questions matter and add value to any conversation | [ ] | [ ] |
 | There are always more questions to ask | [ ] | [ ] |
 | Questions spark innovation and drive curiosity that produces meaningful change | [ ] | [ ] |
 | Asking for help is a sign of strength | [ ] | [ ] |
+| My questions help others to think about the problem from a different perspective and that helps create better solutions | [ ] | [ ] |
 | | | |
 
