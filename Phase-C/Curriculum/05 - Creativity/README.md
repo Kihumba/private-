@@ -10,7 +10,7 @@ The Fellow is able to apply creative thinking to solve problems and come up with
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. Evidence of the outcome of creative thinking I have applied during simulations
-2. A brief description of the creative process I used.
+2. A brief description of the creative process I used
 
 
 ## Objectives
@@ -22,12 +22,13 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
-| The difference between constructive and destructive creativity | [ ] | [ ] |
-| Factors that limit creative thinking | [ ] | [ ] |
-| Factors that foster creative thinking | [ ] | [ ] |
-| The benefit of constraints to creative thinking | [ ] | [ ] |
-| The limits and drawbacks of sticking to common or familiar approaches | [ ] | [ ] |
-| Methods and environments that support creative problem solving and how to cultivate them | [ ] | [ ] |
+| - The difference between constructive and destructive creativity | [ ] | [ ] |
+| - Factors that limit creative thinking | [ ] | [ ] |
+| - Factors that foster creative thinking | [ ] | [ ] |
+| - The benefit of constraints to creative thinking | [ ] | [ ] |
+| - The limits and drawbacks of sticking to common or familiar approaches | [ ] | [ ] |
+| - Methods and environments that support creative problem solving and how to cultivate them | [ ] | [ ] |
+| - When a context is appropriate for applying creative thinking | [ ] | [ ] |
 | | | |
 
 ---
@@ -55,7 +56,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief | Felt | Demonstrated |
 |:---|:---:|:---:|
 | My ideas are insightful and add value to any team or process | [ ] | [ ] |
-| If my ideas are never rejected I am not proposing enough ideas | [ ] | [ ] |
+| If my ideas are never rejected I am not proposing enough creative ideas | [ ] | [ ] |
 | I am creative| [ ] | [ ] |
 | There are a vast number of solutions to any single problem | [ ] | [ ] |
 | I can solve any problem through powerful ideation | [ ] | [ ] |
