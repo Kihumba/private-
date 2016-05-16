@@ -9,7 +9,7 @@ The Fellow is able to assess and manage situations that require focus and concen
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Observation during task that requires focus.
+1. Reflection log of what has and has not supported the fellows focus and concentration in specific instances
 2. Written or recorded description of habits of taking breaks and managing distractions.
 
 
@@ -29,6 +29,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - When to take breaks | [ ] | [ ] |
 | - Situations that require focus and concentration | [ ] | [ ] |
 | - Situations that do not require focus and concentration | [ ] | [ ] |
+| - How to use distractions as a reward to reinforce learning and productivity | [ ] | [ ] |
+| | | |
 
 ---
 
@@ -49,6 +51,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I am losing focus despite having made little to no progress on a task | | |
 | - **Action:** I revisit my inspiration for focusing on the task | [ ] | [ ] |
 | - **Action:** I change my approach or context to be more conducive to focus and concentration | [ ] | [ ] |
+| | | |
 
 ---
 
@@ -62,5 +65,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Distractions are only positive as a reward following focus | [ ] | [ ] |
 | I have agency over my work environment | [ ] | [ ] |
 | I focus best when I am healthy, well-rested, and on top of my work load | [ ] | [ ] |
+| Focus is important to ensuring that I am giving a task my best effort | [ ] | [ ] |
+
 
 ---
