@@ -8,7 +8,7 @@ The Fellow is able to respond well to changes within their work environment.  Em
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Written or recorded narrative of how the Fellow responded to a transition in Andela and a change that occurred during simulations.
+1. Written or recorded narrative of how I responded to a change that was uncomfortable or unwelcome since joining Andela.
 
 
 ## Objectives
@@ -20,12 +20,15 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
-| What is changing, why, and the potential effects | [ ] | [ ] |
-| Factors that affect people’s ability to adapt to changes | [ ] | [ ] |
-| Factors that affect the initiation of change (or how to initiate change) | [ ] | [ ] |
-| My own limits to adaptability | [ ] | [ ] |
-| Factors on which people and places differ | [ ] | [ ] |
-| When and how to push back on changes | [ ] | [ ] |
+| - Recent changes in my professional circumstances, why they happened, and the potential effects | [ ] | [ ] |
+| - Factors that affect people’s ability to adapt to changes | [ ] | [ ] |
+| - Factors that affect the initiation of change (or how to initiate change) | [ ] | [ ] |
+| - My own limits to adaptability | [ ] | [ ] |
+| - Why different approaches can be equally valid or even better than the one I like | [ ] | [ ] |
+| - How to respond postively to unfamiliar or uncomfortable differences in colleagues or work environments | [ ] | [ ] |
+| - When and how to push back on changes | [ ] | [ ] |
+| - Common reasons why changes occur on team project work | [ ] | [ ] |
+| - Common reasons why changes occur within tech companies | [ ] | [ ] |
 | | | |
 
 ---
@@ -35,14 +38,14 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When I become aware a significant change taking place in my workplace | | |
+| **Context:** When I become aware of a significant change taking place in my workplace | | |
 | - **Action:** I gain a complete understanding of the change | [ ] | [ ] |
-| - **Action:** I embrace the change and respond effectively| [ ] | [ ] |
+| - **Action:** I am willing to embrace the change and consider the change objectively | [ ] | [ ] |
 | **Context:** When I encounter differences in people, methods, and work environments | | |
-| - **Action:** I celebrate them | [ ] | [ ] |
-| - **Action:** I find ways to leverage these differences | [ ] | [ ] |
+| - **Action:** I celebrate and learn from them | [ ] | [ ] |
+| - **Action:** I consider ways to leverage these differences | [ ] | [ ] |
 | **Context:** When a recent change has a negative or challenging impact on my work **Action:** I see it from an objective and accepting perspective, rather than taking it personally | [ ] | [ ] |
-| **Context:** When I am concerned that a change will have avoidable negative impacts **Action:** I push back on the change and suggest alternatives | [ ] | [ ] |
+| **Context:** When I am concerned that a change will have avoidable negative impacts **Action:** I push back on the change, communicate my concerns, and suggest alternatives | [ ] | [ ] |
 | | | |
 
 ---
@@ -55,7 +58,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | | | |
 | I am invigorated by challenges | [ ] | [ ] |
-| Change is a good thing if I make it so | [ ] | [ ] |
-| I celebrate differences | [ ] | [ ] |
+| I embrace change most effectively when I look at the change objectively | [ ] | [ ] |
+| Differences are opportunities | [ ] | [ ] |
 | | | |
+| Change is inevitable | [ ] | [ ] |
 ---
