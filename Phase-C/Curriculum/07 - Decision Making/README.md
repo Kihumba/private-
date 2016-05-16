@@ -9,7 +9,7 @@ The Fellow displays an objective, balanced approach toward decision making. Incl
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Written proposal recommending a course of action for my team that describes research, data, and the pros and cons of various alternatives compared to team and organizational priorities.
+1. Written proposal recommending a course of action that describes research, data, and the pros and cons of various alternatives compared to team and organizational priorities.
 2. Log of the decisions I have made, including the flaws and positive behaviors demonstrated in reaching those decisions.
 
 ## Objectives
@@ -22,8 +22,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 | - Factors that inform decision making | [ ] | [ ] |
 | - How to conduct effective research | [ ] | [ ] |
-| - Objective decision making | [ ] | [ ] |
-| - Balanced decision making | [ ] | [ ] |
+| - How to assess how much deliberation a decision should be given | [ ] | [ ] |
+| - Objective and balanced decision making | [ ] | [ ] |
 | - The decision making process | [ ] | [ ] |
 | - Basic business research methods | [ ] | [ ] |
 | - How to use data to inform decision making | [ ] | [ ] |
@@ -50,7 +50,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When faced with multiple competing alternatives | | |
 | - **Action:** I consider the “do nothing” option | [ ] | [ ] |
 | - **Action:** I compare the alternatives based on their impact on team goals and priorities | [ ] | [ ] |
-| **Context:** When or recommending a course of action | | |
+| **Context:** When recommending a course of action | | |
 | - **Action:** I can justify and defend the decision, supported by research | [ ] | [ ] |
 | - **Action:** I am transparent about the drawbacks of the recommended course of action | [ ] | [ ] |
 | **Context:** When required to make a decision that will impact others | [ ] | [ ] |
@@ -69,8 +69,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 | My ability to make objective decisions drives organizational success | [ ] | [ ] |
 | The decisions I make are well thought out and impactful | [ ] | [ ] |
-| Using data to inform decisions guarantees success | [ ] | [ ] |
+| Using data to inform decisions makes success much more likely | [ ] | [ ] |
 | When i make objective decisions i instill trust and confidence in others | [ ] | [ ] |
-| To make one great decision I must reject many good decisions | [ ] | [ ] |
+| To make one great decision I must reject good alternatives | [ ] | [ ] |
 | | | |
 ---
