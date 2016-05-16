@@ -61,6 +61,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I am capable of gaining a complete understanding of anything i put my mind to | [ ] | [ ] |
 | I am a problem solver, not a task completer | [ ] | [ ] |
 | By starting with `why?` before I execute on a task, I can better understand the value my work and I am more capable of delivering the best solution | [ ] | [ ] |
-| Understanding the big picture context of my work allows me to ensure that my task has a greater positive impact on the organization | [ ] | [ ] |
+| Understanding the big picture context of my work allows me to ensure that my task has a greater positive impact on my organization | [ ] | [ ] |
 | | | |
 ---
