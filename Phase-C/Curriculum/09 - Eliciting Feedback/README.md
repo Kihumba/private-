@@ -1,4 +1,4 @@
-# Outcome 9 - Giving & Receiving Feedback
+# Outcome 9 - Eliciting Feedback
 
 ## Skill Description
 
