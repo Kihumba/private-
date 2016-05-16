@@ -19,12 +19,12 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
-| - Project specifications | [ ] | [ ] |
-| - End user profile | [ ] | [ ] |
-| - Factors that constitute the big picture of a software project | [ ] | [ ] |
+| - Project specifications for a program I am contributing to | [ ] | [ ] |
+| - End user persona | [ ] | [ ] |
+| - Factors that constitute the big picture of a software application | [ ] | [ ] |
 | - Organizational structure and business model | [ ] | [ ] |
 | - Intersections between tasks, Client, application/product and end user | [ ] | [ ] |
-| - Possible impact of a given change on the product, company, and end users | [ ] | [ ] |
+| - Common consequences that changes to the product have on the company and end users | [ ] | [ ] |
 | - The types of questions that lead to better understanding of big picture factors | [ ] | [ ] |
 | - The possible drawbacks of implementing requests as strictly as specified | [ ] | [ ] |
 | | | |
@@ -38,15 +38,15 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 | **Context:** When I first join an organization | | |
 | - **Action:** I gain a thorough understanding of the goals, values, context, and priorities of the organization | [ ] | [ ] |
-| **Context:** When I begin working on a feature | | |
-| - **Action:** I gain a thorough understanding of the context, goals, end user profiles, and context of the application I will be working on | [ ] | [ ] |
-| - **Action:** I gain a thorough understanding of how my work intersects with other aspects of the organization and the big picture of what we are trying to achieve | [ ] | [ ] |
+| **Context:** When I am given a task | | |
+| - **Action:** I gain a thorough understanding of the context, goals, end user profiles, and context of the application I will be working on before I start working on a solution | [ ] | [ ] |
+| - **Action:** I gain a thorough understanding of how my work intersects with other aspects of the organization and the big picture of what we are trying to achieve before I start working on a solution | [ ] | [ ] |
 | **Context:** When I notice that I do not understand something about the organization, product, or users | | |
 | - **Action:** I research or inquire until I gain a full understanding | [ ] | [ ] |
-| **Context:** When planning change to a feature| | |
-| - **Action:** I ask questions that demonstrate my big picture perspective on the product, company, and end users | [ ] | [ ] |
+| **Context:** When planning to make a change to a product | | |
+| - **Action:** I ask questions that originate from my big picture perspective on the product, company, and end users | [ ] | [ ] |
 | - **Action:** I consider how changes to the feature would affect the product, company, and end users | [ ] | [ ] |
-| **Context:** When I identify a change I believe would better suit the needs of the product, organization, and/or users **Action:** I propose the change and explain the anticipated big picture value | [ ] | [ ] |
+| **Context:** When I identify a change I believe would better suit the needs of the product, organization, and/or users **Action:** I propose the change and explain the value from a detailed and big picture perspective | [ ] | [ ] |
 | | | |
 
 ---
@@ -60,5 +60,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can identify and contribute insights that add value to others | [ ] | [ ] |
 | I am capable of gaining a complete understanding of anything i put my mind to | [ ] | [ ] |
 | I am a problem solver, not a task completer | [ ] | [ ] |
+| By starting with `why?` before I execute on a task, I can better understand the value my work and I am more capable of delivering the best solution | [ ] | [ ] |
+| Understanding the big picture context of my work allows me to ensure that my task has a greater positive impact on the organization | [ ] | [ ] |
 | | | |
 ---
