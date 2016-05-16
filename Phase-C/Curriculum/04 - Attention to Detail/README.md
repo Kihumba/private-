@@ -9,9 +9,9 @@ The Fellow understands the importance of reviewing outputs (e.g. code committed,
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Code review notes from person reviewing Fellow’s code.
+1. Code review notes from person reviewing my code.
 2. Checkpoint defense notes.
-3. Screencast of preparing code for pull request.
+3. Selection of written communication from week previous that demonstrates high level of attention to detail in both content and writing standards.
 
 
 ## Objectives
@@ -29,8 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - The difference between attention to detail in outputs vs. inputs | [ ] | [ ] |
 | - Methods and tools for supporting attention to detail | [ ] | [ ] |
 | - Standards and specifications a given output must meet | [ ] | [ ] |
-| - The relative importance and priority of details | [ ] | [ ] |
-| - How to determine what level of detail to spend time on | [ ] | [ ] |
+| - How to determine the relative importance and priority of details | [ ] | [ ] |
 | | | |
 
 
@@ -62,8 +61,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | | | |
 | There is beauty in the details | [ ] | [ ] |
+| Addressing every detail, no matter how minor, delights the people that rely on my work | [ ] | [ ] |
 | The little things matter | [ ] | [ ] |
-| The key to excellent code is in the details | [ ] | [ ] |
+| The key to excellence is in the details | [ ] | [ ] |
 | I can create detailed and well thought out solutions | [ ] | [ ] |
 | | | |
 
