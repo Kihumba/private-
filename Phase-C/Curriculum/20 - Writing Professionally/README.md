@@ -2,16 +2,16 @@
 
 ## Skill Description
 
-The Fellow adheres to the 7 C's in written communication: Completeness, Conciseness, Clarity, Correctness, Consideration, Courtesy, Concreteness. The Fellow is able to provide clear and concise communication via all modes of written communication relevant to my work, such as email, code, or documentation.
+The Fellow adheres to the 7 C's in written communication: completeness, conciseness, clarity, correctness, consideration, courtesy, concreteness. Ability to provide clear and concise communication via multiple modes of written communication such as email, code, or documentation
 
 
 ## Output
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Three diverse email writing samples.
-2. Document writing sample
-3. Consistent quality slack communication
+1. Three diverse email writing samples that demonstrate the 7 C's
+2. Document writing sample that demonstrates the 7 C's
+3. Screenshots of at least three slack conversations that demonstrates the 7 C's
 
 
 ## Objectives
@@ -65,8 +65,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | My quality of writing is a reflection of my capabilities | [ ] | [ ] |
 | My writing habits inspire trust and confidence in me | [ ] | [ ] |
 | People are impacted by what I write and how I write it | [ ] | [ ] |
-| Writing my bridge to reaching the whole world with my message | [ ] | [ ] |
+| Writing is my bridge to reaching the whole world with my message | [ ] | [ ] |
 | What I have to express through writing is valuable and important | [ ] | [ ] |
-| The more I write the better I get | [ ] | [ ] |
+| The more I write the better I am at expressing my self through the written word | [ ] | [ ] |
 | | | |
 ---
