@@ -1,7 +1,8 @@
 # Outcome 14 - Problem Solving & Critical Thinking
 
 ## Skill Description
-The Fellow is able to use generic (when available) or ad hoc methods (when not available) in an orderly manner to find solutions to problems. The Fellow utilizes problem solving processes and sequences to effectively solve complex problems.
+
+The Fellow is able to use generic methods (when they are available) or ad hoc methods (when generic methods are not available) in an orderly manner to find solutions to problems. The Fellow utilizes problem solving processes and sequences to effectively solve complex problems.
 
 
 ## Output
@@ -23,6 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - How to identify the right process for solving different problems | [ ] | [ ] |
 | - How to apply an orderly process to solve different problems | [ ] | [ ] |
 | - The appropriate or most efficient method for solving a given coding problem, if available | [ ] | [ ] |
+| - A nuanced definition of critical thinking | [ ] | [ ] |
 | | | |
 ---
 
