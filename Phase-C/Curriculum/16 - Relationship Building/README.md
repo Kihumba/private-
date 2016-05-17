@@ -10,6 +10,7 @@ The Fellow has the ability to build rapport with many different people in a rela
 After attaining this skill, and as a demonstration of it, I will create the following:
 
 1. List of different kinds of people whom I built relationships with and what value I gain from and add to that relationship
+2. Written or recorded description of how to assess the quality of an existing relationship and factors that affect whether the relationship will grow and endure 
 
 
 ## Objectives
@@ -23,12 +24,12 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | - Difference between personal and professional relationships | [ ] | [ ] |
 | - Knowledge about individuals in your workplace | [ ] | [ ] |
 | - Types of questions that help build relationships | [ ] | [ ] |
-| - How a person’s personality and background impact social interactions | [ ] | [ ] |
+| - How a person’s , role, and background impact social interactions | [ ] | [ ] |
 | - Knowledge of personality types and how they influence social interactions | [ ] | [ ] |
-| - Techniques for building rapport | [ ] | [ ] |
 | - Factors that limit rapport and relationship building | [ ] | [ ] |
 | - How to build rapport | [ ] | [ ] |
 | - How to build long-term, enduring relationships | [ ] | [ ] |
+| - The quality of my current relationships | [ ] | [ ] |
 | | | |
 
 ---
@@ -55,10 +56,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | | | |
 | Meeting new people and making friends is rewarding | [ ] | [ ] |
 | I am an open, interesting, insightful human being and people value being around me | [ ] | [ ] |
-| I can have meaningful conversations and build rapport with whomever I please | [ ] | [ ] |
-| I can build a meaningful relationship with anyone | [ ] | [ } |
-| My ability to build relationships has great impact on my success | [ ] | [ ] |
-| I am thrilled by opportunities to build relationships with people who are very different from me | [ ] | [ ] |
+| I can have meaningful conversations and build relationship with anyone | [ ] | [ } |
+| My ability to build relationships has a great impact on my success | [ ] | [ ] |
+| Opportunities to build relationships with people who are very different from me cab be very rewarding | [ ] | [ ] |
+| A good relationship with my client is critical to delighting them | [ ] | [ ] |
 | | | |
 
 ---
