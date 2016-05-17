@@ -7,7 +7,7 @@ The Fellow is able to motivate themselves to stay positive, optimistic, and comm
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. A record of the recent challenges that I faced and the process I used to overcome them
+1. A written or recorded reflection of two or more times at Andela when my motivation and commitment faltered and how I reacted
 2. A written or recorded statement of what motivates me and how that keeps me committed to my work at Andela
 
 ## Objectives
@@ -24,6 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - Factors that affect motivation and commitment | [ ] | [ ] |
 | - My personal motivators | [ ] | [ ] |
 | - How environment affects motivation | [ ] | [ ] |
+| - What it means to take full responsibility for my commitments and high standards | [ ] | [ ] |
 | | | |
 
 ---
@@ -32,16 +33,16 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
-| I can describe the following from memory: | | |
 | | | |
 | **Context:** When I am finding it difficult to stay motivated on a task **Action:** I leverage my personal motivators to ensure I meet expectations | [ ] | [ ] |
 | **Context:** When my environment is detracting from my motivation and ability to stay committed **Action:** I identify and resolve the source of the problem | [ ] | [ ] |
-| **Context:** When assigned a task that is I do not find inspiring or motivating **Action:** I identify the value added of completing the task and how that aligns with my personal goals / motivations | [ ] | [ ] |
+| **Context:** When assigned a task that I do not find inspiring or motivating **Action:** I identify the value added of completing the task and how that aligns with my personal goals / motivations | [ ] | [ ] |
 | **Context:** When I am feeling overwhelmed by my work | | |
-| - **Action:** I take my mind of the work and decompress | [ ] | [ ] |
-| - **Action:** I acknowledge my emotional state and give myself permission to feel overwhelmed until the feeling passes and a new one emerges | [ ] | [ ] |
+| - **Action:** I take my mind off the work and decompress | [ ] | [ ] |
+| - **Action:** I acknowledge my emotional state and give myself permission to feel overwhelmed until the feeling passes and a new one emerges, and seek help as soon as the feeling starts to deteriorate from my work | [ ] | [ ] |
 | **Context:** When I have struggled to stay motivated in my work despite my efforts to motivate myself **Action:** I seek help and identify this challenge to my trainers or Success | [ ] | [ ] |
 | **Context:** When my commitment pays off and I achieve big goals **Action:** I celebrate | [ ] | [ ] |
+| **Context:** When I find it generally difficult to stay motivated on a client engagement **Action:** I identify personal goals that align with learnings from the client to motivate myself | [ ] | [ ] |
 | | |
 
 ---
@@ -51,10 +52,13 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief | Felt | Demonstrated |
 |:---|:---:|:---:|
 | | | |
-| All the motivation I need is inside my heart and my mind| [ ] | [ ] |
-| I am motivated by challenges  | [ ] | [ ] |
+| The core of what motivates me is in my heard and my mind | [ ] | [ ] |
+| Completing goals yields tremendous satisfaction | [ ] | [ ] |
 | I can accomplish anything that I set my mind to | [ ] | [ ] |
 | All feelings are temporary | [ ] | [ ] |
+| There is always something to be learned and I can stay motivated by aligning my relevant personal goals with my work | [ ] | [ ] |
+| The setbacks are not enough t keep me from my goals | [ ] | [ ] |
+| I can change my environment to support my motivation | [ ] | [ ] |
 | | | |
 
 ---
