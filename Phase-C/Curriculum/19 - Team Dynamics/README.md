@@ -21,9 +21,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | | | |
 | - My role on the team | [ ] | [ ] |
 | - My team's structure | [ ] | [ ] |
+| - The role of every member of my team, including the scope of everyone's responsibilities | [ ] | [ ] |
 | - What is expected of me by team members and supervisors | [ ] | [ ] |
 | - Factors that affect how well I work with team members | [ ] | [ ] |
-| - How to know whether I am adept at my role and identify areas for improvement | [ ] | [ ] |
+| - How to know whether I am adept at my role and how to identify areas for improvement | [ ] | [ ] |
 | - What it means to promote the team first, times when this comes into play, and factors that may make this difficult | [ ] | [ ] |
 | - Factors that affect team environments and how to cultivate an environment in which the team thrives | [ ] | [ ] |
 | | | |
@@ -41,7 +42,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | **Action:** I gain a complete understanding of the team structure | [ ] | [ ] |
 | **Action:** I learn what all of the team goals and priorities are | [ ] | [ ] |
 | **Action:** I gain a complete understanding of all of my team members' roles and responsibilities and how they relate to my work | [ ] | [ ] |
-| **Context:** When I do not feel adept at my role **Action:** I identify this feeling to Andela support staff and work to become adept at my role or transition into a role where I will add more value to the team | [ ] | [ ] |
+| **Context:** When I do not feel adept at my role **Action:** I identify this feeling to the appropriate person(s) at Andela and work to become adept at my role or transition into a role where I will add more value to the team | [ ] | [ ] |
 | **Context:** When I am not sure what is expected of me by my team members, **Action:** I am proactive in gaining an understanding of what all of my team members expect of me | [ ] | [ ] |
 | **Context:** When I do not understand something about my team structure or the roles of my teammates, **Action:** I am proactive in gaining a complete understanding of team structures and roles | [ ] | [ ] |
 | **Context:** When I feel there is room for improvement with how well I work with a team member | | |
@@ -61,4 +62,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | My role within a team matters | [ ] | [ ] |
 | My capacity to work well in teams multiplies my impact | [ ] | [ ] |
 | I can work well with anyone | [ ] | [ ] |
+| Understanding the roles of every member of my team, including my own role, makes me more effective at my role | [ ] | [ ] |
+| Each of my actions shape the environment of the team's dynamic and its ability to thrive | [ ] | [ ] |
 ---
