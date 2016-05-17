@@ -8,7 +8,7 @@ The Fellow is able to use generic (when available) or ad hoc methods (when not a
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Screencast of solving a programming problem in real time with accompanying written or recorded description of my problem solving process.
+1. Written description of a problem I recently solved and the steps taken to solve the problem
 
 ##Objectives
 
@@ -33,16 +33,12 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 | **Context:** When I identify a problem that requires my attention | | |
 | - **Action:** I accurately define the problem and its context | [ ] | [ ] |
-| - **Action:** I explicitly identify its impact on the overall task | [ ] | [ ] | 
-| - **Action:** I evaluate the relative priority of solving the problem versus proceeding with other work | [ ] | [ ] | 
 | - **Action:** I define the process I will use to solve the problem, rather than immediately taking action (e.g. beginning to write code) | [ ] | [ ] |
 | - **Action:** I ensure the problem solving process is appropriate for the specific task | [ ] | [ ] | 
 | **Context:** When none of the generic problem solving methods apply to a specific problem | | | 
-| - **Action:** I identify ad hoc methods to solve the problem | [ ] | [ ] |
-| - **Action:** I compare and contrast it with generic methods | [ ] | [ ] |
+| - **Action:** I ideate ad hoc methods to solve the problem | [ ] | [ ] |
 | - **Action:** I collaborate with others for a second opinion | [ ] | [ ] |
-| - **Action:** I test its suitability in a low pressure environment | [ ] | [ ] |
-| **Context:** When I find myself writing and rewriting code, using “brute force” to code my way to a solution **Action:** I stop and find more efficient and procedural methods | [ ] | [ ] |
+| **Context:** When I find myself using “brute force”, guess and check methods to find a solution to a problem **Action:** I stop and find more efficient and procedural methods | [ ] | [ ] |
 | | | |
 
 ---
@@ -59,5 +55,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | My perspectives are insightful and add value to others | [ ] | [ ] |
 | I only use brute force to code my way to a solution if I have exhausted other potential solutions.  | [ ] | [ ] |
 | I am obsessed with finding the most effective solutions | [ ] | [ ] |
+| Not every problem requires a technical solution | [ ] | [ ] |
 | | | |
 ---
