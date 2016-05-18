@@ -3,7 +3,7 @@
 
 ## Skill Description
 
-The Fellow is able to identify and understand the regional and organizational culture of their client and how it differs from the Fellow’s native culture home. Has the ability to adapt to other cultural norms to be effective and successful in any culture. Welcomes cross-cultural curiosity and shares aspects unique to their region and Andela with others.
+The Fellow is able to identify and understand the regional and organizational culture of their client and how it differs from the Fellow’s native culture home. Has the ability to adapt to other cultural norms to be effective and successful in any culture. Welcomes cross-cultural curiosity and shares cultural aspects unique to their region and Andela with others.
 
 
 ## Output
