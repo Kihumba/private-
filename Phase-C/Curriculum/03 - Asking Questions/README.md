@@ -1,4 +1,4 @@
-# Outcome 3 - Asking Questions
+# Outcome 3 - Asks Questions
 
 ## Skill Description
 
