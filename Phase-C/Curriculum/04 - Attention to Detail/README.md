@@ -9,8 +9,8 @@ The Fellow understands the importance of reviewing outputs (e.g. code committed,
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Code review notes from person reviewing my code.
-2. Checkpoint defense notes.
+1. Code review notes from person reviewing my code that demonstrate zero lapses in attention to detail.
+2. Checkpoint defense notes that demonstrate zero lapses in attention to detail.
 3. Selection of written communication from week previous that demonstrates high level of attention to detail in both content and writing standards.
 
 
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - Methods and tools for supporting attention to detail | [ ] | [ ] |
 | - Standards and specifications a given output must meet | [ ] | [ ] |
 | - How to determine the relative importance and priority of details | [ ] | [ ] |
-| - Details that affect my users and stakeholders | [ ] | [ ] |
+| - Details that are important to my users and stakeholders | [ ] | [ ] |
 | | | |
 
 

@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When assigned a task that I do not find inspiring or motivating **Action:** I identify the value added of completing the task and how that aligns with my personal goals / motivations | [ ] | [ ] |
 | **Context:** When I am feeling overwhelmed by my work | | |
 | - **Action:** I take my mind off the work and decompress | [ ] | [ ] |
-| - **Action:** I acknowledge my emotional state and give myself permission to feel overwhelmed until the feeling passes and a new one emerges, and seek help as soon as the feeling starts to deteriorate from my work | [ ] | [ ] |
+| - **Action:** I acknowledge my emotional state and give myself permission to feel overwhelmed until the feeling passes and a new one emerges, and seek help as soon as the feeling starts to detract from my work | [ ] | [ ] |
 | **Context:** When I have struggled to stay motivated in my work despite my efforts to motivate myself **Action:** I seek help and identify this challenge to my trainers or Success | [ ] | [ ] |
 | **Context:** When my commitment pays off and I achieve big goals **Action:** I celebrate | [ ] | [ ] |
 | **Context:** When I find it generally difficult to stay motivated on a client engagement **Action:** I identify personal goals that align with learnings from the client to motivate myself | [ ] | [ ] |
@@ -57,7 +57,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can accomplish anything that I set my mind to | [ ] | [ ] |
 | All feelings are temporary | [ ] | [ ] |
 | There is always something to be learned and I can stay motivated by aligning my relevant personal goals with my work | [ ] | [ ] |
-| The setbacks are not enough t keep me from my goals | [ ] | [ ] |
+| The setbacks are not enough to keep me from my goals | [ ] | [ ] |
 | I can change my environment to support my motivation | [ ] | [ ] |
 | | | |
 

@@ -56,7 +56,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I am a valuable member of the Andela family | [ ] | [ ] |
 | Gaining a full understanding of Andela is valuable for my personal development | [ ] | [ ] |
 | I can speak fluently and passionately about everything Andela-related | [ ] | [ ] |
-| The more i understand the Andela model the better I can contribute to its success | [ ] | [ ] |
+| The more I understand the Andela model the better I can contribute to its success | [ ] | [ ] |
 | I am worthy of engaging with any member of the Andela team | [ ] | [ ] |
 
 ---

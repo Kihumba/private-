@@ -9,7 +9,8 @@ The Fellow is able to use generic methods (when they are available) or ad hoc me
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Written description of a problem I recently solved and the steps taken to solve the problem
+1. Written description of a coding problem I recently solved and the steps taken to solve the problem
+2. Written description of a non-coding problem I recently solved and the steps taken to solve the problem
 
 ##Objectives
 

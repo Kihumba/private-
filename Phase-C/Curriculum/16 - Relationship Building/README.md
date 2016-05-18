@@ -58,7 +58,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I am an open, interesting, insightful human being and people value being around me | [ ] | [ ] |
 | I can have meaningful conversations and build relationship with anyone | [ ] | [ } |
 | My ability to build relationships has a great impact on my success | [ ] | [ ] |
-| Opportunities to build relationships with people who are very different from me cab be very rewarding | [ ] | [ ] |
+| Opportunities to build relationships with people who are very different from me can be very rewarding | [ ] | [ ] |
 | A good relationship with my client is critical to delighting them | [ ] | [ ] |
 | | | |
 

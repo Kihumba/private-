@@ -3,7 +3,7 @@
 
 ## Skill Description
 
-The Fellow is able to identify and understand the regional and organizational culture of their client and how it differs from the Fellow’s native culture home. Has the ability to adapt to other cultural norms to be effective and successful in any culture.
+The Fellow is able to identify and understand the regional and organizational culture of their client and how it differs from the Fellow’s native culture home. Has the ability to adapt to other cultural norms to be effective and successful in any culture. Welcomes cross-cultural curiosity and shares aspects unique to their region and Andela with others.
 
 
 ## Output
@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - The culture of organizations I am a part of | [ ] | [ ] |
 | - How organizational cultures differ from one another  | [ ] | [ ] |
 | - How an organization’s culture is shaped | [ ] | [ ] |
-| - The elements of regional cultures | [ ] | [ ] |
+| - How to describe my native culture to foreigners | [ ] | [ ] |
 | - How the regional cultures of Andela clients differ from my native culture | [ ] | [ ] |
 | - Knowledge of situations and interactions that are influenced by culture | [ ] | [ ] |
 | - Common sources of intercultural confusion or tensions | [ ] | [ ] |
@@ -54,7 +54,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - **Action:** I exchange stories and knowledge about our respective cultures | [ ] | [ ] |
 | - **Action:** I leverage the relationship to deepen my understanding of their culture and resolve intercultural challenges I am facing | [ ] | [ ] |
 | **Context:** When I think that my beliefs are in conflict with the culture I am interacting with **Action:** I find a way to be effective in my work, despite the conflict | [ ] | [ ] |
-| **Context:** When I do not understand an element of a culture, or am confused following an intercultural interaction **Action:** I seek a full understanding of that cultural element / interaction | [ ] | [ ] |
+| **Context:** When I do not understand an aspect of a culture, or am confused following an intercultural interaction **Action:** I seek a full understanding of that cultural aspect / interaction | [ ] | [ ] |
 | | | |
 
 ---
