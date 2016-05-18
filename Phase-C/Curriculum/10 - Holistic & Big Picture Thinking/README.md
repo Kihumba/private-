@@ -45,7 +45,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I notice that I do not understand something about the organization, product, or users | | |
 | - **Action:** I research or inquire until I gain a full understanding | [ ] | [ ] |
 | **Context:** When planning to make a change to a product | | |
-| - **Action:** I ask questions that originate from my big picture perspective, or desire to gain a big picture perspective, on the product, company, and end users | [ ] | [ ] |
+| - **Action:** I ask questions that originate from my big picture perspective, or my desire to gain a big picture perspective, on the product, company, and end users | [ ] | [ ] |
 | - **Action:** I consider how changes to the feature would affect the product, company, and end users | [ ] | [ ] |
 | **Context:** When I identify a change I believe would better suit the needs of the product, organization, and/or users **Action:** I propose the change and explain the value from a detailed and big picture perspective | [ ] | [ ] |
 | | | |
