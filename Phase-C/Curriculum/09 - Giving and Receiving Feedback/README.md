@@ -1,4 +1,4 @@
-# Outcome 9 - Eliciting Feedback
+# Outcome 9 - Seeks Feedback
 
 ## Skill Description
 
