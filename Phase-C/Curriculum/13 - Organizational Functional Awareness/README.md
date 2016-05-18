@@ -28,6 +28,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - What Andela documents and resources exist and where to find them  | [ ] | [ ] |
 | - Key people with specific knowledge about Andela | [ ] | [ ] |
 | - How dotted line reporting works across departments and locations | [ ] | [ ] |
+| - How Andela's departments, structures, and model have changed over time | [ ] | [ ] |
 | | | |
 
 ---
