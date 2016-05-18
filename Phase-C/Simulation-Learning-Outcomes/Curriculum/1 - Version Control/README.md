@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-A Fellow should be able to use use Git with a workflow on a project, personally, or team wide.
+A Fellow should be able to use use Git with a workflow on a project both personal or in a team.
 
 
 Output
@@ -10,7 +10,7 @@ Output
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. Commits and Pull Requests that mirror the Git workflow used by my Simulation Team in the Project and in my Checkpoints.
+1. Commits and Pull Requests that mirror the Git workflow used by my Simulation Team on the Project and in my Checkpoints.
 
 
 ## Knowledge
