@@ -57,7 +57,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can accomplish anything that I set my mind to | [ ] | [ ] |
 | All feelings are temporary | [ ] | [ ] |
 | There is always something to be learned and I can stay motivated by aligning my relevant personal goals with my work | [ ] | [ ] |
-| The setbacks are not enough to keep me from my goals | [ ] | [ ] |
+| Setbacks are not enough to keep me from achieving my goals | [ ] | [ ] |
 | I can change my environment to support my motivation | [ ] | [ ] |
 | | | |
 
