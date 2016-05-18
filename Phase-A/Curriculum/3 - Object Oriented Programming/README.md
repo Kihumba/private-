@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-By the end of Phase A - Homestudy, aspiring Andelans should be able to understand general OOP concepts and OOP in Python. This means that they can model a problem based off of the Object oriented programming paradigm.
+Aspiring Andelans should be able to discuss general OOP concepts and how OOP is implemented in Python with their peers. This means that they understand how to model a problem based on the object oriented programming paradigm, create classes with properties and methods and take advantage of OOP to keep their code DRY.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to:
+After attaining this skill, and as a demonstration of it, I will have:
 
-1. Complete and pass Proctor assessment that tests knowledge of object oriented programming.
+1. A score of 80% or higher on Proctor.
 
 
 **Objectives**
@@ -20,18 +20,20 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Definition of a class and an object. | [ ] | [ ]  |
-| Definition of common OOP principles and concepts: | | |
-| <ul><li> Inheritance | [ ] | [ ]  |
-| <ul><li> Encapsulation    | [ ] | [ ]  |
-| <ul><li> Polymorphism      | [ ] | [ ]  |
-| <ul><li> Constructor      | [ ] | [ ]  |
-| <ul><li> Destructor | [ ] | [ ]  |
-| <ul><li> Instance Variables | [ ] | [ ]  |
-| <ul><li> Class and Static methods | [ ] | [ ]  |
-| Implement the above OOP concepts using Python. | [ ] | [ ]  |
-| Using OOP to write DRY code. | [ ] | [ ]  |
-| Give examples of where OOP can be successfully applied. | [ ] | [ ]  |
+| I can describe the following from memory: | | |
+||||
+| - Classes | [ ] | [ ] |
+| - Objects | [ ] | [ ] |
+| - Inheritance | [ ] | [ ]  |
+| - Encapsulation    | [ ] | [ ]  |
+| - Polymorphism      | [ ] | [ ]  |
+| - Constructors     | [ ] | [ ]  |
+| - Destructors | [ ] | [ ]  |
+| - Instance Variables | [ ] | [ ]  |
+| - Classes and Static methods | [ ] | [ ]  |
+| - How to implement object oriented programming in Python | [ ] | [ ]  |
+| - How to use OOP to write DRY code | [ ] | [ ]  |
+| - Examples of where OOP can be successfully applied | [ ] | [ ]  |
 
 
 
@@ -44,10 +46,16 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating model classes, **Action:** I properly represent the objects and behaviors of the class. | [ ] | [ ]  |
-| **Context:** When modelling an object **Action:** I define my attributes as variables and behaviour as methods within my class. |   [ ]   |   [ ]  |
-| **Context:** When doing OOP data modelling **Action:** I strive to ensure my code is DRY by building reusable components. |   [ ]   |   [ ]  |
-| **Context:** When doing OOP data modelling **Action:** I take advantage of Inheritance to ensure I am reusing code as much as possible. |   [ ]   |   [ ]  |
+| **Context:** When fellow learners approach me with basic questions on object oriented programming | | |
+| - **Action:** I describe these concepts in a way that they understand | [ ] | [ ] |
+| - **Action:** I share my understanding of the concept with them | [ ] | [ ] |
+| **Context:** When creating model classes | | |
+| - **Action:** I properly represent the objects and behaviors of the class | [ ] | [ ]  |
+| **Context:** When modeling an object| | |
+| - **Action:** I define my attributes as variables and behavior as methods within my class |   [ ]   |   [ ]  |
+| **Context:** When doing OOP data modeling| | |
+| - **Action:** I write DRY code by building reusable components |   [ ]   |   [ ]  |
+| - **Action:** I use inheritance to ensure I am reusing code as much as possible |   [ ]   |   [ ]  |
 
 
 
@@ -59,8 +67,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I have a clear picture of a programming problem when I model using OOP.| [ ] | [ ]  |
-| My application's codebase is more sustainable and resuable when I use OOP. | [ ] | [ ]  |
-
-
-
+| I have a clear picture of a programming problem when I model using OOP| [ ] | [ ]  |
+| My application's codebase is more sustainable and reusable when I use OOP | [ ] | [ ]  |
