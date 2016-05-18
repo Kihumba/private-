@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 1. Written or recorded description of how my work affects the organization(s) I am a part of, the application(s) I am building, and the users of the application.
 2. A list of questions I have asked that helped me better flesh out a feature I was building to meet the big picture needs of my organization, application, and/or users.
 
-##Objectives
+## Objectives
 
 ### Knowledge
 
@@ -19,7 +19,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
-| - Project specifications for a program I am contributing to | [ ] | [ ] |
+| - The purpose of the project I am currently working on and how it connects to stakeholders' goals | [ ] | [ ] |
+| - How to identify the purpose of a project | [ ] | [ ] |
 | - End user persona | [ ] | [ ] |
 | - Factors that constitute the big picture of a software application | [ ] | [ ] |
 | - Organizational structure and business model | [ ] | [ ] |
