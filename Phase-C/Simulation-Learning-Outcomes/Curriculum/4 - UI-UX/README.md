@@ -1,22 +1,34 @@
-# UI/UX- KBBs
-**Summary:** The following are the Knowledge, Behaviors, and Beliefs for UI/UX during Simulations.
+# Outcome 4 - UI/UX
 
+**Skill Description**
+----------
+The Fellow fully understands what makes a world-class User Interface and User Experience. The Fellow leverages that understanding to build excellent interfaces with appropriate components and behaviors.
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
+
+1. An aesthetically pleasing interface for a project
+2. Supporting documents that describe the thoughtful considerations made for each UI component and each UX behavior for the above project
+
+**Objectives**
 ----------
 ## **Knowledge**
 
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What is User Interface (UI)? | [ ] | [ ]  |
-| What is the User Experience (UX)? | [ ] |  [ ] |
-| How is UI and UX connected? | [ ] |    [ ] |
-| What are the UI Design Patterns? | [ ] |    [ ] |
-| What is Wireframing and Prototyping? | [ ] |    [ ] |
-| What is Layout theory? | [ ] |    [ ] |
-| What is Color Theory? | [ ] |    [ ] |
-| What is Typography? | [ ] |    [ ] |
-| What are Grid Systems? | [ ] |    [ ] |
-| What is CSS (Cascading Style Sheets)? | [ ] |    [ ] |
+| Qualities of a world-class UI | [ ] | [ ]  |
+| Qualities of world-class UX | [ ] | [ ] |
+| The connection between UI and UX | [ ] |  [ ] |
+| The differences between UI and UX | [ ] | [ ] |
+| Common UI design patterns | [ ] | [ ] |
+| Differences between wireframing and prototyping | [ ] | [ ] |
+| Principles and use cases of Layout Theory | [ ] | [ ] |
+| Principles and use cases of Color Theory | [ ] | [ ] |
+| How to use Typography to enhance UI/UX | [ ] | [ ] |
+| How to use Grid Systems to enhance UI/UX | [ ] | [ ] |
+| Steps for building the front-end of an application from scratch | [ ] | [ ] |
 
 
 ----------
@@ -24,13 +36,14 @@
 
 ## **Behaviors**
 
-
-### Git Workflow
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to build a user interface.. **Action:** I create wireframes to map out the User interface specs before starting the detailed design. | [ ] | [ ]  |
-| **Context:** When designing a product... **Action:** I will ensure that I pay attention to the design of every piece/component no matter how small. |   [ ]   |   [ ] |
-| **Context:** When coming up with the new design for a complex application... **Action:** I will always follow these steps. - Gather requirement - Research and sketch - Prepare wireframes - Adopt a style guide (tile) - Prepare prototype - Test and Fine tune |   [ ]   |   [ ] |
+| **Context:** Before building the front-end of an application that does not have a design **Action:** I create wireframes to map out the User Interface specs | [ ] | [ ]  |
+| **Context:** When creating wireframes **Action:** I choose layouts and components that best serve the use cases of the application I'm designing | [ ] | [ ]  |
+| **Context:** When designing the front-end of an application from wireframes **Action:** I design using colors and typography elements to create a pleasant User Experience | [ ] | [ ]  |
+| **Context:** When implement a front-end design **Action:** I pay attention to the details of every piece/component no matter how small |   [ ]   |   [ ] |
+
+
 ----------
 
 
@@ -39,12 +52,5 @@
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that I can build a functional, aesthetic, beautiful, appealing and well designed software product. | [ ] | [ ]  |
-| I believe the concept of design can be applied to everyday things (not just software) ranging from objects to devices.
- |   [ ]   |   [ ] |
-| I believe that the design of every piece/component of  a system/product matters irrespective of how minute it is. |   [ ]   |   [ ] |
-| I believe I can use the appropriate Typography (font size, family and color) to represent components based on the purpose they serve. |   [ ]   |   [ ] |
-| I believe I can use the right colour mixture to theme the Interface of my application. |   [ ]   |   [ ] |
-| I believe I can differentiate between UI and UX. |   [ ]   |   [ ] |
-| I believe I can determine when to write CSS class or to use a uses from a CSS framework. |   [ ]   |   [ ] |
-| I believe I can use the right theme when given arbitrary deadline in order to ESME and meet deadlines.|   [ ]   |   [ ] |
+| Mastery of UI/UX opens my eyes to the possibilities of design for everyday things| [ ] | [ ] |
+| The little things matter | [ ] | [ ] |
