@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When beginning work on a new system **Action:** I collaborate with relevant stakeholders to understand the relative priority of time and memory constraints | [ ] | [ ]  |
-| **Context:** Before I start to write a solution program to a problem **Action:** I look for existiing algorithms that are similar to the problem I'm trying to solve | [ ] | [ ]  |
+| **Context:** Before I start to write a solution program to a problem **Action:** I look for existing algorithms that are similar to the problem I'm trying to solve | [ ] | [ ]  |
 | **Context:** When I select an exisiting algorithm to leverage **Action:** I choose the best-fit based on accuracy and efficiency for my use case | [ ] | [ ]  |
 
 ----------
