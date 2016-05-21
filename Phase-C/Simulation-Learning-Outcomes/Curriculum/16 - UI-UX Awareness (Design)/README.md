@@ -1,8 +1,8 @@
-# Outcome 4 - UI/UX
+# Outcome 16 - UI/UX Awareness / Design
 
 **Skill Description**
 ----------
-The Fellow fully understands what makes a world-class User Interface and User Experience. The Fellow leverages that understanding to build excellent interfaces with appropriate components and behaviors.
+The fellow understands the basics of proper UI / UX design including understanding the user, identifying and optimizing primary tasks / flows, wireframing, prototyping and iterating with usability testing.
 
 **Output**
 ----------
@@ -29,6 +29,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | How to use Typography to enhance UI/UX | [ ] | [ ] |
 | How to use Grid Systems to enhance UI/UX | [ ] | [ ] |
 | Steps for building the front-end of an application from scratch | [ ] | [ ] |
+| How to perform usability tests | [ ] | [ ] |
+| How to identify the primary needs and use cases of users | [ ] | [ ] |
 
 
 ----------
@@ -41,7 +43,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** Before building the front-end of an application that does not have a design **Action:** I create wireframes to map out the User Interface specs | [ ] | [ ]  |
 | **Context:** When creating wireframes **Action:** I choose layouts and components that best serve the use cases of the application I'm designing | [ ] | [ ]  |
 | **Context:** When designing the front-end of an application from wireframes **Action:** I design using colors and typography elements to create a pleasant User Experience | [ ] | [ ]  |
-| **Context:** When implement a front-end design **Action:** I pay attention to the details of every piece/component no matter how small |   [ ]   |   [ ] |
+| **Context:** When designing the front-end of an application from wireframes **Action:** I identify the primary tasks and flows that my users demand and optimize those | [ ] | [ ]  |
+| **Context:** When implementing a front-end design **Action:** I pay attention to the details of every piece/component no matter how small |   [ ]   |   [ ] |
+| **Context:** When I am done implementing the front-end design **Action:** I perform usability tests on the application |   [ ]   |   [ ] |
 
 
 ----------

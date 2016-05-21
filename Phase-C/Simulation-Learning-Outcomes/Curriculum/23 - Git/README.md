@@ -1,8 +1,12 @@
-# Outcome 23 - Git
+# Outcome 1 - Version Control (Git)
 
 Skill Description
 ----------
-The Fellow knows how to install Git, checkout files, commit files, create a branch, merge, and send a pull request.
+<<<<<<< HEAD:Phase-C/Simulation-Learning-Outcomes/Curriculum/1 - Version Control/README.md
+A Fellow should be able to use use Git with a workflow on a project both personal or in a team.
+=======
+The fellow knows how to install git, checkout files, commit files, create a branch, merge, and send a pull request.
+>>>>>>> defined LOs for all D1 technical skills and tools:Phase-C/Simulation-Learning-Outcomes/Curriculum/23 - Git/README.md
 
 
 Output
@@ -10,7 +14,7 @@ Output
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. Commits and Pull Requests that mirror the Git workflow used on personal and team projects
+1. Commits and Pull Requests that mirror the Git workflow used by my Simulation Team on the Project and in my Checkpoints.
 
 
 ## Knowledge
@@ -18,38 +22,33 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| How to set up a local Git repository | [ ] | [ ] |
-| Tradeoffs between Github and Bitbucket as web-based repository hosting services | [ ] | [ ] |
-| Types of Git Workflows | [ ] | [ ] |
+| Possible use cases of Version Control | [ ] | [ ] |
+| Other version control systems apart from Git | [ ] | [ ] |
+| Setting up Git on your local machine | [ ] | [ ] |
+| Github, Bitbucket as a web based repository hosting services | [ ] | [ ] |
 | The commands needed in a Git workflow | [ ] | [ ] |
-| How to update local repositories with latest code in remote repositories| [ ] | [ ] |
-| How to identify atomic changes to a codebase | [ ] | [ ] |
-| How to make commits in Git | [ ] | [ ] |
-| How to push to remote repositories in Git | [ ] | [ ] |
-| Causes of merge conflicts in Git | [ ] | [ ] |
-| How to avoid merge conflicts in Git | [ ] | [ ] |
-| How to resolve merge conflicts in Git | [ ] | [ ] |
+| Steps taken to fix merge conflicts | [ ] | [ ] |
+| Types of Git Workflows | [ ] | [ ] |
 | Use cases of Git hooks | [ ] | [ ] |
 
 ## Behaviors
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When setting up Git on a new machine **Action:** I configure my local machine with Git SSH keys | [ ] | [ ] |
-| **Context:** When I join a team **Action:** I identify and adopt the Git workflow established by the team | [ ] | [ ] |
-| **Context:** Before I modify code to an existing project **Action:** I pull changes from the remote repository based on the project's established Git workflow | [ ] | [ ] |
-| **Context:** After I update my local repository with working code **Action:** I commit the changes based on the project's established Git workflow and commit conventions | [ ] | [ ] |
-| **Context:** When making a commit **Action:** I include a commit message that clearly and concisely describes exactly what I did while adhering to the commit conventions of the project | [ ] | [ ] |
-| **Context:** After an atomic amount of changes have been made on my local repository  **Action:** I push the changes to the remote repo according to the project's established Git workflow | [ ] | [ ] |
-| **Context:** When I begin work on a new feature, bug or enhancement **Action:** I consider using a branch | [ ] | [ ] |
-
+| **Context:** When creating a project that I intend to revisit **Action:** I create a new remote repository on Github and pull down to my local repository | [ ] | [ ] |
+| **Context:** When I am about to continue work on an ongoing project **Action:** I pull in changes from the remote repository | [ ] | [ ] |
+| **Context:** After I update my codebase with working code **Action:** I commit the changes | [ ] | [ ] |
+| **Context:** After every major commit **Action:** I push the changes to the remote repo | [ ] | [ ] |
+| **Context:** When making a commit **Action:** I include a commit message that describes exactly what I did and that will be interpretable by another developer, following the format specified by my Team | [ ] | [ ] |
+| **Context:** When I think about writing new code **Action:** I think about whether or not I need a branch | [ ] | [ ] |
+| **Context:** Whenever I’m setting up Git on a new machine **Action:** I ensure I setup my SSH keys | [ ] | [ ] |
+| **Context:** When I’m working in a team **Action:** I need to identify the git workflow pertinent to the team and adopt it | [ ] | [ ] |
 
 ## Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Git workflows greatly enhance remote collaboration with other world-class developers  | [ ] | [ ] |
-| I build trust with my team members by pushing frequent quality and working commits to our repository | [ ] | [ ] |
-| Clear and detailed commit messages add tremendous value to current and future contributors | [ ] | [ ] |
-| Branches give me a safe space and the freedom to experiment when implementing a new feature | [ ] | [ ] |
-
+| Branching creates a safe space to try new things when I’m implementing a new feature | [ ] | [ ] |
+| Progress and changes to a project can be tracked when I use Git | [ ] | [ ] |
+| I believe that understanding a particular git workflow could make working in teams relatively easy | [ ] | [ ] |
+| The appropriate Git Workflow enable me and my team have seamless collaboration on our projects | [ ] | [ ] |

@@ -1,14 +1,20 @@
+<<<<<<< HEAD:Phase-C/Simulation-Learning-Outcomes/Curriculum/2 - Databases/README.md
+# Outcome 2 - Databases
+## Skill Description
+A Fellow should able to select a Database based on the data storage requirements, as well as the structure for querying and storing data.
+=======
 # Outcome 13 - Databases
+>>>>>>> defined LOs for all D1 technical skills and tools:Phase-C/Simulation-Learning-Outcomes/Curriculum/13 - Databases/README.md
 
 **Skill Description**
 ----------
-The Fellow understands the basics of databases and can effectively use databases to store data, run queries, and perform basic CRUD (create, read, update and delete) actions.
+The Fellow understands the basics of databases and can effectively use one to store data and perform basic CRUD (create, read, update and delete) actions against it.
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. Projects where I set up and queried SQL and NoSQL databases
+- A Screenshot of score (80% at minimum) from each section of SQLZoo.net Quiz
 
 **Objectives**
 ----------
@@ -18,18 +24,15 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The importance of persistent storage | [ ] | [ ] |
-| How to implement data normalization | [ ] | [ ] |
-| How to implement data de-normalization | [ ] | [ ] |
-| Trade-offs between normalization and denormalization | [ ] | [ ] |
-| The types of SQL databases | [ ] | [ ]  |
-| Querying methods (statements) and syntax for SQL databases | [ ] | [ ] |
-| Types of joins in SQL and when to use them | [ ] | [ ] |
-| Datatypes in SQL databases | [ ] | [ ] |
-| The types of NoSQL databases | [ ] | [ ]  |
-| Data storage structures in NoSQL databases | [ ] | [ ] |
-| Querying data in NoSQL databases | [ ] | [ ] |
-| How to use Indexing in databases | [ ] | [ ] |
-| Tradeoffs between SQL and NoSQL databases | [ ] | [ ] |
+| The classes of Databases based on data storage and querying (SQL) | [ ] | [ ]  |
+| The types of SQL Databases | [ ] | [ ]  |
+| Normalization of data in SQL Databases | [ ] | [ ] |
+| Querying methods (statements) and syntax in SQL Databases | [ ] | [ ] |
+| Datatypes in SQL Databases | [ ] | [ ] |
+| The types of NoSQL Databases | [ ] | [ ]  |
+| Data storage structures in NoSQL Databases | [ ] | [ ] |
+| Querying data in NoSQL Databases | [ ] | [ ] |
+| Indexing fields or keys in Databases | [ ] | [ ] |
 
 ----------
 
@@ -38,10 +41,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When starting a new project with persistent storage requirements **Action:** I select a SQL or NoSQL database based on the structure of data to be stored | [ ] | [ ] |
+| **Context:** Before I setup my Database **Action:** I select a SQL or NoSQL database based on the structure of data to be stored. | [ ] | [ ] |
 | **Context:** When I need a complex query in a SQL Database **Action:** I create VIEWS that abstract the query's complexity | [ ] | [ ]  |
-| **Context:** When I set up a database table or document for quick access **Action:** I create indexes for frequently accessed fields | [ ] | [ ]  |
-| **Context:** When I design multiple related tables that may contain redundant data **Action:** I normalize the tables and columns involved | [ ] | [ ]  |
+| **Context:** When working with user data input **Action:** I filter it to prevent SQL injection | [ ] | [ ]  |
 
 ----------
 
@@ -50,5 +52,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| The best persistent applications are built on solid database infrastructure | [ ] | [ ] |
-| Mastering database fundamentals unlocks my potential for building large scale software systems | [ ] | [ ]  |
+| NoSQL Databases are fast and reduce latency when I read and write data frequently | [ ] | [ ] |
+| The type of Database selected is based on my data storage needs | [ ] | [ ] |
+| Normalizing my SQL Database makes it easy to transcend actions to all related tables. | [ ] | [ ]  |
+| SQL Injection is avoided when I sanitize input data | [ ] | [ ]  |

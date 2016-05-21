@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The Fellow knows how to create directories, move to a different directory, copy files, list directory contents, and execute commands with parameters, pipe and redirect.
+The Fellow knows how to create directories, move to a different directory, copy files, list directory contents, execute commands with parameters, pipe and redirect.
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. A shell script that creates directories, moves to a different directory, copies files, lists directory contents, executes commands with parameters, pipes and redirects input
+1. A shell script that creates directories, moves to a different directories, copies files, lists directory contents, executes commands with parameters, pipes and redirects input
 
 
 **Objectives**
@@ -21,7 +21,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Different types of UNIX shells | [ ] | [ ]  |
+| What are the different types of Unix shells | [ ] | [ ] |
 | Basic shell commands | [ ] | [ ] |
+| The command for moving to a different directory | [ ] | [ ] |
+| The command for copying files | [ ] | [ ] |
+| The command for listing directory contents | [ ] | [ ] |
 | How to execute commands with parameters | [ ] | [ ] |
 | Common use cases for piping input and output | [ ] | [ ] |
 | Common use cases for redirecting input and output | [ ] | [ ] |

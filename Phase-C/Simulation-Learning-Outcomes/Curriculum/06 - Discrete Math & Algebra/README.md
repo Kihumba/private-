@@ -2,6 +2,7 @@
 
 **Skill Description**
 ----------
+<<<<<<< HEAD
 The Fellow understands the concepts of discrete math focused on probability and basic algebra (assignment and use of variables) 
 
 **Output**
@@ -12,6 +13,16 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
   - Independent and Dependent events
   - Probablity and Combinatorics
 2. A program showing assignment and use of variables
+=======
+The Fellow understands the concepts of discrete math focused on understanding what probability is and on basic algebra (assignment and use of variables) 
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, I should be able to complete the following sections of Khan Academy's Probability snd Statistics course:
+
+1. Independent and Dependent events
+2. Probablity and Combinatorics
+>>>>>>> defined LOs for all D1 technical skills and tools
 
 
 **Objectives**
