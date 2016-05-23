@@ -22,6 +22,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Common ways of making requests to APIs | [ ] | [ ]  |
 | The HTTP request-response lifecycle | [ ] | [ ]  |
 | Common HTTP methods | [ ] | [ ]  |
+| Common HTTP status codes | [ ] | [ ]  |
 | How to add parameters to API requests | [ ] | [ ]  |
 | How to authenticate HTTP requests | [ ] | [ ]  |
 | What makes for a RESTful API | [ ] | [ ]  |
@@ -36,9 +37,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I use make requests to an API that requires authentication **Action:** I authenticate my request | [ ] | [ ] |
-| | | |
-| **Context:** When I build front-end applications that make requests to APIs **Action:** I implement a dynamic front-end that displays information based on the responses from the API requests | [ ] | [ ] |
-| | | |
+| **Context:** When I build front-end applications that make requests to APIs **Action:** I implement a dynamic front-end that displays information based on the responses from the API server | [ ] | [ ] |
 
 
 ----------
@@ -49,5 +48,5 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can leverage external APIs to build more robust applications with global data | [ ] | [ ] |
+| I can leverage external APIs to build applications with robust integrations | [ ] | [ ] |
 
