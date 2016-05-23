@@ -38,8 +38,6 @@ After attaining this skill, and as a demonstration of it, I should be able to pr
 | **Context:** When I want to have a group conversation **Action:** I use a channel or a multi-user direct message | [ ] | [ ] |
 | | | |
 
-| | | |
-
 
 ----------
 
@@ -49,5 +47,5 @@ After attaining this skill, and as a demonstration of it, I should be able to pr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Slack is one of the most powerful communication tools of this age | [ ] | [ ] |
+| Slack is one of the most powerful instant communication tools of this age | [ ] | [ ] |
 
