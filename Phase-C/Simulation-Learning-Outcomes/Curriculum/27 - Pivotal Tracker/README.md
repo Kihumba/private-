@@ -37,8 +37,6 @@ After attaining this skill, and as a demonstration of it, I should be able to pr
 | **Context:** When I adhoc-ly get assigned to a task outside of Pivotal Tracker **Action:** I update the project on Pivotal Tracker with the new stories | [ ] | [ ] |
 | **Context:** When I am assigned a story on Pivotal Tracker **Action:** I update the story card with an estimate of how long it will take | [ ] | [ ] |
 | **Context:** When I work on any Pivotal Tracker story **Action:** I update the story card with the activity that was undertaken | [ ] | [ ] |
-| | | |
-
 
 
 ----------
