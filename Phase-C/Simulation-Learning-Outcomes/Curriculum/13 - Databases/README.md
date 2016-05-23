@@ -40,7 +40,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 |:-------------|:------------------:|:--------:|
 | **Context:** When starting a new project with persistent storage requirements **Action:** I select a SQL or NoSQL database based on the structure of data to be stored | [ ] | [ ] |
 | **Context:** When I need a complex query in a SQL Database **Action:** I create VIEWS that abstract the query's complexity | [ ] | [ ]  |
-| **Context:** Before saving user input data **Action:** I filter it to prevent SQL injection | [ ] | [ ]  |
+| **Context:** When I set up a database table or document for quick access **Action:** I create indexes for frequently accessed fields | [ ] | [ ]  |
+| **Context:** When I design multiple related tables that may contain redundant data **Action:** I normalize the tables and columns involved | [ ] | [ ]  |
+| **Context:** Before saving user input data **Action:** I sanitize it to prevent SQL injection | [ ] | [ ]  |
 
 ----------
 
