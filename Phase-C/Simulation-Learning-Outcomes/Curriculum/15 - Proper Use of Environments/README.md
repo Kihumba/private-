@@ -20,8 +20,8 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Common environments used in the software development lifecycle | [ ] | [ ]  |
-| * Different workflows for moving application code to different environments | [ ] | [ ]  |
+| Common environments used in the software development lifecycle | [ ] | [ ]  |
+| Different workflows for moving application code to different environments | [ ] | [ ]  |
 
 
 
@@ -33,8 +33,6 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building a software product **Action:** I use the team-established workflow for matching environments to the respective software lifecyle stage of the product | [ ] | [ ] |
-| | | |
-
 
 
 ----------
@@ -45,5 +43,5 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Environments provide a safe pipeline for building quality products | [ ] | [ ] |
+| Environments provide a safe pipeline for testing and deploying quality products | [ ] | [ ] |
 
