@@ -1,4 +1,4 @@
-# Outcome 2 - Python Programming
+# Outcome 3 - Python Programming
 
 **Skill Description**
 ----------
