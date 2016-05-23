@@ -36,8 +36,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** After breaking down the work into smaller individual tasks **Action:** I estimate the LOE/time it will take to complete those tasks | [ ] | [ ] |
 | **Context:** After estimating the LOE for the tasks **Action:** I communicate the estimates with relevant stakeholders while providing justifications for the estimates | [ ] | [ ] |
 | **Context:** After the tasks have been completed **Action:** I compare the actual LOE to the estimated LOE to re-calibrate my mental estimation algorithm | [ ] | [ ] |
-| | | |
-
 
 
 ----------
