@@ -1,4 +1,4 @@
-# Rails MVC
+# Outcome 1 - Rails MVC
 
 Skill Description
 ----------
