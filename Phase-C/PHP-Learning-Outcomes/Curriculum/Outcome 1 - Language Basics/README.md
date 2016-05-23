@@ -14,13 +14,14 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - Super Global Variables in PHP.
 
 
-## **Outputs**
+**Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to solve the following:
 
 1. Checkpoint 1 Project.
 2. A PHP Script that processes a simple HTML form submission.
 
+**Objectives**
 ----------
 ## **Knowledge**
 
