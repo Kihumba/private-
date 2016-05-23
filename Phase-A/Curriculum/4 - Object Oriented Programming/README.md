@@ -9,7 +9,7 @@ Aspiring Andelans should be able to discuss general OOP concepts and how OOP is 
 ----------
 After attaining this skill, and as a demonstration of it, I will have:
 
-1. A score of 80% or higher on Proctor.
+1. A score of 80% or higher in this module on Proctor.
 
 
 **Objectives**
@@ -22,6 +22,7 @@ After attaining this skill, and as a demonstration of it, I will have:
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 ||||
+| - What object oriented programming is | [ ] | [ ] |
 | - Classes | [ ] | [ ] |
 | - Objects | [ ] | [ ] |
 | - Inheritance | [ ] | [ ]  |
@@ -32,6 +33,7 @@ After attaining this skill, and as a demonstration of it, I will have:
 | - Instance Variables | [ ] | [ ]  |
 | - Classes and Static methods | [ ] | [ ]  |
 | - How to implement object oriented programming in Python | [ ] | [ ]  |
+| - Principles of DRY code | [ ] | [ ] |
 | - How to use OOP to write DRY code | [ ] | [ ]  |
 | - Examples of where OOP can be successfully applied | [ ] | [ ]  |
 
@@ -47,15 +49,14 @@ After attaining this skill, and as a demonstration of it, I will have:
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When fellow learners approach me with basic questions on object oriented programming | | |
-| - **Action:** I describe these concepts in a way that they understand | [ ] | [ ] |
-| - **Action:** I share my understanding of the concept with them | [ ] | [ ] |
+| - **Action:** I share my understanding of the concept with them in a way that they understand | [ ] | [ ] |
 | **Context:** When creating model classes | | |
 | - **Action:** I properly represent the objects and behaviors of the class | [ ] | [ ]  |
 | **Context:** When modeling an object| | |
-| - **Action:** I define my attributes as variables and behavior as methods within my class |   [ ]   |   [ ]  |
+| - **Action:** I define my attributes as variables and behaviors as methods within my class |   [ ]   |   [ ]  |
 | **Context:** When doing OOP data modeling| | |
-| - **Action:** I write DRY code by building reusable components |   [ ]   |   [ ]  |
-| - **Action:** I use inheritance to ensure I am reusing code as much as possible |   [ ]   |   [ ]  |
+| - **Action:** I write DRY code |  [ ]  |  [ ]  |
+| - **Action:** I identify when to use inheritance |   [ ]   |   [ ]  |
 
 
 

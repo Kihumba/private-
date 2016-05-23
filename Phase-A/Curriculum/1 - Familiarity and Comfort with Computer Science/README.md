@@ -1,4 +1,4 @@
-# Outcome 1 - Introduction to Computer Science
+# Outcome 1 - Familiarity and Comfort with Computer Science
 
 **Skill Description**
 ----------
@@ -10,7 +10,7 @@ Aspiring Andelans should be able to understand and explain to their peers, the m
 ----------
 After attaining this skill, and as a demonstration of it, I will have:
 
-1. A score of 80% or higher on Proctor.
+1. A score of 80% or higher in this module on Proctor.
 
 
 **Objectives**
@@ -22,16 +22,17 @@ After attaining this skill, and as a demonstration of it, I will have:
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
+||||
 | - Computer science is in a way that anybody can understand | [ ]   | [ ] |
 | - Who a computer scientist is | [ ] | [ ] |
 | - The role of a computer scientist |   [ ]   |   [ ] |
-| - The differences between a programmer and a computer scientist|   [ ]   |   [ ] |
-| - The definition of Algorithms | [ ] | [ ]  |
-| - What Programming is   | [ ] | [ ]  |
-| - Common Data structures      | [ ] | [ ]  |
-| - What Artificial Intelligence is | [ ] | [ ]  |
-| - What Computer security is | [ ] | [ ]  |
-| - What Big Data is | [ ] | [ ]  |
+| - The differences between a programmer and a computer scientist| [ ] | [ ] |
+| - What algorithms are | [ ] | [ ]  |
+| - What programming is   | [ ] | [ ]  |
+| - Common data structures      | [ ] | [ ]  |
+| - What artificial intelligence is | [ ] | [ ]  |
+| - What computer security is | [ ] | [ ]  |
+| - What big data is | [ ] | [ ]  |
 
 
 
@@ -59,5 +60,5 @@ After attaining this skill, and as a demonstration of it, I will have:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Understanding basic computer science concepts will help me in whichever computer science field I want to specialize in | [ ] | [ ]  |
-| World class developers understand basic computer science concepts | [ ] | [ ]  |
+| Understanding basic computer science concepts will help me in whichever computer science field I want to specialize in | [ ] | [ ] |
+| World class developers understand basic computer science concepts | [ ] | [ ] |
