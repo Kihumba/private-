@@ -36,15 +36,10 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building a feature that requires users to have access to their data only **Action:** I leverage the appropriate the appropriate authentication | [ ] | [ ] |
-| | | |
 | **Context:** When building a feature that requries users to have different levels of access to data **Action:** I leverage the appropriate authorization mechanism | [ ] | [ ] |
-| | | |
 | **Context:** When bulding a feature to store potentially sensitive data **Action:** I leverage the appropriate encryption mechanism to encrypt the data before saving | [ ] | [ ] |
-| | | |
 | **Context:** When bulding a feature to store potentially sensitive data **Action:** I leverage the appropriate encryption mechanism to encrypt the data before saving | [ ] | [ ] |
-| | | |
 | **Context:** When bulding a feature that takes user input **Action:** I validate and sanitize the input | [ ] | [ ] |
-| | | |
 
 
 ----------
