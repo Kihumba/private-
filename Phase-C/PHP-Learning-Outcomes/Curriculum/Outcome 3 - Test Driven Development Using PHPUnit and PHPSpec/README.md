@@ -10,13 +10,13 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - The concepts of Behavior Driven Development and how to implement this using PHPSpec.
 
 
-## **Outputs**
+**Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
 1. Checkpoint 4 with Functional, Unit and Integrated tests written for it.
 
-
+**Objectives**
 ----------
 ## **Knowledge**
 
