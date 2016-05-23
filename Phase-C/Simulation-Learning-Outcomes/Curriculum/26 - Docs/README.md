@@ -36,8 +36,6 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 |:-------------|:------------------:|:--------:|
 | **Context:** When I create a collaborative document **Action:** I share it with collaborators for input with the appropriate permissions | [ ] | [ ] |
 | **Context:** When I create a collaborative document **Action:** I follow the document formatting guide of the organization | [ ] | [ ] |
-| | | |
-
 
 
 ----------
