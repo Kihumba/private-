@@ -37,7 +37,6 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I get on a call **Action:** I move to a quiet environment | [ ] | [ ] |
 | **Context:** When on a one-on-one call **Action:** I use headphones with a mic | [ ] | [ ] |
-| | | |
 
 
 ----------
