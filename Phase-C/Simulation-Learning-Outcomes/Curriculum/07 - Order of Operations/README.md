@@ -19,9 +19,9 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Order of operations in Mathematics | [ ] | [ ]  |
-| * Order of operations in programming languages | [ ] | [ ]  |
-| * How neglect for mathematical order of operations could introduce bugs into a system| [ ] | [ ]  |
+| Order of operations in Mathematics | [ ] | [ ]  |
+| Order of operations in programming languages | [ ] | [ ]  |
+| How neglect for mathematical order of operations could introduce bugs into a system| [ ] | [ ]  |
 
 
 
@@ -33,8 +33,6 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I write programs that use mathematical operations **Action:** I ensure that my mathematical expressions are follow the right order required by the desired result | [ ] | [ ] |
-| | | |
-
 
 
 ----------
