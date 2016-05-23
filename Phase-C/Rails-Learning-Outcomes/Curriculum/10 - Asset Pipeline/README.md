@@ -14,7 +14,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is the "Asset Pipeline"? | [ ] | [ ]  |
 | What are "Manifest Files"? | [ ] | [ ]  |
@@ -35,7 +35,7 @@ Outputs
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When my application is in production mode... **Action:** I precompile all assets. | [ ] | [ ]  |
 | **Context:** When the css of my layout design/theme need to change per page... **Action:** I namespace my css. | [ ] | [ ]  |

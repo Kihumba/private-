@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * What are the capabilities of my team members?  | [ ] | [ ]  |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When documenting reports on team members **Action:** I include capabilities of each team member in order to manage external expectations of team member capabilities | [ ] | [ ]  |
 | **Context:** At the start of every sprint **Action:** I collaboratively estimate the output of each team member for that sprint  | [ ] | [ ]  |

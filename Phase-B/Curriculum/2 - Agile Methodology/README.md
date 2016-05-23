@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | The Agile Manifesto | [ ] | [ ]  |
 | Describe the differences between Agile Methodology and conventional software development methodology. |   [ ]   |   [ ] |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 
 ### Agile Methodology/Scrum
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am faced with a task/project which requires a considerable amount of effort... **Action:** I always break down the functionality into the smallest units. | [ ] | [ ]  |
 | **Context:** When I am planning a project I would like to work on... **Action:** I make use a tool like Trello/Pivotal Tracker to track tasks, milestones, deliverables and due dates | [ ] |    [ ] |

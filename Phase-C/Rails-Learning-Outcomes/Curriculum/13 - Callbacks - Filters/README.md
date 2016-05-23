@@ -17,7 +17,7 @@ In checkpoints and simulation project:
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I know what callbacks are used for | [ ] | [ ]  |
 | I know the major lifecycle stages of an Active Record object | [ ] | [ ]  |
@@ -47,7 +47,7 @@ In checkpoints and simulation project:
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need a method executed before an action... **Action:** I use before filter/callback  | [ ] | [ ]  |
 | **Context:** When I need a method executed after an action... **Action:** I use after filter/callback  | [ ] | [ ]  |

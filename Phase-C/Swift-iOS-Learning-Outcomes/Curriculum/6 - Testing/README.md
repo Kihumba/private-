@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is a unit test? | [ ] | [ ] |
 | How do I write a unit test? | [ ] |  [ ] |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to assert the proper functioning of an application, **Action:** I write tests to compare the output of the methods with their ideal outputs. | [ ] | [ ] |
 | **Context:** While writing tests, **Action:** I use assertions to create the expectations for my methods and procedures. | [ ] | [ ] |

@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * The difference between responsibility and accountability | [ ] | [ ]  |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I assign tasks to team members **Action:** I help them understand what the tasks are and why they are important | [ ] | [ ]  |
 | **Context:** After tasks have been assigned to team members **Action:** I hold them accountable to completion of those tasks | [ ] | [ ]  |

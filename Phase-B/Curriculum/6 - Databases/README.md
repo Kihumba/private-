@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What does SQL stands for? | [ ] | [ ]  |
 | Types of Databases that exists (SQL and NoSQL) and the differences between them. |   [ ]   |   [ ] |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When faced with a data modelling problem... **Action:** I create the required table structures diagrammatically. | [ ] | [ ]  |
 | **Context:** When a subset of data is needed from a table... **Action:** I create SQL queries to extract the specific data required. | [ ] |    [ ] |

@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What class is commonly used to represent errors in Swift? (`NSError`)? | [ ] | [ ] |
 | What types of errors exist in Swift? | [ ] | [ ] |
@@ -28,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When dealing with Errors in Swift, **Action:** I can easily relate its structure with Exceptions in other programming languages and leverage on that as the case may be. | [ ] | [ ] |
 | **Context:** When throwing Errors that have steps or categories, **Action:** I create an enumerated ErrorType that throws different Errors in steps to increase flexibility in the Error Handling.  | [ ] | [ ] |

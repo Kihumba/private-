@@ -15,7 +15,7 @@ When working on checkpoint 2, your rails application should:
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe rails as a framework | [ ] | [ ]  |
 | I can clearly explain what it means to say `Rails favors convention over configuration` | [ ] | [ ]  |
@@ -50,7 +50,7 @@ When working on checkpoint 2, your rails application should:
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When adding gems to my application... **Action:** I use Gemfile to manage my application's gem dependencies. | [ ] | [ ]  |
 | **Context:** When building a rails application... **Action:** I place each application file in their appropriate directory.E.g. I place model files in app/models directory.| [ ] | [ ]  |

@@ -13,7 +13,7 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are migrations? | [ ] | [ ]  |
 | When do we need migrations? | [ ] | [ ]  |
@@ -44,7 +44,7 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When generating migrations... **Action:**  I use rails generators.| [ ] | [ ]  |
 | **Context:** When working with databases in any rails application... **Action:**  I use rails migration to change the schema.| [ ] | [ ]  |

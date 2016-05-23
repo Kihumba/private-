@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Kinds of reports that can be generated from spreadsheets | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When using spreadsheets to report data **Action:** I select report format that’s most appropriate for the type of data I want to report | [ ] | [ ]  |
 | **Context:** When designing the visual aspect of spreadsheets **Action:** I consider the user and use colors, fonts, layout, and formatting intentionally | [ ] | [ ]  |

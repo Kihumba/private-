@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of a class and an object. | [ ] | [ ]  |
 | Definition of common OOP principles and concepts: | | |
@@ -42,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating model classes, **Action:** I properly represent the objects and behaviors of the class. | [ ] | [ ]  |
 | **Context:** When modelling an object **Action:** I define my attributes as variables and behaviour as methods within my class. |   [ ]   |   [ ]  |

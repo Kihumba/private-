@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Tools to promote speaking to be understood | [ ] |    [ ] |
 | **Principles of effective verbal communication:** Speak to be heard (audibility: volume level, pace, cadence, diction), Keep it short (be concise, Use fewer words and stick to the main points), Non-verbal communication, Checking for understanding, Understanding your audience/listener, Applying knowledge of the content/topic of conversation, Applying knowledge of understanding cultural/organizational norms of speech, Appropriate time and place to speak, Appropriate type and level of information to share, Appropriate venue for communication, Ability to effectively pass information | [ ] |    [ ] |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When speaking in public **Action:** I strive to speak audibly but  often need to be prompted to raise my voice. | [ ] |    [ ] |
 | **Context:**  When speaking in public **Action:** I put in effort to be clear seldom check for understanding of the audience. | [ ] |    [ ] |

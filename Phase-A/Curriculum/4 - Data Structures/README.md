@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of data structure.| [ ] | [ ]  |
 | Different types of data structure: | | |
@@ -45,7 +45,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When given a problem **Action:** I use the most appropriate data structure to represent data. | [ ] | [ ]  |
 

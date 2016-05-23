@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | _Variables and Constants_ |
 | What is a variable? | [ ] | [ ] |
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | _Variables and Constants_ |
 | **Context:** When I want to program with a dynamic value, **Action:** I use a variable. | [ ] | [ ] |

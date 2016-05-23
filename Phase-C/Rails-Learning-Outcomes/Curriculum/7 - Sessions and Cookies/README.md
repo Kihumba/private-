@@ -14,7 +14,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are sessions? | [ ] | [ ]  |
 | What are cookies? | [ ] | [ ]  |
@@ -39,7 +39,7 @@ Outputs
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working with data that will persist throughout an application... **Action:** I use sessions. | [ ] | [ ]  |
 | **Context:** When working with sessions... **Action:** I always store session data on the server side for security reason. | [ ] | [ ]  |

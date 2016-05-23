@@ -19,7 +19,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Why is it important what you name your models, controllers, and views? | [ ] | [ ]  |
 | Where is the view file located that's rendered by default for a given controller? | [ ] | [ ]  |
@@ -43,7 +43,7 @@ Outputs
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating a controller... **Action:** I follow rails controller naming convention. | [ ] | [ ]  |
 | **Context:** When getting user data from input fields... **Action:** I use strong parameters to whitelist its contents? | [ ] | [ ]  |

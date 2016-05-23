@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * What are the client's/team's/project's top priorities? | [ ] | [ ]  |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When ideas that are not aligned with top client/team priorities come up **Action:** I keep the team focused by putting those ideas in an icebox where they can be revisited when the priorities have been take care of | [ ] | [ ]  |
 | **Context:** When my team works very hard on a sprint **Action:** I reward the team with some hours off so they can refresh and avoid burnout |   [ ]   |   [ ]  |

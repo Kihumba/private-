@@ -15,7 +15,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | _Views_ |
 | What is a UIView? (class `UIView`) | [ ] | [ ] |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I add Elements to my View Controller, **Action:** I add the correct Element that suits the purpose.| [ ] | [ ] |
 | **Context:** When I add Elements to my Controller, **Action:** I link them as Outlets or Actions based on their traits and the purpose they serve. | [ ] | [ ] |

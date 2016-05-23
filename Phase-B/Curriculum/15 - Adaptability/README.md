@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Change as a concept - Causes, Cycles, Effects  | [ ] |    [ ] |
 | Change as a practice - Embracing  change, Flexibility and open mindedness | [ ] |    [ ] |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When confronted by change **Action:** I take steps  to understand minimum issues on the changes: WHAT changed, HOW  best to respond to the change. | [ ] |    [ ] |
 | **Context:**  When confronted by change **Action:** I communicate that I see the value of the change but I frequently take changes personally. | [ ] |    [ ] |

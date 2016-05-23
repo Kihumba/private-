@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Definition of Test Driven Development. | [ ] | [ ]  |
 | Pros and Cons of using the TDD approach to developing applications |   [ ]   |   [ ] |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am creating new functionality... **Action:** I define my test before I define my function. | [ ] | [ ]  |
 | **Context:** When writing test cases... **Action:** I identify all the possible edge cases and write my tests to take care of these cases. | [ ] |    [ ] |

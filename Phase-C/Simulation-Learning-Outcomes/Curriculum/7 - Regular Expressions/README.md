@@ -15,7 +15,7 @@ Find the output for this skill [here](Output/README.md)
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 |I can describe the following words: | | |
 | <ul><li> Regex | [ ] | [ ]  |
@@ -90,7 +90,7 @@ Find the output for this skill [here](Output/README.md)
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When writing regular expression... **Action:** I will always comment on the regular expression so that other developers can figure out what kind of pattern I want to match. | [ ] | [ ]  |
 | **Context:** When working on strings... **Action:** I only resort to regular expressions if I can’t manipulate a given string using other string methods. |   [ ]   |   [ ]  |

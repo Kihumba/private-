@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Cross Site Request Forgery? | [] | [] |
 | What is SQL Injection? | [] | [] |
@@ -42,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building an application with PHP.. **Action:**  I make sure it's SQL Injection-free.| [ ] | [ ]  |
 | **Context:**  When interacting with FileSystems, Network operations and external services in my programs...**Action:** I make sure potential Exceptions are properly handled. |   [ ]   |   [ ] |

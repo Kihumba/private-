@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Namespaces | [ ] | [ ]  |
@@ -45,7 +45,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to write a PHP Package that involves a bunch of Classes **Action:**  I namespace the classes and use the PSR-4 Autoloading Standard.| [ ] | [ ]  |
 | **Context:**  When I am writing reusable code **Action:** I namespace it.|   [ ]   |   [ ] |

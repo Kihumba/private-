@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to facilitate team discussions to make decisions | [ ] | [ ]  |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before scheduling group discussions **Action:** I create an agenda and desired outcomes for the discussion | [ ] | [ ]  |
 | **Context:** When scheduling group discussions **Action:** I send agenda items and desired outcomes to all participants | [ ] | [ ]  |

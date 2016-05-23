@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is programming? | [ ] | [ ]  |
 | The basic elements needed in programming: | | |
@@ -48,7 +48,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am given a program to write regardless of the language **Action:** I identify the required software setup needed to write, compile and execute the program. | [ ] | [ ]  |
 | **Context:** When I am writing a Python program **Action:** I declare variables that conforms with the syntax of Python to hold data. |   [ ]   |   [ ]  |

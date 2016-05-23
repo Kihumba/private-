@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How to engage with my junior team members as stakeholders?    | [ ] | [ ]  |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When leading my team **Action:** I send them regular updates on happenings in the organization.  | [ ] | [ ]  |
 | **Context:** When providing my team with updates **Action:** I do so with detailed information that enables them to see how their tasks fit into the goals of the organization/project | [ ] | [ ]  |

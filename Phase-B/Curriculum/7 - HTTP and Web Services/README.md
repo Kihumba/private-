@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | How a URL gets routed to a web application (HTTP Request-Response Life Cycle). | [ ] | [ ]  |
 | Common HTTP Verbs and typical use cases - `GET`, `POST`, `PUT`, `DELETE`, `PATCH` |   [ ]   |   [ ] |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am trying to consume a 3rd Party API... **Action:** I test the different request and response formats using POSTMAN/Curl/Httpie. | [ ] | [ ]  |
 | **Context:** When trying to build an application using a publicly available HTTP API... **Action:** I read the documentation thoroughly to ensure I understand the different endpoints, request types, response types and error definitions. | [ ] |    [ ] |

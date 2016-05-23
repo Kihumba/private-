@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is a Model? | [] | [] |
 | What is a View? | [] | [] |
@@ -58,7 +58,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to track a user's movement accross pages in a PHP web application.. **Action:**  I will use Sessions and cookies.| [ ] | [ ]  |
 | **Context:**  When I want to design an API service...**Action:** I will make sure it is RESTFUL. |   [ ]   |   [ ] |

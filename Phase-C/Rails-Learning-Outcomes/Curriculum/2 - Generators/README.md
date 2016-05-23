@@ -12,7 +12,7 @@ In checkpoint and simulation projects, consistently use rails generators to impr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can clearly explain what generators are. | [ ] | [ ]  |
 | I am familiar with the following commands: | [ ] | [ ]  |
@@ -32,7 +32,7 @@ In checkpoint and simulation projects, consistently use rails generators to impr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to scaffold an entire resource, from model and migration to controller and
     views, along with a full test suite... **Action:** I use the "rails generate scaffold" command | [ ] | [ ]  |

@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Sprint Planning | [ ] | [ ]  |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I’m working with a new team **Action:** I identify the Agile methods they currently have in place and adopt them | [ ] | [ ]  |
 | **Context:** When I notice areas of improvement in a team’s process (eg. they could use more retrospectives) **Action:** I share my observations and discuss the advantages of making the modifications at the appropriate point in their current process |   [ ]   |   [ ]  |

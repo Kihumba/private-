@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: |  | |
 | * Assertions | [ ] | [ ] |
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When I want to write functional tests.. **Action:**  I use Selenium with PHPUnit. | [ ] | [ ]  |
 | **Context:**  When I am writing tests for a PHP program...**Action:** I use BDD style to write my tests like user stories.|   [ ]   |   [ ] |

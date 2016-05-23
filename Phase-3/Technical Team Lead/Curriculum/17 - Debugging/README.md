@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Root cause analysis | [ ] | [ ]  |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I attempt to fix a bug **Action:** I reproduce the problem | [ ] | [ ]  |
 | **Context:** When finding the root cause of a bug/problem **Action:** I split up the program into smaller independent components | [ ] | [ ]  |

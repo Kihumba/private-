@@ -22,7 +22,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Motivation is the desire to do something, commitment is dedicating yourself to do it.  (motivation & commitment are interrelated).  | [ ] |    [ ] |
 | Motivation and commitment influences work, relationships, personal life. | [ ] |    [ ] |
@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Behaviors**
 
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When working with a team **Action:** I intentionally learn about the individual motivations of each team member. | [ ] |    [ ] |
 | **Context:**  When given a task to work on **Action:** I carry out the task according to and beyond set standards or requirements. | [ ] |    [ ] |

@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * The concerns/considerations of my senior management team members | [ ] | [ ]  |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I send written communication to senior management **Action:** I consider their perspective and write with the appropriate type, level, and depth of information |   [ ]   |   [ ]  |
 | **Context:** When I write reports **Action:** I highlight the key issues and calls for action in a concise and easily understable manner |   [ ]   |   [ ]  |
