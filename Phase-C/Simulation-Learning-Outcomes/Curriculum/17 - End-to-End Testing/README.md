@@ -35,8 +35,6 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 |:-------------|:------------------:|:--------:|
 | **Context:** When I write end-to-end test scenarios **Action:** I write scenarios for all happy paths and sad paths | [ ] | [ ] |
 | **Context:** When I implement end-to-end scenarios **Action:** I look out areas to verify data integrity | [ ] | [ ] |
-| | | |
-
 
 
 ----------
