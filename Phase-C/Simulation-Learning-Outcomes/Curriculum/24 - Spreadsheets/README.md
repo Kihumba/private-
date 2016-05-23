@@ -34,8 +34,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to perform the same dynamic calculations in multiple cells **Action:** I use a formula | [ ] | [ ] |
 | **Context:** When I need visually represent data in a spreadsheeet **Action:** I use a the table/chart functionalities of the spreadsheet | [ ] | [ ] |
-| | | |
-
 
 
 ----------
@@ -46,5 +44,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Spreadsheets are universal | [ ] | [ ] |
+| Spreadsheets are a powerful and universal tool for reporting data | [ ] | [ ] |
 
