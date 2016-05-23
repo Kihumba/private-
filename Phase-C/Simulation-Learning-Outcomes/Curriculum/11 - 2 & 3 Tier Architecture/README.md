@@ -25,7 +25,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Architectural layers in 3-tier architecture and their functions | [ ] | [ ]  |
 
 
-
 ----------
 
 
@@ -34,9 +33,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I architect a software system **Action:** I consider the pros and cons of 2 & 3 tier architectures and selct the more appropriate one | [ ] | [ ] |
-| | | |
-
-
 
 ----------
 
