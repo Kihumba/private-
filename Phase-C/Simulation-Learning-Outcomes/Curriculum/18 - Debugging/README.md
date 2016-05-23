@@ -35,11 +35,8 @@ After attaining this skill, and as a demonstration of it, I should be able creat
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I start fixing a bug **Action:** I replicate the problem | [ ] | [ ] |
-| | | |
 | **Context:** When I begin fixing a bug **Action:** I leverage debugging techniques to isolate the root cause of the problem | [ ] | [ ] |
-| | | |
 | **Context:** After I identify the root cause of the problem **Action:** I note it down before making the appropriate changes to eliminate the root cause of the problem | [ ] | [ ] |
-| | | |
 
 
 
