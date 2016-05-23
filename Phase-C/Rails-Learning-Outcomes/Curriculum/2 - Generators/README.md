@@ -35,16 +35,16 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to scaffold an entire resource, from model and migration to controller and views, along with a full test suite... **Action:** I use the "rails generate scaffold" command | [ ] | [ ]  |
-| **Context:** When I want to stub out a model... **Action:** I use the "rails generate model" command | [ ] | [ ]  |
-| **Context:** When I want to stub out a new controller and its views... **Action:** I use the "rails generate controller" command | [ ] | [ ]  |
-| **Context:** When I want to create a database migration class... **Action:** I use the "rails generate migration" command | [ ] | [ ]  |
-| **Context:** When I want to stub out a new helper... **Action:** I use the "rails generate helper" command | [ ] | [ ]  |
-| **Context:** When I want to stub out a new resource including an empty model and controller suitable for a restful, resource-oriented application... **Action:** I use the "rails generate resource" command | [ ] | [ ]  |
-| **Context:** When I want to stub out a new rake task... **Action:** I use the "rails generate task" command | [ ] | [ ]  |
-| **Context:** When stubbing out rails application files... **Action:** I reduce rework by taking advantage of inbuilt generators. | [ ] | [ ]  |
-| **Context:** When working on repetitive tasks... **Action:** I create custom generators if there are no inbuilt generators to handle the task. | [ ] | [ ]  |
-| **Context:** When building a rails application... **Action:** I tweak generator settings to suit my workflow. | [ ] | [ ]  |
+| **Context:** When I want to scaffold an entire resource, from model and migration to controller and views, along with a full test suite **Action:** I use the "rails generate scaffold" command | [ ] | [ ]  |
+| **Context:** When I want to stub out a model **Action:** I use the "rails generate model" command | [ ] | [ ]  |
+| **Context:** When I want to stub out a new controller and its views **Action:** I use the "rails generate controller" command | [ ] | [ ]  |
+| **Context:** When I want to create a database migration class **Action:** I use the "rails generate migration" command | [ ] | [ ]  |
+| **Context:** When I want to stub out a new helper **Action:** I use the "rails generate helper" command | [ ] | [ ]  |
+| **Context:** When I want to stub out a new resource including an empty model and controller suitable for a restful, resource-oriented application **Action:** I use the "rails generate resource" command | [ ] | [ ]  |
+| **Context:** When I want to stub out a new rake task **Action:** I use the "rails generate task" command | [ ] | [ ]  |
+| **Context:** When stubbing out rails application files **Action:** I reduce rework by taking advantage of inbuilt generators. | [ ] | [ ]  |
+| **Context:** When working on repetitive tasks **Action:** I create custom generators if there are no inbuilt generators to handle the task. | [ ] | [ ]  |
+| **Context:** When building a rails application **Action:** I tweak generator settings to suit my workflow. | [ ] | [ ]  |
 
 
 

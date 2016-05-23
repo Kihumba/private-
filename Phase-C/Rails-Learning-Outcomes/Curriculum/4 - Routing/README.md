@@ -1,4 +1,4 @@
-# Outcome
+# Outcome 4 - Routing
 
 Skill Description
 ----------
@@ -48,13 +48,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building a rails application... **Action:** I specify routes for the application. | [ ] | [ ]  |
-| **Context:** When I need to create all seven restful route for a resource... **Action:** I use the `resources` method. | [ ] | [ ]  |
-| **Context:** When adding links to my views... **Action:** I use route helper methods as against adding the raw link. | [ ] | [ ]  |
-| **Context:** When defining routes for an application... **Action:** I always specify a `root` route. | [ ] | [ ]  |
-| **Context:** When I want to know the different routes supported by my application... **Action:** I use the `rake routes` command. | [ ] | [ ]  |
-| **Context:** When auto generated route names are too complex or hard to remember... **Action:** I explicitly name my routes. | [ ] | [ ]  |
-| **Context:** When building out an API... **Action:** I namespace my routes. | [ ] | [ ]  |
+| **Context:** When building a rails application **Action:** I specify routes for the application| [ ] | [ ]  |
+| **Context:** When I need to create all seven restful route for a resource **Action:** I use the `resources` method| [ ] | [ ]  |
+| **Context:** When adding links to my views **Action:** I use route helper methods as against adding the raw link| [ ] | [ ]  |
+| **Context:** When defining routes for an application **Action:** I always specify a `root` route| [ ] | [ ]  |
+| **Context:** When I want to know the different routes supported by my application **Action:** I use the `rake routes` command| [ ] | [ ]  |
+| **Context:** When auto generated route names are too complex or hard to remember **Action:** I explicitly name my routes| [ ] | [ ]  |
+| **Context:** When building out an API **Action:** I namespace my routes| [ ] | [ ]  |
 
 
 ----------
@@ -65,6 +65,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Scalable web applications have well defined routes(restful endpoints). | [ ] | [ ]  |
+| Scalable web applications have well defined routes(restful endpoints)| [ ] | [ ]  |
 | Route helper methods help dry up my code | [ ] | [ ]  |
 | Resources and nested resources help dry up my routes definition | [ ] | [ ]  |
