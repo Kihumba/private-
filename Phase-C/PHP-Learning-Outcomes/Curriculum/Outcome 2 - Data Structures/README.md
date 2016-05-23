@@ -17,7 +17,7 @@ The learning outcomes expected of a fellow that has covered this module are as f
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
 1. A comprehensive blog post on [goodheads.io](http://goodheads.io) explaining how Iterators and generators work.
-2. A comprehensive blog post on goodheads.io explaining how SPL data structures work.
+2. A comprehensive blog post on [goodheads.io](http://goodheads.io) explaining how SPL data structures work.
 
 ----------
 ## **Knowledge**
