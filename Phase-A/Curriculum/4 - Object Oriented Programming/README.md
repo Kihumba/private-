@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to discuss general OOP concepts and how OOP is implemented in Python with their peers. This means that they understand how to model a problem based on the object oriented programming paradigm, create classes with properties and methods and take advantage of OOP to keep their code DRY.
+Aspiring Andelans understand what object oriented programming is and how to apply this paradigm when modeling problems. They can explain to their peers general OOP concepts and how OOP is implemented in Python. They also understand how to create classes with properties and methods and take advantage of OOP to keep their code DRY.
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I will have:
 
-1. A score of 80% or higher in this module on Proctor.
+1. A score of 80% or higher in the object oriented programming module on Proctor.
 
 
 **Objectives**
@@ -26,15 +26,15 @@ After attaining this skill, and as a demonstration of it, I will have:
 | - Classes | [ ] | [ ] |
 | - Objects | [ ] | [ ] |
 | - Inheritance | [ ] | [ ]  |
-| - Encapsulation    | [ ] | [ ]  |
-| - Polymorphism      | [ ] | [ ]  |
-| - Constructors     | [ ] | [ ]  |
+| - Encapsulation | [ ] | [ ]  |
+| - Polymorphism  | [ ] | [ ]  |
+| - Constructors  | [ ] | [ ]  |
 | - Destructors | [ ] | [ ]  |
-| - Instance Variables | [ ] | [ ]  |
-| - Classes and Static methods | [ ] | [ ]  |
+| - Instance variables | [ ] | [ ]  |
+| - Classes and static methods | [ ] | [ ]  |
 | - How to implement object oriented programming in Python | [ ] | [ ]  |
 | - Principles of DRY code | [ ] | [ ] |
-| - How to use OOP to write DRY code | [ ] | [ ]  |
+| - How to use OOP to write DRY code | [ ] | [ ] |
 | - Examples of where OOP can be successfully applied | [ ] | [ ]  |
 
 

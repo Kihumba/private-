@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to describe basic concepts of programming. They should also have the capacity to identify and build the environment that enables them to code.
+Aspiring Andelans can describe basic concepts of programming. They have the capacity to identify and build the environment that enables them to code.
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I will have:
 
-1. A score of 80% or higher in this module on Proctor.
+1. A score of 80% or higher in the introduction to programming module on Proctor.
 
 
 **Objectives**

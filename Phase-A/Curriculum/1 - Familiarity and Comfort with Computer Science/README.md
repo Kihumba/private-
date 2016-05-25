@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to understand and explain to their peers, the meaning of basic computer science concepts. This means they can identify who a computer scientist is and what a computer scientist does. They should also be able to do independent research on additional computer science topics.
+Aspiring Andelans understand and can explain to their peers the meaning of basic computer science concepts. They can identify who a computer scientist is and what a computer scientist does. They can also do independent research on additional computer science topics.
 
 
 
@@ -10,7 +10,7 @@ Aspiring Andelans should be able to understand and explain to their peers, the m
 ----------
 After attaining this skill, and as a demonstration of it, I will have:
 
-1. A score of 80% or higher in this module on Proctor.
+1. A score of 80% or higher in the introduction to computer science module on Proctor.
 
 
 **Objectives**
@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, I will have:
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 ||||
-| - Computer science is in a way that anybody can understand | [ ]   | [ ] |
+| - What computer science is in a way that anybody can understand | [ ]   | [ ] |
 | - Who a computer scientist is | [ ] | [ ] |
 | - The role of a computer scientist |   [ ]   |   [ ] |
 | - The differences between a programmer and a computer scientist| [ ] | [ ] |
@@ -60,5 +60,5 @@ After attaining this skill, and as a demonstration of it, I will have:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Understanding basic computer science concepts will help me in whichever computer science field I want to specialize in | [ ] | [ ] |
-| World class developers understand basic computer science concepts | [ ] | [ ] |
+| I have the ability to leverage my  understanding of basic computer science concepts to specialize in any field I want | [ ] | [ ] |
+| By understanding basic computer science concepts I have taken an important step to been a world class developer | [ ] | [ ] |
