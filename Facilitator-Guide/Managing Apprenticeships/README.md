@@ -54,6 +54,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Helping my apprentice to pay attention to the same things I do is the best way to support them in learning what I've learned.  | [ ] | [ ]  |
 | Apprenticeship sessions are collaborative. To get the most out of them, we must believe we are both learning together. | [ ] | [ ]  |
 | There's a natural flow to apprenticeship, it's really simple once you get into the rhythm. | [ ] | [ ]  |
+| My apprentice can do everything I can do, they just need to see it and to practice it. | [ ] | [ ]  |
 
 
 
