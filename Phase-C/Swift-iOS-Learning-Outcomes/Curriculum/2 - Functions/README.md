@@ -8,8 +8,8 @@ The Fellow will be able to use functions to encapsulate and run procedures, usin
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. A program in Swift Playground that can parse different data types, and return a result.
-2. **Checkpoint 1** project submission, meeting all the required specifications.
+1. A function in Swift Playground that can parse different data types and return a result depending on the parameters' data types present
+2. A **Checkpoint 1** project submission meeting all the required specifications
 
 ## Objectives
 
