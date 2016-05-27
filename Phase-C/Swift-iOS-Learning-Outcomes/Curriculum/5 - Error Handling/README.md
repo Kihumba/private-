@@ -18,9 +18,10 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
+| I can describe the following from memory: | |
 | The properties of common error class in Swift `NSError` | [ ] | [ ] |
 | Types of Error in Swift | [ ] | [ ] |
-| Handling errors in Swift| [ ] | [ ] |
+| How to handle errors in Swift| [ ] | [ ] |
 | How to throw errors | [ ] | [ ] |
 
 -------
