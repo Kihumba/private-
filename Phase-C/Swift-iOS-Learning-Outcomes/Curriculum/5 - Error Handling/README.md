@@ -5,7 +5,7 @@ The Fellow will be able to handle errors in an iOS Application, identifying and 
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
 1. A Swift Playground project that handles errors generated from bad inputs into a function and performs a different operation to cater for the error thrown that allows for normal operation of the application.
 2. A Swift Playground Program that throws a custom error when it receives and invalid input, without any form of error handling. The custom Error should be enumerated and catch as such.
@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 | I can describe the following from memory: | |
 | The properties of common error class in Swift `NSError` | [ ] | [ ] |
 | Types of Error in Swift | [ ] | [ ] |
-| How to handle errors in Swift| [ ] | [ ] |
+| How to handle errors in Swift | [ ] | [ ] |
 | How to throw errors | [ ] | [ ] |
 
 -------

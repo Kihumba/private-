@@ -5,7 +5,7 @@ The Fellow will be able to write Unit and UI Tests. The Fellow will understand a
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
 1. An iOS project with failing tests cases intended to cover the functions defined.
 2. An iOS Project with passing tests targeting the methods and properties of a defined Class.
