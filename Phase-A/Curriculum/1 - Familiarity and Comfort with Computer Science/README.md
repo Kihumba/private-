@@ -60,5 +60,5 @@ After attaining this skill, and as a demonstration of it, I will have:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I have the ability to leverage my  understanding of basic computer science concepts to specialize in any field I want | [ ] | [ ] |
-| By understanding basic computer science concepts I have taken an important step to been a world class developer | [ ] | [ ] |
+| I have the ability to leverage my understanding of basic computer science concepts to specialize in any field I want | [ ] | [ ] |
+| By understanding basic computer science concepts I have taken an important step to becoming a world class developer | [ ] | [ ] |
