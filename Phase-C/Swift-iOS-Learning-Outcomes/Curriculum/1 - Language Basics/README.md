@@ -7,10 +7,10 @@ The Fellow will be able to use variables and constants were required, and alter 
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-- A program in Swift Playground that uses variables and constants.
-- A Playground Project that processes an input and produces a conditioned output.
-- A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
-- **Checkpoint 1** project submission, meeting all the required specifications.
+1. A program in Swift Playground that uses variables and constants.
+2. A Playground Project that processes an input and produces a conditioned output.
+3. A Swift Playground Project that processes a collection of data. It should perform the same operation for each item in the collection.
+4. **Checkpoint 1** project submission, meeting all the required specifications.
 
 ## Objectives
 ### Knowledge

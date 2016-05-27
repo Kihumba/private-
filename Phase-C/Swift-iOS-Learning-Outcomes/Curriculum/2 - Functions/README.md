@@ -1,17 +1,15 @@
 # Outcome 2 - Functions
 ## Skill Description
 
-A function is a block of code that contains procedures that perform an operation(s) and might return a value. Functions are used to house a collection of procedures that are required to run from top to bottom.
+The Fellow will be able to use functions to encapsulate and run procedures, using shorthands (Functional Swift Syntax) in scenarios were it can be applied.
 
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
-- A program in Swift Playground that can parse different data types, and return a result.
-- The function should take an argument, a Function as well, and call it with any argument e.g String, that gets printed out.
-
-- **Detailed and Documented coverage of this skill can be shown by completing _Checkpoint 1_, available upon request.**
+1. A program in Swift Playground that can parse different data types, and return a result.
+2. **Checkpoint 1** project submission, meeting all the required specifications.
 
 ## Objectives
 
@@ -19,19 +17,20 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| Functions and methods. [ ] | [ ] |
-| Difference between Arguments and Parameters. | [ ] | [ ] |
-| Creating `Optional` Arguments. | [ ] | [ ] |
-| Passing Functions as Arguments.  (Callbacks in Swift) | [ ] | [ ] |
-| Shorthands for Functions in Swift (functional Swift). | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| Functions and methods | [ ] | [ ] |
+| Difference between Arguments and Parameters | [ ] | [ ] |
+| Creating `Optional` Arguments | [ ] | [ ] |
+| Callback functions in Swift | [ ] | [ ] |
+| Function shorthands in Swift | [ ] | [ ] |
 
 ----------
 ### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to run a collection of procedures that should run from top to bottom, with abstracted with encapsulated data, **Action:** I use functions. | [ ] | [ ] |
-| **Context:** When making use of callback functions that contain Parameters that I need to work with directly, **Action:** I use the shorthands available and avoid creating variables or references to the Parameters | [ ] | [ ] |
+| **Context:** When I need to run a collection of procedures that should run from top to bottom, with abstracted with encapsulated data, **Action:** I use functions | [ ] | [ ] |
+| **Context:** When making use of callback functions that contain Parameters that I need to work with directly, **Action:** I use the shorthands available and avoid creating variables or copies of the Parameters | [ ] | [ ] |
 
 ----------
 
@@ -39,5 +38,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Functions will run my procedures from top to bottom without any interruptions. | [ ] | [ ] |
-| Memory is saved when I use Parameters directly, without creating redundant variables references. | [ ] | [ ] |
+| Functions will run my procedures from top to bottom without any interruptions | [ ] | [ ] |
+| Memory is conserved when I use Parameters directly without creating redundant variables | [ ] | [ ] |
