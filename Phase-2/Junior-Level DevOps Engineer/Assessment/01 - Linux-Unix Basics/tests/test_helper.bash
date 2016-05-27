@@ -39,7 +39,7 @@ run_command() {
 }
 
 create_tmp_dir() {
-  export tmp_dir=$(mktemp -d -t testdir)
+  export tmp_dir=$(mktemp -d -t test.XXXX)
 }
 
 delete_tmp_dir() {
@@ -62,12 +62,21 @@ create_files_and_directories() {
 }
 
 create_virtual_block_device() {
+  if sudo losetup -a | grep 'loop0'; then
+    cleanup_virtual_block_device
+  fi
+
   sudo truncate -s 2G /mnt/blockdevice
   sudo losetup /dev/loop0 /mnt/blockdevice
 }
 
 cleanup_virtual_block_device() {
-  sudo losetup -d /dev/loop0
-  sudo rm -rf /mnt/blockdevice
-}
+  if sudo losetup -a | grep 'loop0'; then
+    if sudo  mount | grep '/dev/loop0'; then
+      sudo umount /dev/loop0
+    fi
 
+    sudo losetup -d /dev/loop0
+    sudo rm -rf /mnt/blockdevice
+  fi
+}
