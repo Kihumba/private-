@@ -12,7 +12,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 - Create directories
 - Find files and directories
 - Find text in files
-- Create and mount partitions
+- Create and mount devices/partitions
 - View the list of running processes
 - Terminate a running process
 - Redirect output to a file
@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
-|:-----------------|:-----------------:|:---------:|
+|:-----------------|:-----------------:|:-------:|
 | I can describe, from memory, how to perform the following actions | | |
 | * Create, delete, and change into a directory   | [ ] | [ ] |
 | * Change the permissions of a file or directory | [ ] | [ ] |
