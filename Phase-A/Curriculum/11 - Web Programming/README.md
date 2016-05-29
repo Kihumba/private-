@@ -1,4 +1,4 @@
-# Outcome 10 - Web Programming
+# Outcome 11 - Web Programming
 
 **Skill Description**
 ----------
@@ -84,4 +84,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | With javascript, I can replicate any dynamic web page. | [ ] | [ ]  |
 | I am able to make application react to any user action. | [ ] | [ ]  |
 | I can successfully apply relevant programming logic when building a web application. | [ ] | [ ]  |
-

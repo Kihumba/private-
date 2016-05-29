@@ -1,4 +1,4 @@
-# Outcome 4 - Data Structures
+# Outcome 5 - Data Structures
 
 **Skill Description**
 ----------
@@ -59,5 +59,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Computer programs are more efficient with the right data structures in place.  | [ ] | [ ]  |
-
-

@@ -1,4 +1,4 @@
-# Outcome 9 - The Internet
+# Outcome 10 - The Internet
 
 **Skill Description**
 ----------

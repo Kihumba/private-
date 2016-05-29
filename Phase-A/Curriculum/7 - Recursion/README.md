@@ -1,4 +1,4 @@
-# Outcome 6 - Recursion
+# Outcome 7 - Recursion
 
 **Skill Description**
 ----------

@@ -1,4 +1,4 @@
-# Outcome 8 - Software Engineering
+# Outcome 9 - Software Engineering
 
 **Skill Description**
 ----------
@@ -60,8 +60,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | There is no SDLC without a software engineer and vice versa. | [ ] | [ ]  |
 | A good software is built with a software engineer and an SDLC model being part of the process.| [ ] | [ ]  |
 | Software development process is easier with a software engineer involved in the process. | [ ] | [ ]  |
-
-
-
-
-

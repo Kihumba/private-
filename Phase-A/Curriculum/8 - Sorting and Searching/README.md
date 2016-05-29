@@ -1,4 +1,4 @@
-# Outcome 7 - Sorting and Searching
+# Outcome 8 - Sorting and Searching
 
 **Skill Description**
 ----------
@@ -59,4 +59,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Good programs are written with the best searching and sorting algorithms. | [ ] | [ ]  |
 | Software craftsmen are competent in searching and sorting algorithms. | [ ] | [ ]  |
 | High end software developer jobs require that one is competent in searching and sorting algorithms. | [ ] | [ ]  |
-

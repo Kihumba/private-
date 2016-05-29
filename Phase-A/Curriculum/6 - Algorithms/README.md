@@ -1,4 +1,4 @@
-# Outcome 5 - Algorithms
+# Outcome 6 - Algorithms
 
 **Skill Description**
 ----------
@@ -52,4 +52,3 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | Efficiency of a program is determined by the algorithm being used. | [ ] | [ ]  |
 | Time spent making algorithms more efficient is never wasted. | [ ] | [ ]  |
-
