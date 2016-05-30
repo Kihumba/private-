@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-By the end of Phase A - Homestudy, aspiring Andelans should understand what a recursive function is, why recursion is necessary and how recursion differs from iteration. They can also implement recursion and iteration in Python.
+Aspiring Andelans understand what a recursive function is, why recursion is necessary and how recursion differs from iteration. They know the advantages and disadvantages of recursion as well as when to use recursion over iteration and vice versa. They can also write recursive and iterative functions using Python.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to:
+After attaining this skill, and as a demonstration of it, I will have:
 
-1. Complete and pass Proctor assessment that tests knowledge on Recursion.
+1. A score of 80% or higher in the recursion module on Proctor.
 
 
 **Objectives**
@@ -21,13 +21,17 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Definition of recursion. | [ ] | [ ]  |
-| When to use recursive functions. | [ ] | [ ]  |
-| What are recursive functions? | [ ] | [ ]  |
-| How to prevent an infinite recursion.    | [ ] | [ ]  |
-| Advantages and disadvantages of recursion.     | [ ] | [ ]  |
-| Differences between recursion and iteration.     | [ ] | [ ]  |
-| How to implement recursion in Python.     | [ ] | [ ]  |
+| I can describe the following from memory: | | |
+||||
+| Recursion | [ ] | [ ]  |
+| Recursive functions| [ ] | [ ]  |
+| Iteration | [ ] | [ ] |
+| When to use recursive functions | [ ] | [ ]  |
+| How to prevent an infinite recursion   | [ ] | [ ]  |
+| Advantages and disadvantages of recursion   | [ ] | [ ]  |
+| Differences between recursion and iteration   | [ ] | [ ]  |
+| How to implement recursion in Python  | [ ] | [ ]  |
+| How to implement iteration in Python  | [ ] | [ ]  |
 
 
 
@@ -39,12 +43,19 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When faced with an infinite recursion **Action:** I implement the right control structure to stop the recursion. | [ ] | [ ]  |
-| **Context:** When faced with a recursive function, **Action:** I am able to identify the recursive function. |   [ ]   |   [ ]  |
-| **Context:** When given a problem set that requires looping **Action:** I am able to identify whether iteration or recursion would be suitable. |   [ ]   |   [ ]  |
-| **Context:** When given a recursive function **Action:** I am able to implement the same function using iteration. |   [ ]   |   [ ]  |
-| **Context:** When given an iterative function that can be recursive. **Action:** I am able to implement the same function using recursion. |   [ ]   |   [ ]  |
-| **Context:** When given a problem set that requires looping **Action:** I am able to implement recursion and iteration in Python. |   [ ]   |   [ ]  |
+| **Context:** When faced with an infinite recursion|||
+| **Action:** I implement the right control structure to stop the recursion | [ ] | [ ]  |
+| **Context:** When faced with a function that involves repetition |||
+| **Action:** I identify if it is a recursive or iterative function | [ ] |  [ ] |
+| **Context:** When faced with a recursive function that consumes lots of memory |||
+| **Action:** I implement the same function using iteration | [ ] |   [ ] |
+| **Context:** When given an algorithm that requires light logic, little number iterations and easy implementation|||
+| **Action:** I implement the algorithm using recursion | [ ] | [ ]  |
+| **Context:** When given an algorithm that requires heavy/complex logic and large number of iterations|||
+| **Action:** I implement the algorithm using iteration | [ ] | [ ] |
+| **Context:** When faced with a problem set that requires looping|||
+| **Action:** I identify which of either iteration or recursion would be suitable | [ ] | [ ] |
+| **Action:** I implement either iteration or recursion using Python | [ ] | [ ] |
 
 
 ----------
@@ -55,7 +66,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Recursion has disadvantages and should be used appropriately. | [ ] | [ ]  |
-| Iteration over recursion where needed. | [ ] | [ ]  |
-| Recursion when not used appropriately can cause inefficiency in a program. | [ ] | [ ]  |
-| Many algorithms can be expressed much more elegantly recursively than iteratively. | [ ] | [ ]  |
+| Being aware of the logic complexity and iteration number a function requires is key | [ ] | [ ]  |
+| Iteration over recursion when in doubt | [ ] | [ ]  |
+| Recursion or iteration could determine how optimal a program would be | [ ] | [ ]  |
+| Many algorithms can be expressed much more elegantly recursively than iteratively | [ ] | [ ]  |
