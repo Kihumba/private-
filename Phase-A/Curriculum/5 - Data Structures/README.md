@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-By the end of Phase A - Homestudy, aspiring Andelans should be able to understand how to organize and store data for efficient search and retrieval. This means they are able to make use of the appropriate data structure for data storage.
+Aspiring Andelans understand what it means to organize and store data for efficient search and retrieval. They know the common primitive and abstract data structures and how to make use of the appropriate data structure to represent data.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to:
+After attaining this skill, and as a demonstration of it, I will have:
 
-1. Complete and pass Proctor assessment that tests knowledge of data structures.
+1. A score of 80% or higher in the data structures module on Proctor.
 
 
 **Objectives**
@@ -19,25 +19,26 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Definition of data structure.| [ ] | [ ]  |
-| Different types of data structure: | | |
-| <li> Primitive Data Structures |||
-| <ul><li> Boolean | [ ] | [ ]  |
-| <ul><li> Character | [ ] | [ ]  |
-| <ul><li> Floating-point| [ ] | [ ]  |
-| <ul><li> Double | [ ] | [ ]  |
-| <ul><li> Integer | [ ] | [ ]  |
-| <li> Abstract Data Strucutres |||
-| <ul><li> List | [ ] | [ ]  |
-| <ul><li> Stack | [ ] | [ ]  |
-| <ul><li> Queue | [ ] | [ ]  |
-| <ul><li> Tree | [ ] | [ ]  |
-| <ul><li> Graph | [ ] | [ ]  |
-| <ul><li> Set | [ ] | [ ]  |
-| Differences between Primitive and Abstract data structures with examples. | [ ] | [ ]  |
-| Differences between linear and hierarchical structures with examples.    | [ ] | [ ]  |
-| Importance of data structure.     | [ ] | [ ]  |
-| How to represent different data structures in Python.      | [ ] | [ ]  |
+| I can describe the following from memory: | | |
+||||
+| What data structure is| [ ] | [ ] |
+| What a primitive data structure is | [ ] | [ ] |
+| Boolean | [ ] | [ ] |
+| Character | [ ] | [ ] |
+| Floating-point| [ ] | [ ] |
+| Double | [ ] | [ ] |
+| Integer | [ ] | [ ] |
+| What an abstract data structure is | [ ] | [ ] |
+| List | [ ] | [ ] |
+| Stack | [ ] | [ ] |
+| Queue | [ ] | [ ] |
+| Tree | [ ] | [ ] |
+| Graph | [ ] | [ ] |
+| Set | [ ] | [ ]  |
+| The differences between primitive and abstract data structures with examples | [ ] | [ ] |
+| The differences between linear and hierarchical structures with examples | [ ] | [ ] |
+| The importance of data structures | [ ] | [ ] |
+| How to represent different data structures in Python | [ ] | [ ] |
 
 ----------
 
@@ -47,7 +48,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When given a problem **Action:** I use the most appropriate data structure to represent data. | [ ] | [ ]  |
+| **Context:** When given a problem|||
+| **Action:** I use the most appropriate data structure to represent data | [ ] | [ ]  |
 
 
 ----------
@@ -58,4 +60,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Computer programs are more efficient with the right data structures in place.  | [ ] | [ ]  |
+| Computer programs are more efficient with the right data structures in use  | [ ] | [ ]  |
