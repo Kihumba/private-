@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-By the end of Phase A - Homestudy, aspiring Andelans should be able to adopt a software development cycle (SDLC) model while developing a software. This means that they are able to understand several SLDC models and phases.
+Aspiring Andelans adopt a software development cycle (SDLC) model while developing a software. They understand several SLDC models and phases.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to:
+After attaining this skill, and as a demonstration of it, I will have:
 
-1. Complete and pass Proctor assessment that tests knowledge on Software engineering.
+1. A score of 80% or higher in the software engineering module on Proctor.
 
 
 **Objectives**
@@ -20,19 +20,20 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Definition of software engineering. | [ ] | [ ]  |
-| The role of a software engineer. | [ ] | [ ]  |
-| The two branches of software engineering. | [ ] | [ ]  |
-| Identify and define software paradigms.    | [ ] | [ ]  |
-| Identify characteristics of a good software.     | [ ] | [ ]  |
-| Definition of Software development life cycle.  | [ ] | [ ]  |
-| SDLC models:     | | |
-| <ul><li> Waterfall Model     | [ ] | [ ]  |
-| <ul><li> Agile Model     | [ ] | [ ]  |
-| <ul><li> Iterative Model     | [ ] | [ ] |
-| <ul><li> Spiral Model     | [ ] | [ ] |
-| Big bang Model     | [ ] | [ ] |
-| The most commonly used SDLC model.  | [ ] | [ ] |
+| I can describe the following from memory: | | |
+||||
+| Software engineering | [ ] | [ ]  |
+| The role of a software engineer | [ ] | [ ]  |
+| The two branches of software engineering | [ ] | [ ]  |
+| Software paradigms  | [ ] | [ ]  |
+| Characteristics of a good software  | [ ] | [ ]  |
+| Software development life cycle | [ ] | [ ]  |
+| Waterfall model  | [ ] | [ ]  |
+| Agile model   | [ ] | [ ]  |
+| Iterative model  | [ ] | [ ] |
+| Spiral model  | [ ] | [ ] |
+| Big bang model  | [ ] | [ ] |
+| The most commonly used SDLC model  | [ ] | [ ] |
 
 
 ----------
@@ -43,10 +44,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working on software development team **Action:** I recommend using a SDLC model to the team before development. | [ ] | [ ]  |
-| **Context:** When given a software to develop **Action:** I identify the SDLC model that best suits the team and project. |   [ ]   |   [ ]  |
-| **Context:** When given a software to develop **Action:** I identify the roles of a software engineer for the project. |   [ ]   |   [ ]  |
-| **Context:** When given a software to develop **Action:** I involve a software engineer in the development process. |   [ ]   |   [ ]  |
+| **Context:** When working on software development team|||
+| **Action:** I recommend using a SDLC model to the team before development | [ ] | [ ]  |
+| **Context:** When given a software to develop|||
+| **Action:** I identify the SDLC model that best suits the team and project | [ ] | [ ] |
+| **Action:** I identify the roles of a software engineer for the project |   [ ]   |   [ ]  |
+| **Action:** I involve a software engineer in the development process | [ ] | [ ] |
 
 
 
@@ -57,6 +60,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| There is no SDLC without a software engineer and vice versa. | [ ] | [ ]  |
-| A good software is built with a software engineer and an SDLC model being part of the process.| [ ] | [ ]  |
-| Software development process is easier with a software engineer involved in the process. | [ ] | [ ]  |
+| There is no SDLC without a software engineer and vice versa | [ ] | [ ]  |
+| A good software is built with a software engineer and an SDLC model being part of the process | [ ] | [ ]  |
+| Software development process is easier with a software engineer involved in the process | [ ] | [ ]  |
