@@ -9,25 +9,28 @@ Outputs
 ----------
 After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
 
-- TBD
+- Setup the ELK stack (Elasticsearch, Logstash, Kibana) on a VM using the `ansible` configuration tool
 
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
-| TBD
+| I can describe from memory how to provision a VM using configuration tools | [ ] | [ ] |
 
 
 ## **Behaviors**
 
 | Observable Behavior   |      Observed      | Mastered |
 |:----------------------|:------------------:|:--------:|
-| **Context:** TBD **Action:** TBD | [ ] | [ ]  |
+| **Context:** When I need to provision machines **Action:** I use a configuration tool | [ ] | [ ]  |
+| **Context:** Before I create configuration scripts **Action:** I setup a test harness to TDD the scripts | [ ] | [ ]  |
+| **Context:** When I create configuration scripts **Action:** I test it locally before deploying | [ ] | [ ] |
 
 
 ## **Beliefs**
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| TBD | [ ] | [ ] |
-
+| I use configuration tools to manage the provision and orchestration of machines | [ ] | [ ] |
+| Configuration scripts are tested before being deployed live | [ ] | [ ] |
+| Configuration scripts should be idempotent | [ ] | [ ] |
