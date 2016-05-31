@@ -2,13 +2,14 @@
 
 **Skill Description**
 ----------
-The Fellow understands the proper use of environments including the appropriate usage of development, testing, integration, staging and production environments and how application code progresses from one environment to the next
+The Fellow understands the proper use of environments, including the appropriate usage of development, testing, integration, staging, and production environments. The Fellow also understands how application code progresses from one environment to the next.
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to do the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. A project that has multiple environments
+2. Supporting documentation for above project that explains how code passes through each environment and why
 
 
 
@@ -21,6 +22,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Common environments used in the software development lifecycle | [ ] | [ ]  |
+| Typical use cases for the common environments used in the software development lifecycle | [ ] | [ ]  |
 | Different workflows for moving application code to different environments | [ ] | [ ]  |
 
 
