@@ -2,11 +2,11 @@
 
 **Skill Description**
 ----------
-The Fellow understands the basics of application programming interfaces including requests, responses and authentication.  They will demonstrate knowledge of being able to use at least one common API.
+The Fellow understands the basics of application programming interfaces including requests, responses and authentication.  They are able to use at least one common API.
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to do the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. A project using a common external API
 
@@ -25,7 +25,9 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Common HTTP status codes | [ ] | [ ]  |
 | How to add parameters to API requests | [ ] | [ ]  |
 | How to authenticate HTTP requests | [ ] | [ ]  |
-| What makes for a RESTful API | [ ] | [ ]  |
+| When to use the SOAP protocol specification | [ ] | [ ]  |
+| When to use REST protocol specification | [ ] | [ ]  |
+| Tradeoffs between REST and SOAP | [ ] | [ ]  |
 
 
 
