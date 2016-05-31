@@ -7,9 +7,9 @@ The Fellow knows how to view current, backlog and iceboxed stories, see which st
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to present the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. A project that I've worked on while using Pivotal Tracker
+1. A screenshot of a Pivotal Tracker project showing stories I am assigned to
 
 
 **Objectives**
@@ -20,6 +20,7 @@ After attaining this skill, and as a demonstration of it, I should be able to pr
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
+| The difference between current, backlog, and icebox categories | [ ] | [ ]  |
 | How to view current, backlog, and iceboxed stories | [ ] | [ ]  |
 | How to identify stories that have been assigned to me | [ ] | [ ]  |
 | How to create stories on Pivotal Tracker | [ ] | [ ]  |
@@ -34,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to pr
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I adhoc-ly get assigned to a task outside of Pivotal Tracker **Action:** I update the project on Pivotal Tracker with the new stories | [ ] | [ ] |
+| **Context:** When I am assigned an ad-hoc task outside of Pivotal Tracker **Action:** I update the project on Pivotal Tracker with the new stories | [ ] | [ ] |
 | **Context:** When I am assigned a story on Pivotal Tracker **Action:** I update the story card with an estimate of how long it will take | [ ] | [ ] |
 | **Context:** When I work on any Pivotal Tracker story **Action:** I update the story card with the activity that was undertaken | [ ] | [ ] |
 
@@ -47,5 +48,6 @@ After attaining this skill, and as a demonstration of it, I should be able to pr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Pivotal Tracker is beautiful project management tool | [ ] | [ ] |
+| Disciplined use of SW Project Management tools help teams work effectively | [ ] | [ ] |
+| Pivotal Tracker is an effective project management tool | [ ] | [ ] |
 
