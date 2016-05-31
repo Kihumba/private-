@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the basics of being able to edit a file, find and replace text, undo changes, and save the file with a new filename.
+The Fellow understands the basics of how to edit a file, find and replace text, undo changes, and save the file with a new filename.
 
 **Output**
 ----------
@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | How to open new files for editing in my text editor | [ ] | [ ]  |
 | How to find and replace text in my text editor | [ ] | [ ]  |
-
+| Common shortcut functions in my text editor | [ ] | [ ]  |
 
 
 ----------
