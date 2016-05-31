@@ -2,11 +2,11 @@
 
 **Skill Description**
 ----------
-The fellow knows how to create a document, format it correctly, and can use the review feature to share the document and give and accept input.
+The Fellow knows how to create and format docs and can use share and review features to collaborate on writing and editing docs.
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to do the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. A document that I have shared with others for review
 
@@ -23,6 +23,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | How to format a document | [ ] | [ ]  | |
 | How to share documents with collaborators | [ ] | [ ]  | |
 | The different kinds of permissions for collaborators | [ ] | [ ]  | |
+| How to add comments to a document | [ ] | [ ]  | |
 | How to accept suggestions in a document | [ ] | [ ]  | |
 
 
