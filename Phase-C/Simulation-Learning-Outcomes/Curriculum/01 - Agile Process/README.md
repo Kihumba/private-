@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The Fellow understands Agile project management concepts. Understands how Scrum meetings are run, and knows how to report status, and inform the team about blocker issues.  They also know how to request additional details on a user story.
+The Fellow understands Agile project management concepts. Understands how SCRUM meetings are run, and knows how to report status, and inform the team about blocker issues.  They also know how to request additional details on a user story.
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to have:
 
-1. Discussions with a staff member highlighting my typical day-to-day experience on an Agile project
+1. Logged discussions with a staff member highlighting my typical day-to-day experience on an Agile project
 
 
 **Objectives**
@@ -20,9 +20,9 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 | I can describe the following from memory: | | |
 | The history of Agile software development | [ ] | [ ]  |
 | Advantages of Agile methodology over other software development methodologies | [ ] | [ ]  |
-| Differences between Scrum and other Agile methods | [ ] | [ ]  |
-| How Scrum meetings are run | [ ] | [ ]  |
-| How to report status during a Scrum meeting | [ ] | [ ]  |
+| Differences between SCRUM and other Agile methods | [ ] | [ ]  |
+| The SCRUM workflow i.e. sprint planning, daily standups, restrospectives, etc | [ ] | [ ]  |
+| How to report status during a SCRUM meeting | [ ] | [ ]  |
 | How to identify blocker issues | [ ] | [ ]  |
 | How to request additional details on a user story | [ ] | [ ]  |
 
@@ -48,4 +48,6 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Voicing blocker issues invites my team members to support me in removing the blockers  | [ ] | [ ]  |
-| Daily Scrum meetings are an opportunity to learn about what my other team mates are working on   | [ ] | [ ]  |
+| Daily SCRUM meetings are an opportunity to learn about what my other team mates are working on   | [ ] | [ ]  |
+| My contributions to daily SCRUMs are critical to my team's success   | [ ] | [ ]  |
+| Agile processes enable my team to efficiently respond to the unpredictable elements of our work   | [ ] | [ ]  |
