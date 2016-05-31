@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow will know how to code in HTML and use Cascading Style Sheets.
+The Fellow knows how to create and style web pages using HTML and CSS
 
 **Output**
 ----------
@@ -19,10 +19,12 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Differences between HTML5 and previous versions of HTML | [ ] | [ ]  |
-| * Differences between CSS3 and previous versions of CSS | [ ] | [ ]  |
-| * Principles of responsive front-end development | [ ] | [ ]  |
-| * Tools/Frameworks that support responsive front-end development     | [ ] | [ ]  |
+| Differences between the latest version of HTML and previous versions | [ ] | [ ]  |
+| Differences between the latest version of CSS and previous versions | [ ] | [ ]  |
+| Current HTML and CSS best practices | [ ] | [ ]  |
+| When to use fixed, fluid or elastic layouts | [ ] | [ ]  |
+| Principles of responsive front-end development | [ ] | [ ]  |
+| Tools/Frameworks that support responsive front-end development     | [ ] | [ ]  |
 
 
 
@@ -34,16 +36,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I assign IDs to HTML elements **Action:** I use one unique ID per element | [ ] | [ ] |
-| | | |
 | **Context:** When assigning a value to HTML element attributes **Action:** I use double quotes to enclose the value | [ ] | [ ] |
-| | | |
 | **Context:** When I style HTML elements **Action:** I reference elements by IDs and classes and style them within CSS files | [ ] | [ ] |
-| | | |
-| **Context:** When I set dimensions of responsive web page components **Action:** I use percentage widths | [ ] | [ ] |
-| | | |
+| **Context:** When building responsive web pages **Action:** I use principles of fluid or elastic layouts | [ ] | [ ] |
 | **Context:** When I intend to build responsive web pages **Action:** I use a framework that supports responsiveness out of the box | [ ] | [ ] |
-| | | |
-
 
 ----------
 
