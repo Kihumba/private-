@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the basics of debugging including being able to replicate the problem, and gradually breaking down the process into simpler components to isolate the root cause of the defect.
+The Fellow understands the basics of debugging, including how to replicate the problem and gradually break down the process into simpler components to isolate the root cause of the defect.
 
 **Output**
 ----------
@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, I should be able creat
 | I can describe the following from memory: | | |
 | Types of programming bugs | [ ] | [ ]  |
 | How to identify the types of programming bugs | [ ] | [ ]  |
+| How solving one problem may cause others to arise | [ ] | [ ]  |
 | Common techniques for debugging | [ ] | [ ]  |
 | Benefits of replicating the problem | [ ] | [ ]  |
 | How to isolate the root cause of a bug | [ ] | [ ]  |
@@ -49,4 +50,6 @@ After attaining this skill, and as a demonstration of it, I should be able creat
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Programming is really just debugging | [ ] | [ ] |
+| Addressing the root cause of a problem will keep it from repeating | [ ] | [ ] |
+| I increase my debugging efficiency by remaining calm | [ ] | [ ] |
 
