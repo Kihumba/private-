@@ -7,9 +7,9 @@ The Fellow knows how to setup a call, initiate a call with a new contact, respon
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to do the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Participate in remote calls using Skype or Hangouts
+1. Screenshots of me participating in remote calls using Skype or Hangouts
 
 
 **Objectives**
@@ -25,6 +25,10 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | How to respond to a call | [ ] | [ ]  |
 | How to invite additional people to a call | [ ] | [ ]  |
 | How to change configuration options to use a different microphone or speaker | [ ] | [ ]  |
+| How and when to use the mute feature | [ ] | [ ]  |
+| How to improve calls that are disrupted by internet connection issues | [ ] | [ ]  |
+| How to troubleshoot common bugs in Skype/Hangouts | [ ] | [ ]  |
+| When to switch to a different video call software | [ ] | [ ]  |
 
 
 
@@ -36,7 +40,10 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I get on a call **Action:** I move to a quiet environment | [ ] | [ ] |
-| **Context:** When on a one-on-one call **Action:** I use headphones with a mic | [ ] | [ ] |
+| **Context:** When on a video call **Action:** I use headphones with a mic | [ ] | [ ] |
+| **Context:** Before I speak on a call **Action:** I confirm that the other parties can hear me | [ ] | [ ] |
+| **Context:** When I have trouble hearing or understanding others on a call **Action:** I let them know | [ ] | [ ] |
+| **Context:** When internet connection issues are disrupting a call **Action:**I quickly take action to resolve them | [ ] | [ ] |
 
 
 ----------
@@ -48,4 +55,5 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Skype and Hangouts are valuable remote developer communication assets | [ ] | [ ] |
+| The challenges inherent to video calls cannot stop me from communicating effectively | [ ] | [ ] |
 
