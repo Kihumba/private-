@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the order of operations for Mathematics and how this may vary across programming languages.
+The Fellow understands the order of operations for Mathematics and how order of operations vary across programming languages.
 
 **Output**
 ----------
@@ -20,8 +20,8 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Order of operations in Mathematics | [ ] | [ ]  |
-| Order of operations in programming languages | [ ] | [ ]  |
-| How neglect for mathematical order of operations could introduce bugs into a system| [ ] | [ ]  |
+| How order of operations vary across programming languages | [ ] | [ ]  |
+| How understanding order of operations can prevent bugs in systems | [ ] | [ ]  |
 
 
 
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I write programs that use mathematical operations **Action:** I ensure that my mathematical expressions are follow the right order required by the desired result | [ ] | [ ] |
+| **Context:** When I write programs that use mathematical operations **Action:** I ensure that my mathematical expressions follow the right order required by the desired result | [ ] | [ ] |
 
 
 ----------
@@ -43,5 +43,5 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Understanding order of operations in programming is an essential tool in my debugging toolbox | [ ] | [ ] |
+| Understanding order of operations in programming is an essential tool in my code writing and debugging toolboxes | [ ] | [ ] |
 
