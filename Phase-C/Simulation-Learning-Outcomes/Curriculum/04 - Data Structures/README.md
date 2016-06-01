@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When designing a solution for a programming problem **Action:** I use the linear data structures that are most efficient for the needs of the problem | [ ] | [ ] |
+| **Context:** When designing a solution for a programming problem **Action:** I use the data structures that are most efficient for the needs of the problem | [ ] | [ ] |
 | | | |
 | **Context:** When using data structures that are already implemented in a programming language or framework **Action:** I gain an understanding of how efficient the data structures are | [ ] | [ ] |
 | | | |
