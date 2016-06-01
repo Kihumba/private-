@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow knows how to view current, backlog and iceboxed stories, see which stories have been assigned to them, be able to update stories with an estimate and with activity undertaken on the story, and create their own stories for work that has been assigned to them outside of the tool.
+The Fellow knows how to view current, backlog and iceboxed stories, see which stories have been assigned to them, comment on stories with estimates and progress updates, and create their own stories for work that has been assigned to them outside of the tool.
 
 
 **Output**
