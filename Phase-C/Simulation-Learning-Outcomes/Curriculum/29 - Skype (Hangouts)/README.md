@@ -9,7 +9,7 @@ The Fellow knows how to setup a call, initiate a call with a new contact, respon
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Screenshots of me participating in remote calls using Skype or Hangouts
+1. Screencasts of me participating in a remote call using Skype or Hangouts
 
 
 **Objectives**
@@ -41,7 +41,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I get on a call **Action:** I move to a quiet environment | [ ] | [ ] |
 | **Context:** When on a video call **Action:** I use headphones with a mic | [ ] | [ ] |
-| **Context:** Before I speak on a call **Action:** I confirm that the other parties can hear me | [ ] | [ ] |
+| **Context:** When on a call **Action:** I confirm that the other parties can hear me | [ ] | [ ] |
 | **Context:** When I have trouble hearing or understanding others on a call **Action:** I let them know | [ ] | [ ] |
 | **Context:** When internet connection issues are disrupting a call **Action:**I quickly take action to resolve them | [ ] | [ ] |
 
