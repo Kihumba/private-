@@ -60,4 +60,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Mastery of UI/UX opens my eyes to the possibilities of design for everyday things| [ ] | [ ] |
+| My UI/UX competence increases by embracing feedback and iteration | [ ] | [ ] |
 | The little things matter | [ ] | [ ] |
