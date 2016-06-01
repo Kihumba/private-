@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | What an algorithm is | [ ] | [ ]  |
 | Applications of sorting | [ ] | [ ]  |
 | Big-O complexities of common sort algorithms | [ ] | [ ]  |
-| Tradeoffs of sort algorithms | [ ] | [ ]  |
+| Time-space tradeoffs for sort algorithms | [ ] | [ ]  |
 | How to perform Big-O analyses of algorithms | [ ] | [ ]  |
 
 
