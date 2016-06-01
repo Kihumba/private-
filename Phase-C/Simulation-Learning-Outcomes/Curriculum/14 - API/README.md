@@ -2,13 +2,13 @@
 
 **Skill Description**
 ----------
-The Fellow understands the basics of application programming interfaces including requests, responses and authentication.  They are able to use at least one common API.
+The Fellow demonstrates the ability to build a basic CRUD (Create, Read, Update, Delete) API.
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create the following:
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A project using a common external API
+1. A CRUD API that can be consumed by web and mobile clients
 
 
 **Objectives**
@@ -19,16 +19,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| Common ways of making requests to APIs | [ ] | [ ]  |
-| The HTTP request-response lifecycle | [ ] | [ ]  |
-| Common HTTP methods | [ ] | [ ]  |
-| Common HTTP status codes | [ ] | [ ]  |
-| How to add parameters to API requests | [ ] | [ ]  |
-| How to authenticate HTTP requests | [ ] | [ ]  |
-| When to use the SOAP protocol specification | [ ] | [ ]  |
-| When to use REST protocol specification | [ ] | [ ]  |
-| Tradeoffs between REST and SOAP | [ ] | [ ]  |
-
+| API | [ ] | [ ]  |
+| CRUD     | [ ] | [ ]  |
+| Tradeoff between REST and SOAP     | [ ] | [ ]  |
+| HTTP status codes     | [ ] | [ ]  |
+| Web/HTTP API Best Practices     | [ ] | [ ]  |
 
 
 ----------
@@ -38,8 +33,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I use make requests to an API that requires authentication **Action:** I authenticate my request | [ ] | [ ] |
-| **Context:** When I build front-end applications that make requests to APIs **Action:** I implement a dynamic front-end that displays information based on the responses from the API server | [ ] | [ ] |
+| **Context:** When I build an Web/HTTP API **Action:** I follow the best practices for writing Web/HTTP APIs | [ ] | [ ]  |
+| **Context:** When I build an API **Action:** I support it with documentation | [ ] | [ ]  |
+| **Context:** When I write API documentation **Action:** I make it detailed, comprehensive and provide examples for each API method | [ ] | [ ]  |
+
 
 
 ----------
@@ -50,5 +47,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can leverage external APIs to build applications with robust integrations | [ ] | [ ] |
-
+| Building APIs gives the flexibility needed to build device/platform-agnostic applications | [ ] | [ ]  |
+| APIs make it easier and more secure for other programs to interact with my application | [ ] | [ ]  |
+| Excellent API documentation empowers and encourages other developers to use my APIs | [ ] | [ ]  |
