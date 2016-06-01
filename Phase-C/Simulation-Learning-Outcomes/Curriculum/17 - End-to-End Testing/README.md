@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands the importance of end-to-end testing and can apply end-to-end testing to test system dependencies and ensure data integrity across an application
+The Fellow understands the importance of end-to-end testing. The Fellow can apply end-to-end testing to test system dependencies and ensure data integrity across an application.
 
 **Output**
 ----------
