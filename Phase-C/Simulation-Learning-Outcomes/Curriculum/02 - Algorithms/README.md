@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow understands what an algorithm is, the most common sort algorithms, and understands Big-O analysis. The Fellow also knows how to leverage existing solutions for problems based on accuracy and efficiency
+The Fellow understands what an algorithm is, the most common sort algorithms, and Big-O analysis. The Fellow also knows how to choose existing algorithms based on the accuracy and efficiency of the algorithm given the problem they are trying to solve.
 
 
 **Output**
