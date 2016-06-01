@@ -6,7 +6,7 @@ The Fellow understands Agile project management concepts. Understands how SCRUM 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to have:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. Logged discussions with a staff member highlighting my typical day-to-day experience on an Agile project
 
