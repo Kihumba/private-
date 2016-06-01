@@ -41,8 +41,7 @@ This contains a list of questions to assess a fellows knowledge of the **Network
 5. Use `ssh` to forward port **2444** on remote machine **10.0.0.1** to local port **6333**
 
   	```
-  	minimum_ip_address="<minimum address>"
-  	maximum_ip_address="<maximum address>"
+	command goes here
   	```
 
 6. Using `ssh` with authentication agent forwarded, connect to remote machine **10.0.0.1**
@@ -69,23 +68,17 @@ This contains a list of questions to assess a fellows knowledge of the **Network
 	command goes here
 	```
 
-10. Using `scp`, copy local file at `/home/user/file.txt` to remote machine **10.0.0.1**
+10. List all open ports on a system
 
 	```
 	command goes here
 	```
 
-11. List all open ports on a system
+11. Block ip address from accessing all ports on your local machine using iptables
 
 	```
 	command goes here
 	```
 
-12. Block ip address from accessing all ports on your local machine using iptables
-
-	```
-	command goes here
-	```
-
-13. List differences between IPV4 & IPV6 addresses
+12. List differences between IPV4 & IPV6 addresses
 
