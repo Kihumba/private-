@@ -49,7 +49,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Contributing to secure code, further protects my users, my client, and Andela from tremendous risk | [ ] | [ ] |
+| Contributing to insecure code, puts my users, my client, and Andela at tremendous risk | [ ] | [ ] |
 | A secure application builds trust between my product and its users | [ ] | [ ] |
 | The security of my code merits the trust of my product's users | [ ] | [ ] |
 
