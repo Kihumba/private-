@@ -48,6 +48,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Mobile is the most powerful medium to reach the billions of users in the world | [ ] | [ ] |
+| Mobile is the most powerful medium to reach billions of users in the world | [ ] | [ ] |
 
 
