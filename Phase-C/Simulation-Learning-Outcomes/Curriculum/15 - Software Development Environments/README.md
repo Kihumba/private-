@@ -1,4 +1,4 @@
-# Outcome 15 - Proper Use of Environments
+# Outcome 15 - Software Development Environments
 
 **Skill Description**
 ----------

@@ -1,4 +1,4 @@
-# Outcome 16 - UI/UX Awareness / Design
+# Outcome 16 - UI/UX
 
 **Skill Description**
 ----------
