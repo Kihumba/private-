@@ -1,7 +1,7 @@
 # Outcome 6 - Services and Content Providers
 
 ## Skill Description
-Services are components of the android apps that can perform long running processes in the background. Content providers manage access to a structured set of data. They encapsulate the data, and provide mechanisms for defining data security.
+The fellow can build apps that run as services. They can also use content providers.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:

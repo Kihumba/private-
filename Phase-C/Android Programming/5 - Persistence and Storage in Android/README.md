@@ -1,7 +1,7 @@
 # Outcome 5 - Persistence and Storage in Android
 
 ## Skill Description
-Applications need to save some information such as user data, game scores etc. This skill covers methods for storing or persisting application data. It explores the different storage options that could be used.
+The fellow build apps that store and persist application data. They also have the capacity to explore different storage options.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:

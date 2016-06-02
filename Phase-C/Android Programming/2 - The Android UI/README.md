@@ -1,7 +1,7 @@
 # Outcome 2 - The Android UI
 
 ## Skill Description
-The users of your application will interact with the application through the user interfaces. All user interface elements in an Android app are built using `View` and `ViewGroup` objects. Android provides a collection of both `View` and `ViewGroup` subclasses that offer you common input controls (such as buttons and text fields) and various layout models (such as a linear or relative layout).
+The fellow demonstrates the ability to create and use Android UI components conveniently.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:

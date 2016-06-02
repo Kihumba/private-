@@ -1,7 +1,7 @@
 # Outcome 8 - Publishing Android Apps
 
 ## Skill Description
-By publishing your android app, you share it with the world. Usually after completing all previous learning outcomes, this is one additional skill to learn - publishing your android apps. Android apps are published primarily through the Google Play Store, there are other third party stores as well for publishing such as the Amazon Appstore.
+The fellow can publish their app on the Google Play Store.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
