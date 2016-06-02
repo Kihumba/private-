@@ -1,7 +1,7 @@
 # Outcome 7 - Sensors and Location Services
 
 ## Skill Description
-The Android devices have a nice collection of sensors which enrich the user experience. These sensors measure motion, orientation, and various environmental conditions. An addition skill covered in this outcome is the location services - Android gives your applications access to the location services supported by the device through classes in the `android.location`.
+The fellow can build apps that use sensors and location services.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following Android app:

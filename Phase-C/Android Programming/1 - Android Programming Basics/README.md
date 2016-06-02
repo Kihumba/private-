@@ -1,7 +1,7 @@
 # Outcome 1 - Android Programming Basics
 
 ## Skill Description
-Android provides a rich application framework that allows you to build innovative apps and games for mobile devices in a Java language environment. It is important that you understand the basics of the Android OS and how to set up your work environment to get started with Android programming.
+The fellow can explain the basics of Android Programming. They know how to set up environment for building and testing Android apps.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
