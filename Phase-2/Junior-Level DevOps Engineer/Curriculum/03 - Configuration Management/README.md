@@ -31,6 +31,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| I use configuration tools to manage the provision and orchestration of machines | [ ] | [ ] |
+| Configuration tools eases the process of provisioning and orchestration of machines | [ ] | [ ] |
 | Configuration scripts are tested before being deployed live | [ ] | [ ] |
 | Configuration scripts should be idempotent | [ ] | [ ] |

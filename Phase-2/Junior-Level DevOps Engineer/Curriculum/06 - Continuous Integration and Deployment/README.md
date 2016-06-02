@@ -12,8 +12,8 @@ Outputs
 After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
 
 - Create a source control repository to manage versions of a release
-- Create a pipeline that will run tests whenever a commit is checked in, and will tag successful builds
-- Do a blue-green deploy of a successful test build to a production environment
+- Create a CI pipeline for the engineering team to run tests when a commit is checked in, tag successful builds, and deploy the build
+- Describe the blue-green deployment strategy
 
 
 ## **Knowledge**
@@ -30,17 +30,20 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:----------------------|:------------------:|:--------:|
-| **Context:** build fails tests on CI **Action:** I fix it in a timely manner and then redeploy | [ ] | [ ] |
+| **Context:** Before committing code to a repository **Action:** I run tests locally | [ ] | [ ] |
 | **Context:** When a build fails tests on CI **Action:** I fix it in a timely manner and then redeploy | [ ] | [ ] |
+| **Context:** When a build fails tests on CI **Action:** I fix it in a timely manner and then redeploy | [ ] | [ ] |
+| **Context:** After a build is successful **Action:** I tag it with a version | [ ] | [ ] |
+| **Context:** When deploying a build to production **Action:** I deploy the version of the build that passes all tests | [ ] | [ ] |
 
 
 ## **Beliefs**
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| Successful builds should be versioned | [ ] | [ ] |
-| Code is tested before committed to a repository | [ ] | [ ] |
 | Code should only be deployed to production when it passes tests | [ ] | [ ] |
 | Adapt fast and deploy releases frequently | [ ] | [ ] |
-| CI system helps to automate build testing | [ ] | [ ] |
 | Software release should be tested on an environment similar to a production environment | [ ] | [ ] |
+| CD systems enables releasing deployable software at any time | [ ] | [ ] |
+| CI systems provides feedback about failure and enables developers to have more confidence in making their changes | [ ] | [ ] |
+| Automating repetitive processes saves time and effort | [ ] | [ ] |

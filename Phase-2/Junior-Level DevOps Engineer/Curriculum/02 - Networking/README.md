@@ -27,6 +27,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | * How to forward a port from one machine to another machine (port forwarding) | [ ] | [ ] |
 | * How DNS is used to translate domain names to IP addresses | [ ] | [ ] |
 | * How network address translation is and how it works | [ ] | [ ] |
+| * The transport layer protocols | [ ] | [ ] |
+| * Private IPV4 Address spaces | [ ] | [ ] |
 
 
 
@@ -36,6 +38,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before setting up a network **Action:** I use subnet mask to define available number of IP addresses | [ ] | [ ] |
 | **Context:** When I assign IP address to a machine **Action:** I assign using a subnet mask | [ ] | [ ] |
+| **Context:** When I assign IP address to a machine **Action:** I assign both IPv4 & IPV6 address | [ ] | [ ] |
+
 
 
 ## **Beliefs**
