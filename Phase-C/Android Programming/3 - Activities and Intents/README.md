@@ -1,7 +1,7 @@
 # Outcome 3 - Activities and Intents
 
 ## Skill Description
-Every screen in an Android application is an Activity. Activities render the user interface and provides the interactivity between the application and the users. Intents bind activities together at runtime. An application usually consists of multiple activities that are loosely bound to each other. Typically, one activity in an application is specified as the "main" activity, which is presented to the user when launching the application for the first time.  Each time a new activity starts, the previous activity is stopped, but the system preserves the activity in a stack (the "back stack").
+The fellow creates apps with multiple activities. They write code for binding and navigating between activities.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
