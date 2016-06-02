@@ -1,6 +1,6 @@
-# Junior-Level DevOps Engineer
+# Entry-Level DevOps Engineer
 
-The Junior-Level DevOps Engineer is a role that includes the following Learning Outcomes:
+The Entry-Level DevOps Engineer is a role that includes the following Learning Outcomes:
 
 1.  Linux/Unix Basics
 2.  Networking
