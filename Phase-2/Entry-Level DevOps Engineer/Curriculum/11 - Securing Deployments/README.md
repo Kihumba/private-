@@ -21,9 +21,13 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 - Securing data transfer using SSL
 
 
+**Objectives**
+--------------
+
+
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Applied |
+| Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
 | I can describe, from memory, how to install/update software on a system | [ ] | [ ] |
 | I can describe, from memory, how to disable root ssh login on a system | [ ] | [ ] |
@@ -32,6 +36,9 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | I can describe, from memory, how to view a list of all open ports/connections on a system | [ ] | [ ] |
 | I can describe, from memory, how to restrict access to system ports | [ ] | [ ] |
 | I can describe, from memory, how to apply firewall rules | [ ] | [ ] |
+
+
+----------------
 
 
 ## **Behaviors**
@@ -45,6 +52,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | **Context:** When suspicious activity is detected by monitoring scripts **Action:** I send alerts and notifications | [ ] | [ ]  |
 | **Context:** When I run a process on a production system **Action** I run with the least required set of permissions to prevent privilege escalation | [ ] | [ ] |
 
+
+--------------
 
 
 ## **Beliefs**

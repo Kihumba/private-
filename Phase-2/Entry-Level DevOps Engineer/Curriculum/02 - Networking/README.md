@@ -1,12 +1,12 @@
 # Outcome 02 - Networking
 
 Skill Description
-------------------
+-----------------
 The fellow understands transport layer protocols such as UDP, TCP, how to apply networking rules on a system, and how to communicate data over a network using defined protocols.
 
 
 Outputs
-----------
+-------
 After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
 
 - Display network interfaces
@@ -17,10 +17,14 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 - Use a network firewall to control access to a system
 
 
+**Objectives**
+--------------
+
+
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Applied |
-|:-----------------|:-----------------:|:-------:|
+| Knowledge Unit   |      Studied      | Memorized |
+|:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | * Network address translation | [ ] | [ ] |
 | * Differences between network router and a network switch | [ ] | [ ] |
@@ -31,6 +35,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | * Private IPV4 Address spaces | [ ] | [ ] |
 
 
+----------------
+
 
 ## **Behaviors**
 
@@ -40,6 +46,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | **Context:** When I assign IP address to a machine **Action:** I assign using a subnet mask | [ ] | [ ] |
 | **Context:** When I assign IP address to a machine **Action:** I assign both IPv4 & IPV6 address | [ ] | [ ] |
 
+
+--------------
 
 
 ## **Beliefs**

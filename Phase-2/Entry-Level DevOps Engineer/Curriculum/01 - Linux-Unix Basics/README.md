@@ -1,12 +1,12 @@
 # Outcome 01 - Linux/Unix Basics
 
 Skill Description
-------------------
+-----------------
 The fellow knows the fundamentals and knows how to use various Linux/Unix system utilities to perform system administration tasks
 
 
 Outputs
-----------
+-------
 After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
 
 - Create directories
@@ -23,10 +23,13 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 - Install, uninstall software packages
 
 
+**Objectives**
+--------------
+
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Applied |
-|:-----------------|:-----------------:|:-------:|
+| Knowledge Unit   |      Studied      | Memorized |
+|:-----------------|:-----------------:|:---------:|
 | I can describe, from memory, how to perform the following actions | | |
 | * Create, delete, and change into a directory   | [ ] | [ ] |
 | * Change the permissions of a file or directory | [ ] | [ ] |
@@ -51,6 +54,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | I can describe, from memory, how to set shell options in a script | [ ] | [ ] |
 
 
+----------------
+
 
 ## **Behaviors**
 
@@ -65,6 +70,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | **Context:** When calling shell commands with arguments **Action:** I quote command arguments | [ ] | [ ]  |
 | **Context:** When writing scripts **Action:** I take advantage of and use the various single function utilities in Linux to solve complex tasks | [ ] | [ ]  |
 
+
+--------------
 
 
 ## **Beliefs**
