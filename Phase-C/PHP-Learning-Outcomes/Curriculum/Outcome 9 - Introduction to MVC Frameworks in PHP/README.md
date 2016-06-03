@@ -1,6 +1,7 @@
 # Outcome 9 - Introduction to MVC Frameworks in PHP
 
-**Summary:**
+**Skill Description**
+
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - Installation and configure the Laravel framework using Composer.
 - The file structure and organisation of components of the Laravel Framework.
@@ -27,6 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 1. A Todolist App in Laravel
 
 
+**Objectives**
 ----------
 ## **Knowledge**
 
@@ -72,7 +74,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| A Restful API can easily be crafted with a PHP MVC framework | [ ] | [ ]  |
+| A Restful API can easily be crafted with a PHP MVC framework. | [ ] | [ ]  |
 | Sessions and cookies are used to maintain state across every part of web applications.  |   [ ]   |   [ ] |
-| MVC frameworks make authentication and authorization implementation trivial |   [ ]   |   [ ] |
-| Applications are developed faster with MVC frameworks |   [ ]   |   [ ] |
+| MVC frameworks make authentication and authorization implementation trivial. |   [ ]   |   [ ] |
+| Applications are developed faster with MVC frameworks. |   [ ]   |   [ ] |
