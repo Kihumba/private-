@@ -36,9 +36,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| Models | [ ] | [ ] |
-| Views| [ ] | [ ] |
-| Controllers | [ ] | [ ] |
+| * Models | [ ] | [ ] |
+| * Views| [ ] | [ ] |
+| * Controllers | [ ] | [ ] |
 | How to use the MVC pattern in a PHP application | [ ] | [ ] |
 | How to install Laravel framework with Composer | [ ] | [ ] |
 | How to use Controllers in Laravel | [ ] | [ ] |
@@ -49,7 +49,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How to use Eloquent Models in Laravel | [ ] | [ ] |
 | How to handle and implement Queues in Laravel | [ ] | [ ] |
 | How to create packages in Laravel | [ ] | [ ] |
-| How to implement scheduling and cron jobs in Laravel| [ ] | [] |
+| How to implement scheduling and cron jobs in Laravel| [ ] | [ ] |
 | How to migrate and seed in Laravel| [ ] | [ ] |
 
 
