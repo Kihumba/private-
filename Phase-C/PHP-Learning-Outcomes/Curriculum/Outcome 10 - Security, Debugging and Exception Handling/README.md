@@ -1,6 +1,7 @@
 # Outcome 10 - Security, Debugging and Exception Handling
 
-**Summary:**
+**Skill Description**
+
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - Commonly encountered security threats and consideration.
 - CSRF(Cross Site Request Forgery) and how to handle it in PHP.
@@ -27,10 +28,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Cross Site Request Forgery | [] | [] |
-| * SQL Injection | [] | [] |
-| * Exceptions | [] | [] |
-| Common security threats for PHP web applications | [] | [] |
+| * Cross Site Request Forgery | [ ] | [ ] |
+| * SQL Injection | [ ] | [ ] |
+| * Exceptions | [ ] | [ ] |
+| Common security threats for PHP web applications | [ ] | [ ] |
 | How to handle Cross Site Request Forgery in PHP | [ ] | [ ] |
 | How to prevent SQL Injection in PHP | [ ] | [ ] |
 | How to debug and profile PHP programs | [ ] | [ ] |
