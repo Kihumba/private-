@@ -25,11 +25,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| REST | [ ] | [ ] |
-| HTTP Request and Response | [ ] | [ ] |
-| Web Services | [ ] | [ ] |
-| Sessions | [ ] | [ ] |
-| Cookies | [ ] | [ ] |
+| * REST | [ ] | [ ] |
+| * HTTP Request and Response | [ ] | [ ] |
+| * Web Services | [ ] | [ ] |
+| * Sessions | [ ] | [ ] |
+| * Cookies | [ ] | [ ] |
 | How to use htaccess for URL Routing | [ ] | [ ] |
 | How to develop a RESTFUL API | [ ] | [ ] |
 | How to maintain state across an application using Sessions and Cookies in PHP | [ ] | [ ] |
