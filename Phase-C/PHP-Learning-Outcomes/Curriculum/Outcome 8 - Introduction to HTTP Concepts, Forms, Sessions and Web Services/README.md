@@ -1,13 +1,13 @@
 # Outcome 8 - Introduction to HTTP Concepts, Forms, Sessions and Web Services
 
-**Summary:**
+**Skill Description**
+
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - Fundamental concepts of HTTP and how the web works (Request-Response Life Cycle).
 - Application of  htaccess for URL routing.
 - Web Service Architecture and building RESTful web services using PHP.
 - RESTful API Design using Slim.
 - Server Side Session Handling and Cookies in PHP.
-
 
 
 **Output**
@@ -17,6 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 1. [Checkpoint 3](https://docs.google.com/document/d/1J39GPJ5Md5hrCITVYbkDydo5sFPSPtFFhxHH7wgZ1tI)
 
 
+**Objectives**
 ----------
 ## **Knowledge**
 
