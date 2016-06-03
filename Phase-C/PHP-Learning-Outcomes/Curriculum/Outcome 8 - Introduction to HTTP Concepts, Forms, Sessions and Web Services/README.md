@@ -1,4 +1,4 @@
-# Module 8:   Introduction to HTTP Concepts, Forms, Sessions and Web Services - KBBs
+# Outcome 8 - Introduction to HTTP Concepts, Forms, Sessions and Web Services
 
 **Summary:**
 The learning outcomes expected of a fellow that has covered this module are as follows:
@@ -8,10 +8,9 @@ The learning outcomes expected of a fellow that has covered this module are as f
 - RESTful API Design using Slim.
 - Server Side Session Handling and Cookies in PHP.
 
-The following are the Outputs, Knowledge, Behaviors, and Beliefs for Introduction to HTTP Concepts, Forms, Sessions and Web Services.
 
 
-## **Outputs**
+**Output**
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
@@ -24,29 +23,29 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| How Request and Response works in HTTP? | [] | [] |
-| How to use htaccess for URL Routing? | [] | [] |
-| What is REST? | [] | [] |
-| How to develop a RESTFUL API using microframeworks like Slim| [] | [] |
-| What are Sessions? | [] | [] |
-| What are Cookies? | [] | [] |
-| What are Web Services? | [] | [] |
-| How to maintain state across an application using Sessions and Cookies in PHP | [] | [] |
-| How to create web services with PHP | [] | [] |
-| How to process forms in PHP | [] | [] |
+| I can describe the following from memory: | | |
+| REST | [ ] | [ ] |
+| HTTP Request and Response | [ ] | [ ] |
+| Web Services | [ ] | [ ] |
+| Sessions | [ ] | [ ] |
+| Cookies | [ ] | [ ] |
+| How to use htaccess for URL Routing | [ ] | [ ] |
+| How to develop a RESTFUL API | [ ] | [ ] |
+| How to maintain state across an application using Sessions and Cookies in PHP | [ ] | [ ] |
+| How to create web services with PHP | [ ] | [ ] |
+| How to process forms in PHP | [ ] | [ ] |
 
 
 
 ----------
 
-
 ## **Behaviors**
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to track a user's movement accross pages in a PHP web application.. **Action:**  I will use Sessions and cookies.| [ ] | [ ]  |
-| **Context:**  When I want to design an API service...**Action:** I will make sure it is RESTFUL. |   [ ]   |   [ ] |
-| **Context:**  When I want to restrict some parts of my application routes from being accessed...**Action:** I can make use of htaccess. |   [ ]   |   [ ] |
+| **Context:** When I want to track a user's movement across pages in a PHP web application  **Action:**  I use sessions and cookies.| [ ] | [ ]  |
+| **Context:**  When I want to design an API service **Action:** I make sure it is RESTFUL. |   [ ]   |   [ ] |
+| **Context:**  When I want to restrict some parts of my application routes from being accessed **Action:** I can make use of htaccess. |   [ ]   |   [ ] |
 
 
 ----------
@@ -54,12 +53,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Beliefs**
 
-
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | A Restful API can easily be crafted in PHP. | [ ] | [ ]  |
 | Sessions and cookies are used to maintain state across every part of web applications. |   [ ]   |   [ ] |
 | Form processing is trivial in PHP. |   [ ]   |   [ ] |
-
-
-
