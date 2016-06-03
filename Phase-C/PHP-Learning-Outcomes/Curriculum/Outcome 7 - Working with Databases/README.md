@@ -1,6 +1,7 @@
 # Outcome 7 -  Working with Databases
 
 **Skill Description**
+
 The learning outcomes expected of a fellow that has covered this module are as follows:
 - Native PHP syntax for connecting to database, querying databases and working with query results using MySQLi (MySQLi).
 - PDO, a database agnostic PHP component, and how to use it to perform more complex database operations like Prepared Statements, Stored Procedures and Transactions.
@@ -25,7 +26,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How to connect to a database in PHP | | |
 | * MySQLi Driver | [ ] | [ ] |
 | * PDO Driver | [ ] | [ ] |
-| * Sqlite Driver | [ ] | []  |
+| * Sqlite Driver | [ ] | [ ]  |
 | PDO  | [ ] | [ ] |
 | How to perform Prepared Statements | [ ] | [ ] |
 
