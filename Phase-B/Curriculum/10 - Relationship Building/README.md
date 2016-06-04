@@ -1,0 +1,57 @@
+# Outcome 10 - Relationship Building
+
+**Skill Description**
+----------
+By the end of Phase B - Bootcamp, aspiring Andelans should be able to identify, approach and comfortably build rapport with team members, trainers and staff members at Andela.
+The Fellow understands that establishing and strengthening relationships is valuable. Requires prompting or direction on who to build relationships with and how to build relationships well.
+
+
+**Output**
+----------
+After attaining this skill, and as a demonstration of it, I will be able to create the following:
+
+1. Comprehensive/Informative self introduction
+2. A blog post on interesting attributes of four fellows and one member of staff you proactively interacted with within one week
+
+
+**Objectives**
+----------
+
+## **Knowledge**
+
+
+| Knowledge Unit   |      Studied      | Applied |
+|:-------------|:------------------:|:--------:|
+| I can describe the following from memory: | | |
+| * Different types of relationships  | [ ] |    [ ] |
+| * What building relationship entails | [ ] |    [ ] |
+| * Characteristics of good relationships  | [ ] |    [ ] |
+| * How to identify personal and professional boundaries  | [ ] |    [ ] |
+
+
+----------
+
+
+## **Behaviors**
+
+
+| Observable Behavior   |      Practiced      | Observed |
+|:-------------|:------------------:|:--------:|
+|**When initiating or building relationships** | | |
+| **Context:** At the beginning of the relationship e.g when meeting the team  **Action:** I communicate and share details about my background and interests in an attempt to find common ones. | [ ] |    [ ] |
+| **Context:**  During team meetings and catch up sessions **Action:** I validate other’s perspectives, contributions, and concerns in the face of disagreements. | [ ] |    [ ] |
+| **Context:**  When reaching out to build rapport with the team or team member formally or informally **Action:** I express a genuine interest in the other person, their activities, interests and well-being. | [ ] |    [ ] |
+| **Context:** When reaching out to build rapport with the team or team member formally or informally **Action:** I communicate and share details about my background and interests in an attempt to find common ones. | [ ] |    [ ] |
+| **Context:** When building relationships with a team I am working with on a project **Action:** I lookout for ways to provide support to the other person in the relationship (listens to them, provides feedback when they want it, etc..). | [ ] | [ ] |
+
+----------
+
+
+## **Beliefs**
+
+
+| Embodied Belief   |      Felt      | Demonstrated |
+|:-------------|:------------------:|:--------:|
+| I can build a relationship with anyone |   [ ]   |   [ ] |
+| It is never too late to build a relationship with someone |   [ ]   |   [ ] |
+| I can build relationships regardless of my or the other person’s personality type (e.g. introvert vs. extrovert) |   [ ]   |   [ ] |
