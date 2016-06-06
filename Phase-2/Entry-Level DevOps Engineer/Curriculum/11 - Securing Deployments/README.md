@@ -29,13 +29,14 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
-| I can describe, from memory, how to install/update software on a system | [ ] | [ ] |
-| I can describe, from memory, how to disable root ssh login on a system | [ ] | [ ] |
-| I can describe, from memory, how to run a process with elevated privileges | [ ] | [ ] |
-| I can describe, from memory, how to run a process with restricted privileges | [ ] | [ ] |
-| I can describe, from memory, how to view a list of all open ports/connections on a system | [ ] | [ ] |
-| I can describe, from memory, how to restrict access to system ports | [ ] | [ ] |
-| I can describe, from memory, how to apply firewall rules | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| * How to install/update software on a system | [ ] | [ ] |
+| * How to disable root ssh login on a system | [ ] | [ ] |
+| * How to run a process with elevated privileges | [ ] | [ ] |
+| * How to run a process with restricted privileges | [ ] | [ ] |
+| * How to view a list of all open ports/connections on a system | [ ] | [ ] |
+| * How to restrict access to system ports | [ ] | [ ] |
+| * How to apply firewall rules | [ ] | [ ] |
 
 
 ----------------
@@ -66,4 +67,3 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Security credentials/tokens should be different for each environment and stored separately | [ ] | [ ] |
 | Security credentials/tokens should not be reused across different environments (test, staging, production, e.t.c) | [ ] | [ ] |
 | Security is vital in the software deployment lifecycle | [ ] | [ ] |
-

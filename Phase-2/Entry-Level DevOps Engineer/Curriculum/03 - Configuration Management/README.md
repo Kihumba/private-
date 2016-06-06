@@ -9,6 +9,7 @@ Outputs
 -------
 After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
 
+- Setup a test harness to test and verify configuration scripts
 - Setup the MEAN stack (MongoDB, ExpressJS, AngularJS, NodeJS) on a VM using the `ansible` configuration tool
 
 
