@@ -1,4 +1,4 @@
-# Outcome 18 - Speaks to be understood
+# Outcome 15 - Speaks to be understood
 
 **Skill Description**
 ----------

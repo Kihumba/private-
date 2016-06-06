@@ -1,4 +1,4 @@
-# Outcome 15 - Adaptability
+# Outcome 13 - Adaptability
 
 **Skill Description**
 ----------

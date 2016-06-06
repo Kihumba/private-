@@ -1,4 +1,4 @@
-# Outcome 16 - Seeks & Requests Feedback
+# Outcome 14 - Seeks & Requests Feedback
 
 **Skill Description**
 ----------
