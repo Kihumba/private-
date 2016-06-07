@@ -1,16 +1,10 @@
 # Outcome 3 - Activities and Intents
 
 ## Skill Description
-The fellow creates apps with multiple activities. They write code for binding and navigating between activities.
+The fellow has the ability to create apps with multiple activities. They are also able to write code for binding and navigating between activities.
 
 ## Output
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-- _Build a simple android app which has 3 activities_
-  - First activity is a fancy splash screen
-  - Second activity shows up after the splash screen vanishes, this activity has an imageView, "upload picture", "take picture" buttons
-  - Users should be able able to upload a picture to the imageView or take a picture with camera and load to the imageView
-  - Third activity is a settings activity which the "Do not display splashscreen on load option"
-- Users should be able to use the back arrow button to move back to previous activities
+Build a simple android app with at least 3 activities including a fancy splash screen, an activity which has the ability to take and upload pictures to an imageView, a settings activity, and a back arrow button to move back to previous activities
 
 ## Objectives
 
@@ -18,14 +12,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is an Android Activity?| [ ] | [ ] |
-| What is the Android Activity lifecycle? How is it harnessed in a typical Android app? | [ ] | [ ] |
-| What different activity templates exist for use from the Android studio?| [ ] | [ ] |
-| What are intents? What are the use cases of intents? | [ ] | [ ] |
-| What are intent filters? How are they used? | [ ] | [ ] |
-| What are fragments? What are the cases for using fragments? How to use fragments?| [ ] | [ ] |
-| How do we asynchronously load data? We use loaders, then what are loaders? How do they work?| [ ] | [ ] |
-| How do we use the backstack  to navigate back between activities? | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| Android Activity| [ ] | [ ] |
+| The Android Activity lifecycle | [ ] | [ ] |
+| The different activity templates available for use in Android studio?| [ ] | [ ] |
+| Intents | [ ] | [ ] |
+| The use cases of Intents | [ ] | [ ] |
+| Intent filters | [ ] | [ ] |
+| How to used Intent filters | [ ] | [ ] |
+| Fragments | [ ] | [ ] | 
+| How to use fragments | [ ] | [ ] |
+| Loaders | [ ] | [ ] |
+| How to use the backstack | [ ] | [ ] |
 
 ----------
 

@@ -1,45 +1,12 @@
 # Outcome 4 - Testing Android Apps
 
 ## Skill Description
-The fellow writes good tests capable of catching bugs early in a typical app development. The fellow can set up the test development environment and configure projects for instrumentation testing.
+The fellow is able to write good tests capable of catching bugs early in a typical app development. The fellow is also able set up the test development environment and configure projects for instrumentation testing, and is able write apps using the BDD and TDD approach. 
 
 ## Output
-After attaining this skill, together with skills from outcomes 1 to 3, and as a demonstration of it, a person should be able to create the following app:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-**Note Taker**
-
-**_Problem Description_**
-
-In this exercise you will be required to create a note taking Android app using Behavior driven development.
-
-**_Task 0 - Design a mockup for the app_**
-
-Create the application mockup with invisionapp(<a href="http://www.invisionapp.com">invisionapp.com</a>), sketch(Mac) or any mockup software of choice
-
-**_Task 1 - Build Note Taker Interface_**
-Create an application interface that will allow the user to create, list, edit and delete notes (following the mockup from task 0)
-
-**_Task 2 - Code all the features of the application_**
-
-The application should have the following features:
-- Create a new note
-- List notes
-- Edit note
-- Save note
-- Auto-save note
-- Move note to trash
-- Restore note from trash
-- Empty notes in trash
-- Share note by email
-- Application settings
-
-**_Task 3 - Auto-saving Notes._**
-
-Users should be able to set time for auto saving current notes (in the application settings)
-
-**_Task 4 - Write TDD and BDD(Instrument) Test for the App_**
-
-Using any instrumentation test of choice (Solo or Espresso is recommended), write a BDD Test as well as TDD for the application
+A notetaking app using behaviour driven development as defined in <a href="https://docs.google.com/document/d/1QXkEb8KrZczAtPQAmin50nfDqju584mgSk30J8yQFnc/edit">Android checkpoint #3</a>
 
 ## Objectives
 
@@ -47,16 +14,20 @@ Using any instrumentation test of choice (Solo or Espresso is recommended), writ
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is the importance of testing Android apps?| [ ] | [ ] |
-| What is instrumentation test? And what frameworks are available for instrumentation testing?| [ ] | [ ] |
-| What is BDD? What is the difference between TDD and BDD? | [ ] | [ ] |
-| What is DSL (Domain Specific language)?  What is the Ghenkins Business Language (GBL)?| [ ] | [ ] |
-| How does the GBL help achieve BDD?| [ ] | [ ] |
-| How do you test an activity?| [ ] | [ ] |
-| How do you test a service?| [ ] | [ ] |
-| How do you test a content provider? | [ ] | [ ] |
-| How do you test with frameworks like Epressor?| [ ] | [ ] |
-| How do you combine instrumentation testing with unit testing? | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| The importance of testing Android apps | [ ] | [ ] |
+| Instrumentation test | [ ] | [ ] |
+| Frameworks available for instrumentation testing | [ ] | [ ] |
+| Behaviour Driven Development | [ ] | [ ] |
+| The differences between TDD and BDD | [ ] | [ ] |
+| DSL (Domain Specific language) | [ ] | [ ] |
+| The Ghenkins Business Language (GBL) | [ ] | [ ] |
+| How the GBL help achieve BDD | [ ] | [ ] |
+| How to test an activity | [ ] | [ ] |
+| How to test a service | [ ] | [ ] |
+| How to test a content provider | [ ] | [ ] |
+| How to test with Epressor | [ ] | [ ] |
+| How to combine instrumentation testing with unit testing | [ ] | [ ] |
 
 ----------
 

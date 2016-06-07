@@ -1,11 +1,11 @@
 # Outcome 2 - The Android UI
 
 ## Skill Description
-The fellow demonstrates the ability to create and use Android UI components conveniently.
+The fellow demonstrates the ability to create and use Android UI components conveniently. The fellow is able to work with event listers, separate and style UI components, and manage app resources
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-- Build an android app that looks like the Gmail app (only the Interface)
+- Build an android app that looks like the Gmail app (UI only)
 
 ## Objectives
 
@@ -13,15 +13,20 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is an XML? And how do you write a basic XML file?| [ ] | [ ] |
-| How do you edit the Android UI from the xml view and from the design view? | [ ] | [ ] |
-| How do you work with layout types and view groups? | [ ] | [ ] |
-| What android UI controls/components are available? How to add input components and menus to an app? | [ ] | [ ] |
-| What are event listeners? What are the different methods for capturing events on Android apps? How to work with events? | [ ] | [ ] |
-| What are the ways to separate design components for reusability?| [ ] | [ ] |
-| How do you manage app resources, such as images, drawables and styles? | [ ] | [ ] |
-| How do you provide feedback to users via dialog, snackbar and toasts? | [ ] | [ ] |
-| How do you style UI components? | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| XML| [ ] | [ ] | 
+| How to write a basic XML file?| [ ] | [ ] |
+| How to edit the Android UI | [ ] | [ ] |
+| How to work with layout types and view groups | [ ] | [ ] |
+| Android UI controls/components | [ ] | [ ] |
+| How to add input components and menus to an app | [ ] | [ ] |
+| Event listeners | [ ] | [ ] |
+| The different methods for capturing events on Android apps | [ ] | [ ] |
+| How to work with events | [ ] | [ ] |
+| The ways to separate design components for reusability| [ ] | [ ] |
+| How to manage app resources | [ ] | [ ] |
+| How to provide feedback to users | [ ] | [ ] |
+| How to you style UI components | [ ] | [ ] |
 
 ----------
 
