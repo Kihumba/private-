@@ -15,11 +15,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The architecture of the Android OS | [ ] | [ ] |
-| The Dalvik Virtual Machine (DVM) and Android Runtime(ART)?| [ ] | [ ] |
-| How to install and setup the Android studio?| [ ] | [ ] |
+| The Dalvik Virtual Machine (DVM) and Android Runtime(ART) | [ ] | [ ] |
+| How to install and setup the Android studio | [ ] | [ ] |
 | The prerequisites for running an Android app | [ ] | [ ] |
 | How to connect the JDK to Android Studio | [ ] | [ ] |
-| The Android Emulator?| [ ] | [ ] |
+| The Android Emulator | [ ] | [ ] |
 | What emulators are available | [ ] | [ ] | 
 | HAXM | [ ] | [ ] | 
 | How to improve the performance of emulators | [ ] | [ ] |

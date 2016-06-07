@@ -15,7 +15,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | XML| [ ] | [ ] | 
-| How to write a basic XML file?| [ ] | [ ] |
+| How to write a basic XML file | [ ] | [ ] |
 | How to edit the Android UI | [ ] | [ ] |
 | How to work with layout types and view groups | [ ] | [ ] |
 | Android UI controls/components | [ ] | [ ] |
@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Event listeners | [ ] | [ ] |
 | The different methods for capturing events on Android apps | [ ] | [ ] |
 | How to work with events | [ ] | [ ] |
-| The ways to separate design components for reusability| [ ] | [ ] |
+| The ways to separate design components for reusability | [ ] | [ ] |
 | How to manage app resources | [ ] | [ ] |
 | How to provide feedback to users | [ ] | [ ] |
 | How to you style UI components | [ ] | [ ] |

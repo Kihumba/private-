@@ -15,7 +15,7 @@ Build a simple android app with at least 3 activities including a fancy splash s
 | I can describe the following from memory: | | |
 | Android Activity| [ ] | [ ] |
 | The Android Activity lifecycle | [ ] | [ ] |
-| The different activity templates available for use in Android studio?| [ ] | [ ] |
+| The different activity templates available for use in Android studio | [ ] | [ ] |
 | Intents | [ ] | [ ] |
 | The use cases of Intents | [ ] | [ ] |
 | Intent filters | [ ] | [ ] |
