@@ -1,7 +1,7 @@
 # Outcome 1 - Android Programming Basics
 
 ## Skill Description
-The fellow can explain architecture of the Android OS and the basics of Android Programming. They know how to set up environment for building and testing Android apps.
+The fellow can explain the basics of Android Programming. They know how to set up environment for building and testing Android apps.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
