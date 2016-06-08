@@ -36,7 +36,6 @@ After attaining this skill, and as a demonstration of it, an Andelan should be a
 | - **Action:** I ask myself how a Fellow could demonstrate to me that they've acquired the corresponding skill. | [ ] |    [ ] |
 | - **Action:** I consider multiple examples of other Outputs already defined for similar skills. | [ ] |    [ ] |
 | - **Action:** I compose a realistic Output that matches as closely as possible the type of work tasks the Fellow would perform during the course of their day. | [ ] |    [ ] |
-| **Context:** When an apprenticeship pairing session goes over 60 minutes **Action:** I take a break and do a brief review with my apprentice before continuing.  | [ ] |    [ ] |
 | **Context:** After defining an Output for a specific Learning Outcome **Action:** I verify its authenticity and value with other experienced professionals who already possess the corresponding skill. | [ ] |    [ ] |
 
 
