@@ -50,6 +50,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | My program can have 100% test coverage | [ ] | [ ] |
 | Writing tests reduces the risk of my program malfunctioning in the future | [ ] | [ ] |
-| Writing tests help me better define the specs of an application I’m building | [ ] | [ ] |
+| Writing tests help me better define the specifications of an application I am building | [ ] | [ ] |
 | My application will be considered more stable if I have solid test coverage | [ ] | [ ] |
 | Following TDD practice will make me a better programmer | [ ] | [ ] |

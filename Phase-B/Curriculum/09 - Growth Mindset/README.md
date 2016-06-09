@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-The Fellow recognizes that skill deficits they have are not a limitation but an opportunity for growth. They demonstrates an eagerness and willingness to leverage on the resources around them in order to develop  holistically as a developer to take on tasks.
+Aspiring Andelans recognize that skill deficits they have are not a limitation but an opportunity for growth. They demonstrates an eagerness and willingness to leverage on the resources around them in order to develop  holistically as a developer to take on tasks.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I will be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. A blog post about your most challenging recent learning experience.
+1. A blog post about my most recent challenging learning experience.
 
 
 **Objectives**
@@ -33,9 +33,9 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I become aware of my skill gaps **Action:** I reach out to those who have gone ahead of me to give me guidance, support and insights on how to level up. | [ ] |    [ ] |
-| **Context:** when faced with a task that is above my present skill level **Action:** I approach it with the mindset that it is an opportunity for me to grow and learn.  | [ ] |    [ ] |
-| **Context:** When faced with a task that needs me to level up from my present skill level **Action:** I break down the requirements and research on where to get the resources needed to help level up.  | [ ] |    [ ] |
+| **Context:** When I become aware of my skill gaps **Action:** I reach out to those who have gone ahead of me to give me guidance, support and insights on how to level up | [ ] |    [ ] |
+| **Context:** when faced with a task that is above my present skill level **Action:** I approach it with the mindset that it is an opportunity for me to grow and learn  | [ ] |    [ ] |
+| **Context:** When faced with a task that needs me to level up from my present skill level **Action:** I break down the requirements and research on where to get the resources needed to help level up  | [ ] |    [ ] |
 ----------
 
 
@@ -44,6 +44,6 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can leverage on my environment to grow. | [ ] | [ ] |
-| I can learn from observing and mimicking others.| [ ] | [ ] |
-| Ny shortcomings represent an opportunity for growth not a celling. | [ ] | [ ] |
+| I can leverage on my environment to grow | [ ] | [ ] |
+| I can learn from observing and mimicking others | [ ] | [ ] |
+| Ny shortcomings represent an opportunity for growth not a celling | [ ] | [ ] |

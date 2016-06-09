@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-By the end of Phase B - Bootcamp, aspiring Andelans should be about 10% of the way to client readiness with Front-End Development. This means they have a good idea of how to use the major front-end technologies - HTML, CSS and Javascript.
+Aspiring Andelans should have a good idea of how to use the major front-end technologies - HTML, CSS and Javascript.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I will be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. A clone of the simple user interface created using HTML and CSS.
+1. Github repo containing a clone of a simple user interface created using HTML and CSS.
 
 
 **Objectives**
@@ -21,12 +21,12 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Technologies that comprise front-end web development (HTML, CSS, Javascript) | [ ] | [ ]  |
+| * Technologies that comprise front-end web development | [ ] | [ ]  |
 | * How browsers render documents |   [ ]   |   [ ] |
 | * HTML Document Structure |   [ ]   |   [ ] |
 | * Common Tags available in HTML and what they are used for |   [ ]   |   [ ] |
 | * Semantic HTML elements |   [ ]   |   [ ] |
-| * Meaning of common terms used in CSS - Property, Property Value, Pseudo Classes, Selectors | [ ] |    [ ] |
+| * Common terms used in CSS | [ ] |    [ ] |
 | * Common CSS properties | [ ] |    [ ] |
 | * CSS Box Layout | [ ] |    [ ] |
 | * How CSS Positioning works | [ ] |    [ ] |
@@ -40,10 +40,10 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating a web page **Action:** I layout all the required components on the page using semantic HTML syntax. | [ ] | [ ] |
-| **Context:** When creating a web page **Action:** I link external CSS and Javascript to the page using the link and script tags. | [ ] | [ ] |
-| **Context:** When I want to style elements on my webpage **Action:**  I reference elements by IDs and classes and style them within my CSS. | [ ] | [ ] |
-| **Context:** When I'm styling components on a page **Action:**  I take advantage of classes to reuse style information. | [ ] | [ ] |
+| **Context:** When creating a web page **Action:** I link external CSS and Javascript to the page using the link and script tags | [ ] | [ ] |
+| **Context:** When creating a web page **Action:** I layout all the required components on the page using semantic HTML syntax | [ ] | [ ] |
+| **Context:** When I want to style elements on my webpage **Action:** I reference elements by IDs and classes and style them within my CSS | [ ] | [ ] |
+| **Context:** When I am styling components on a page **Action:** I take advantage of classes to reuse style information | [ ] | [ ] |
 
 ----------
 
@@ -53,5 +53,5 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Using Front-End technology, I can replicate any web design I can imagine. |   [ ]   |   [ ] |
-| Front-End technology has to do with everything that the user can see. |   [ ]   |   [ ] |
+| Using Front-End technology, I can replicate any web design I can imagine |   [ ]   |   [ ] |
+| Front-End technology has to do with everything that the user can see |   [ ]   |   [ ] |

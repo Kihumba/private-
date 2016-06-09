@@ -9,7 +9,7 @@ Aspiring Andelans should know what classes and objects are, how to design simple
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Githib repository with a real-world problem modeled using OOP while taking advantage of Inheritance, Encapsulation, Polymorphism and the other OOP concepts.
+1. Github repo containing a real-world problem modeled using OOP while taking advantage of inheritance, encapsulation, polymorphism and the other OOP concepts.
 
 
 **Objectives**
