@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am faced with a modeling problem **Action:** I attempt to identify all the objects, their properties and their behaviours | [ ] | [ ]  |
+| **Context:** When I am faced with a data modeling problem **Action:** I attempt to identify all the objects, their properties and their behaviours | [ ] | [ ]  |
 | **Context:** When creating a class model for an object **Action:** I define my attributes as variables and behaviour as methods within my class | [ ] |    [ ] |
 | **Context:** When working on codebase that I foresee will grow dramatically **Action:** I strive to ensure my code is DRY by building reusable components |   [ ]   |   [ ] |
 | **Context:** When modeling dat using OOP **Action:** I take advantage of inheritance to ensure I am reusing code as much as possible | [ ] |    [ ] |
@@ -50,5 +50,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Modeling my code in an object oriented way helps me think about problems better |   [ ]   |   [ ] |
+| Modeling my code in an object oriented way helps me think about problems in a structured way |   [ ]   |   [ ] |
 | Modeling my code in an object oriented way helps me write sustainable and reusable program components |   [ ]   |   [ ] |

@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * Definition of Test Driven Development | [ ] | [ ]  |
 | * Pros and Cons of using the TDD approach to developing applications |   [ ]   |   [ ] |
-| * Steps involved in the TDD process | [ ] |    [ ] |
+| * Steps involved in the TDD process - Add a Test, Run Tests, Write the Code (to make the tests pass), Run Tests, Refactor Code, Repeat | [ ] |    [ ] |
 
 
 ----------
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am creating new functionality **Action:** I define my test before I define my function | [ ] | [ ]  |
+| **Context:** When I am creating new functionality **Action:** I define my test before I write my code | [ ] | [ ]  |
 | **Context:** When building out any application using the TDD approach **Action:** I write tests, let them fail, before adding in code to make the tests pass. |   [ ]   |   [ ] |
 | **Context:** When building an application **Action:** I make sure to get as close as possible to 100% test coverage. | [ ] |    [ ] |
 | **Context:** When writing test cases **Action:** I identify all the possible edge cases and write my tests to take care of these cases | [ ] |    [ ] |
@@ -48,7 +48,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| My program can have 100% test coverage | [ ] | [ ] |
+| TDD can help me attain 100% test coverage | [ ] | [ ] |
 | Writing tests reduces the risk of my program malfunctioning in the future | [ ] | [ ] |
 | Writing tests help me better define the specifications of an application I am building | [ ] | [ ] |
 | My application will be considered more stable if I have solid test coverage | [ ] | [ ] |

@@ -9,8 +9,10 @@ Aspiring Andelans should be able to understand fundamentally how to break down p
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. 7 Andelab exercises completed.
+1. 7 Andelab Bootcamp exercises completed.
 2. 2 in-class code katas solved.
+	- Function to generate prime numbers from 0 to n
+	- Function to generate Fibonacci sequence from 0 to n
 
 
 **Objectives**
@@ -27,6 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * How to write a function in a given programming language | [ ] |    [ ] |
 | * What a return value is | [ ] |    [ ] |
 | * How to pass return values across different functions | [ ] |    [ ] |
+| * How to break down problems into inputs, processes and outputs | [ ] |    [ ] |
 | * Common things to look out for that can affect the performance of my program | [ ] |    [ ] |
 | * Best practices for naming of functions and variables in my program | [ ] |    [ ] |
 
@@ -42,7 +45,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I am writing logic that is repeated in my codebase **Action:** I make use of functions to facilitate reuse of code | [ ] | [ ]  |
 | **Context:** When I write a function **Action:** I return a value that represents the desired output for that function | [ ] |    [ ] |
 | **Context:** When I am faced with a programming challenge **Action:** I break it down into a series of steps that can be represented using functions |   [ ]   |   [ ] |
-| **Context:** After writing a working program, before delivering **Action:** I always check to see if there are ways to make it run faster and/or conserve system resources like internet connection or memory | [ ] |    [ ] |
+| **Context:** After writing a working program, before delivering **Action:** I always check to see if there are ways to make it run faster and/or conserve system resources like internet bandwith or memory | [ ] |    [ ] |
 | **Context:** When I am writing code **Action:** I follow best practices with respect to naming and code organization to make sure my code is easy to read and understand for the next developer who will work on it | [ ] |    [ ] |
 
 ----------
@@ -55,5 +58,3 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Programming languages may differ but the core logic behind how programs and computers work are the same | [ ] | [ ] |
 | I solve problems. My computer follows instructions. Together we can impact the world | [ ] | [ ] |
-| Using the right data types goes a long way towards improving my overall application speed and quality | [ ] | [ ] |
-| Programs are written for humans to read and for computers to execute |   [ ]   |   [ ] |
