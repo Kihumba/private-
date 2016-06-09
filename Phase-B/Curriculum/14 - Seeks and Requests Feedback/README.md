@@ -10,7 +10,7 @@ Aspiring Andelans value receiving feedback and are able to apply it productively
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. Snapshot of conversations showing when I requested for feedback during Bootcamp
-2. A report on an example of an experience where you benefitted from getting feedback about your work
+2. A report on an example of an experience where I benefitted from getting feedback about my work
 
 
 **Objectives**
@@ -23,8 +23,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Importance/gains of requesting & seeking feedback | [ ] |    [ ] |
-| * Approaches for constructively and effectively giving and receiving feedback | [ ] |    [ ] |
-| * Past failures and areas of development | [ ] |    [ ] |
+| * Approaches for constructively and effectively receiving feedback | [ ] | [ ] |
 
 
 ----------

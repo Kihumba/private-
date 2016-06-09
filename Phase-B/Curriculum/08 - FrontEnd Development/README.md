@@ -25,11 +25,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * How browsers render documents |   [ ]   |   [ ] |
 | * HTML Document Structure |   [ ]   |   [ ] |
 | * Common Tags available in HTML and what they are used for |   [ ]   |   [ ] |
-| * Semantic HTML elements |   [ ]   |   [ ] |
 | * Common terms used in CSS | [ ] |    [ ] |
 | * Common CSS properties | [ ] |    [ ] |
-| * CSS Box Layout | [ ] |    [ ] |
-| * How CSS Positioning works | [ ] |    [ ] |
+| * CSS Box Layout and how CSS Positioning works | [ ] |    [ ] |
 
 
 ----------
@@ -54,4 +52,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Using Front-End technology, I can replicate any web design I can imagine |   [ ]   |   [ ] |
-| Front-End technology has to do with everything that the user can see |   [ ]   |   [ ] |
+| Front-End technology has to do with everything that the user interacts with |   [ ]   |   [ ] |
