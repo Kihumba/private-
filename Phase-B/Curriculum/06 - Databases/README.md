@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * What a database Query is | [ ] |    [ ] |
 | * The different types of database indexes - Primary Key and Foreign Key | [ ] |    [ ] |
 | * Simple SQL commands and their respective functions | [ ] |    [ ] |
-| * Some of the generally available data types in MySQL | [ ] |    [ ] |
+| * Some of the generally available data types in SQL Databases | [ ] |    [ ] |
 
 
 ----------
@@ -42,7 +42,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | **Context:** When faced with a data modeling problem **Action:** I create the required table structures diagrammatically either using pencil and paper or using software like SQL Workbench | [ ] | [ ]  |
 | **Context:** When I require a subset of data from a table **Action:** I create SQL queries to extract the specific data needed | [ ] |    [ ] |
-| **Context:** When I want to design a table **Action:** I create an `id` field and make it the primary key |   [ ]   |   [ ] |
 | **Context:** When I want to create table relationships **Action:** I specify a foreign key that identifies the related record in the related table |   [ ]   |   [ ] |
 | **Context:** When I want to specify fields in a table design **Action:** I make use of data types adequately to ensure the data stored is well formatted | [ ] |    [ ] |
 

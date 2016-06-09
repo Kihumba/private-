@@ -26,7 +26,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * Differences between the client and the server | [ ] |    [ ] |
 | * Examples of clients and servers and a high-level view of how they operate | [ ] |    [ ] |
 | * Different HTTP Status codes and what they mean | [ ] |    [ ] |
-| * Common security threats to web applications. (See [here](https://securityintelligence.com/the-10-most-common-application-attacks-in-action/)) | [ ] |    [ ] |
 
 
 ----------
