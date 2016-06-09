@@ -2,15 +2,15 @@
 
 **Skill Description**
 ----------
-By the end of Phase B - Bootcamp, aspiring Andelans should be about 20% of the way to client readiness with programming logic. This means they can understand fundamentally how to break down problems into programmable logic while also being able to write and use functions properly to facilitate reuse. In addition to this, they will be able to identify common problem areas where the performance of a program might be affected.
+Aspiring Andelans should be able to understand fundamentally how to break down problems into programmable logic while also being able to write and use functions properly to facilitate reuse. In addition to this, they will be able to identify common problem areas where the performance of a program might be affected.
 
 
 **Outputs**
 ----------
-After attaining this skill, and as a demonstration of it, I will be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. At least 7 Andelab exercises
-2. At least 2 in-class code katas solved.
+1. 7 Andelab exercises completed.
+2. 2 in-class code katas solved.
 
 
 **Objectives**
@@ -22,13 +22,13 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * What a function is? | [ ] | [ ]  |
-| * Examples of where we can make use of reusable functions. |   [ ]   |   [ ] |
-| * How to write a function in a given programming language. | [ ] |    [ ] |
-| * What a return value is. | [ ] |    [ ] |
-| * How to pass return values across different functions. | [ ] |    [ ] |
-| * Common things to look out for that can affect the performance of my program. | [ ] |    [ ] |
-| * Best practices for naming of functions and variables in my program. | [ ] |    [ ] |
+| * What a function is | [ ] | [ ]  |
+| * Examples of where we can make use of reusable functions |   [ ]   |   [ ] |
+| * How to write a function in a given programming language | [ ] |    [ ] |
+| * What a return value is | [ ] |    [ ] |
+| * How to pass return values across different functions | [ ] |    [ ] |
+| * Common things to look out for that can affect the performance of my program | [ ] |    [ ] |
+| * Best practices for naming of functions and variables in my program | [ ] |    [ ] |
 
 
 ----------
@@ -39,11 +39,11 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am faced with a problem **Action:** I make use of functions to facilitate reuse of code. | [ ] | [ ]  |
+| **Context:** When I am writing logic that is repeated in my codebase **Action:** I make use of functions to facilitate reuse of code | [ ] | [ ]  |
 | **Context:** When I write a function **Action:** I return a value that represents the desired output for that function | [ ] |    [ ] |
-| **Context:** When I am faced with a problem **Action:** I break it down into a series of steps that can be represented using functions. |   [ ]   |   [ ] |
-| **Context:** After writing a program **Action:** I always check to see if there are ways to make it run faster and/or conserve system resources like internet connection or memory. | [ ] |    [ ] |
-| **Context:** When I am writing a program **Action:** I follow best practices with respect to naming and code organization to make sure my code is easy to read and understand for the next developer who will work on it | [ ] |    [ ] |
+| **Context:** When I am faced with a programming challenge **Action:** I break it down into a series of steps that can be represented using functions |   [ ]   |   [ ] |
+| **Context:** After writing a working program, before delivering **Action:** I always check to see if there are ways to make it run faster and/or conserve system resources like internet connection or memory | [ ] |    [ ] |
+| **Context:** When I am writing code **Action:** I follow best practices with respect to naming and code organization to make sure my code is easy to read and understand for the next developer who will work on it | [ ] |    [ ] |
 
 ----------
 
@@ -53,8 +53,7 @@ After attaining this skill, and as a demonstration of it, I will be able to crea
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can automate most tasks that are repetitive in nature using programming. | [ ] | [ ]  |
-| Programming languages may differ but the core logic behind how programs and computers work are the same. | [ ] | [ ] |
-| The computer is a machine that will operate based instruction and I have to be very explicit about giving instructions. I define the operations for it to perform, checks for input data and how to present output to users. | [ ] | [ ] |
-| Using the right data types goes a long way towards improving my overall application speed and quality. | [ ] | [ ] |
-| Programs are written for humans to read and for computers to execute. |   [ ]   |   [ ] |
+| Programming languages may differ but the core logic behind how programs and computers work are the same | [ ] | [ ] |
+| I solve problems. My computer follows instructions. Together we can impact the world | [ ] | [ ] |
+| Using the right data types goes a long way towards improving my overall application speed and quality | [ ] | [ ] |
+| Programs are written for humans to read and for computers to execute |   [ ]   |   [ ] |
