@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans understand how to represent and use data types, variables and control structures in Python. They know what modules and functions are and how to write them in Python. They can also leverage on the basics of Python to realize their vision of how they want to use code.
+Aspiring Andelans know the syntax, semantics, pragmatics and applications of the Python programming language. They know the model of programming associated with Python and type of programming language it is. They can set up a Python programming environment.They know how to represent and use data types, variables, control structures, modules and functions in Python. They can also leverage on the basics of Python to realize their vision of how they want to use code.
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I will have:
+After attaining this skill, and as a demonstration of it, I will create:
 
-1. A score of 80% or higher in the introduction to programming module on Proctor.
+1. A screenshot of a score of 80% or higher in the introduction to programming module on Proctor.
 
 
 **Objectives**
@@ -22,14 +22,17 @@ After attaining this skill, and as a demonstration of it, I will have:
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 ||||
+| - Applications of Python | [ ] | [ ] |
+| - Python's model of programming | [ ] | [ ] |
+| - Type of programming language Python is | [ ] | [ ] |
+| - Setting up Python's programming environment | [ ] | [ ] |
 | - How to differentiate Python's syntax from other languages  | [ ] | [ ]  |
-| - Common keywords in Python | [ ] | [ ] |
 | - How to represent numbers in Python | [ ] | [ ]  |
 | - How to represent characters in Python | [ ] | [ ]  |
-| - How to represent lists in python | [ ] | [ ]  |
+| - How to represent lists in Python | [ ] | [ ]  |
 | - How to represent strings in Python | [ ] | [ ]  |
 | - How to use variables in Python | [ ] | [ ]  |
-| - How to use data types in Python | [ ] | [ ]  |
+| - Python's data structures | [ ] | [ ]  |
 | - How to use control structures in Python | [ ] | [ ] |
 | - How to write functions in Python | [ ] | [ ] |
 | - How to write modules in Python | [ ] | [ ] |
@@ -44,6 +47,12 @@ After attaining this skill, and as a demonstration of it, I will have:
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
+| **Context:** When I come across a Python program | | |
+| - **Action:** I look through the codebase to see if I can identify the syntax | [ ] | [ ] |
+| - **Action:** I look through the codebase to see if I understand how the concepts I know were used and how they were used | [ ] | [ ] |
+| - **Action:** I contribute meaningfully to the codebase | [ ] | [ ] |
+| **Context:** Before writing a Python program | | |
+| - **Action:** I set up the programming environment | [ ] | [ ] |
 | **Context:** When writing a Python program | | |
 | - **Action:** I declare variables that conform with the syntax of Python | [ ] | [ ] |
 | - **Action:** I identify the types of data I need to work with | [ ] | [ ] |
