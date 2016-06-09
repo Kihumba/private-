@@ -2,15 +2,15 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans understand and can explain to their peers the meaning of basic computer science concepts. They can identify who a computer scientist is and what a computer scientist does. They can also do independent research on additional computer science topics.
+Aspiring Andelans can identify who a computer scientist is and what a computer scientist does. They can differentiate a programmer from a computer scientist. They are also able to do independent research on the possibilities and applications of computer science and can explain findings to other learners.
 
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, I will have:
+After attaining this skill, and as a demonstration of it, I will create:
 
-1. A score of 80% or higher in the introduction to computer science module on Proctor.
+1. A screenshot of a score of 80% or higher in the computer science module on Proctor.
 
 
 **Objectives**
@@ -23,16 +23,10 @@ After attaining this skill, and as a demonstration of it, I will have:
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 ||||
-| - What computer science is in a way that anybody can understand | [ ]   | [ ] |
-| - Who a computer scientist is | [ ] | [ ] |
+| - What computer science is | [ ]   | [ ] |
 | - The role of a computer scientist |   [ ]   |   [ ] |
+| - Applications of computer science| [ ] | [ ] |
 | - The differences between a programmer and a computer scientist| [ ] | [ ] |
-| - What algorithms are | [ ] | [ ]  |
-| - What programming is   | [ ] | [ ]  |
-| - Common data structures      | [ ] | [ ]  |
-| - What artificial intelligence is | [ ] | [ ]  |
-| - What computer security is | [ ] | [ ]  |
-| - What big data is | [ ] | [ ]  |
 
 
 
@@ -44,12 +38,12 @@ After attaining this skill, and as a demonstration of it, I will have:
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I come across a new concept in computing| | |
-| - **Action:** I do a few minutes of research to see if I understand it, how it might affect me, and whether I want to learn more about it | [ ] | [ ] |
-| **Context:** When I see someone reference a computer science term for programming| | |
-| - **Action:** I clarify/understand the difference and when needed communicate the difference to anyone I engage with | [ ] | [ ] |
+| **Context:** When I find a computer science field I want to specialize in|||
+| - **Action:** I do a few minutes of research on that field to get a good understanding of what it entails| [ ] | [ ] |
 | **Context:** When fellow learners approach me with basic questions on computer science| | |
-| - **Action:** I share my understanding of the concept with them | [ ] | [ ] |
+| - **Action:** I share my understanding with them | [ ] | [ ] |
+| **Context:** When I see someone reference a computer science term for programming| | |
+| - **Action:** I clarify the difference and when needed communicate the difference to anyone I engage with | [ ] | [ ] |
 
 
 ----------
@@ -60,5 +54,6 @@ After attaining this skill, and as a demonstration of it, I will have:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I have the ability to leverage my understanding of basic computer science concepts to specialize in any field I want | [ ] | [ ] |
-| By understanding basic computer science concepts I have taken an important step to becoming a world class developer | [ ] | [ ] |
+| Learning computer science is one of the most enjoyable experiences | [ ] | [ ] |
+| I have the ability to leverage my understanding of the possibilities of computer science to specialize in any field I want | [ ] | [ ] |
+| Concepts around computer science come easy to me when I first assume the right mindset| [ ] | [ ] |
