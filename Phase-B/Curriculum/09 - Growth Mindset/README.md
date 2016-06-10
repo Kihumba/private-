@@ -46,4 +46,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can leverage my environment to grow | [ ] | [ ] |
 | I can learn from observing and mimicking others | [ ] | [ ] |
-| My shortcomings represent an opportunity for growth not a celling | [ ] | [ ] |
+| My shortcomings are an opportunity for growth | [ ] | [ ] |

@@ -10,7 +10,7 @@ Aspiring Andelans see high levels of motivation and commitment to objectives as 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. A set objective for time and scope of delivery of Bootcamp project
-2. Complete Bootcamp project and presentation meeting with expectations set above
+2. Complete Bootcamp project and presentation, meeting with expectations set above
 
 
 **Objectives**

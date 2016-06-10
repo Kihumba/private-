@@ -10,7 +10,7 @@ Aspiring Andelans value receiving feedback and are able to apply feedback they r
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. Screenshot of conversations showing when I requested for feedback during Bootcamp
-2. A report on an example of an experience where I benefitted from getting feedback about my work
+2. A report on an example of an experience where I benefitted from getting feedback about my work during Bootcamp
 
 
 **Objectives**

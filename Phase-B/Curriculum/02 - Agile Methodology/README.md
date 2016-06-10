@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * The Agile Manifesto | [ ] | [ ]  |
 | * The differences between Agile and the waterfall methodologies for software development |   [ ]   |   [ ] |
-| * Common terms used in Scrum - Retrospective, Daily Standups, Sprint Planning, Sprint, Point Systems, Velocity, Story, Epic, Release, Task (Different Types) | [ ] |    [ ] |
+| * Common terms used in Scrum - retrospective, daily standups, sprint planning, sprint, point systems, velocity, story, epic, release, task (different types) | [ ] |    [ ] |
 
 
 ----------

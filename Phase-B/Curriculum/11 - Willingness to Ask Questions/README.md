@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans see asking questions as important. They show a readiness to ask many questions, majority of which are holistic and are focused on obtaining comprehension rather driving straight into the task.
+Aspiring Andelans see asking questions as important, and show a readiness to ask many questions in multiple situations.
 
 
 **Output**
@@ -35,14 +35,16 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-|**Context:** When working with teams or working on projects **Action:** I confidently ask questions that are clear and concise | [ ] |    [ ] |
-|**Context:**  When working with teams or working on projects **Action:** I willingly ask many open-ended questions | [ ] |  [ ] |
-|**Context:**  When interacting with teams or working on projects **Action:** I ask  questions  publicly for the benefit of the group/team | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I engage in the question loop | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I Identify what I need to know | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I Identify where and how I can get that info | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I ask effective questions to the appropriate source | [ ] |    [ ] |
 |**Context** When I do not have a question in mind at a time when it may be valuable to ask a question **Actions** I think of worthwhile questions to ask | [ ] |    [ ] |
+|**Context:** When working on a project | [ ] |    [ ] |
+|- **Context:** When interacting with team members **Action:** I confidently ask questions that are clear and concise | [ ] |    [ ] |
+|- **Context:** When interacting with team members **Action:** I willingly ask many open-ended questions | [ ] |  [ ] |
+|- **Context:**  When interacting with team members **Action:** I ask questions publicly for the benefit of the group/team | [ ] |    [ ] |
+
 
 ----------
 

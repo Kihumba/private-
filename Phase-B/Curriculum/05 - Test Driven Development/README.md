@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I am creating new functionality **Action:** I define my test before I write my code | [ ] | [ ]  |
 | **Context:** When building out any application using the TDD approach **Action:** I write tests, let them fail, before adding in code to make the tests pass. |   [ ]   |   [ ] |
 | **Context:** When building an application **Action:** I make sure to get as close as possible to 100% test coverage. | [ ] |    [ ] |
-| **Context:** When writing test cases **Action:** I identify all the possible edge cases and write my tests to take care of these cases | [ ] |    [ ] |
+| **Context:** When writing test cases **Action:** I identify all the possible edge cases and write tests for each of these cases | [ ] |    [ ] |
 
 ----------
 
@@ -51,5 +51,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | TDD can help me attain 100% test coverage | [ ] | [ ] |
 | Writing tests reduces the risk of my program malfunctioning in the future | [ ] | [ ] |
 | Writing tests help me better define the specifications of an application I am building | [ ] | [ ] |
-| My application will be considered more stable if I have solid test coverage | [ ] | [ ] |
+| My application will be more stable if I have solid test coverage | [ ] | [ ] |
 | Following TDD practice will make me a better programmer | [ ] | [ ] |
