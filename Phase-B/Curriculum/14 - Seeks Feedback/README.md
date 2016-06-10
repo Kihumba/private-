@@ -1,15 +1,15 @@
-# Outcome 14 - Seeks & Requests Feedback
+# Outcome 14 - Seeks Feedback
 
 **Skill Description**
 ----------
-Aspiring Andelans value receiving feedback and are able to apply it productively to improve on their performance.
+Aspiring Andelans value receiving feedback and are able to apply feedback they receive to improve on their performance.
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Snapshot of conversations showing when I requested for feedback during Bootcamp
+1. Screenshot of conversations showing when I requested for feedback during Bootcamp
 2. A report on an example of an experience where I benefitted from getting feedback about my work
 
 
@@ -22,7 +22,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| * Importance/gains of requesting & seeking feedback | [ ] |    [ ] |
+| * Importance and benefits of seeking feedback | [ ] |    [ ] |
 | * Approaches for constructively and effectively receiving feedback | [ ] | [ ] |
 
 
@@ -36,7 +36,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | **Context:** When receiving feedback **Action:** I acknowledge receipt of the feedback and the value of the same | [ ] |    [ ] |
 | **Context:** When receiving feedback **Action:** I ensure I stay positive while also seeing the possible value of the feedback | [ ] |    [ ] |
-| **Context:**  When receiving feedback **Action:** I take note of the feedback and make some effort to follow up with action plans | [ ] |    [ ] |
+| **Context:**  After receiving feedback **Action:** I take note of the feedback ensure to follow up with action plans | [ ] |    [ ] |
+| **Context:**  After receiving feedback **Action:** I take deliberate steps to act on the feedback received | [ ] |    [ ] |
 
 ----------
 

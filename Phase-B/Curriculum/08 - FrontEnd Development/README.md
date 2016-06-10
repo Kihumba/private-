@@ -9,7 +9,7 @@ Aspiring Andelans should have a good idea of how to use the major front-end tech
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Github repo containing a clone of a simple user interface created using HTML and CSS.
+1. GitHub repo containing a clone of a simple user interface created using HTML and CSS.
 
 
 **Objectives**
@@ -23,11 +23,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * Technologies that comprise front-end web development | [ ] | [ ]  |
 | * How browsers render documents |   [ ]   |   [ ] |
-| * HTML Document Structure |   [ ]   |   [ ] |
+| * HTML document structure |   [ ]   |   [ ] |
 | * Common Tags available in HTML and what they are used for |   [ ]   |   [ ] |
 | * Common terms used in CSS | [ ] |    [ ] |
 | * Common CSS properties | [ ] |    [ ] |
-| * CSS Box Layout and how CSS Positioning works | [ ] |    [ ] |
+| * CSS Box layout and how CSS positioning works | [ ] |    [ ] |
 
 
 ----------

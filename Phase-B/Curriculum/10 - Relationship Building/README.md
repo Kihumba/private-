@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to identify, approach and comfortably build rapport with team members, trainers and staff members at Andela.
+Aspiring Andelans should be able to identify, approach and comfortably build rapport with Bootcampers, Fellows, trainers, and staff members at Andela.
 They understand that establishing and strengthening relationships is valuable.
 
 
@@ -11,7 +11,7 @@ They understand that establishing and strengthening relationships is valuable.
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. Comprehensive/Informative verbal self introduction
-2. A blog post on interesting attributes of four fellows and one member of staff you proactively interacted with within one week
+2. A blog post on interesting attributes of four fellows and one member of staff I proactively interacted with within one week
 
 
 **Objectives**
@@ -38,11 +38,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 |**When initiating or building relationships** | | |
-| **Context:** At the beginning of the relationship e.g when meeting the team  **Action:** I communicate and share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |
+| **Context:** At the beginning of the relationship when I am first meeting [or maybe getting to know] someone **Action:** I share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |
 | **Context:** During team meetings and catch up sessions **Action:** I validate other’s perspectives, contributions, and concerns in the face of disagreements | [ ] |    [ ] |
 | **Context:** When reaching out to build rapport with the team or team member formally or informally **Action:** I express a genuine interest in the other person, their activities, interests and well-being | [ ] |    [ ] |
-| **Context:** When reaching out to build rapport with the team or team member formally or informally **Action:** I communicate and share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |
-| **Context:** When building relationships with a team I am working with on a project **Action:** I lookout for ways to provide support to the other person in the relationship (listens to them, provides feedback when they want it, etc..) | [ ] | [ ] |
+| **Context:** When reaching out to build rapport with the team or team member **Action:** I communicate and share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |
+| **Context:** When building relationships with a team I am working with on a project **Action:** I am collaborative and supportive | [ ] | [ ] |
 
 ----------
 

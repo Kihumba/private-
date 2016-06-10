@@ -2,16 +2,13 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans recognize how speaking is distinct from being understood. They can describe why speaking to be understood is a necessary skill for professional environments. They regularly demonstrates ability to be clear and audible when speaking.
+Aspiring Andelans recognize how speaking is distinct from being understood. They can describe why speaking to be understood is a necessary skill for professional environments. They regularly demonstrate ability to be clear and audible when speaking.
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Trainers observation of Bootcamper speaking during:
-  - Class interactions
-  - One on One
-  - Presentations e.g project, inspiration thought
+1. Project presentation to the entire group showing ability to speak effectively
 
 
 **Objectives**
@@ -50,5 +47,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Speaking to be understood directly correlates with how I’m perceived  in my professional and leadership capacity |   [ ]   |   [ ] |
+| Speaking to be understood directly correlates with how I am perceived in my professional and leadership capacity |   [ ]   |   [ ] |
 | If I practice every day I can master this skill to enhance my spoken interaction with my coworkers in my daily work |   [ ]   |   [ ] |

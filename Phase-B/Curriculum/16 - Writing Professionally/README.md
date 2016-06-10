@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:**  When sending an email **Action:** I ensure I double check with Grammarly and/or my colleagues to ensure there are no grammatical errors before sending the message | [ ] | [ ] |
+| **Context:**  When writing a message or a blog post **Action:** I ensure to double check with Grammarly and/or my colleagues to ensure there are no grammatical errors before sending the message | [ ] | [ ] |
 | **Context:**  When using chat technologies **Action:** I ensure my grammar is correct regardless of whether the conversation is formal or not | [ ] | [ ] |
 | **Context:**  When writing a message or a blog post **Action:** I check it for compliance with the 7Cs | [ ] |  [ ] |
 | **Context:**  When writing a message or a blog post **Action:** I ensure I get and integrate feedback on how I can make my message more clear and complete | [ ] |  [ ] |

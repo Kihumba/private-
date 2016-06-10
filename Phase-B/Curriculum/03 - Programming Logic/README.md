@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to understand fundamentally how to break down problems into programmable logic while also being able to write and use functions properly to facilitate reuse. In addition to this, they will be able to identify common problem areas where the performance of a program might be affected.
+Aspiring Andelans should understand the fundamentals of how to break down problems into programmable logic, and be able to write reusable functions. Additionally, they will be able to identify common problem areas where the performance of a program might be affected.
 
 
 **Outputs**

@@ -36,12 +36,13 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 |**Context:** When working with teams or working on projects **Action:** I confidently ask questions that are clear and concise | [ ] |    [ ] |
-|**Context:**  When working with teams or working on projects **Action:** I willingly ask many open-ended questions | [ ] |    [ ] |
+|**Context:**  When working with teams or working on projects **Action:** I willingly ask many open-ended questions | [ ] |  [ ] |
 |**Context:**  When interacting with teams or working on projects **Action:** I ask  questions  publicly for the benefit of the group/team | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I engage in the question loop | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I Identify what I need to know | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I Identify where and how I can get that info | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I ask effective questions to the appropriate source | [ ] |    [ ] |
+|**Context** When I do not have a question in mind at a time when it may be valuable to ask a question **Actions** I think of worthwhile questions to ask | [ ] |    [ ] |
 
 ----------
 
@@ -51,6 +52,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Asking questions is a sign of confidence and strength, not an admission of weakness |   [ ]   |   [ ] |
-| Asking questions directs focus and attention to the real issues |   [ ]   |   [ ] |
+| Asking questions is a sign of confidence and strength |   [ ]   |   [ ] |
 | I can ask questions that generate meaningful knowledge |   [ ]   |   [ ] |

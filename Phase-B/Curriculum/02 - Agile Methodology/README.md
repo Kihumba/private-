@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to make use of the Scrum framework to manage small to mid-sized projects with a knowledge of all the necessary terms and concepts used.
+Aspiring Andelans should be able to make use of the Scrum framework to manage small- to mid-sized projects with a knowledge of all the necessary terms and concepts used.
 
 
 **Output**
@@ -49,5 +49,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| My project stands a higher chance of succeeding when using Agile | [ ] | [ ]  |
+| My project stands a higher chance of succeeding when I use Agile | [ ] | [ ]  |
 | Good software is built by continuously integrating customer and client feedback into my application and my process |   [ ]   |   [ ] |

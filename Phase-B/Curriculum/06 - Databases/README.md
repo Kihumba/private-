@@ -10,7 +10,7 @@ Aspiring Andelans should know what SQL is, the different types of databases, exa
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
 1. SQL database design for a simple database problem involving at least two tables. (Extra credit if there are relationships).
-2. Snapshots showing results for at least 5 reports generated from the data within the database using SQL.
+2. Screenshots showing results for at least 5 reports generated from the data within the database using SQL.
 
 
 **Objectives**
@@ -27,7 +27,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * Examples of SQL and NoSQL databases | [ ] |    [ ] |
 | * Definition of Databases and tables and how they are related | [ ] |    [ ] |
 | * What a database Query is | [ ] |    [ ] |
-| * The different types of database indexes - Primary Key and Foreign Key | [ ] |    [ ] |
+| * The different types of database indexes - Primary key and foreign key | [ ] |    [ ] |
 | * Simple SQL commands and their respective functions | [ ] |    [ ] |
 | * Some of the generally available data types in SQL Databases | [ ] |    [ ] |
 
@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When faced with a data modeling problem **Action:** I create the required table structures diagrammatically either using pencil and paper or using software like SQL Workbench | [ ] | [ ]  |
+| **Context:** When faced with a data modeling problem **Action:** I create the required table structures diagrammatically | [ ] | [ ]  |
 | **Context:** When I require a subset of data from a table **Action:** I create SQL queries to extract the specific data needed | [ ] |    [ ] |
 | **Context:** When I want to create table relationships **Action:** I specify a foreign key that identifies the related record in the related table |   [ ]   |   [ ] |
 | **Context:** When I want to specify fields in a table design **Action:** I make use of data types adequately to ensure the data stored is well formatted | [ ] |    [ ] |

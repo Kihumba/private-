@@ -24,8 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * What motivation is  | [ ] |    [ ] |
 | * How motivation and commitment influences work, relationships, personal life | [ ] |    [ ] |
-| * How people can influence one another’s levels of motivation and commitment | [ ] |    [ ] |
-| * Motivation and commitment ebbs and flows over time | [ ] |    [ ] |
+| * How people can influence one another’s levels of motivation and commitment | [ ] |    [ ] |m
 | * The difference between intrinsic and extrinsic motivation | [ ] |    [ ] |
 
 
@@ -38,9 +37,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When working with a team **Action:** I intentionally learn about the individual motivations of each team member | [ ] |    [ ] |
+| **Context:**  When faced with challenges/blockers that slow-down/hinder the progress of work and threaten motivation **Action:** I identify the challenge/blocker and ensure that I understand what it is and how it is impacting motivation and productivity | [ ] | [ ] |
 | **Context:**  When I am struggling to maintain high levels of motivation and commitment on a personal or team initiative **Action:**  I intentionally manage myself to remain productive and effective | [ ] |    [ ] |
 | **Context:**  When I have to do a task through different levels of motivation **Action:** I keep my focus on the results attainable at the end to enable me push through. | [ ] | [ ] |
-| **Context:**  When faced with challenges/blockers that slow-down/hinder the progress of work and threaten motivation **Action:** I identify the challenge/blocker and ensure that I understand what it is and how it is impacting motivation and productivity | [ ] | [ ] |
 | **Context:**  When faced with challenges/blockers that slow-down/hinder the progress of work and threaten motivation **Action:** I leverage fellows and trainers with experience in similar cases to assist with ideas, recommendations or solutions | [ ] | [ ] |
 | **Context:**  When levels of motivation are low due to reasons not explicitly related to the task itself **Action:** I will communicate low motivation levels with my team and relevant stakeholders to preempt misunderstandings due to possible low productivity | [ ] | [ ] |
 

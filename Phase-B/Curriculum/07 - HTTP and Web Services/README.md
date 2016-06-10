@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should know what the Request-Response Cycle is, the difference between clients and servers and how APIs and web services operate.
+Aspiring Andelans should know what the *Request-Response Cycle* is, the difference between clients and servers, and how APIs and web services operate.
 
 
 **Output**
@@ -22,10 +22,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How a URL gets routed to a web application (HTTP Request-Response Life Cycle) | [ ] | [ ]  |
-| * Common HTTP Verbs and typical use cases |   [ ]   |   [ ] |
+| * Common HTTP verbs and typical use cases |   [ ]   |   [ ] |
 | * Differences between the client and the server | [ ] |    [ ] |
 | * Examples of clients and servers and a high-level view of how they operate | [ ] |    [ ] |
-| * Different HTTP Status codes and what they mean | [ ] |    [ ] |
+| * Different HTTP status codes and what they mean | [ ] |    [ ] |
 
 
 ----------
@@ -50,5 +50,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can used data from multiple APIs to create interesting applications  |   [ ]   |   [ ] |
-| I can build multiple clients on different platforms (mobile, desktop, embedded system) to consume data and functionality from an HTTP API. |   [ ]   |   [ ] |
+| I can leverage on data from APIs to create robust multi-functional applications  |   [ ]   |   [ ] |
+| One API can serve multiple clients on different platforms |   [ ]   |   [ ] |
