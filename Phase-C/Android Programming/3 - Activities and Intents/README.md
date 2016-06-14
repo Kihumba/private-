@@ -5,7 +5,7 @@ The fellow has the ability to create apps with multiple activities. They are als
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
-Build a simple android app with at least 3 activities including a fancy splash screen, an activity which has the ability to take and upload pictures to an imageView, a settings activity, and a back arrow button to move back to previous activities
+- Build a simple android app with at least 3 activities including a fancy splash screen, an activity which has the ability to take and upload pictures to an imageView, a settings activity, and a back arrow button to move back to previous activities
 
 ## Objectives
 
