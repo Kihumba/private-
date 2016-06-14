@@ -5,7 +5,7 @@ The fellow can publish their app on the Google Play Store.
 
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to do the following:
-- Publish the app built on Outcome 7 to the Google Play Store.
+- Publish the output of Learning Outcome 7 to the Google Play Store.
 
 ## Objectives
 
@@ -13,9 +13,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What is the process for publishing Android apps?| [ ] | [ ] |
-| How is an app versioned and signed? | [ ] | [ ] |
-| What other options are available for publishing android apps aside the Google Play store? What is the process for publishing to at least one of these stores? | [ ] | [ ] |
+| I can describe the following from memory: | | | 
+| The process for publishing Android apps | [ ] | [ ] |
+| The other options that are available for publishing android apps aside the Google Play store | [ ] | [ ] |
 
 ----------
 
@@ -23,8 +23,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I have completed an android app ... **Action:** I deploy the app by publishing on the Google Play Store. | [ ] | [ ]  |
-| **Context:** When I want to release an update of my app ... **Action:** I version it before deploying it to the Play Store.  | [ ] | [ ]  |
+| **Context:** When I have completed an android app **Action:** I deploy the app by publishing on the Google Play Store. | [ ] | [ ]  |
+| **Context:** When I want to release an update of my app **Action:** I version it before deploying it to the Play Store. | [ ] | [ ]  |
 
 ----------
 
@@ -32,4 +32,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| My app isn't finished until I'm proud enough to publish it to the Google Play store..| [ ] | [ ]  |
+| My app is not finished until I am proud enough to publish it to the Google Play store. | [ ] | [ ]  |

@@ -13,11 +13,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What are services?| [ ] | [ ] |
-| What are the cases for using services? | [ ] | [ ] |
-| What are content providers? | [ ] | [ ] |
-| What specific content providers are commonly used?| [ ] | [ ] |
-| How do you use content providers like the Calendar Provider and the Contact Providers?| [ ] | [ ] |
+| I can describe the following from memory: | | |
+| Services | [ ] | [ ] |
+| The cases for using services | [ ] | [ ] |
+| Content providers | [ ] | [ ] |
+| Commonly used content providers | [ ] | [ ] |
+| How to use content providers like the Calendar Provider and the Contact Providers | [ ] | [ ] |
 
 ----------
 
@@ -25,9 +26,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to run a long running process in the background ... **Action:** I use services.| [ ] | [ ]  |
-| **Context:** When faced with challenges relating to managing data while building android apps ... **Action:** I do not reinvent the wheel. I first seek out for available content providers or services/APIs.| [ ] | [ ]  |
-| **Context:** When I want to access data in a content provider ... **Action:** I use the `ContentResolver` object in my application's `Context` to communicate with the provider as a client.| [ ] | [ ]  |
+| **Context:** When I need to run a long running process in the background **Action:** I use services.| [ ] | [ ]  |
+| **Context:** When faced with challenges relating to managing data while building android apps **Action:** I do not reinvent the wheel. I first seek out for available content providers or services/APIs.| [ ] | [ ]  |
+| **Context:** When I want to access data in a content provider **Action:** I use the `ContentResolver` object in my application's `Context` to communicate with the provider as a client.| [ ] | [ ]  |
 
 ----------
 
@@ -36,4 +37,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | There are lots of content providers available to enhance my work when I am building apps.| [ ] | [ ]  |
-|I do not need to reinvent the wheel and I can make use of services for authentication, contact providers and calendar providers when I am building an android application. |   [ ]   |   [ ] |
+| I do not need to reinvent the wheel and I can make use of services for authentication, contact providers and calendar providers when I am building an android application. |   [ ]   |   [ ] |
