@@ -1,8 +1,7 @@
 # Outcome 7 - Multithreading
 ## Skill Description
 
-The Fellow will be able to able to run tasks in parallel, utilizing the threads available on the device to run blocking processes in the background to avoid User Experience distortion.
-
+The Fellow will be to able to run tasks in parallel, utilizing the threads available on the device to run blocking processes in the background to avoid User Experience distortion.
 
 ## Outputs
 
