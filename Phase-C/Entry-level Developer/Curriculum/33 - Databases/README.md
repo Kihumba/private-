@@ -1,14 +1,4 @@
-<<<<<<< HEAD:Phase-C/Simulation-Learning-Outcomes/Curriculum/13 - Databases/README.md
-<<<<<<< HEAD:Phase-C/Simulation-Learning-Outcomes/Curriculum/2 - Databases/README.md
-# Outcome 2 - Databases
-## Skill Description
-A Fellow should able to select a Database based on the data storage requirements, as well as the structure for querying and storing data.
-=======
-# Outcome 13 - Databases
->>>>>>> defined LOs for all D1 technical skills and tools:Phase-C/Simulation-Learning-Outcomes/Curriculum/13 - Databases/README.md
-=======
 # Outcome 33 - Databases
->>>>>>> created entry-level developer role:Phase-C/Entry-level Developer/Curriculum/33 - Databases/README.md
 
 **Skill Description**
 ----------
@@ -18,7 +8,7 @@ The Fellow understands the basics of databases and can effectively use one to st
 ----------
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-- A Screenshot of score (80% at minimum) from each section of SQLZoo.net Quiz
+1. A Screenshot of score (80% at minimum) from each section of SQLZoo.net Quiz
 
 **Objectives**
 ----------
