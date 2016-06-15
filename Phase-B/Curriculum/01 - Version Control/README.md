@@ -9,7 +9,7 @@ Aspiring Andelans understand what version control is and how using it can collab
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. A list of contexts when version control is useful and why
+1. A list of contexts where version control is useful and why
 
 
 **Objectives**
