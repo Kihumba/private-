@@ -17,7 +17,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | The requirements for Application Distribution on AppStore | [ ] | [ ] |
 | How to upload an App to the Apple AppStore | [ ] | [ ] |
 | Alpha and Beta Testing of your uploaded application | [ ] | [ ] |
-| Localization in iOS app development |
 | Localizing text to rendered programmatically | [ ] | [ ] |
 | Localizing text in the Storyboard | [ ] | [ ] |
 | Referencing localized strings programmatically | [ ] | [ ] |
