@@ -38,6 +38,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Beta tester helps me simulate my application's initialization on an iOS device over-the-air | [ ] | [ ] |
+| Beta testers help me simulate my application's initialization on an iOS device over-the-air | [ ] | [ ] |
 | Localization gives me the power to distribute a single application with multiple language support | [ ] | [ ] |
 | Regionalizing my application allows me target and restrict my audience | [ ] | [ ] |
