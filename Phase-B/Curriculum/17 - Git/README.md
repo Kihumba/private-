@@ -48,4 +48,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can collaborate better when I make use of a distributed version control system | [ ] | [ ]  |
+| I can collaborate better when I make use of a distributed version control system like Git | [ ] | [ ]  |
