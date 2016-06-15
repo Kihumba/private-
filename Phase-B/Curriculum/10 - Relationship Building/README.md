@@ -54,4 +54,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can build a relationship with anyone |   [ ]   |   [ ] |
 | It is never too late to build a relationship with someone |   [ ]   |   [ ] |
-| I can build relationships regardless of my or the other person’s personality type (e.g. introvert vs. extrovert) |   [ ]   |   [ ] |
+| I can build relationships regardless of my or the other person’s personality type |   [ ]   |   [ ] |
