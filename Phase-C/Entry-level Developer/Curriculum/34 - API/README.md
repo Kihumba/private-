@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | API | [ ] | [ ]  |
 | CRUD     | [ ] | [ ]  |
-| Tradeoff between REST and SOAP     | [ ] | [ ]  |
+| Tradeoffs between REST and SOAP     | [ ] | [ ]  |
 | HTTP status codes     | [ ] | [ ]  |
 | Web/HTTP API Best Practices     | [ ] | [ ]  |
 
