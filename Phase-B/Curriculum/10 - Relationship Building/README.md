@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to identify, approach and comfortably build rapport with Bootcampers, Fellows, trainers, and staff members at Andela.
+Aspiring Andelans are able to identify, approach and comfortably build rapport with Bootcampers, Fellows, trainers, and staff members at Andela.
 They understand that establishing and strengthening relationships is valuable.
 
 

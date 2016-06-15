@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should understand what classes and objects are, how to design simple data models, and how to apply object-oriented programming principles to solve basic problems.
+Aspiring Andelans  understand what classes and objects are, how to design simple data models, and how to apply object-oriented programming principles to solve basic problems.
 
 
 **Output**
@@ -25,6 +25,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * Definition of common OOP principles and concepts |   [ ]   |   [ ] |
 | * Examples of languages that support OOP and languages that are purely procedural | [ ] |    [ ] |
 | * Examples of where OOP can be successfully applied | [ ] |    [ ] |
+| * How to design simple data models | [ ] |    [ ] |
 | * Key differences between object-oriented programming and procedural programming and benefits of OOP over the latter | [ ] |    [ ] |
 | * What metaprogramming is | [ ] |    [ ] |
 

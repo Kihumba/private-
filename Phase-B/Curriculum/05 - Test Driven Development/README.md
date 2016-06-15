@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should know what tests are, how to write them, and how the TDD approach can be beneficial in development.
+Aspiring Andelans  know what tests are, how to write them, and how the TDD approach can be beneficial in development.
 
 
 **Output**
@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * Definition of Test Driven Development | [ ] | [ ]  |
 | * Pros and Cons of using the TDD approach to developing applications |   [ ]   |   [ ] |
-| * Steps involved in the TDD process - Add a Test, Run Tests, Write the Code (to make the tests pass), Run Tests, Refactor Code, Repeat | [ ] |    [ ] |
+| * Steps involved in the TDD process | [ ] |    [ ] |
 
 
 ----------
@@ -36,8 +36,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am creating new functionality **Action:** I define my test before I write my code | [ ] | [ ]  |
-| **Context:** When building out any application using the TDD approach **Action:** I write tests, let them fail, before adding in code to make the tests pass. |   [ ]   |   [ ] |
-| **Context:** When building an application **Action:** I make sure to get as close as possible to 100% test coverage. | [ ] |    [ ] |
+| **Context:** When building out any application using the TDD approach **Action:** I write tests, let them fail, before adding in code to make the tests pass |   [ ]   |   [ ] |
+| **Context:** When building an application **Action:** I strive for 100% test coverage | [ ] |    [ ] |
 | **Context:** When writing test cases **Action:** I identify all the possible edge cases and write tests for each of these cases | [ ] |    [ ] |
 
 ----------

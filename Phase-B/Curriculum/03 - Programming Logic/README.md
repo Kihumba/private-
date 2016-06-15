@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should understand the fundamentals of how to break down problems into programmable logic, and be able to write reusable functions. Additionally, they will be able to identify common problem areas where the performance of a program might be affected.
+Aspiring Andelans  understand the fundamentals of how to break down problems into programmable logic, and be able to write reusable functions. Additionally, they will be able to identify common problem areas where the performance of a program might be affected.
 
 
 **Outputs**
@@ -45,7 +45,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I am writing logic that is repeated in my codebase **Action:** I make use of functions to facilitate reuse of code | [ ] | [ ]  |
 | **Context:** When I write a function **Action:** I return a value that represents the desired output for that function | [ ] |    [ ] |
 | **Context:** When I am faced with a programming challenge **Action:** I break it down into a series of steps that can be represented using functions |   [ ]   |   [ ] |
-| **Context:** After writing a working program, before delivering **Action:** I always check to see if there are ways to make it run faster and/or conserve system resources like internet bandwith or memory | [ ] |    [ ] |
+| **Context:** After writing a working program, before delivering **Action:** I always check to see if there are ways to make it run faster and/or conserve system resources like internet bandwidth or memory | [ ] |    [ ] |
 | **Context:** When I am writing code **Action:** I follow best practices with respect to naming and code organization to make sure my code is easy to read and understand for the next developer who will work on it | [ ] |    [ ] |
 
 ----------

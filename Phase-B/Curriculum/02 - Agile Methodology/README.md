@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to make use of the Scrum framework to manage small- to mid-sized projects with a knowledge of all the necessary terms and concepts used.
+Aspiring Andelans are able to make use of the Scrum framework to manage small- to mid-sized projects with a knowledge of all the necessary terms and concepts used.
 
 
 **Output**
@@ -23,8 +23,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * The Agile Manifesto | [ ] | [ ]  |
-| * The differences between Agile and the waterfall methodologies for software development |   [ ]   |   [ ] |
-| * Common terms used in Scrum - retrospective, daily standups, sprint planning, sprint, point systems, velocity, story, epic, release, task (different types) | [ ] |    [ ] |
+| * The differences between Agile and waterfall methodologies for software development |   [ ]   |   [ ] |
+| * Common terms used in Scrum  | [ ] |    [ ] |
 
 
 ----------
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am about to start working on a software project  **Action:** I break down the functionality into small units | [ ] | [ ]  |
-| **Context:** When I am planning a project I would like to work on **Action:** I make use tools like Trello/Pivotal Tracker to track tasks, milestones, deliverables and due dates | [ ] |    [ ] |
+| **Context:** When I am planning a project I would like to work on **Action:** I make use of tools like Trello/Pivotal Tracker to track tasks, milestones, deliverables and due dates | [ ] |    [ ] |
 | **Context:** When I am planning a project and see that I have a number of tasks to work on **Action:** I assign each task points based on their complexity |   [ ]   |   [ ] |
 | **Context:** When I am planning a project and see that I have a number of tasks to work on **Action:** I prioritize them based on importance and complexity (or a combination of both) | [ ] |    [ ] |
 | **Context:** When I am actively working on a project **Action:** I reflect everyday on the state of the project to assess my progress | [ ] |    [ ] |

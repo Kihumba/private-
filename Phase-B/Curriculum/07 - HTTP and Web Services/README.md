@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should know what the *Request-Response Cycle* is, the difference between clients and servers, and how APIs and web services operate.
+Aspiring Andelans  know what the *Request-Response Cycle* is, the difference between clients and servers, and how APIs and web services operate.
 
 
 **Output**

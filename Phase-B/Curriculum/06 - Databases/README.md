@@ -2,14 +2,14 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should know what SQL is, the different types of databases, examples of databases and how to design basic database tables.
+Aspiring Andelans know what SQL is, the different types of databases, examples of databases and how to design basic database tables.
 
 
 **Output**
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. SQL database design for a simple database problem involving at least two tables. (Extra credit if there are relationships).
+1. SQL database design for a simple database problem involving at least two tables with relationships.
 2. Screenshots showing results for at least 5 reports generated from the data within the database using SQL.
 
 
@@ -23,13 +23,13 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * What SQL stands for | [ ] | [ ]  |
-| * Types of Databases that exists (SQL and NoSQL) and the differences between them |   [ ]   |   [ ] |
+| * Types of databases that exists (SQL and NoSQL) and the differences between them |   [ ]   |   [ ] |
 | * Examples of SQL and NoSQL databases | [ ] |    [ ] |
-| * Definition of Databases and tables and how they are related | [ ] |    [ ] |
-| * What a database Query is | [ ] |    [ ] |
+| * Definition of databases and tables and how they are related | [ ] |    [ ] |
+| * What a database query is | [ ] |    [ ] |
 | * The different types of database indexes - Primary key and foreign key | [ ] |    [ ] |
 | * Simple SQL commands and their respective functions | [ ] |    [ ] |
-| * Some of the generally available data types in SQL Databases | [ ] |    [ ] |
+| * Some of the generally available data types in SQL databases | [ ] |    [ ] |
 
 
 ----------
@@ -55,4 +55,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Databases should be used whenever I am solving a problem that requires persistent data |   [ ]   |   [ ] |
 | There is no one database solution that addresses all data storage needs |   [ ]   |   [ ] |
-| Investing time in structuring my data properly could help me create better performing applications |   [ ]   |   [ ] |
+| Investing time in structuring my data properly helps me create better performing applications |   [ ]   |   [ ] |

@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans should be able to build and manage personal and shared repos using conventional Git workflows and GitHub.
+Aspiring Andelans are able to build and manage personal and shared repos using conventional Git workflows and GitHub.
 
 
 **Output**
@@ -55,5 +55,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| By using branches I am able to creativity without harming the project | [ ] | [ ]  |
+| By using branches I am able to express my creativity without harming the project | [ ] | [ ]  |
 | Using Git for my personal project is very valuable for tracking my progress |   [ ]   |   [ ] |
+| I enable efficient collaboration by prioritizing clear commit messages |   [ ]   |   [ ] |
