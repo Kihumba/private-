@@ -74,4 +74,4 @@ After attaining this skill, and as a demonstration of it, I will create:
 |:-------------|:------------------:|:--------:|
 | I have a clear picture of a programming problem when I model using OOP| [ ] | [ ]  |
 | An application's codebase is more sustainable and reusable when OOP is used | [ ] | [ ]  |
-| OOP can be overused and badly-designed and therefore should be applied appropriately | [ ] | [ ]  |
+| I optimize the value of my code by using OOP in the right contexts | [ ] | [ ]  |
