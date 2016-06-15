@@ -41,7 +41,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |**Context** When I have a take home exercise **Actions** I come back the next day with additional questions about the topic | [ ] |    [ ] |
 |**Context** When an opportunity to talk about Andela presents itself **Actions** I ask questions about the history of the organization | [ ] |    [ ] |
 |**Context** When an opportunity to talk about Andela presents itself **Actions** I ask questions about how the Fellowship affects my life | [ ] |    [ ] |
-      |**Context** When an opportunity to talk about Andela presents itself **Actions** I ask questions about how I can support and contribute to the Fellowship | [ ] |    [ ] |
+|**Context** When an opportunity to talk about Andela presents itself **Actions** I ask questions about how I can support and contribute to the Fellowship | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I engage in the question loop | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I identify what I need to know | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I identify where and how I can get that info | [ ] |    [ ] |
