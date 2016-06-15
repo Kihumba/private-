@@ -1,17 +1,15 @@
 # Outcome 10 - Storyboards, Scenes and Segues
 ## Skill Description
 
-Storyboards are layouts showing the path a user traverses while using your applications. It contains the Scenes and the transitions between the Scenes (Segues).
-
-A scene represents an onscreen content area. A container view controller facilitates navigation and presentation of scenes. Scenes can be connected by relationships or Segues.
+The Fellow will be able to transition from on Scene to another in a Storyboard by attaching Segues to controls in View Controllers (containers) without coding.
 
 ## Output
 
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. Create an iOS project containing a Storyboard, add View Controllers (Scenes) i.e. Table View Controllers, Tab View Controllers and all other abstractions of the View Controller.
-
-2. A **Checkpoint 3** project submission meeting all the required specifications.
+1. An iOS Project containing a Storyboard, and View Controllers (at least 2 abstractions of the View Controller).
+2. An iOS Project with controls attached to Segues to move between Scenes.
+3. A **Checkpoint 3** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
@@ -21,11 +19,12 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | I can describe the following from memory: | | |
 | The contents or elements of a Storyboard | [ ] | [ ] |
 | The purpose of the Scene in a Storyboard | [ ] | [ ] |
-| The Relationships between containers (View Controllers) and Scenes |  [ ] | [ ] |
+| The Relationships between  and Scenes |  [ ] | [ ] |
 | Transitioning from one Scene to another | [ ] | [ ] |
-| The transitions styles and modes for Segues.  | [ ] | [ ] |
-| Storyboard ID (The optional IDs given to Scenes in Storyboards) | [ ] | [ ] |
-| Using Controls used to trigger the Segues (e.g buttons, table cells) | [ ] | [ ] |
+| The transitions styles and modes for Segues | [ ] | [ ] |
+| Attaching _3D Touch_ Peek Preview to Segues | [ ] | [ ] |
+| The Storyboard Identifiers | [ ] | [ ] |
+| Controls used to trigger the Segues | [ ] | [ ] |
 
 -------
 
