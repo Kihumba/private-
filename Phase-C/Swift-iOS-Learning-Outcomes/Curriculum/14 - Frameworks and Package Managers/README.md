@@ -13,7 +13,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The existing Frameworks in Xcode | [ ] | [ ] |
@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need a service that's overly complicated and might pose some redundancy building it from scratch, **Action:** I install and use a Framework that has this service | [ ] | [ ] |
 | **Context:** When I need a Framework, **Action:** I install it using a Package Manager | [ ] | [ ] |

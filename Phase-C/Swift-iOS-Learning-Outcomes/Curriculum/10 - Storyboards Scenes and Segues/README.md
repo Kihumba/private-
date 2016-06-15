@@ -14,7 +14,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The contents or elements of a Storyboard | [ ] | [ ] |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating Scenes in my application, **Action:** I create them inside a Storyboard | [ ] | [ ] |
 | **Context:** When I need create a View Controller / Container, **Action:** I create it inside a Scene | [ ] | [ ] |

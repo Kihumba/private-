@@ -12,7 +12,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The methods triggered by the states of a View Controller | [ ] | [ ] |
@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | When I create a View Controller, I override the methods I need, to run my procedures at the appropriate Application State | [ ] | [ ] |
 | When I need to run a procedure in the View Controller, I add my procedure to the `viewWillAppear` function, which runs just before the Views are displayed | [ ] | [ ] |

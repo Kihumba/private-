@@ -13,7 +13,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | `UIView` as the base class for all UI Elements | [ ] | [ ] |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I add UI View Elements to my View Controller, **Action:** I add the Element that best suits the purpose | [ ] | [ ] |
 | **Context:** When I add Elements to my Controller, **Action:** I link them as Outlets or Actions based on the purpose they serve | [ ] | [ ] |

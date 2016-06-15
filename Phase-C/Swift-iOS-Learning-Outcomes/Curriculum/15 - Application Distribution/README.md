@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The requirements for Application Distribution on AppStore | [ ] | [ ] |
@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I deploy my application, **Action:** I add Beta testers that can run the application on the local devices before releasing the app | [ ] | [ ] |
 | **Context:** When I need my application Localized, **Action:** I create the pertinent Localization string files and add translations for _all_ the words used in the application, hardcoding nothing | [ ] | [ ] |
