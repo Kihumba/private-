@@ -1,32 +1,28 @@
 # Outcome 12 - Views and  Constraints
 ## Skill Description
 
-The _UIViews_ are the UI Elements you add to your app. All the UI Elements in iOS are implementations of the `UIView` class, which contain all the basic UI properties like _size_, _backgroundColor_, _alpha_ etc.
-
-_Constraints_ are rules that bind the Views to the positions they occupy on the Screen of the mobile device. The Constraints help arrange or lock the elements, so there are no glitches when the app is deployed on various devices with different screen sizes and orientations.
+The Fellow will be able to create responsive Scenes, with UI View Elements tied with Constraints, responding to Actions and Outlets to be used by the View Controller.
 
 ## Output
 
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-- Create an iOS Project, add UI Elements to its View Controller, each UI Element to linked to their Outlets and Actions as required.
-- Add Constraints to the UI Elements so they maintain their positions across all Apple mobile devices (3.5” - 5.5”).
+1. An iOS Project with UI Elements on its View Controller linked to their Outlets and Actions as required with Constraints on the UI Elements that help them maintain their positions across all Apple mobile devices (3.5” - 5.5”).
+2. A **Checkpoint 4** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| _Views_ |
-| `UIView` as the base class for all UI Elements. | [ ] | [ ] |
-| Adding `UIViews` to a Scene's container. | [ ] | [ ] |
-| All UI Elements are abstractions from the UIView class. | [ ] | [ ] |
-| The common Elements include `UIButton`, `UILabel`, `UITextView`, `UITextField`, `UIImageView` all inherit the properties of the `UIView` alongside their custom properties. | [ ] | [ ] |
-| Each UIView has its specific purpose and Traits that depict what they represent e.g the `UIImageView` has the Image trait. | [ ] | [ ] |
-| A `UIView` can be referenced as an Outlet (as a variable reference, `IBOutlet`) or as an Action (event triggered by the Element `IBAction`) based on their traits. | [ ] | [ ] |
-| _Constraints_ |
-| Restricting a `UIView` to a position on the screen using `Constraints`. | [ ] | [ ] |
-| Programatic Constraints. | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| `UIView` as the base class for all UI Elements | [ ] | [ ] |
+| How to add `UIViews` to a Scene's View Controller | [ ] | [ ] |
+| All UI Elements as abstractions of the UIView class | [ ] | [ ] |
+| The common UI View Elements | [ ] | [ ] |
+| How to use `IBOutlet` and `IBAction` | [ ] | [ ] |
+| Restricting a `UIView` to a position on the screen | [ ] | [ ] |
+| Setting Constraints programmatically | [ ] | [ ] |
 
 
 ------
@@ -35,9 +31,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I add Elements to my View Controller, **Action:** I add the correct Element that suits the purpose.| [ ] | [ ] |
-| **Context:** When I add Elements to my Controller, **Action:** I link them as Outlets or Actions based on their traits and the purpose they serve. | [ ] | [ ] |
-| **Context:** When I need to position UI Elements in my View Controller, **Action:** I will use constraints to make sure they are not misplaced on various screen sizes. | [ ] | [ ] |
+| **Context:** When I add UI View Elements to my View Controller, **Action:** I add the Element that best suits the purpose | [ ] | [ ] |
+| **Context:** When I add Elements to my Controller, **Action:** I link them as Outlets or Actions based on the purpose they serve | [ ] | [ ] |
+| **Context:** When I need to position UI Elements in my View Controller, **Action:** I will use Constraints to make sure they are not misplaced on various screen sizes | [ ] | [ ] |
 
 ------
 
@@ -45,5 +41,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Views can respond to input when I assign them an `IBAction`. | [ ] | [ ] |
-| Constraints on my UI Elements will make them display properly on all screens. | [ ] | [ ] |
+| UI View Elements are the object users interact with when they use my application | [ ] | [ ] |
+| Views can respond to input when I assign them an `IBAction` | [ ] | [ ] |
+| Constraints on my UI Elements will make them display properly on all screens | [ ] | [ ] |
