@@ -6,8 +6,8 @@ The Fellow will be able to create an iOS Application using the MVC pattern, crea
 ## Output
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. Create a model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`).
-2. Create a `UIViewController` with its Script and UI Component (the container of the Scene in the Storyboard).
+1. A model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`).
+2. A `UIViewController` with its Script and UI Component (the container of the Scene in the Storyboard).
 3. A **Checkpoint 3** project submission meeting all the required specifications.
 
 ## Objectives
