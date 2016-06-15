@@ -1,11 +1,11 @@
 # Outcome 10 - Storyboards, Scenes and Segues
 ## Skill Description
 
-The Fellow will be able to transition from on Scene to another in a Storyboard by attaching Segues to controls in View Controllers (containers) without coding.
+The Fellow will be able to transition from on Scene to another in a Storyboard by attaching Segues to controls in View Controllers(containers) without coding.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
 1. An iOS Project containing a Storyboard, and View Controllers (at least 2 abstractions of the View Controller).
 2. An iOS Project with controls attached to Segues to move between Scenes.
