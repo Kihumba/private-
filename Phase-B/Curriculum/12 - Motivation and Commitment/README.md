@@ -53,5 +53,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Strengthening motivation and commitment will grant me the power to persist, stay positive, and overcome challenges |   [ ]   |   [ ] |
 | Strengthening motivation and commitment will grant me the power to be efficient and productive, achieve mastery, and manage myself and my team |   [ ]   |   [ ] |
-| I can persist until I attain worthwhile goals |   [ ]   |   [ ] |
-| I can maintain my commitment amidst changing times and environments |   [ ]   |   [ ] |
+| I maintain my commitment amidst changing times and environments |   [ ]   |   [ ] |
