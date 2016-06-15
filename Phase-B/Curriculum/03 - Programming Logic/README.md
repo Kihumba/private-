@@ -7,12 +7,11 @@ Aspiring Andelans  understand the fundamentals of how to break down problems int
 
 **Outputs**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
-1. 7 Andelab Bootcamp exercises completed.
-2. 2 in-class code katas solved.
-	- Function to generate prime numbers from 0 to n
-	- Function to generate Fibonacci sequence from 0 to n
+1. 7 Andelabs exercises from the Bootcamp category within the first week of Bootcamp.
+2. A function to generate prime numbers from 0 to n with asymptotic analysis
+3. A function to generate Fibonacci sequence from 0 to n with asymptotic analysis
 
 
 **Objectives**
