@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans are able to identify, approach and comfortably build rapport with Bootcampers, Fellows, trainers, and staff members at Andela.
+Aspiring Andelans are able to identify, approach and comfortably build rapport with Bootcampers, Fellows, Trainers, and Staff members at Andela.
 They understand that establishing and strengthening relationships is valuable.
 
 
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 |**When initiating or building relationships** | | |
-| **Context:** At the beginning of the relationship when I am first meeting [or maybe getting to know] someone **Action:** I share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |
+| **Context:** At the beginning of the relationship when I am first meeting or getting to know someone **Action:** I share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |
 | **Context:** During team meetings and catch up sessions **Action:** I validate other’s perspectives, contributions, and concerns in the face of disagreements | [ ] |    [ ] |
 | **Context:** When reaching out to build rapport with the team or team member formally or informally **Action:** I express a genuine interest in the other person, their activities, interests and well-being | [ ] |    [ ] |
 | **Context:** When reaching out to build rapport with the team or team member **Action:** I communicate and share details about my background and interests in an attempt to find common ones | [ ] |    [ ] |

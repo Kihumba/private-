@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans recognize how speaking is distinct from being understood. They can describe why speaking to be understood is a necessary skill for professional environments. They regularly demonstrate ability to be clear and audible when speaking.
+Aspiring Andelans recognize how speaking is distinct from being understood. They can describe why speaking to be understood is a necessary skill for professional environments. They regularly demonstrate an ability to be clear and audible when speaking.
 
 **Output**
 ----------
@@ -23,8 +23,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * Tools to promote speaking to be understood | [ ] |    [ ] |
 | * Principles of effective verbal communication | [ ] |    [ ] |
 | * What knowledge of your audience entails | [ ] |    [ ] |
-| * What knowledge of your context entails | [ ] |    [ ] |
-| * What knowledge of your content entails | [ ] |    [ ] |
+| * What context means when speaking   | [ ] |    [ ] |
 
 
 ----------
@@ -36,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:**  When speaking in public **Action:** I strive to speak audibly | [ ] |    [ ] |
-| **Context:**  When speaking in public **Action:** I put in effort to be clear and try to frequently check for understanding of the audience | [ ] |    [ ] |
+| **Context:**  When speaking in public **Action:** I put in an effort to be clear and try to frequently check for understanding of the audience | [ ] |    [ ] |
 | **Context:**  When speaking in public **Action:** I speak at a pace and cadence that is easy to understand | [ ] |    [ ] |
 
 ----------

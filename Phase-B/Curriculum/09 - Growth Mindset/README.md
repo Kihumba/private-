@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I become aware of my skill gaps **Action:** I reach out to those who have gone ahead of me to give me guidance, support and insights on how to level up | [ ] |    [ ] |
+| **Context:** When I become aware of my skill gaps **Action:** I reach out to those who can provide guidance, support and insights on how to level up | [ ] |    [ ] |
 | **Context:** When faced with a task that is above my present skill level **Action:** I approach it with the mindset that it is an opportunity for me to grow and learn  | [ ] |    [ ] |
 | **Context:** When faced with a task that needs me to level up from my present skill level **Action:** I break down the requirements and research where to get the resources needed to help level up  | [ ] |    [ ] |
 ----------
@@ -44,6 +44,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can leverage my environment to grow | [ ] | [ ] |
-| I can learn from observing and mimicking others | [ ] | [ ] |
+| I leverage my environment to grow | [ ] | [ ] |
+| I learn from observing and mimicking others | [ ] | [ ] |
 | My shortcomings are an opportunity for growth | [ ] | [ ] |

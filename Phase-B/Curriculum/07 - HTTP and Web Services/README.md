@@ -38,9 +38,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am trying to consume a 3rd Party API **Action:** I test the different request and response formats using POSTMAN/Curl/Httpie | [ ] | [ ]  |
 | **Context:** When trying to build an application that uses a publicly available HTTP API **Action:** I read the documentation thoroughly to ensure I understand the different endpoints, request types, response types and error definitions | [ ] |    [ ] |
-| **Context:** When I want to send a request to an API **Action:** I define request object based on the API specifications |   [ ]   |   [ ] |
-| **Context:** When I want to parse response data received from an API **Action:** I ensure to parse the data based on the API specification for responses |   [ ]   |   [ ] |
-| **Context:** When I see an error from an API request **Action:** I tell what it means based on the error code and message I receive | [ ] |    [ ] |
+| **Context:** When I want to send a request to an API **Action:** I define the request object based on the API specifications |   [ ]   |   [ ] |
+| **Context:** When I want to parse response data received from an API **Action:** I ensure that I parse the data based on the API specification for responses |   [ ]   |   [ ] |
+| **Context:** When I get an error from an API request **Action:** I interpret the error code and resolve the outstanding issues | [ ] |    [ ] |
 
 ----------
 
@@ -51,4 +51,3 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | I can leverage on data from APIs to create robust multi-functional applications  |   [ ]   |   [ ] |
-| One API can serve multiple clients on different platforms |   [ ]   |   [ ] |

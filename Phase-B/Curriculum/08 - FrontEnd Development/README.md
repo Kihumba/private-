@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Aspiring Andelans  have a good idea of how to use the major front-end technologies - HTML, CSS and Javascript.
+Aspiring Andelans are able to demonstrate effective use of HTML and CSS in designing user interfaces.
 
 
 **Output**

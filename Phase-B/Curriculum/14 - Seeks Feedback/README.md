@@ -9,7 +9,7 @@ Aspiring Andelans value receiving feedback and are able to apply feedback they r
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Screenshot of conversations showing when I requested for feedback during Bootcamp
+1. Screenshot of conversations showing when I requested feedback during Bootcamp
 2. A report on an example of an experience where I benefitted from getting feedback about my work during Bootcamp
 
 
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | **Context:** When receiving feedback **Action:** I acknowledge receipt of the feedback and the value of the same | [ ] |    [ ] |
 | **Context:** When receiving feedback **Action:** I ensure I stay positive while also seeing the possible value of the feedback | [ ] |    [ ] |
-| **Context:**  After receiving feedback **Action:** I take note of the feedback ensure to follow up with action plans | [ ] |    [ ] |
+| **Context:**  After receiving feedback **Action:** I take note of the feedback and ensure to follow up with action plans | [ ] |    [ ] |
 | **Context:**  After receiving feedback **Action:** I take deliberate steps to act on the feedback received | [ ] |    [ ] |
 
 ----------

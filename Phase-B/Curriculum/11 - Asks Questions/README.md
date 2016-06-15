@@ -1,4 +1,4 @@
-# Outcome 11 - Willingness to Ask Questions
+# Outcome 11 - Asks Questions
 
 **Skill Description**
 ----------
@@ -25,6 +25,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | * The importance of questions | [ ] |    [ ] |
 | * What the question loop is | [ ] |    [ ] |
 | * Basic principles of effective questioning | [ ] |    [ ] |
+| * Appropriate contexts for asking questions | [ ] |    [ ] |
 
 
 ----------
@@ -35,9 +36,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
+|**Context** When I am in a group discussion **Actions** I ask question that shape the conversation | [ ] |    [ ] |
+|**Context** When I am in a group discussion **Actions** I identify possible areas where asking a question might add value to the conversation and ask the question | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I engage in the question loop | [ ] |    [ ] |
-|**Context** When I first join the team **Actions** I Identify what I need to know | [ ] |    [ ] |
-|**Context** When I first join the team **Actions** I Identify where and how I can get that info | [ ] |    [ ] |
+|**Context** When I first join the team **Actions** I identify what I need to know | [ ] |    [ ] |
+|**Context** When I first join the team **Actions** I identify where and how I can get that info | [ ] |    [ ] |
 |**Context** When I first join the team **Actions** I ask effective questions to the appropriate source | [ ] |    [ ] |
 |**Context** When I do not have a question in mind at a time when it may be valuable to ask a question **Actions** I think of worthwhile questions to ask | [ ] |    [ ] |
 |**Context:** When working on a project | [ ] |    [ ] |
@@ -54,5 +57,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Asking questions is a sign of confidence and strength |   [ ]   |   [ ] |
+| Asking questions is a sign of confidence |   [ ]   |   [ ] |
 | I can ask questions that generate meaningful knowledge |   [ ]   |   [ ] |
