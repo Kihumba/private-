@@ -1,16 +1,8 @@
-<<<<<<< HEAD:Phase-C/Simulation-Learning-Outcomes/Curriculum/23 - Git/README.md
-# Outcome 1 - Version Control (Git)
-=======
 # Outcome 43 - Git
->>>>>>> created entry-level developer role:Phase-C/Entry-level Developer/Curriculum/43 - Git/README.md
 
 Skill Description
 ----------
-<<<<<<< HEAD:Phase-C/Simulation-Learning-Outcomes/Curriculum/1 - Version Control/README.md
-A Fellow should be able to use use Git with a workflow on a project both personal or in a team.
-=======
-The fellow knows how to install git, checkout files, commit files, create a branch, merge, and send a pull request.
->>>>>>> defined LOs for all D1 technical skills and tools:Phase-C/Simulation-Learning-Outcomes/Curriculum/23 - Git/README.md
+The Fellow knows how to install git, checkout files, commit files, create a branch, merge, and send a pull request.
 
 
 Output
