@@ -22,8 +22,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * Tools to promote speaking to be understood | [ ] |    [ ] |
 | * Principles of effective verbal communication | [ ] |    [ ] |
-| * What knowledge of your audience entails | [ ] |    [ ] |
-| * What context means when speaking   | [ ] |    [ ] |
+| * Who my audience is | [ ] |    [ ] |
+| * How the type of audience I'm addressing affects my delivery  | [ ] |    [ ] |
+| * How the context in which I'm addressing my audience affects my delivery   | [ ] |    [ ] |
 
 
 ----------

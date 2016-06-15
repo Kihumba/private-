@@ -23,8 +23,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
+| * Git as a version control system | [ ] |    [ ] |
 | * GitHub as a web-based repository hosting services | [ ] |    [ ] |
-| * How to use the `pull`, `push`, `branch`, `commit`, `merge` and `status` Git commands | [ ] |    [ ] |
+| * Common Git commands | [ ] |    [ ] |
+| * Use cases of the common Git commands | [ ] |    [ ] |
 | * What the HEAD is in Git and why it is important | [ ] |    [ ] |
 
 
@@ -38,6 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** Whenever I am setting up Git on a new machine **Action:** I ensure I have setup my SSH keys | [ ] | [ ]  |
 | **Context:** When creating a project that I intend to revisit **Action:** I create a new remote repository on Github and pull down to my local repository |   [ ]   |   [ ] |
 | **Context:** When I am about to continue work on an ongoing project **Action:** I pull in changes from the remote repository | [ ] |    [ ] |
+| **Context:** Before I commit any changes **Action:** I check the status of my branch | [ ] |    [ ] |
 | **Context:** After every commit **Action:** I push the changes to GitHub | [ ] |    [ ] |
 
 ----------
