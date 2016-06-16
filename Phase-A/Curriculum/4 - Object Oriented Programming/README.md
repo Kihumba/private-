@@ -57,8 +57,8 @@ After attaining this skill, and as a demonstration of it, I will create:
 | - **Action** I identify the objects and figure out the attributes and behaviors of that object in my mind | [ ] | [ ] |
 | **Context** When I come across a program that was implemented using OOP | | |
 | - **Action** I look through the codebase to see if I understand how the concepts I know were used | [ ] | [ ] |
-| - **Action** I look through the codebase to see how the principles of DRY code was applied | [ ] | [ ] |
-| - **Action** I do a little research on the concepts applied to gain better understanding of those I am aware of and unaware of | [ ] | [ ] |
+| - **Action** I look through the codebase to see how the principles of DRY code were applied | [ ] | [ ] |
+| - **Action** I do a little research on the concepts applied to gain better understanding of those that I am aware of and those that I am unaware of | [ ] | [ ] |
 | **Context** When I see OOP overused or badly-designed in a codebase | | |
 | - **Action** I identify the areas for improvement and communicate appropriately| [ ] | [ ] |
 
