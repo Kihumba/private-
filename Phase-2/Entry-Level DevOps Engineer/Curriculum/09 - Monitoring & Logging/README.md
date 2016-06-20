@@ -2,15 +2,16 @@
 
 Skill Description
 -----------------
-The fellow knows how to use system monitoring/analytics tools to monitor and analyse system & application logs to see opportunities to optimize performance
+The Fellow knows how to use system monitoring/analytics tools to monitor and analyze system & application logs to see opportunities to optimize performance
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
-- Set up monitoring for a _production_ environment, using appropriate tools for that particular environment. (Preferably the tools should be open-source with no cost implications)
-- Analyze the collected metrics for 5 days and write a comprehensive report with recommendations
+1. An exercise that covers the following operations:
+  - Setting up monitoring for a _production_ environment, using appropriate tools for that particular environment. (Preferably the tools should be open-source with no cost implications)
+  - Analyzing the collected metrics for 5 days and write a comprehensive report with recommendations
 
 
 **Objectives**
@@ -19,36 +20,38 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe, from memory, the various levels of monitoring and their metrics: | | |
-| * Application: user metrics, KPIs               | [ ] | [ ] |
-| * Presentation: web, browser metrics            | [ ] | [ ] |
-| * Session: session, transactions                | [ ] | [ ] |
-| * Transport: App server, database               | [ ] | [ ] |
-| * Network: bandwidth, trace routes, requests    | [ ] | [ ] |
-| * Data Link: packets, access, data transfer     | [ ] | [ ] |
-| * Physical: CPU, memory, disk                   | [ ] | [ ] |
-| Identifying an appropriate monitoring tool for a particular deployment e.g. IaaS monitoring, Application Performance Monitoring (APM) | [ ] | [ ] |
-| I can describe, from memory, the various APM (Application Performance Monitoring) metrics: | | |
-| * Application response times | [ ] | [ ] |
-| * Most time consuming transactions | [ ] | [ ] |
-| * Mean Time to Resolve (MTTR) | [ ] | [ ] |
-| I can describe, from memory, the various Database monitoring metrics: | | |
-| * Time spent in database calls | [ ] | [ ] |
-| * Database call response time and throughput | [ ] | [ ] |
-| * SQL query analysis | [ ] | [ ] |
-| Difference between _reactive monitoring_ and _proactive monitoring_ | [ ] | [ ] |
-| I can describe, from memory, the various logs that are vital for any proper monitoring: | | |
-| * Infrastructure logs | [ ] | [ ] |
-| * App Stack logs (OS, app server, database, programming language) | [ ] | [ ] |
-| * API logs | [ ] | [ ] |
-| * Application logs | [ ] | [ ] |
-| * Security logs | [ ] | [ ] |
-| * Events, notifications, alerts | [ ] | [ ] |
-| * Changes, configuration management, deployment | [ ] | [ ] |
-| * Access | [ ] | [ ] |
-| * Patching history, machine images | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| The different layers in the Open Systems Interconnection model | [ ] | [ ] |
+| How to monitor user metrics and KPIs in the Application layer             | [ ] | [ ] |
+| How to monitor web and browser metrics in the Presentation layer             | [ ] | [ ] |
+| How to monitor sessions and transactions in the Session layer             | [ ] | [ ] |
+| How to monitor App server and database metrics in the Transport layer             | [ ] | [ ] |
+| How to monitor bandwidth, trace routes, and requests in the Network layer             | [ ] | [ ] |
+| How to monitor packets, access, and data transfer in the Data Link layer             | [ ] | [ ] |
+| How to monitor CPU, memory, and disk usage in the Physical layer             | [ ] | [ ] |
+| How to identify an appropriate monitoring tool for a particular deployment e.g. IaaS monitoring, Application Performance Monitoring (APM) | [ ] | [ ] |
+| Various APM (Application Performance Monitoring) metrics | [ ] | [ ] |
+| How application response times affects users | [ ] | [ ] |
+| Most time consuming transactions | [ ] | [ ] |
+| How to measure Mean Time to Resolve (MTTR) | [ ] | [ ] |
+| Various Database monitoring metrics | [ ] | [ ] |
+| How to measure time spent in database calls | [ ] | [ ] |
+| How to measure database call response time and throughput | [ ] | [ ] |
+| How to perform SQL query analysis | [ ] | [ ] |
+| The differences between Reactive Monitoring and Proactive Monitoring | [ ] | [ ] |
+| Use cases for logging | [ ] | [ ] |
+| Use cases for infrastructure logs | [ ] | [ ] |
+| Use cases for App Stack logs (OS, app server, database, programming language) | [ ] | [ ] |
+| Use cases for API logs | [ ] | [ ] |
+| Use cases for Application logs | [ ] | [ ] |
+| Use cases for Security logs | [ ] | [ ] |
+| Use cases for Events, notifications, alerts | [ ] | [ ] |
+| Use cases for Changes, configuration management, deployment logs | [ ] | [ ] |
+| Use cases for Access logs | [ ] | [ ] |
+| Use cases for Patching history logs | [ ] | [ ] |
+| Use cases for machine images logs | [ ] | [ ] |
 
 
 ----------------
