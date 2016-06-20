@@ -2,23 +2,24 @@
 
 Skill Description
 -----------------
-The fellow understands how to apply security policies to secure machines deployed to a cloud
+The Fellow understands how to apply security policies to secure machines deployed to a cloud
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a Fellow should be able to complete the following:
 
-- Setup hooks to scan for secure credentials/token before code is checked in to a repo
-- Ensure credentials for production systems are stored in a secure vault and restrict access to it
-- Isolate security credentials/tokens for all different environments
-- Put together tools to monitor and analyze system logs for suspicious activities
-- Run processes with the least required set of permissions to prevent priviledge escalation
-- Setup and configure ssh daemon for private key authentication
-- Apply OS security patches to a system
-- Define firewall rules to control access to the machine
-- Log all connections to deployed machines
-- Securing data transfer using SSL
+1. An exercise that covers the following operations:
+  - Setting up hooks to scan for secure credentials/token before code is checked in to a repo
+  - Ensuring credentials for production systems are stored in a secure vault and restrict access to it
+  - Isolating security credentials/tokens for all different environments
+  - Putting together tools to monitor and analyze system logs for suspicious activities
+  - Running processes with the least required set of permissions to prevent priviledge escalation
+  - Setting up and configure ssh daemon for private key authentication
+  - Applying OS security patches to a system
+  - Defining firewall rules to control access to the machine
+  - Logging all connections to deployed machines
+  - Securing data transfer using SSL
 
 
 **Objectives**
@@ -30,13 +31,13 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
-| * How to install/update software on a system | [ ] | [ ] |
-| * How to disable root ssh login on a system | [ ] | [ ] |
-| * How to run a process with elevated privileges | [ ] | [ ] |
-| * How to run a process with restricted privileges | [ ] | [ ] |
-| * How to view a list of all open ports/connections on a system | [ ] | [ ] |
-| * How to restrict access to system ports | [ ] | [ ] |
-| * How to apply firewall rules | [ ] | [ ] |
+| How to install/update software on a system | [ ] | [ ] |
+| How to disable root ssh login on a system | [ ] | [ ] |
+| How to run a process with elevated privileges | [ ] | [ ] |
+| How to run a process with restricted privileges | [ ] | [ ] |
+| How to view a list of all open ports/connections on a system | [ ] | [ ] |
+| How to restrict access to system ports | [ ] | [ ] |
+| How to apply firewall rules | [ ] | [ ] |
 
 
 ----------------
