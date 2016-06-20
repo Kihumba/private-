@@ -15,6 +15,11 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 - Document release procedures on how to deploy/deliver the release
 
 
+
+**Objectives**
+--------------
+
+
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
@@ -24,6 +29,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | * How to document release procedures so it can be replicated | [ ] | [ ] |
 | * How to setup a deployment process for deploying releases * | [ ] | [ ] |
 
+
+----------------
 
 
 ## **Behaviors**
@@ -36,6 +43,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | **Context:** After a release is created **Action:** I apply a release tag and add it to version control | [ ] | [ ] |
 | **Context:** After a release is created **Action:** I add the release to the storage system for tracking builds | [ ] | [ ] |
 
+
+--------------
 
 
 ## **Beliefs**
