@@ -2,17 +2,19 @@
 
 Skill Description
 -----------------
-The fellow understands the process of compiling, assembling and delivery of software builds into a finished product. The fellow also undertsands how to document release procedures.
+The Fellow understands the process of compiling, assembling and delivery of software builds into a finished product. The Fellow also undertsands how to document release procedures.
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a Fellow should be able to create the following:
 
-- Setup a release plan for builds that have been tested through a CI system
-- Version the builds as final builds and place them on a storage server
-- Create release notes that identify the changes and fixes to the software that are present in the release
-- Document release procedures on how to deploy/deliver the release
+1. A completed exercise that covers the following operations:
+  - Setting up a release plan for builds that have been tested through a CI system
+  - Versioning the builds as final builds and place them on a storage server
+  - Creating release notes that identify the changes and fixes to the software that are present in the release
+  - Documenting release procedures on how to deploy/deliver the release
+2. Release procedure documentation for a system
 
 
 
@@ -25,9 +27,9 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
 | I can describe the following from memory:| | |
-| * How to implement code builds and automated deployment procedures | [ ] | [ ] |
-| * How to document release procedures so it can be replicated | [ ] | [ ] |
-| * How to setup a deployment process for deploying releases * | [ ] | [ ] |
+| How to implement code builds and automated deployment procedures | [ ] | [ ] |
+| How to document release procedures for replication | [ ] | [ ] |
+| How to setup a deployment process for deploying releases  | [ ] | [ ] |
 
 
 ----------------
