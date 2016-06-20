@@ -7,20 +7,21 @@ The fellow knows the fundamentals and knows how to use various Linux/Unix system
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
-- Create directories
-- Find files and directories
-- Find text in files
-- Create and mount devices/partitions
-- View the list of running processes
-- Terminate a running process
-- Redirect output to a file
-- Run a process with ENV variables
-- Run process in the background
-- Send a signal to a running process
-- Schedule a process to be run at a given time
-- Install, uninstall software packages
+1. An exercise that covers the following operations:
+  - Creating directories
+  - Finding files and directories
+  - Finding text in files
+  - Creating and mounting devices/partitions
+  - Viewing the list of running processes
+  - Terminating a running process
+  - Redirecting output to a file
+  - Running a process with ENV variables
+  - Running process in the background
+  - Sending a signal to a running process
+  - Scheduling a process to be run at a given time
+  - Installing and uninstalling software packages
 
 
 **Objectives**
@@ -30,28 +31,27 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
-| I can describe, from memory, how to perform the following actions | | |
-| * Create, delete, and change into a directory   | [ ] | [ ] |
-| * Change the permissions of a file or directory | [ ] | [ ] |
-| * Create drive partitions                       | [ ] | [ ] |
-| * Create, format, mount and unmount a partition | [ ] | [ ] |
-| * View mount options and partition layout       | [ ] | [ ] |
-| I can describe, from memory, how to use package managers included in various linux distros | | |
-| * Add, remove repository sources            | [ ] | [ ] |
-| * Update software repository cache          | [ ] | [ ] |
-| * Install, update, remove software packages | [ ] | [ ] |
-| * List installed software packages          | [ ] | [ ] |
-| I can describe, from memory, how to schedule and run routine jobs at a specified time | [ ] | [ ] |
-| I can describe, from memory, how to perform the following actions | | |
-| * Set ENV variables                                    | [ ] | [ ] |
-| * View a list of running processes                     | [ ] | [ ] |
-| * View the size of a mounted filesystem                | [ ] | [ ] |
-| * Find the path to the existing file on the filesystem | [ ] | [ ] |
-| * List files in a directory                            | [ ] | [ ] |
-| * List all open files on a filesystem                  | [ ] | [ ] |
-| * Output the contents of a file on the filesystem      | [ ] | [ ] |
-| I can describe, from memory, how to send signals to a running process | [ ] | [ ] |
-| I can describe, from memory, how to set shell options in a script | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| How to create, delete, and change into a directory   | [ ] | [ ] |
+| How to change the permissions of a file or directory | [ ] | [ ] |
+| How to create drive partitions                       | [ ] | [ ] |
+| How to create, format, mount and unmount a partition | [ ] | [ ] |
+| How to view mount options and partition layout       | [ ] | [ ] |
+| Various linux distros | [ ] | [ ] |
+| The functions of package managers in linux distros | [ ] | [ ] |
+| How to add, remove repository sources            | [ ] | [ ] |
+| How to install, update, and remove software packages | [ ] | [ ] |
+| How to list installed software packages          | [ ] | [ ] |
+| How to schedule and run routine jobs at a specified time | [ ] | [ ] |
+| How to set ENV variables                                    | [ ] | [ ] |
+| How to view a list of running processes                     | [ ] | [ ] |
+| How to view the size of a mounted filesystem                | [ ] | [ ] |
+| How to find the path to the existing file on the filesystem | [ ] | [ ] |
+| How to list files in a directory                            | [ ] | [ ] |
+| How to list all open files on a filesystem                  | [ ] | [ ] |
+| How to output the contents of a file on the filesystem      | [ ] | [ ] |
+| How to send signals to a running process | [ ] | [ ] |
+| How to set shell options in a script | [ ] | [ ] |
 
 
 ----------------
