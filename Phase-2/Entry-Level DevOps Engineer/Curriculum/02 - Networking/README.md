@@ -2,19 +2,20 @@
 
 Skill Description
 -----------------
-The fellow understands transport layer protocols such as UDP, TCP, how to apply networking rules on a system, and how to communicate data over a network using defined protocols.
+The Fellow understands transport layer protocols such as UDP, TCP, how to apply networking rules on a system, and how to communicate data over a network using defined protocols.
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
-- Display network interfaces
-- Display network routing table
-- Use a subnet mask to allocate IP addresses on a network
-- Setup port forwarding from one host to another
-- View all open and connected ports on a system
-- Use a network firewall to control access to a system
+1. An exercise that covers the following operations:
+  - Displaying network interfaces
+  - Displaying network routing table
+  - Using a subnet mask to allocate IP addresses on a network
+  - Setting up port forwarding from one host to another
+  - Viewing all open and connected ports on a system
+  - Using a network firewall to control access to a system
 
 
 **Objectives**
@@ -26,13 +27,12 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
-| * Network address translation | [ ] | [ ] |
-| * Differences between network router and a network switch | [ ] | [ ] |
-| * How to forward a port from one machine to another machine (port forwarding) | [ ] | [ ] |
-| * How DNS is used to translate domain names to IP addresses | [ ] | [ ] |
-| * How network address translation is and how it works | [ ] | [ ] |
-| * The transport layer protocols | [ ] | [ ] |
-| * Private IPV4 Address spaces | [ ] | [ ] |
+| Differences between network router and a network switch | [ ] | [ ] |
+| How to forward a port from one machine to another machine (port forwarding) | [ ] | [ ] |
+| How DNS is used to translate domain names to IP addresses | [ ] | [ ] |
+| What network address translation is and how it works | [ ] | [ ] |
+| The transport layer protocols | [ ] | [ ] |
+| Uses of private IPV4 address spaces | [ ] | [ ] |
 
 
 ----------------
