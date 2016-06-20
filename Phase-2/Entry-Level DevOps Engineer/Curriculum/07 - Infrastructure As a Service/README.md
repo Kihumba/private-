@@ -2,18 +2,19 @@
 
 Skill Description
 -----------------
-The fellow knows the services (virtualized computing resources) provided by a IaaS and how to utilize a IaaS to create and manage application environments
+The Fellow knows the services (virtualized computing resources) provided by a IaaS and how to utilize a IaaS to create and manage application environments
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
-- Host a static website on Amazon AWS using Amazon S3
-- Create a Server-Side encrypted S3 bucket on Amazon AWS and upload data to it
-- Create a machine image on Amazon AWS
-- Create a VPC with a private & public subnet on Amazon AWS using AWS Cloudformation
-- Launch a machine with the machine image created previously into the private subnet created above
+1. An exercise that covers the following operations:
+  - Hosting a static website on Amazon AWS using Amazon S3
+  - Creating a Server-Side encrypted S3 bucket on Amazon AWS and upload data to it
+  - Createing a machine image on Amazon AWS
+  - Creating a VPC with a private & public subnet on Amazon AWS using AWS Cloudformation
+  - Launching a machine with the machine image created previously into the private subnet created above
 
 
 
@@ -25,17 +26,16 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
-| I can define from memory differences between the cloud computing terminologies: | | |
-| * Cloud elasticity | [ ] | [ ] |
-| * Cloud scalability | [ ] | [ ] |
-| I can describe the following from memory:| | |
-| * Resources provided by a IaaS | [ ] | [ ] |
-| * Relation between a machine instance and a machine image | [ ] | [ ] |
-| * How auto scaling works | [ ] | [ ] |
-| * The functions of a load balancer | [ ] | [ ] |
-| * Fault tolerant techniques | [ ] | [ ] |
-| * How DNS works | [ ] | [ ] |
-| * Cloud availability zones | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| Use cases for cloud computing | [ ] | [ ] |
+| Differences between Cloud Elasticity and Cloud Scalability | [ ] | [ ] |
+| Resources provided by a IaaS | [ ] | [ ] |
+| Relationship between a machine instance and a machine image | [ ] | [ ] |
+| How auto scaling works | [ ] | [ ] |
+| The functions of a load balancer | [ ] | [ ] |
+| Various fault tolerance techniques | [ ] | [ ] |
+| How DNS works | [ ] | [ ] |
+| Cloud availability zones | [ ] | [ ] |
 
 
 ----------------
