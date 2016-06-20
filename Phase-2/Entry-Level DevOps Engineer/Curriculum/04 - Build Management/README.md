@@ -2,16 +2,17 @@
 
 Skill Description
 ------------------
-The fellow understands the process of managing and automating the build and delivery of software builds
+The Fellow understands the process of managing and automating the build and delivery of software builds
 
 
 Outputs
 ----------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a Fellow should be able to complete the following:
 
-- Setup a pipeline using a configuration tool to automate the build process and automatically generate builds for every commit to a repository
-- Identify tools used for build management
-- Apply versioning scheme using semver (major, minor, patch, build)
+1. An exercise that covers the following operations:
+  - Setting up a pipeline using a configuration tool to automate the build process and automatically generate builds for every commit to a repository
+  - Identifying tools used for build management
+  - Applying a versioning scheme using semver (major, minor, patch, build)
 
 
 **Objectives**
@@ -23,11 +24,11 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory:| | |
-| * Semantic build versioning scheme | [ ] | [ ] |
-| * Source control branching strategies | [ ] | [ ] |
-| * Source control branching structure for a microservices architecture | [ ] | [ ] |
-| * Concept of source control merging and branching | [ ] | [ ] |
-| * Software build reproducibility | [ ] | [ ] |
+| Use cases for a semantic build versioning scheme | [ ] | [ ] |
+| Various source control branching strategies | [ ] | [ ] |
+| How to use a source control branching structure for a microservices architecture | [ ] | [ ] |
+| The concept of source control merging and branching | [ ] | [ ] |
+| The importance of software build reproducibility | [ ] | [ ] |
 
 
 ----------------
