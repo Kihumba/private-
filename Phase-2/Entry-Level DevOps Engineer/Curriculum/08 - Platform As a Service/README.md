@@ -1,34 +1,64 @@
-# Outcome 08 - Platforms As A Service
+# Outcome 08 - Platform As A Service
 
 Skill Description
 -----------------
-TBD
+The Fellow utilizes the features provided by a PaaS such as server management, database management, operations expertise e.t.c and focus only on application development.
+
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
-- TBD
+1. An exercise that covers the following operations:
+  - Create and push an app to a PaaS
+  - Bind an external service such as a database to the app
+  - Scale the app to multiple instances
+
+
+
+**Objectives**
+--------------
 
 
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
-| TBD | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| The benefits/advantages of using a PaaS | [ ] | [ ] |
+| The disadvantages of using a PaaS | [ ] | [ ] |
+| How to deploy an app to a PaaS | [ ] | [ ] |
+| How a PaaS runs a deployed app | [ ] | [ ] |
+| Differences between a PaaS and a IaaS | [ ] | [ ] |
+| Resources provided by a PaaS | [ ] | [ ] |
+| Limitations of a PaaS | [ ] | [ ] |
+
+
+
+----------------
 
 
 ## **Behaviors**
 
 | Observable Behavior   |      Observed      | Mastered |
 |:----------------------|:------------------:|:--------:|
-| TBD | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I look for a PaaS that has the app runtime support required to run my app code | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I look for a PaaS that has the database that my app needs  | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I check if there are any PaaS-specific config files needed to run my app properly | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I put together a list of dependencies needed to run my app | [ ] | [ ] |
+| **Context:** After I deploy my app to a PaaS **Action:** I check that it is running and accessible | [ ] | [ ] |
+| **Context:** When my app instances cannot handle the amount of incoming requests **Action:** I use the PaaS to scale the instances | [ ] | [ ] |
 
+
+--------------
 
 
 ## **Beliefs**
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:------------------|:--------------:|:------------:|
-| TBD | [ ] | [ ] |
+| PaaS eases the pain of deployment and takes care of the overhead of deploying applications | [ ] | [ ] |
+| PaaS allows you to focus only on application development as the rest is taken care of | [ ] | [ ] |
+| PaaS makes release management easy (rolling back code and deploying code) | [ ] | [ ] |
+
