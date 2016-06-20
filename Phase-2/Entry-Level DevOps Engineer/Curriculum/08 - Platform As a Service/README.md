@@ -11,9 +11,9 @@ Outputs
 After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
 1. An exercise that covers the following operations:
-  - Create and push an app to a PaaS
-  - Bind an external service such as a database to the app
-  - Scale the app to multiple instances
+  - Creating and pushing an app to a PaaS
+  - Binding an external service such as a database to the app
+  - Scaling the app to multiple instances
 
 
 
@@ -26,8 +26,10 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
 | I can describe the following from memory: | | |
+| Examples of PaaS | [ ] | [ ] |
 | The benefits/advantages of using a PaaS | [ ] | [ ] |
 | The disadvantages of using a PaaS | [ ] | [ ] |
+| How to choose a PaaS for an application's needs | [ ] | [ ] |
 | How to deploy an app to a PaaS | [ ] | [ ] |
 | How a PaaS runs a deployed app | [ ] | [ ] |
 | Differences between a PaaS and a IaaS | [ ] | [ ] |
