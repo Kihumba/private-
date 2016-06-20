@@ -2,18 +2,18 @@
 
 Skill Description
 -----------------
-The fellow understands the process of backing up data on a system in a frequent manner so as to be able to recover from data loss or system crashes
+The Fellow understands the process of backing up data on a system in a frequent manner so as to be able to recover from data loss or system crashes
 
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to do the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
-- Setup recurring automatic backups of critical data (database, e.t.c) on a system
-- Setup scripts to move the backup data to an external store (AWS S3)
-- Put together a recovery plan to restore the data in the event of data loss
-- Identify existing backup/restore tools
+1. An exercise that covers the following operations:
+  - Setting up recurring automatic backups of critical data (database, e.t.c) on a system
+  - Setting up scripts to move the backup data to an external store (AWS S3)
+  - Putting together a recovery plan to restore the data in the event of data loss
 
 
 **Objectives**
@@ -26,6 +26,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | The kind of data to be backed up on a system | [ ] | [ ] |
+| How to identify existing backup/restore tools | [ ] | [ ] |
 | How to restore backup to a system in the event of data loss | [ ] | [ ] |
 
 
