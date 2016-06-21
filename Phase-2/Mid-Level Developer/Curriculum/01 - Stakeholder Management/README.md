@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 | I can describe the following from memory: | | |
 | * Goals of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
 | * Structure and roles of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
-| * History with Client of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
+| * Clients working history with Andela staff team that supports me on client engagement | [ ] | [ ]  |
 | * My Client's Goals      | [ ] | [ ]  |
 | * My Client's Team Structure   | [ ] | [ ]  |
 | * My Client's Team Members' Roles       | [ ] | [ ]  |
