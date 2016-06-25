@@ -2,7 +2,7 @@
 
 Skill Description
 -----------------
-The Fellow knows the services (virtualized computing resources) provided by a IaaS and how to utilize a IaaS to create and manage application environments
+The Fellow knows the services (virtualized computing resources) provided by AWS and how to utilize AWS to create and manage application environments
 
 
 Outputs
@@ -47,11 +47,11 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** When I create a VPC **Action:** I create a security group with the least set of permissive rules to control access to the VPC| [ ] | [ ] |
 | **Context:** When an OS patch is released **Action:** I apply the patch to my running machines | [ ] | [ ] |
-| **Context:** When I create a user to access a IaaS resource **Action:** I ensure the users permission is restricted | [ ] | [ ] |
+| **Context:** When I create a user to access a IaaS resource **Action:** I ensure the user's permission is restricted | [ ] | [ ] |
 | **Context:** When I deploy my application to a IaaS **Action:** I deploy critical components of the application across multiple Availability Zones for redundancy | [ ] | [ ] |
-| **Context:** Before I launch/provision a machine **Action:** I create a VPC where my machines will be launched | [ ] | [ ] |
+| **Context:** Before I launch/provision a machine **Action:** I create a VPC where my machine will be launched | [ ] | [ ] |
 | **Context:** Before I store data on a IaaS storage service **Action:** I encrypt the data | [ ] | [ ] |
-| **Context:** After I provision a machine on a Iaas **Action:** I put proper monitoring in place to gather metrics | [ ] | [ ] |
+| **Context:** After I provision a machine on a IaaS **Action:** I put proper monitoring in place to gather metrics | [ ] | [ ] |
 
 
 --------------
@@ -61,6 +61,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:------------------|:--------------:|:------------:|
-| Services provisioned on a IaaS can be scaled as necessary to meed demands | [ ] | [ ] |
+| Services provisioned on a IaaS can be scaled as necessary to meet demands | [ ] | [ ] |
 | IaaS provides elastic resources that can be provisioned on-demand to meet needs | [ ] | [ ] |
 | The cloud provides the ideal environment for scalable applications because it allows for rapid resource allocation in times of high demand as well as resource deallocation as demand declines | [ ] | [ ] |

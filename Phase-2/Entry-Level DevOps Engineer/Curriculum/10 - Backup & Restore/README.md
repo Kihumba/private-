@@ -12,6 +12,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 1. An exercise that covers the following operations:
   - Setting up recurring automatic backups of critical data (database, e.t.c) on a system
+  - Setting up scripts to verify the backups to ensure it is valid and restorable
   - Setting up scripts to move the backup data to an external store (AWS S3)
   - Putting together a recovery plan to restore the data in the event of data loss
 
@@ -27,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | I can describe the following from memory: | | |
 | The kind of data to be backed up on a system | [ ] | [ ] |
 | How to identify existing backup/restore tools | [ ] | [ ] |
-| How to restore backup to a system in the event of data loss | [ ] | [ ] |
+| How to restore backups to a system in the event of data loss | [ ] | [ ] |
 
 
 ----------------
@@ -41,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | **Context:** When I setup a plan to backup data **Action:** I set a recurring schedule at which the data should be backed up | [ ] | [ ] |
 | **Context:** After I backup data on a system **Action:** I encrypt it so as not to expose user data | [ ] | [ ] |
 | **Context:** After I backup data on a system **Action:** I move the backup to an external system for safekeeping | [ ] | [ ] |
-| **Context:** After I backup data on a system **Action:** I delete the backup from the system to free up space | [ ] | [ ] |
+| **Context:** After I move the backup to an external system for safekeeping **Action:** I delete the backup from the system to free up space | [ ] | [ ] |
 | **Context:** Before I restore data on a system **Action:** I fetch the data from the remote store and place it on the machine | [ ] | [ ] |
 
 
@@ -54,6 +55,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:------------------|:--------------:|:------------:|
 | System configuration and software should not be backed up as they can be replayed by the configuration management scripts | [ ] | [ ] |
 | Backups should be of data only | [ ] | [ ] |
-| Backups should be encrypted and stored in a secure manner so as not to expose user information if any | [ ] | [ ] |
-| Backups is necessary to restore state in the event of system crash or data loss | [ ] | [ ] |
+| Backups should be encrypted and stored in a secure manner so as not to expose user information if there is any | [ ] | [ ] |
+| Backups are necessary to restore state in the event of system crash or data loss | [ ] | [ ] |
 

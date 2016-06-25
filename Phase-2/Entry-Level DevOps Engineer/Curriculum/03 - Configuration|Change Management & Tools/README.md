@@ -1,4 +1,4 @@
-# Outcome 03 - Configuration Management
+# Outcome 03 - Configuration/Change Management & Tools
 
 Skill Description
 -----------------

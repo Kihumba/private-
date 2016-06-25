@@ -11,11 +11,11 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 1. An exercise that covers the following operations:
   - Setting up hooks to scan for secure credentials/token before code is checked in to a repo
-  - Ensuring credentials for production systems are stored in a secure vault and restrict access to it
+  - Ensuring credentials for production systems are stored in a secure vault and restricting access to it
   - Isolating security credentials/tokens for all different environments
   - Putting together tools to monitor and analyze system logs for suspicious activities
-  - Running processes with the least required set of permissions to prevent priviledge escalation
-  - Setting up and configure ssh daemon for private key authentication
+  - Running processes with the least required set of permissions to prevent privilege escalation
+  - Setting up and configuring ssh daemon for private key authentication
   - Applying OS security patches to a system
   - Defining firewall rules to control access to the machine
   - Logging all connections to deployed machines
@@ -49,7 +49,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before deploying code to a repository **Action:** I remove all security credentials/tokens if any | [ ] | [ ]  |
 | **Context:** Before deploying code to production systems **Action:** I run a list of common attacks against the system to ensure the system is not vulnerable | [ ] | [ ]  |
-| **Context:** AFter a CVE is disclosed and patched **Action:** I apply the patch to production systems in a timely manner | [ ] | [ ]  |
+| **Context:** After a Common Vulnerability and Exposure (CVE) is disclosed and patched **Action:** I apply the patch to production systems in a timely manner | [ ] | [ ]  |
 | **Context:** When a security credential/token is leaked **Action:** I generate new credentials and replace them on production systems in a timely manner | [ ] | [ ]  |
 | **Context:** When suspicious activity is detected by monitoring scripts **Action:** I send alerts and notifications | [ ] | [ ]  |
 | **Context:** When I run a process on a production system **Action** I run with the least required set of permissions to prevent privilege escalation | [ ] | [ ] |

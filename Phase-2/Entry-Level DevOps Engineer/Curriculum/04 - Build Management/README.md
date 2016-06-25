@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** When setting up a build system **Action:** I use a configuration tool to create the build servers and build pipeline | [ ] | [ ] |
 | **Context:** When setting up a build system **Action:** I configure the system to create builds in an isolated environment | [ ] | [ ] |
-| **Context:** When setting up a build system **Action:** I configure the system to run tests once build if finished | [ ] | [ ] |
+| **Context:** When setting up a build system **Action:** I configure the system to run the tests once the build is finished | [ ] | [ ] |
 | **Context:** When setting up a build system **Action:** I tune the system performance to finish the build process in a timely manner | [ ] | [ ] |
 | **Context:** When setting up a build system **Action:** I use a dedicated build server | [ ] | [ ] |
 | **Context:** When setting up a build system **Action:** I configure the system to tag the build for reproducibility | [ ] | [ ] |
@@ -57,7 +57,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| Software builds should be immutable | [ ] | [ ] |
-| Changes to a software build results in a new build | [ ] | [ ] |
-| Build should be reproducible | [ ] | [ ] |
+| A software build is immutable | [ ] | [ ] |
+| Changes to the software code results in a new build | [ ] | [ ] |
+| A software build should be reproducible | [ ] | [ ] |
 | A broken build is immediately fixed | [ ] | [ ] |

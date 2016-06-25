@@ -1,4 +1,4 @@
-# Outcome 01 - Linux/Unix Basics
+# Outcome 01 - Command Line (UNIX)
 
 Skill Description
 -----------------

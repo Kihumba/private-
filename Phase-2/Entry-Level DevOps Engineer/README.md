@@ -2,9 +2,9 @@
 
 The Entry-Level DevOps Engineer is a role that includes the following Learning Outcomes:
 
-1.  Linux/Unix Basics
+1.  Command Line (UNIX)
 2.  Networking
-3.  Configuration Management
+3.  Configuration/Change Management & Tools
 4.  Build Management
 5.  Release Engineering
 6.  Continuous Integration / Continuous Deployment
