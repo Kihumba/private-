@@ -11,7 +11,7 @@ Testing is a method of assessing the functionality of a software program. This c
 
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-- An iOS project with custom Test cases setup. These tests will contain Passing and Failing assertions.
+- An iOS project with custom Test cases setup that contain Passing and Failing assertions.
 - An iOS project with failing tests cases intended to cover the functions defined.
 - An iOS Project with passing tests to cover the defined functions.
 
@@ -23,9 +23,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What is a unit test? | [ ] | [ ] |
 | How do I write a unit test? | [ ] |  [ ] |
 | What is TDD? Test Driven Development. | [ ] | [ ] |
-| What is the purpose of Testing? | [ ] | [ ] |
+| What is the purpose of Testing? | [ ] | [ ] |<!-- This is unclear. Please specify: is this about automated testing? If so, add KU: The limitations of automated testing. -->
 | What are Test Assertions? | [ ] | [ ] |
-| How do pick the right assertion to use? | [ ] | [ ] |
+| How to pick the right assertion to use? | [ ] | [ ] |
+| Differences between testing synchronous and asynchronous operations. | [ ] | [ ] |
 
 -------
 
@@ -33,10 +34,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
+| **Context:** When I need to build an application using tests, **Action:**  I begin with tests, making the methods abstracted, testable and scalable as independent units (modular). | [ ] | [ ] |
 | **Context:** When I need to assert the proper functioning of an application, **Action:** I write tests to compare the output of the methods with their ideal outputs. | [ ] | [ ] |
-| **Context:** While writing tests, **Action:** I use assertions to create the expectations for my methods and procedures. | [ ] | [ ] |
-| **Context:** When I need to build an application, **Action:**  I begin with tests, making the methods abstracted, testable and scalable as independent units (modular). | [ ] | [ ] |
 | **Context:** Before writing a test, **Action:** I select the assertion that most matches the expectation of the method or value to be tested. | [ ] | [ ] |
+| **Context:** While writing tests, **Action:** I use assertions to create the expectations for my methods and procedures. | [ ] | [ ] |
+
 
 -------
 
@@ -44,5 +46,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that writings tests at the early stage of an application helps reduce the potential of bugs. | [ ] | [ ] |
-| I believe that the test-driven development approach, will enable me write modular code that can be easily maintained and tested. | [ ] | [ ] |
+| Writings tests at the early stage of an application helps reduce the number of potential bugs or the damage they cause. | [ ] | [ ] |
+| The test-driven development approach will enable me to write modular code that can be easily maintained and trusted. | [ ] | [ ] |
+| It's important for me to adjust the scope and thoroughness of my tests to match those of other contributors to the codebase. | [ ] | [ ] |
