@@ -2,7 +2,7 @@
 
 Skill Description
 -----------------
-The Fellow understands the process of compiling, assembling and delivery of software builds into a finished product. The Fellow also undertsands how to document release procedures.
+The Fellow understands the process of compiling, assembling and delivery of software builds into a finished product. The Fellow also understands how to document release procedures.
 
 
 Outputs
@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 1. A completed exercise that covers the following operations:
   - Setting up a release plan for builds that have been tested through a CI system
-  - Versioning the builds as final builds and place them on a storage server
+  - Versioning the builds as final builds and placing them on a storage server
   - Creating release notes that identify the changes and fixes to the software that are present in the release
   - Documenting release procedures on how to deploy/deliver the release
 2. Release procedure documentation for a system
@@ -41,7 +41,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** When creating a release **Action:** I use only builds that have been thoroughly tested | [ ] | [ ] |
 | **Context:** When creating a release **Action:** I ensure all code dependencies are met and present in the build | [ ] | [ ] |
-| **Context:** After a release is created **Action:** I add release notes to identify the changes/fixes that went are present in the release | [ ] | [ ] |
+| **Context:** After a release is created **Action:** I add release notes to identify the changes/fixes that are present in the release | [ ] | [ ] |
 | **Context:** After a release is created **Action:** I apply a release tag and add it to version control | [ ] | [ ] |
 | **Context:** After a release is created **Action:** I add the release to the storage system for tracking builds | [ ] | [ ] |
 
@@ -54,5 +54,4 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
 | Software releases should be immutable | [ ] | [ ] |
-| Changes to a software build results in a new build | [ ] | [ ] |
 | Builds should be rigorously tested before being made into a release | [ ] | [ ] |
