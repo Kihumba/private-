@@ -39,8 +39,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before committing code to a repository **Action:** I run tests locally | [ ] | [ ] |
 | **Context:** When a build fails tests on CI **Action:** I fix it in a timely manner and then redeploy | [ ] | [ ] |
-| **Context:** After a build is successful **Action:** I tag it with a version | [ ] | [ ] |
-| **Context:** When deploying a build to production **Action:** I deploy the version of the build that passes all tests | [ ] | [ ] |
+| **Context:** When deploying a release to production in an automated manner **Action:** I use the blue-green deployment strategy to avoid downtime during deployment | [ ] | [ ] |
 
 
 --------------
