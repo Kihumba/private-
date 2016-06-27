@@ -33,6 +33,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | What network address translation is and how it works | [ ] | [ ] |
 | The transport layer protocols | [ ] | [ ] |
 | Uses of private IPV4 address spaces | [ ] | [ ] |
+| Differences between Internet Protocol Versions (IPv4 vs IPv6) | [ ] | [ ] |
 
 
 ----------------
@@ -42,9 +43,9 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:----------------------|:------------------:|:--------:|
-| **Context:** Before setting up a network **Action:** I use subnet mask to define available number of IP addresses | [ ] | [ ] |
-| **Context:** When I assign IP address to a machine **Action:** I assign using a subnet mask | [ ] | [ ] |
-| **Context:** When I assign IP address to a machine **Action:** I assign both IPv4 & IPV6 address | [ ] | [ ] |
+| **Context:** Before setting up a network **Action:** I use a subnet mask to define the available number of IP addresses | [ ] | [ ] |
+| **Context:** When I assign an IP address to a machine **Action:** I assign using a subnet mask | [ ] | [ ] |
+| **Context:** When I assign an IP address to a machine **Action:** I assign both IPv4 & IPV6 address | [ ] | [ ] |
 
 
 --------------

@@ -2,8 +2,7 @@
 
 Skill Description
 -----------------
-The Fellow utilizes the features provided by a PaaS such as server management, database management, operations expertise e.t.c and focus only on application development.
-
+The Fellow is able to utilize the features provided by a PaaS to effectively address server management, database management, operations expertise etc. so that they can invest more time on application development.
 
 
 Outputs

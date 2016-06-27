@@ -63,4 +63,4 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:------------------|:--------------:|:------------:|
 | Services provisioned on a IaaS can be scaled as necessary to meet demands | [ ] | [ ] |
 | IaaS provides elastic resources that can be provisioned on-demand to meet needs | [ ] | [ ] |
-| The cloud provides the ideal environment for scalable applications because it allows for rapid resource allocation in times of high demand as well as resource deallocation as demand declines | [ ] | [ ] |
+| The cloud provides the ideal environment for scalable applications | [ ] | [ ] |

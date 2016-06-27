@@ -2,7 +2,7 @@
 
 Skill Description
 -----------------
-The Fellow knows how to use system monitoring/analytics tools to monitor and analyze system & application logs to see opportunities to optimize performance
+The Fellow knows how to use system monitoring/analytics tools to monitor and analyze system & application logs to see opportunities to optimize performance and also to detect issues that should remediated in a timely manner
 
 
 Outputs
@@ -24,17 +24,16 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | The different layers in the Open Systems Interconnection model | [ ] | [ ] |
-| How to monitor user metrics and KPIs in the Application layer             | [ ] | [ ] |
-| How to monitor web and browser metrics in the Presentation layer             | [ ] | [ ] |
-| How to monitor sessions and transactions in the Session layer             | [ ] | [ ] |
-| How to monitor App server and database metrics in the Transport layer             | [ ] | [ ] |
-| How to monitor bandwidth, trace routes, and requests in the Network layer             | [ ] | [ ] |
-| How to monitor packets, access, and data transfer in the Data Link layer             | [ ] | [ ] |
-| How to monitor CPU, memory, and disk usage in the Physical layer             | [ ] | [ ] |
-| How to identify an appropriate monitoring tool for a particular deployment e.g. IaaS monitoring, Application Performance Monitoring (APM) | [ ] | [ ] |
+| How to monitor user metrics and KPIs in the Application layer  | [ ] | [ ] |
+| How to monitor web and browser metrics in the Presentation layer  | [ ] | [ ] |
+| How to monitor sessions and transactions in the Session layer  | [ ] | [ ] |
+| How to monitor App server and database metrics in the Transport layer | [ ] | [ ] |
+| How to monitor bandwidth, trace routes, and requests in the Network layer | [ ] | [ ] |
+| How to monitor packets, access, and data transfer in the Data Link layer | [ ] | [ ] |
+| How to monitor CPU, memory, and disk usage in the Physical layer | [ ] | [ ] |
+| How to identify an appropriate monitoring tool for a particular deployment IaaS monitoring, Application Performance Monitoring (APM) | [ ] | [ ] |
 | Various APM (Application Performance Monitoring) metrics | [ ] | [ ] |
-| How application response times affects users | [ ] | [ ] |
-| Most time consuming transactions | [ ] | [ ] |
+| How application response times affect users | [ ] | [ ] |
 | How to measure Mean Time to Resolve (MTTR) | [ ] | [ ] |
 | Various Database monitoring metrics | [ ] | [ ] |
 | How to measure time spent in database calls | [ ] | [ ] |
@@ -78,7 +77,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Monitoring is vital for identifying performance bottlenecks of any system | [ ] | [ ] |
 | Proactive monitoring helps solve anticipated problems | [ ] | [ ] |
 | Performance is key to a great user experience for any application | [ ] | [ ] |
-| Every good monitoring strategy should accompanied with a sound logging solution | [ ] | [ ] |
+| Every good monitoring strategy should be accompanied with a sound logging solution | [ ] | [ ] |
 | To maintain integrity in monitoring, developer access to the _live server_ should be blocked and they should be directed to the logging app instead | [ ] | [ ] |
 | Logs need to be easy to use and understand, otherwise they will be useless | [ ] | [ ] |
 
