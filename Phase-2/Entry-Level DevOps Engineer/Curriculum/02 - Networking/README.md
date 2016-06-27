@@ -2,7 +2,8 @@
 
 Skill Description
 -----------------
-The Fellow understands transport layer protocols such as UDP, TCP, how to apply networking rules on a system, and how to communicate data over a network using defined protocols.
+The Fellow should be able to list network interfaces and routing table. They should be able to configure a device on the network and open any necessary or needed ports. They should also be able to list all currently open ports on the system. The Fellow should know the basics of using a firewall to control access to the system.
+
 
 
 Outputs

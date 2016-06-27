@@ -2,7 +2,9 @@
 
 Skill Description
 -----------------
-The Fellow understands the standard processes, techniques and tools used to manage the changes in an environment. They also understand what configuration & change management is and the problems it solves.
+The Fellow should understand the standard processes, techniques and tools used to manage the changes in an environment and be able to use them. They should understand and articulate what configuration & change management is and the problems it solves.
+
+The fellow should be able to setup and configure common software (MySQL, Apache Web Server, MongoDB, ExpressJS, AngularJS, NodeJS, PHP, Python, etc) on a VM using the Ansible configuration tool.
 
 
 Outputs
@@ -11,7 +13,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 1. An exercise that covers the following operations:
   - Setting up a test harness to test and verify configuration scripts
-  - Settin up a development stack (e.g. the MEAN stack) on a VM using the `ansible` configuration tool
+  - Setting up a development stack (e.g. the MEAN stack) on a VM using the `ansible` configuration tool
+  - Setting up the ELK stack (ElasticSearch, Logstash, Kibana, with nginx reverse proxy) on a VM using the `ansible` configuration tool
 
 
 **Objectives**
@@ -49,6 +52,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| Configuration tools eases the process of provisioning and orchestration of machines | [ ] | [ ] |
-| Configuration scripts are tested before being deployed live | [ ] | [ ] |
+| Configuration tools ease the process of provisioning and orchestration machines | [ ] | [ ] |
+| Configuration scripts should be tested before being deployed live | [ ] | [ ] |
 | Configuration scripts should be idempotent | [ ] | [ ] |
+| I leverage the process of provisioning and orchestrating machines through effective use of configuration tools | [ ] | [ ] |

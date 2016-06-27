@@ -11,7 +11,9 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 1. A completed exercise that covers the following operations:
   - Creating a source control repository to manage versions of a release
-  - Creating a CI pipeline using ConcourseCI for the engineering team to run tests when a commit is checked in, tag successful builds, and deploy the build
+  - Creating a CI pipeline using ConcourseCI for the engineering team to run tests when a commit is checked in, tag successful builds
+  - Configuring the CI pipeline to build and tag docker images containing the successful build and push it to a container registry
+  - Configuring the pipeline to deploy successful images to a test namespace on Kubernetes
 2. A post describing how to use the blue-green deployment strategy
 
 
