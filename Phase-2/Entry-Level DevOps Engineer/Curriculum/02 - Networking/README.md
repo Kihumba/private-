@@ -35,6 +35,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | The transport layer protocols | [ ] | [ ] |
 | Uses of private IPV4 address spaces | [ ] | [ ] |
 | Differences between Internet Protocol Versions (IPv4 vs IPv6) | [ ] | [ ] |
+| Differences between UDP and TCP | [ ] | [ ] |
+| How the transport layers fits into the broader OSI model | [ ] | [ ] |
 
 
 ----------------

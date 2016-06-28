@@ -2,7 +2,7 @@
 
 Skill Description
 -----------------
-The fellow knows the fundamentals and knows how to use various Linux/Unix system utilities to perform system administration tasks
+The fellow knows the fundamentals of Command Line Unix and knows how to use various Linux/Unix system utilities to perform system administration tasks
 
 
 Outputs
@@ -63,7 +63,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before installing software packages **Action:** I update the package sources in my OS distro | [ ] | [ ]  |
 | **Context:** When mounting a partition **Action:** I pass in the proper mount flags | [ ] | [ ]  |
-| **Context:** When mounting a partition **Action:** I pass in the proper mount flags | [ ] | [ ]  |
 | **Context:** When writing scripts **Action:** I enable the shell option to exit immediately when an error occurs | [ ] | [ ]  |
 | **Context:** When writing scripts **Action:** I enable the shell option to exit immediately when an unbound variable is found | [ ] | [ ]  |
 | **Context:** When writing scripts **Action:** I log actions in the script to provide visibility on command execution | [ ] | [ ]  |
@@ -80,5 +79,4 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:------------------|:------------------:|:------------:|
 | Automation is key to a wide variety of system administration tasks | [ ] | [ ] |
 | Proper implementation of a service results in a reliable system | [ ] | [ ] |
-| The man pages is a valuable resource to understand how shell programs work and should be reviewed when necessary | [ ] | [ ] |
-
+| The manual pages (standard software documentation on Unix like systems) provides information on shell programs/utilities and should be reviewed when necessary | [ ] | [ ] |
