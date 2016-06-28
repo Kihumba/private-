@@ -2,7 +2,9 @@
 
 Skill Description
 -----------------
-The Fellow understands the practice of integrating new code into the main branch and can put together a pipeline that will automate the testing of the new code after integration. The fellow also understands how the process of deploying code to the production environment after it successfully passes through the automated testing pipeline.
+The Fellow should know how to set up an environment for continuous integration using ConcourseCI, Jenkins or similar tools and know how to merge development work with a Master/Trunk/Mainline branch. They should also understand the reason for this process and how to test code as often as possible to catch issues early. They should know how to write automated tests and unit tests
+
+The Fellow should also know how to deploy code to the production environment as soon as it has passed testing and is ready. They must understand that any testing is to be done prior to merging to the Mainline branch and how to set up Production-like environments. The Fellow must know how to keep the production branch stable and ready to be deployed by an automated process. They must understand that a good Continuous Integration process is a must for Continuous Delivery
 
 
 Outputs

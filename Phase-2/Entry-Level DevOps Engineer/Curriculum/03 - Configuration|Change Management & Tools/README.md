@@ -2,9 +2,9 @@
 
 Skill Description
 -----------------
-The Fellow should understand the standard processes, techniques and tools used to manage the changes in an environment and be able to use them. They should understand and articulate what configuration & change management is and the problems it solves.
+The Fellow should understand the standard processes, techniques and tools used to manage the changes in an environment and be able to use them. They should understand and articulate what configuration & change management is and the problems it solves
 
-The fellow should be able to setup and configure common software (MySQL, Apache Web Server, MongoDB, ExpressJS, AngularJS, NodeJS, PHP, Python, etc) on a VM using the Ansible configuration tool.
+The fellow should be able to setup and configure common software (MySQL, Apache Web Server, MongoDB, ExpressJS, AngularJS, NodeJS, PHP, Python, etc) on a VM using the Ansible configuration tool
 
 
 Outputs

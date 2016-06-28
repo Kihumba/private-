@@ -2,7 +2,9 @@
 
 Skill Description
 -----------------
-The Fellow knows how to use system monitoring/analytics tools to monitor and analyze system & application logs to see opportunities to optimize performance and also to detect issues that should remediated in a timely manner
+The Fellow should have a clear understanding of the various log levels and how to set up logging for a service. They should know the common locations of various log files. They should understand and be able to demonstrate the basics of log rotation
+
+They should understand the difference between logging important information and logging "noise". They should be able to demonstrate how to set up a system to send alerts when errors occur in production systems
 
 
 Outputs

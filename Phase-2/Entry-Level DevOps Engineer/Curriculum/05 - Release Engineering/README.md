@@ -2,7 +2,9 @@
 
 Skill Description
 -----------------
-The Fellow understands the process of compiling, assembling and delivery of software builds into a finished product. The Fellow also understands how to document release procedures.
+The fellow should understand why release engineering is necessary, how to do proper branch management and how to document release procedures
+
+They should also know how to use build tools to automate release processes that transform source code into a product that is ready for release. Fellows must also know how to manage the different versions of released products and push updated minor releases with bug fixes
 
 
 Outputs
