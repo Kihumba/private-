@@ -77,6 +77,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| Automation is key to a wide variety of system administration tasks | [ ] | [ ] |
-| Proper implementation of a service results in a reliable system | [ ] | [ ] |
-| The manual pages (standard software documentation on Unix like systems) provides information on shell programs/utilities and should be reviewed when necessary | [ ] | [ ] |
+| I leverage automation is key to a wide variety of system administration tasks | [ ] | [ ] |
+| I create reliable systems by appropriately implementating services which results in a reliable system | [ ] | [ ] |
+| I review the manual pages (standard software documentation on Unix like systems) to understand how to leverage the various tools available in a Unix system | [ ] | [ ] |
