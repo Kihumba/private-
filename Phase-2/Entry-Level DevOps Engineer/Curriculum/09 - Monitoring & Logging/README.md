@@ -10,8 +10,13 @@ Outputs
 After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
 
 1. An exercise that covers the following operations:
-  - Setting up monitoring for a _production_ environment, using appropriate tools for that particular environment. (Preferably the tools should be open-source with no cost implications)
+  - Setting up server monitoring for a _production_ environment using Nagios
   - Analyzing the collected metrics for 5 days and write a comprehensive report with recommendations
+2. An exercise that covers the following operations:
+  - Setting up application monitoring for a NodeJS application using New Relic
+  - Deploying the NodeJS application to a VM on AWS
+  - Setting up monitoring for the VM using AWS Cloudwatch
+
 
 
 **Objectives**

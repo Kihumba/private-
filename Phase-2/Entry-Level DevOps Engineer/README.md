@@ -13,3 +13,4 @@ The Entry-Level DevOps Engineer is a role that includes the following Learning O
 9.  Monitoring & Logging
 10. Backup & Restore
 11. Securing Deployments
+12. System Maintenance
