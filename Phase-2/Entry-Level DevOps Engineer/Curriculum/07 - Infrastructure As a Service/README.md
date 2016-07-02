@@ -15,6 +15,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
   - Creating a machine image on Amazon AWS
   - Creating a VPC with a private & public subnet on Amazon AWS using AWS Cloudformation
   - Launching a machine with the machine image created previously into the private subnet created above
+  - Creating an autoscaling group
 
 
 
