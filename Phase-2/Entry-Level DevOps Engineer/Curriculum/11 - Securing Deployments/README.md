@@ -38,6 +38,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 | How to view a list of all open ports/connections on a system | [ ] | [ ] |
 | How to restrict access to system ports | [ ] | [ ] |
 | How to apply firewall rules | [ ] | [ ] |
+| How to run a list of common attacks against the code to check for disclosed security vulnerabilities | [ ] | [ ] |
 
 
 ----------------
@@ -68,3 +69,4 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 | Security credentials/tokens should be different for each environment and stored separately | [ ] | [ ] |
 | Security credentials/tokens should not be reused across different environments (test, staging, production, e.t.c) | [ ] | [ ] |
 | Security is vital in the software deployment lifecycle | [ ] | [ ] |
+| Contributing to insecure code, puts my users, my client, and Andela at tremendous risk | [ ] | [ ] |

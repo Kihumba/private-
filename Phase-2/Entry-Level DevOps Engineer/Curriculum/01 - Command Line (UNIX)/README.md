@@ -7,21 +7,41 @@ The fellow knows the fundamentals of Command Line Unix and knows how to use vari
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following exercises:
 
-1. An exercise that covers the following operations:
-  - Creating directories
-  - Finding files and directories
-  - Finding text in files
-  - Creating and mounting devices/partitions
-  - Viewing the list of running processes
-  - Terminating a running process
-  - Redirecting output to a file
-  - Running a process with ENV variables
-  - Running process in the background
-  - Sending a signal to a running process
-  - Scheduling a process to be run at a given time
-  - Installing and uninstalling software packages
+1. Files and Directories
+  - Create directory named `some-dir` in the `/tmp` folder
+  - Find text `some-text` in all files in directory `/tmp/some-dir`
+  - Find files that start with `a` in directory `/tmp/some-dir`
+  - List all hidden files and directories that start with letter `a` in the directory `/tmp/some-dir`
+  - Display the first 4 lines of the file `/tmp/somefile.txt`
+  - Display the last 4 lines of the file `/tmp/somefile.txt`
+  - Append text `To Append` to file `/tmp/append.txt`
+  - Add text `To Add` to file `/tmp/append.txt` overwriting its contents
+  - Change permission of file `/tmp/some-file` to `read only`
+  - Change permission of file `/tmp/some-script` to `executable`
+
+2. Software Packages on Linux
+  - Add the python software repository `ppa:fkrull/deadsnakes` to the list of available repositories on a system
+  - Install the software `python3.5`
+  - Uninstall the software `python3.5`
+
+3. Scheduling
+  - Schedule a cron entry to add the current system time to file `/tmp/some-file` every 2 hours
+
+4. Processes & Signals
+  - List all running processes
+  - List all processes owned by the user **some-user**
+  - Kill process with PID `12123`
+  - Send the interrupt signal to process with PID `12124`
+  - Run command `sleep 10` in the background
+  - Run command `date` and redirect output to file `/tmp/some-file`
+
+5. Devices
+  - Format device `/dev/some-device` as type `xfs`
+  - Mount device `/dev/some-device` as type `xfs` to `/myxfs`
+  - Unmount device `/dev/some-device`
+  - Display the size of the root partition
 
 
 **Objectives**
@@ -32,26 +52,12 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Knowledge Unit   |      Studied      | Memorized |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
-| How to create, delete, and change into a directory   | [ ] | [ ] |
-| How to change the permissions of a file or directory | [ ] | [ ] |
-| How to create drive partitions                       | [ ] | [ ] |
-| How to create, format, mount and unmount a partition | [ ] | [ ] |
-| How to view mount options and partition layout       | [ ] | [ ] |
-| Various linux distros | [ ] | [ ] |
 | The functions of package managers in linux distros | [ ] | [ ] |
-| How to add, remove repository sources            | [ ] | [ ] |
-| How to install, update, and remove software packages | [ ] | [ ] |
-| How to list installed software packages          | [ ] | [ ] |
-| How to schedule and run routine jobs at a specified time | [ ] | [ ] |
-| How to set ENV variables                                    | [ ] | [ ] |
-| How to view a list of running processes                     | [ ] | [ ] |
-| How to view the size of a mounted filesystem                | [ ] | [ ] |
-| How to find the path to the existing file on the filesystem | [ ] | [ ] |
-| How to list files in a directory                            | [ ] | [ ] |
-| How to list all open files on a filesystem                  | [ ] | [ ] |
-| How to output the contents of a file on the filesystem      | [ ] | [ ] |
-| How to send signals to a running process | [ ] | [ ] |
-| How to set shell options in a script | [ ] | [ ] |
+| Managing files and directories | [ ] | [ ] |
+| How to mount, unmount and format devices on a unix system | [ ] | [ ] |
+| Scheduling processes | [ ] | [ ] |
+| Sending signals to processes | [ ] | [ ] |
+| How Shell options control execution in a bash script | [ ] | [ ] |
 
 
 ----------------
@@ -77,6 +83,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| I leverage automation is key to a wide variety of system administration tasks | [ ] | [ ] |
+| I leverage automation to successfully perform a wide variety of system administration tasks | [ ] | [ ] |
 | I create reliable systems by appropriately implementating services which results in a reliable system | [ ] | [ ] |
 | I review the manual pages (standard software documentation on Unix like systems) to understand how to leverage the various tools available in a Unix system | [ ] | [ ] |

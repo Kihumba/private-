@@ -42,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** When I need to provision machines **Action:** I use a configuration tool | [ ] | [ ]  |
 | **Context:** Before I create configuration scripts **Action:** I setup a test harness to TDD the scripts | [ ] | [ ]  |
-| **Context:** When I create configuration scripts **Action:** I test it locally before deploying | [ ] | [ ] |
+| **Context:** When I create configuration scripts **Action:** I test and validate it locally before deploying | [ ] | [ ] |
 
 
 --------------
@@ -52,7 +52,5 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| Configuration tools ease the process of provisioning and orchestration machines | [ ] | [ ] |
-| Configuration scripts should be tested before being deployed live | [ ] | [ ] |
 | Configuration scripts should be idempotent | [ ] | [ ] |
 | I leverage the process of provisioning and orchestrating machines through effective use of configuration tools | [ ] | [ ] |
