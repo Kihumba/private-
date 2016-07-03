@@ -7,8 +7,9 @@ Your services are split into Models, Views and Controllers created independent o
 ## Output
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-- Create a model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`).
-- Create a `UIViewController` with its Script and UI Component (the container of the Scene in the Storyboard).
+- A model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`).
+- A `UIViewController` with its Script 
+- A UI Component (the container of the Scene in the Storyboard).
 
 ## Objectives
 
@@ -26,9 +27,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How is a view represented in iOS? | [ ] | [ ] |
 | What is the function of the Model? | [ ] | [ ] |
 | What persistent data stores a available in iOS? | [ ] | [ ] |
-| Creating a model to work with your data store. | [ ] | [ ] |
-| How are models, views and controllers interconnected? | [ ] | [ ] |
-| Using a Controller with different views. | [ ] | [ ] |
+| How to create a model to work with your data store. | [ ] | [ ] |
+| How should models, views and controllers be interconnected? | [ ] | [ ] |
+| How to use the same Controller with different views. | [ ] | [ ] |
 
 -------
 
@@ -36,10 +37,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** Before I build a application, **Action:** I separate the application's components into a Model, a View, and a Controller. | [ ] | [ ] |
-| **Context:** While building an application, **Action:** The logic and behavior of the application will be created in its Controllers. | [ ] | [ ] |
-| **Context:** When I access or manipulate data, **Action:** I create a Model that assumes the structure of data I'd like to modify and carry out all other operations on. | [ ] | [ ] |
-| **Context:** While styling an application, **Action:** I'll make all the adjustments of the UI Elements in its Views. | [ ] | [ ] |
+| **Context:** Before I build an application whose primary use is to save, update, and/or display data, **Action:** I separate the application's components into a Model, a View, and a Controller. | [ ] | [ ] |
+| **Context:** While building an MVC application, **Action:** I construct the logic and data handling of the application in Controllers. | [ ] | [ ] |
+| **Context:** When building an MVC application, **Action:** I create models to represent the data I'd like to modify and use. | [ ] | [ ] |
+| **Context:** While constructing a GUI in an MVC application, **Action:** I place UI Elements in its Views. | [ ] | [ ] |
 
 -------
 
@@ -47,5 +48,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that a well structured application should consist of a Model, a View and a Controller all playing their appropriate roles. | [ ] | [ ] |
-| I believe that using the MVC Pattern by separation of concerns makes the application easy to manage and scale. | [ ] | [ ] |
+| MVC architecture is a powerful use of separation of concerns to make easily manageable, scalable applications. | [ ] | [ ] |

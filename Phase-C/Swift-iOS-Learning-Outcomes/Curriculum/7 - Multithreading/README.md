@@ -16,12 +16,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is Multithreading? | [ ] | [ ] |
-| Why it is important to run tasks in parallel? | [ ] | [ ] |
+| When it's important to run tasks in parallel. | [ ] | [ ] |
 | What are the available Multithreading methods in Swift? | [ ] | [ ] |
 | How is the _Grand General Dispatcher_ used? | [ ] | [ ] |
 | What are queues? | [ ] | [ ] |
-| How is _NSOperation_ used? | [ ] | [ ] |
-| How is _NSThread_ used? | [ ] | [ ] |
+| What are threads? | [ ] | [ ] |
+| How to use _NSOperation_. | [ ] | [ ] |
+| How to use _NSThread_. | [ ] | [ ] |
 
 -------
 
@@ -29,10 +30,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I run processes that should not distort the user interface of an application  **Action:** I run the processes on a new background thread.  | [ ] | [ ] |
+| **Context:** When I run processes that could block the updating of the UI  **Action:** I run the processes on a new background thread.  | [ ] | [ ] |
 | **Context:** When I create a background thread, **Action:** the thread should be created on a non-blocking queue, not on the main queue. | [ ] | [ ] |
-| **Context:** When I need to run a method that interacts with the User Interface, **Action:** I run the process on the main queue. | [ ] | [ ] |
-| **Context:** When I need to run two or more processes that consume resources, **Action:** I run them on new threads in parallel. | [ ] | [ ] |
+| **Context:** When I need to run a method that interacts with the User Interface, **Action:** I run the process on the main queue and UI thread. | [ ] | [ ] |
+| **Context:** When I need to run two or more processes asynchronously, **Action:** I run them on new threads in parallel. | [ ] | [ ] |
 
 -------
 
@@ -40,5 +41,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that running background processes on new threads will prevent my app from Freezing. | [ ] | [ ] |
-| I believe that running two or more processes in parallel will make them complete and produce results on time and asynchronously. | [ ] | [ ] |
+| Running background processes on new threads will prevent my app's UI from freezing. | [ ] | [ ] |
+| Swift handles running asynchronous code in a way that allows me to take advantage of event driven processes. | [ ] | [ ] |
