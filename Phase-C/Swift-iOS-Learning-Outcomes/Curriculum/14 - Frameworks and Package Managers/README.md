@@ -7,9 +7,11 @@ _Frameworks_ give you access to methods and procedures that have been developed 
 _Package Managers_ provide a structure to control the Frameworks that are installed and / or used in your application.
 
 ## Output
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, a person should be able to do the following:
 
-- Install CocoaPod Package Manager, and install the `AlamoFire` Framework, Use AlamoFire to make a request to GitHub API (fetching the repos of a said user) and embed the result into a table list view.
+- Install CocoaPods Package Manager
+- Install the `AlamoFire` Framework
+- Use AlamoFire to make a request to GitHub API (fetching the repositories of an inputted user) and embed the result into a table list view.
 
 
 ## Objectives
@@ -17,12 +19,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
+| What is a Framework? | [ ] | [ ] |
 | What Frameworks exist in Xcode by default, and where can they be found? | [ ] | [ ] |
 | What Package Managers are available for iOS Swift? | [ ] | [ ] |
-| Why is it important to use a Package Manager? | [ ] | [ ] |
+| What are the benefits to using a Package Manager? | [ ] | [ ] |
 | _How can I add a Framework to my existing iOS Project?_ |
-| 1. manually using the `.framework` file | [ ] | [ ] |
-| 2. using a Package Manager _(CocoaPod)_ | [ ] | [ ] |
+| 1. Manually using the `.framework` file | [ ] | [ ] |
+| 2. Using a Package Manager _(CocoaPods)_ | [ ] | [ ] |
 | How do you use a Framework added to your iOS Project | [ ] | [ ] |
 
 ------
@@ -31,8 +34,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need a service that's overly complicated and might pose some redundancy building it from scratch, **Action:** I install and use a Framework that has this service. | [ ] | [ ] |
-| **Context:** When I need a Framework, **Action:** I install it using a Package Manager. | [ ] | [ ] |
+| **Context:** When I need a service that is complex, **Action:** I first attempt to find and use a Framework that has this service. | [ ] | [ ] |
+| **Context:** When I need a Framework, **Action:** I first try to install it using a Package Manager. | [ ] | [ ] |
+| **Context:** When I need a Framework that can't be installed with a Package Manager, **Action:** I install it manually. | [ ] | [ ] |
 | **Context:** Before I use a Framework in my codebase, **Action:** I import the namespace at the top of my script, before my code begins. | [ ] | [ ] |
 | **Context:** Before I use an iOS SDK Framework, **Action:** I add and reference them in the _Linked Frameworks and Libraries_ section under the _General Tab_ in the Project's Properties. | [ ] | [ ] |
 ------
