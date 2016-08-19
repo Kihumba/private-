@@ -8,7 +8,7 @@ The Fellow is able to articulate the vision of the client, understands how their
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. Written or recorded statement of the vision they are aligned with in their project work (e.g. in Simulations or internal placement) and how they further that vision
+1. Written or recorded description of the vision I am aligned with in my project work (e.g. in Simulations or internal placement) and how I further that vision through my work
 
 ## Objectives
 
@@ -41,6 +41,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | - **Action:** I identify how my work further's the organization's vision | [ ] | [ ] |
 | **Context:** When I am discussing an organization I work with **Action:** I can articulate the organization's vision and goals | [ ] | [ ] |
 | **Context:** When I am unsure if or how my work helps my organization's achieve its goals **Action:** I take action to improve my alignment with the organization | [ ] | [ ] |
+| **Context:** When defining the tasks I am to work on **Action:** I seek to work on tasks that most effectively further the vision and goals of the organization | [ ] | [ ] |
 | | | |
 
 ---
