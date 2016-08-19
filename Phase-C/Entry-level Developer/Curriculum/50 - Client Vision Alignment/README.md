@@ -2,7 +2,7 @@
 
 ## Skill Description
 
-The Fellow is able to articulate the vision of the client, understands how their work helps the client achieve their goals, and is personally aligned with the client's vision and goals.
+The Fellow is able to articulate the vision of the client, understands how their work helps the client achieve their goals, and demonstrates personal alignment with the client's vision and goals.
 
 ## Output
 
