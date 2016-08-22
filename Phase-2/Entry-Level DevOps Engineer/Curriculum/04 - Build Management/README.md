@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory:| | |
 | Use cases for a semantic build versioning scheme | [ ] | [ ] |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When setting up a build system **Action:** I use a configuration tool to create the build servers and build pipeline | [ ] | [ ] |
 | **Context:** When setting up a build system **Action:** I configure the system to create builds in an isolated environment | [ ] | [ ] |

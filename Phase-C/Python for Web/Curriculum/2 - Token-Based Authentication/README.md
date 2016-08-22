@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Differences between Token-Based Authentication and Server-Based Authentication. | [ ] | [ ] |
 | Steps involved in Token-Based Authentication <ul><li>User logs in</li><li>User Data is encoded as token using a secret key</li><li>Token is sent back to the client</li><li>Token is stored in the client using LocalStorage</li><li>Token in sent in the header with all subsequent requests.</li></ul> | [ ] | [ ] |

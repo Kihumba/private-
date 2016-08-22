@@ -49,7 +49,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | The functions of package managers in linux distros | [ ] | [ ] |
@@ -65,7 +65,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before installing software packages **Action:** I update the package sources in my OS distro | [ ] | [ ]  |
 | **Context:** When mounting a partition **Action:** I pass in the proper mount flags | [ ] | [ ]  |

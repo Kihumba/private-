@@ -26,7 +26,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ## Behaviors
 
-| Observable Behavior   |      Practiced      | Observed |
+| Observable Behavior   |      Practiced      | Practiced |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating a new software project **Action:** I set it up with version control | [ ] | [ ] |
 | **Context:** When I begin work on a new feature, bug or enhancement **Action:** I select or create the appropriate branch to contribute to | [ ] | [ ] |

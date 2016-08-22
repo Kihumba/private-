@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Merge Conflict | [ ] | [ ]  |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When my junior teammates have merge conflicts **Action:** I help resolve them | [ ] | [ ]  |
 | **Context:** After I resolve merge conflicts **Action:** I perform end-to-end tests to ensure that the system/application still behaves as expected | [ ] | [ ]  |

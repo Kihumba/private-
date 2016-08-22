@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Command Line Alias | [ ] | [ ]  |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have frequently used terminal commands that are longer than 5 characters **Action:** I create an alias for them | [ ] | [ ]  |
 | **Context:** When I have frequently used routines on my machine **Action:** I identify opportunities for automation and write scripts to optimize and accelerate my work | [ ] | [ ]  |

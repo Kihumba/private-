@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Adding template directories within settings | [ ] | [ ] |  
 | Common Template tags - `if`, `for` - and how to use them within templates | [ ] | [ ] |  

@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is an XML? And how do you write a basic XML file?| [ ] | [ ] |
 | How do you edit the Android UI from the xml view and from the design view? | [ ] | [ ] |

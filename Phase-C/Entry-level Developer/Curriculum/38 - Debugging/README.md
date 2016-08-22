@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able creat
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Types of programming bugs | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able creat
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I start fixing a bug **Action:** I replicate the problem | [ ] | [ ] |
 | **Context:** When I begin fixing a bug **Action:** I leverage debugging techniques to isolate the root cause of the problem | [ ] | [ ] |

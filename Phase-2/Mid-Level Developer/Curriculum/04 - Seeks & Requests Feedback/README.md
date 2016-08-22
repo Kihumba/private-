@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Benefits and importance of setting S.M.A.R.T goals | [ ] | [ ] |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** In any engagement **Action:** frequently seek feedback at appropriate times and avenues from all stakeholders to identify areas for improvement |   [ ]   |   [ ]  |
 | **Context:** After I receive feedback **Action:** I write down the specific areas for improvement and share it with the person who delivered the feedback for confirmation |   [ ]   |   [ ]  |

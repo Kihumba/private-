@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Differences between data structures and abstract data types | [ ] | [ ]  |
@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When designing a solution for a programming problem **Action:** I use the data structures that are most efficient for the needs of the problem | [ ] | [ ] |
 | **Context:** When using data structures that are already implemented in a programming language or framework **Action:** I gain an understanding of how efficient the data structures are | [ ] | [ ] |

@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Various uses for spreadsheets | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to perform the same dynamic calculations in multiple cells **Action:** I use a formula | [ ] | [ ] |
 | **Context:** When I need to visually represent data in a spreadsheeet **Action:** I use the table/chart functionalities of the spreadsheet | [ ] | [ ] |

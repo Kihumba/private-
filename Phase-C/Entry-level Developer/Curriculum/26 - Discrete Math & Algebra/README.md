@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Examples of independent events | [ ] | [ ]  |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When writing programs **Action:** I use variables to make my functions dynamic | [ ] | [ ] |
 | **Context:** When writing programs with conditional logic **Action:** I leverage probablity to optimize my conditionals for cases that are most likely to occur | [ ] | [ ] |

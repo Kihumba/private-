@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Performance Optimization | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When deploying an application **Action:** I set up a performance monitoring system with it | [ ] | [ ]  |
 | **Context:** When I get negative performance reports **Action:** I investigate the reports to identify the cause of poor performance | [ ] | [ ]  |

@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ----------
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Initializing a Flask application and the different parameters for running the application. | [ ] | [ ] |
 | URL Definition syntax in Flask using the `@app.route()` decorator as well as the `app.add_url_rule()` function. | [ ] | [ ] |

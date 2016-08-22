@@ -28,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | How to free up disk space when the disk if full | [ ] | [ ] |
@@ -45,7 +45,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before I install software on a system **Action:** I run the package manager's update packages command | [ ] | [ ]  |
 | **Context:** When the disk on a server is out of space **Action:** I find all files that can be either zipped or deleted to free up space | [ ] | [ ]  |

@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * How DevOps fits in software development lifecyle | [ ] | [ ]  |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a project **Action:** I ensure that there is a continuous integration process set up | [ ] | [ ]  |
 | **Context:** When I set up continuous integration **Action:** I ensure that test automation is part of the build and deploy process | [ ] | [ ]  |

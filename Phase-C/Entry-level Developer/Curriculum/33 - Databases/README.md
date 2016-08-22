@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Practiced      | Observed |
+| Observable Behavior   |      Practiced      | Practiced |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I setup my Database **Action:** I select a SQL or NoSQL database based on the structure of data to be stored. | [ ] | [ ] |
 | **Context:** When I need a complex query in a SQL Database **Action:** I create VIEWS that abstract the query's complexity | [ ] | [ ]  |

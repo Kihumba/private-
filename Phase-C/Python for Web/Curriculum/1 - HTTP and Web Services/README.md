@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Meaning of HTTP | [ ] | [ ] |
 | Life-Cycle of an HTTP Request | [ ] | [ ] |

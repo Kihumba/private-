@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | How to initiate a conversation with an individual | [ ] | [ ]  |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to have a one on one conversation with an individual **Action:** I use a direct message | [ ] | [ ] |
 | **Context:** When I want to have a group conversation **Action:** I use a channel or a multi-user direct message | [ ] | [ ] |

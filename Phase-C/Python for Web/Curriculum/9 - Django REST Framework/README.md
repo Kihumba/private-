@@ -25,7 +25,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What Serializers are and how they can be used | [ ] | [ ] |
 | Types of Serializers available in DRF | [ ] | [ ] |

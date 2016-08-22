@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | How to open new files for editing in my text editor | [ ] | [ ]  |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to make the same edits at multiple points in file **Action:** I use the find and replace functionality of my text editor | [ ] | [ ] |
 | **Context:** When I need to revert to a previous edit when working on a file **Action:** I use the undo functionality of my text editor | [ ] | [ ] |

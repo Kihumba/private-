@@ -23,7 +23,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | The kind of data to be backed up on a system | [ ] | [ ] |
@@ -36,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When I setup a plan to backup data **Action:** I identify the critical data that should be backed up | [ ] | [ ] |
 | **Context:** When I setup a plan to backup data **Action:** I set a recurring schedule at which the data should be backed up | [ ] | [ ] |

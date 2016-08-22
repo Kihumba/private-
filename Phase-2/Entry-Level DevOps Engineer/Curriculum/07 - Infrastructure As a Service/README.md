@@ -44,7 +44,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When I create a VPC **Action:** I create a security group with the least set of permissive rules to control access to the VPC| [ ] | [ ] |
 | **Context:** When an OS patch is released **Action:** I apply the patch to my running machines | [ ] | [ ] |

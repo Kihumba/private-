@@ -20,7 +20,7 @@ In checkpoint 4,
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Given a fresh laravel install, | | |
 | <ul><li> I can configure the AuthController and AuthenticatesAndRegistersUsers Traits </li></ul>| [ ] | [ ]  |

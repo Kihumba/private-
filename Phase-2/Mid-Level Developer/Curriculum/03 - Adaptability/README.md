@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Methods for identifying areas for improvement in work environment | [ ] | [ ]  |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I first join an organization **Action:** I gain understanding of their systems and process then look for opportunities to make them more efficient | [ ] | [ ]  |
 | **Context:** When I realize that I do not have a sufficient understanding of my organization to recommend changes for greater efficiency **Action:** I research and inquire until I gain a complete understanding | [ ] | [ ] |

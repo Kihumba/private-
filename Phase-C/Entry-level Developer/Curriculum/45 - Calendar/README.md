@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | How to create a calendar event | [ ] | [ ]  |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to schedule a meeting **Action:** I look at the participants' calendars to find an appropriate meeting time | [ ] | [ ] |
 | **Context:** When there are scheduling conflicts on participants' calendars **Action:** I engage the participants in conversation to figure out a time that works | [ ] | [ ] |

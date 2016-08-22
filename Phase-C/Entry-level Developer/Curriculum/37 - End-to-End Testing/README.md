@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Appropriate use cases for unit tests, integration tests, and end-to-end tests | [ ] | [ ]  |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I write end-to-end test scenarios **Action:** I write scenarios for all happy paths and sad paths | [ ] | [ ] |
 | **Context:** Before writing an end-to-end test script **Action:** I manually test the app from the UI and confirm that all expected data changes have been captured in the data layer as shown in the UI | [ ] | [ ] |

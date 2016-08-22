@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Git Rebase | [ ] | [ ]  |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a team that uses Git **Action:** I inquire about what git workflow they use and adapt accordingly | [ ] | [ ]  |
 | **Context:** When adapting to a new git workflow **Action:** I familiarize myself with all the git commands required in that workflow including how and when to use them  | [ ] | [ ]  |

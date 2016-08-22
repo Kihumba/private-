@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The difference between a class and an object | [ ] | [ ]  |
@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When writing object-oriented programs **Action:** I use abstraction to create classes | [ ] | [ ] |
 | **Context:** When writing a class **Action:** I hide implementation details of class methods from other classes that may interact with the class | [ ] | [ ] |

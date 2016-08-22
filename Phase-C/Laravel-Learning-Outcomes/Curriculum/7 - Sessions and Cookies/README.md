@@ -16,7 +16,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are sessions? | [ ] | [ ]  |
 | What are cookies? | [ ] | [ ]  |

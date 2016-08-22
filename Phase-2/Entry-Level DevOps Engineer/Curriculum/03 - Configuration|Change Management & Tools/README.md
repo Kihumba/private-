@@ -22,7 +22,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | How software development environments may change over time | [ ] | [ ] |
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When I need to provision machines **Action:** I use a configuration tool | [ ] | [ ]  |
 | **Context:** Before I create configuration scripts **Action:** I setup a test harness to TDD the scripts | [ ] | [ ]  |

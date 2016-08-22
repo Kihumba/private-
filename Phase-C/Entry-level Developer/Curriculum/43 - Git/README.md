@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ## Behaviors
 
-| Observable Behavior   |      Practiced      | Observed |
+| Observable Behavior   |      Practiced      | Practiced |
 |:-------------|:------------------:|:--------:|
 | **Context:** When creating a project that I intend to revisit **Action:** I create a new remote repository on Github and pull down to my local repository | [ ] | [ ] |
 | **Context:** When I am about to continue work on an ongoing project **Action:** I pull in changes from the remote repository | [ ] | [ ] |

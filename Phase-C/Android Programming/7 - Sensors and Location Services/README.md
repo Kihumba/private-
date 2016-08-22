@@ -45,7 +45,7 @@ An alarm goes up at the time the user is due to begin push up (with a notificati
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are sensors?| [ ] | [ ] |
 | What are the cases for using the sensor? | [ ] | [ ] |

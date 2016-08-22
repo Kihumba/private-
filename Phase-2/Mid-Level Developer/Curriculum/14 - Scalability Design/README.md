@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Scaling | [ ] | [ ]  |
@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When designing a system **Action:** I consider short and long term goals of the system's usage | [ ] | [ ]  |
 | **Context:** After knowing the short and long term goals of the system's usage **Action:** I consider the tradeoff of designing for 10x of the projected systems usage versus the need to roll out features fast | [ ] | [ ]  |

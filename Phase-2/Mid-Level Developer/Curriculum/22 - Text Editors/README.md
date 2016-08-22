@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Shortcuts | [ ] | [ ]  |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I use my text editor **Action:** I use shortcuts to navigate | [ ] | [ ]  |
 | **Context:** When I see myself performing repeated actions using the UI of my text editor **Action:** I find and get familiar with shortcuts for those actions | [ ] | [ ]  |

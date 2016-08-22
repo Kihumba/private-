@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Practiced      | Observed |
+| Observable Behavior   |      Practiced      | Practiced |
 |:-------------|:------------------:|:--------:|
 | **Context:** Whenever I need to navigate my filesystem and perform file operations **Action:** I use the command line | [ ] | [ ]  |
 | **Context:** When I install new open source libraries/tools using the command line  **Action:** I read the source code for the install scripts to further my understanding of the UNIX shell |   [ ]   |   [ ] |

@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Knowledge
 
-| Knowledge Unit | Studied | Memorized |
+| Knowledge Unit | Studied | Applied |
 |:---|:---:|:---:|
 | I can describe the following from memory: | | | |
 | - Ways of effectively saying no to unreasonable requests | [ ] | [ ] |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behaviour | Observed | Mastered |
+| Observable Behaviour | Practiced | Observed |
 |:---|:---:|:---:|
 | | | |
 | **Context:** When assigned work on a team project |  |  |

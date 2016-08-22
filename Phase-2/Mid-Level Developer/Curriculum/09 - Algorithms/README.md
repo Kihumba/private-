@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Linear Search   | [ ] | [ ]  |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When beginning work on a new system **Action:** I collaborate with relevant stakeholders to understand the relative priority of time and memory constraints | [ ] | [ ]  |
 | **Context:** Before I start to write a solution program to a problem **Action:** I look for existing algorithms that are similar to the problem I'm trying to solve | [ ] | [ ]  |

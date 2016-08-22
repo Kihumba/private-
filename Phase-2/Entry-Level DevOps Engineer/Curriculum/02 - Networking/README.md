@@ -25,7 +25,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | Differences between network router and a network switch | [ ] | [ ] |
@@ -44,7 +44,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before setting up a network **Action:** I use a subnet mask to define the available number of IP addresses | [ ] | [ ] |
 | **Context:** When I assign an IP address to a machine **Action:** I assign using a subnet mask | [ ] | [ ] |

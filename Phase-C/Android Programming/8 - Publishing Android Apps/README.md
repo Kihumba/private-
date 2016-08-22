@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is the process for publishing Android apps?| [ ] | [ ] |
 | How is an app versioned and signed? | [ ] | [ ] |

@@ -18,7 +18,7 @@ In checkpoint 4 :
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are Middlewares used for? | [ ] | [ ]  |
 | I can clearly describe  |  |   |

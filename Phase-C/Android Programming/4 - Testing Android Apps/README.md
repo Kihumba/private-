@@ -45,7 +45,7 @@ Using any instrumentation test of choice (Solo or Espresso is recommended), writ
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is the importance of testing Android apps?| [ ] | [ ] |
 | What is instrumentation test? And what frameworks are available for instrumentation testing?| [ ] | [ ] |

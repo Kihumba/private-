@@ -15,7 +15,7 @@ In checkpoint and simulation projects, consistently use laravel generators to im
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can clearly explain what generators are. | [ ] | [ ]  |
 | I am familiar with the following commands: | [ ] | [ ]  |

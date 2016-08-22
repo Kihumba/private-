@@ -14,7 +14,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ### Knowledge
 
-| Knowledge Unit | Studied | Memorized |
+| Knowledge Unit | Studied | Applied |
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ### Behaviors
 
-| Observable Behavior | Observed | Mastered |
+| Observable Behavior | Practiced | Observed |
 |:---|:---:|:---:|
 | | | |
 | **Context:** When I am finding it difficult to stay motivated on a task **Action:** I leverage my personal motivators to ensure I meet expectations | [ ] | [ ] |

@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The differences between authentication and authorization | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When building a feature that requires users to have private access to their data **Action:** I use the appropriate authentication mechanism | [ ] | [ ] |
 | **Context:** When building a feature that requries users to have different levels of access to data **Action:** I use the appropriate authorization mechanism | [ ] | [ ] |

@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Practiced      | Observed |
+| Observable Behavior   |      Practiced      | Practiced |
 |:-------------|:------------------:|:--------:|
 | **Context:** When it is my turn to report status during a Scrum meeting **Action:** I update my team with what tasks I engaged in the previous day and the tasks I will engage in on the current day| [ ] | [ ]  |
 | **Context:** When I have/had issues blocking me from making progess on tasks **Action:** I inform my team of those blocker issues as part of my status update during the Scrum meeting | [ ] | [ ]  |

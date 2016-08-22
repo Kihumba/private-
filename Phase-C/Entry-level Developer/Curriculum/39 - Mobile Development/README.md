@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Pros and Cons of native vs mobile web development | [ ] | [ ]  |
@@ -34,7 +34,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I build applications that may be used on mobile **Action:** I consider the constraints and benefits that a mobile device might present in my design | [ ] | [ ] |
 | **Context:** When I build a feature that require the location of the user **Action:** I leverage the appropriate location based services | [ ] | [ ] |

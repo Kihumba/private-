@@ -22,7 +22,7 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Early warning signs of what may delay a project or deliverable | [ ] | [ ] |
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before communicating status **Action** I compare current progress to anticipated timelines to proactively identify any slips in the original schedule for delivery | [ ] | [ ] |
 | **Context:** When I anticipate a slip in schedule **Action** I come up with thoughtful recommendations for mitigating the slip | [ ] | [ ] |

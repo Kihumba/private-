@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Practiced      | Observed |
+| Observable Behavior   |      Practiced      | Practiced |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before building the front-end of an application that does not have a design **Action:** I record my understanding of my intended user | [ ] | [ ]  |
 | **Context:** Before building the front-end of an application that does not have a design **Action:** I create wireframes to map out the User Interface specs | [ ] | [ ]  |

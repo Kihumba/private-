@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before committing code to a repository **Action:** I run tests locally | [ ] | [ ] |
 | **Context:** When a build fails tests on CI **Action:** I fix it in a timely manner and then redeploy | [ ] | [ ] |

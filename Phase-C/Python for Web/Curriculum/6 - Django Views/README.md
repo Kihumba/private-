@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Difference between Function-Based Views and Class-Based Views | [ ] | [ ] |
 | Syntax for creating routes that point to either FBVs or CBVs | [ ] | [ ] |

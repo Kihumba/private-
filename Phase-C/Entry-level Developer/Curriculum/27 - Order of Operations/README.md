@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Order of operations in Mathematics | [ ] | [ ]  |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I write programs that use mathematical operations **Action:** I ensure that my mathematical expressions follow the right order required by the desired result | [ ] | [ ] |
 

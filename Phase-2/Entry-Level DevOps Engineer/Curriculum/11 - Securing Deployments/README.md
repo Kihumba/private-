@@ -28,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Knowledge**
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
 | I can describe the following from memory: | | |
 | How to install/update software on a system | [ ] | [ ] |
@@ -46,7 +46,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before deploying code to a repository **Action:** I remove all security credentials/tokens if any | [ ] | [ ]  |
 | **Context:** Before deploying code to production systems **Action:** I run a list of common attacks against the system to ensure the system is not vulnerable | [ ] | [ ]  |

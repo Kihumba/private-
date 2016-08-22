@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | How to break down work into individual tasks | [ ] | [ ]  |
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I begin assigned work **Action:** I break down the work into smaller individual tasks | [ ] | [ ] |
 | **Context:** After breaking down the work into smaller individual tasks **Action:** I estimate the LOE/time it will take to complete those tasks | [ ] | [ ] |

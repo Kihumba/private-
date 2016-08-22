@@ -19,7 +19,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Goals of Andela staff team that supports me on Client engagement | [ ] | [ ]  |
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, I should be able to do
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I first join an organization **Action:** I gain an understanding of my team, stakeholder roles, team and organizational goals, and the organization's history | [ ] | [ ] |
 | | | |

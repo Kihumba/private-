@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | What a design pattern is | [ ] | [ ]  |
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I read code for understanding **Action:** I observe the design patterns that have been used by the author | [ ] | [ ] |
 | **Context:** When I read code for understanding **Action:** I look for areas where a design pattern could have been used | [ ] | [ ] |

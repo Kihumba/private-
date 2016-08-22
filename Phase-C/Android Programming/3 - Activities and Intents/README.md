@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What is an Android Activity?| [ ] | [ ] |
 | What is the Android Activity lifecycle? How is it harnessed in a typical Android app? | [ ] | [ ] |

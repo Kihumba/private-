@@ -15,7 +15,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Knowledge
 
-| Knowledge Unit | Studied | Memorized |
+| Knowledge Unit | Studied | Applied |
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
@@ -32,7 +32,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior | Observed | Mastered |
+| Observable Behavior | Practiced | Observed |
 |:---|:---:|:---:|
 | | | |
 | **Context:** When I am listening to someone | | |

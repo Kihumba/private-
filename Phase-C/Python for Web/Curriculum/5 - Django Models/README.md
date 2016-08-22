@@ -22,7 +22,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | General Django model structure as being a collection of class variables representing corresponding table fields | [ ] | [ ] |
 | The `ForeignKey()` class and syntax for using it to create foreign key relationships between tables | [ ] | [ ] |

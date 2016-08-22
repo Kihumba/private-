@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When creating a release **Action:** I use only builds that have been thoroughly tested | [ ] | [ ] |
 | **Context:** When creating a release **Action:** I ensure all code dependencies are met and present in the build | [ ] | [ ] |

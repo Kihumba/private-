@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ### Knowledge
 
-| Knowledge Unit | Studied | Memorized |
+| Knowledge Unit | Studied | Applied |
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
@@ -37,7 +37,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ### Behaviors
 
-| Observable Behavior | Observed | Mastered |
+| Observable Behavior | Practiced | Observed |
 |:---|:---:|:---:|
 | | | |
 | **Context:** When I have just joined a new team **Action:** I establish relationships and channels conducive to direct and honest feedback from my team members| [ ] | [ ] |

@@ -42,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before I deploy my app to a PaaS **Action:** I look for a PaaS that has the app runtime support required to run my app code | [ ] | [ ] |
 | **Context:** Before I deploy my app to a PaaS **Action:** I look for a PaaS that has the database that my app needs  | [ ] | [ ] |

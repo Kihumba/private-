@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | The difference between current, backlog, and icebox categories | [ ] | [ ]  |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I am assigned an ad-hoc task outside of Pivotal Tracker **Action:** I update the project on Pivotal Tracker with the new stories | [ ] | [ ] |
 | **Context:** When I am assigned a story on Pivotal Tracker **Action:** I update the story card with an estimate of how long it will take | [ ] | [ ] |

@@ -65,7 +65,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When making new code changes **Action:** I monitor for any major metric change | [ ] | [ ] |
 | **Context:** When setting up any deployment environment **Action:** I make sure that specific monitoring tools are set up for every service e.g. databases, web-server, etc | [ ] | [ ] |

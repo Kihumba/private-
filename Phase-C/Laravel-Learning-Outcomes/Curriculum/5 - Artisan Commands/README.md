@@ -15,7 +15,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can explain what Artisan is. | [ ] | [ ]  |
 | I can clearly explain the need for Artisan commands. | [ ] | [ ]  |

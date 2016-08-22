@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Creating a Django Project using the `django-admin` command line | [ ] | [ ] |
 | Commonly used commands for Django's `manage.py` - `runserver`, `migrate`, `createmigrations`, `createsuperuser`, `startapp` - and when to use them | [ ] | [ ] |

@@ -15,7 +15,7 @@ When working on checkpoint 4, your Laravel application should:
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe Laravel as a framework | [ ] | [ ]  |
 | I can install the Laravel framework on my local machine via composer | [ ] | [ ]  |

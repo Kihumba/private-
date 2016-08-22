@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Examples of B2B companies | [ ] | [ ] |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Prior to joining an organization (e.g. Andela or a Client) **Action:** I strive to gain a full understanding of the type of organization, and all of its departments | [ ] | [ ]  |
 | **Context:** Prior to joining an organization (e.g. Andela or a Client) **Action:** I learn more about the top level leadership, department heads and their backgrounds in order to get ideas of how they may run their respective departments | [ ] | [ ]  |

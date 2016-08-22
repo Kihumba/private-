@@ -18,7 +18,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Knowledge
 
 
-| Knowledge Unit | Studied | Memorized |
+| Knowledge Unit | Studied | Applied |
 |:---|:---:|:---:|
 | I can describe the following from memory: | | |
 | | | |
@@ -35,7 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ### Behaviors
 
-| Observable Behavior | Observed | Mastered |
+| Observable Behavior | Practiced | Observed |
 |:---|:---:|:---:|
 | | | |
 | **Context:** When my team is coming up with solutions to a problem | | |

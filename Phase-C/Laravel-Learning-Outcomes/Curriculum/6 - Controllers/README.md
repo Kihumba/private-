@@ -17,7 +17,7 @@ Outputs
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Why is it important what you name your models, controllers, and views? | [ ] | [ ]  |
 | How to set middlewares in a Controller? | [ ] | [ ]  |

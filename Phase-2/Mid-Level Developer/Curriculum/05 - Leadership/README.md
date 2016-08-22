@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ## **Knowledge**
 
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | * Self-Awareness | [ ] | [ ] |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 ## **Behaviors**
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I first join a team **Action:** I learn more about what inspires and motivates individual team members|   [ ]   |   [ ]  |
 | **Context:** When I feel a member of my team is not motivated in their work **Action:** I take action to inspire and motivate them |   [ ]   |   [ ]  |
