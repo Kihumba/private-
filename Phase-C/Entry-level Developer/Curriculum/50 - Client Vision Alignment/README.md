@@ -19,14 +19,11 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I can describe the following from memory: | | |
 | | | |
 | - What a vision is | [ ] | [ ] |
-| - The relationship between an organization's vision and goals | [ ] | [ ] |
-| - How a vision relates to day-to-day business and technical activities | [ ] | [ ] |
-| - What it means to be aligned with an organization's vision | [ ] | [ ] |
-| - The vision of any  organization I work with regularly | [ ] | [ ] |
-| - How my work furthers the vision of any organization I work with regularly | [ ] | [ ] |
-| - How to gain an understanding of an organization's vision | [ ] | [ ] |
-| - How to improve my alignment with an organization's vision | [ ] | [ ] |
-| - The benefits of personally aligning with an organization's vision | [ ] | [ ] |
+| - How vision, mission, objectives, strategies and tactics are connected and used to help an organization focus and prioritize on a daily basis | [ ] | [ ] |
+| - My clients organizational KPIs and the metrics by which my work will be measured| [ ] | [ ] |
+| - The vision of any organization I work with regularly | [ ] | [ ] |
+| - Areas of overlap between my organization's vision and my own | [ ] | [ ] |
+| - How to increase the overlap between an organization's vision/goals and my own vision/goals | [ ] | [ ] |
 | | | |
 
 ---
@@ -38,10 +35,12 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | | | |
 | **Context:** When I first join an organization | | |
 | - **Action:** I actively seek and gain an understanding of the organization's vision | [ ] | [ ] |
-| - **Action:** I identify how my work further's the organization's vision | [ ] | [ ] |
+| - **Action:** I identify how my work furthers the organization's vision | [ ] | [ ] |
 | **Context:** When I am discussing an organization I work with **Action:** I can articulate the organization's vision and goals | [ ] | [ ] |
-| **Context:** When I am unsure if or how my work helps my organization's achieve its goals **Action:** I take action to improve my alignment with the organization | [ ] | [ ] |
+| **Context:** When I am unsure of whether or how my work helps my organization's achieve its goals **Action:** I take action to improve my alignment with the organization | [ ] | [ ] |
 | **Context:** When defining the tasks I am to work on **Action:** I seek to work on tasks that most effectively further the vision and goals of the organization | [ ] | [ ] |
+| **Context:** After identifying my client's or project's vision **Action:** I analyze how the metrics or KPIs by which my work will be judged align with and further that vision | [ ] | [ ] |
+| **Context:** If I cannot identify the connection between my KPIs and the business or product's KPIs, **Action:** I seek support in identifying the relationship | [ ] | [ ] |
 | | | |
 
 ---
@@ -52,7 +51,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief | Felt | Demonstrated |
 |:---|:---:|:---:|
 | | | |
-| I can help organization's achieve their goals | [ ] | [ ] |
-| I value being part of something bigger | [ ] | [ ] |
+| I can help organizations achieve their goals | [ ] | [ ] |
+| I am part of something bigger | [ ] | [ ] |
+| By understanding how my work impacts a client's ability to reach their goals, I become a much more effective member of their team | [ ] | [ ] |
 | | | |
 ---
