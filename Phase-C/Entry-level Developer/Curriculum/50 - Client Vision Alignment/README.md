@@ -20,7 +20,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | | | |
 | - What a vision is | [ ] | [ ] |
 | - How vision, mission, objectives, strategies and tactics are interconnected and used to help an organization focus and prioritize on a daily basis | [ ] | [ ] |
-| - My client's organizational KPIs and any metrics by which my work will be measured | [ ] | [ ] |
+| - My client's organizational KPIs | [ ] | [ ] |
 | - The vision of any organization I work with regularly, in my own words | [ ] | [ ] |
 | - Areas of overlap between my organization's vision and my own | [ ] | [ ] |
 | - How to increase the overlap between an organization's vision/goals and my own vision/goals | [ ] | [ ] |
