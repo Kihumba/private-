@@ -19,9 +19,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I can describe the following from memory: | | |
 | | | |
 | - What a vision is | [ ] | [ ] |
-| - How vision, mission, objectives, strategies and tactics are connected and used to help an organization focus and prioritize on a daily basis | [ ] | [ ] |
+| - How vision, mission, objectives, strategies and tactics are interconnected and used to help an organization focus and prioritize on a daily basis | [ ] | [ ] |
 | - My clients organizational KPIs and the metrics by which my work will be measured| [ ] | [ ] |
-| - The vision of any organization I work with regularly | [ ] | [ ] |
+| - The vision of any organization I work with regularly, in my own words | [ ] | [ ] |
 | - Areas of overlap between my organization's vision and my own | [ ] | [ ] |
 | - How to increase the overlap between an organization's vision/goals and my own vision/goals | [ ] | [ ] |
 | | | |
@@ -33,14 +33,16 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Observable Behavior | Observed | Mastered |
 |:---|:---:|:---:|
 | | | |
-| **Context:** When I first join an organization | | |
-| - **Action:** I actively seek and gain an understanding of the organization's vision | [ ] | [ ] |
-| - **Action:** I identify how my work furthers the organization's vision | [ ] | [ ] |
+| **Context:** When I first join an organization **Action:** I actively seek and gain an understanding of the organization's vision and how my work furthers the organization's vision | [ ] | [ ] |
+| **Context:** When reading a vision/mission statement written by my client **Action:** I paraphrase the language into my own words and tell a Fellow or friend what the statement means to me and what I believe led to its inception
 | **Context:** When I am discussing an organization I work with **Action:** I can articulate the organization's vision and goals | [ ] | [ ] |
+| **Context:** After I have received feedback on my understanding of my client’s statement from a friend and/or a Fellow **Action:** I share my thoughts on the statement’s meaning with a colleague on my client team to get their input | [ ] | [ ] |
 | **Context:** When I am unsure of whether or how my work helps my organization's achieve its goals **Action:** I take action to improve my alignment with the organization | [ ] | [ ] |
 | **Context:** When defining the tasks I am to work on **Action:** I seek to work on tasks that most effectively further the vision and goals of the organization | [ ] | [ ] |
 | **Context:** After identifying my client's or project's vision **Action:** I analyze how the metrics or KPIs by which my work will be judged align with and further that vision | [ ] | [ ] |
 | **Context:** If I cannot identify the connection between my KPIs and the business or product's KPIs, **Action:** I seek support in identifying the relationship | [ ] | [ ] |
+| **Context:** After determining why I believe a project vision/mission statement exists **Action:** I compare the statement to other similar statements I have heard and to the company’s broader business objectives | [ ] | [ ] |
+| **Context:** If I notice any differences between the business objectives and the vision statement **Action:** I consider why those differences might exist and share my thoughts with a colleague for feedback | [ ] | [ ] |
 | | | |
 
 ---
@@ -54,5 +56,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I can help organizations achieve their goals | [ ] | [ ] |
 | I am part of something bigger | [ ] | [ ] |
 | By understanding how my work impacts a client's ability to reach their goals, I become a much more effective member of their team | [ ] | [ ] |
+| I am always curious about the vision of the teams and organizations I work with. I examine the details. I find where my personal missions align. | [ ] | [ ] |
+| My client's vision/mission is something I have in mind on a daily basis | [ ] | [ ] |
 | | | |
 ---
