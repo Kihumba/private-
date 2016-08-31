@@ -35,9 +35,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | | | |
 | **Context:** When I first join an organization **Action:** I actively seek and gain an understanding of the organization's vision and how my work furthers the organization's vision | [ ] | [ ] |
 | **Context:** When reading a vision/mission statement written by my client **Action:** I paraphrase the language into my own words and tell a Fellow or friend what the statement means to me and what I believe led to its inception | [ ] | [ ] |
-| **Context:** When I am discussing an organization I work with **Action:** I can articulate the organization's vision and goals | [ ] | [ ] |
+| **Context:** When I am discussing an organization I work with **Action:** I can articulate the organization's vision and goals in my own words | [ ] | [ ] |
 | **Context:** After I have received feedback on my understanding of my client’s statement from a friend and/or a Fellow **Action:** I share my thoughts on the statement’s meaning with a colleague on my client team to get their input | [ ] | [ ] |
-| **Context:** When defining the tasks I am to work on **Action:** I consider the organization's vision and goals and find solutions that most effectively further the vision and goals | [ ] | [ ] |
+| **Context:** When completing the tasks I am to work on **Action:** I consider the organization's vision and goals and find solutions that most effectively further the vision and goals | [ ] | [ ] |
 | **Context:** After identifying my client's or project's vision **Action:** I analyze how the outcome of my work aligns with and further that vision | [ ] | [ ] |
 | **Context:** If I cannot identify the connection between my daily work and the business or product's KPIs, **Action:** I seek support in identifying the relationship | [ ] | [ ] |
 | **Context:** After determining why I believe a project vision/mission statement exists **Action:** I compare the statement to other similar statements I have heard and to the company’s broader business objectives | [ ] | [ ] |
