@@ -1,4 +1,4 @@
-# Outcome - Callbacks and Filters
+# Outcome - Events
 
 Skill Description
 ----------
