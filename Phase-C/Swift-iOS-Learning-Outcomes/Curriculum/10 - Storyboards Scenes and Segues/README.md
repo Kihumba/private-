@@ -1,28 +1,30 @@
 # Outcome 10 - Storyboards, Scenes and Segues
 ## Skill Description
 
-Storyboards are layouts showing the path a user traverses while using your applications. It contains the Scenes and the transitions between the Scenes (Segues).
-
-A scene represents an onscreen content area. A container view controller facilitates navigation and presentation of scenes. Scenes can be connected by relationships or Segues.
+The Fellow will be able to transition from on Scene to another in a Storyboard by attaching Segues to controls in View Controllers(containers) without coding.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
-- Create an iOS project containing a Storyboard, add View Controllers (Scenes) i.e. Table View Controllers, Tab View Controllers and all other abstractions of the View Controller.
+1. An iOS Project containing a Storyboard, and View Controllers (at least 2 abstractions of the View Controller).
+2. An iOS Project with controls attached to Segues to move between Scenes.
+3. A **Checkpoint 3** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What are the contents of a Storyboard? | [ ] | [ ] |
-| What purpose do the Scenes serve? | [ ] | [ ] |
-| The Relationships between containers (View Controllers) and Scenes |  [ ] | [ ] |
-| How do you move from one Scene to another? (Segues) | [ ] | [ ] |
-| What are the transitions styles and modes for Segues?  | [ ] | [ ] |
-| What are Storyboard references used for? | [ ] | [ ] |
-| Controls used to trigger the Segues. | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| The contents or elements of a Storyboard | [ ] | [ ] |
+| The purpose of the Scene in a Storyboard | [ ] | [ ] |
+| The Relationships between  and Scenes |  [ ] | [ ] |
+| Transitioning from one Scene to another | [ ] | [ ] |
+| The transitions styles and modes for Segues | [ ] | [ ] |
+| Attaching _3D Touch_ Peek Preview to Segues | [ ] | [ ] |
+| The Storyboard Identifiers | [ ] | [ ] |
+| Controls used to trigger the Segues | [ ] | [ ] |
 
 -------
 
@@ -30,10 +32,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating Scenes in my application, **Action:** I create them inside a Storyboard. | [ ] | [ ] |
-| **Context:** When I need create a View Controller / Container, **Action:** I create it inside a Scene. | [ ] | [ ] |
-| **Context:** To Transition from one Scene to another, **Action:** I will make use of Segues. | [ ] | [ ] |
-| **Context:** When creating user interactive transitions, **Action:** I create the Segues from the  Control element (e.g button) to the Scene. | [ ] | [ ] |
+| **Context:** When creating Scenes in my application, **Action:** I create them inside a Storyboard | [ ] | [ ] |
+| **Context:** When I need create a View Controller / Container, **Action:** I create it inside a Scene | [ ] | [ ] |
+| **Context:** To Transition from one Scene to another, **Action:** I will make use of Segues | [ ] | [ ] |
+| **Context:** When creating user interactive transitions, **Action:** I create the Segues from the  Control element (e.g button) to the Scene | [ ] | [ ] |
 
 -------
 
@@ -41,5 +43,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that Segues make it easy to transition between Scenes, without coding. | [ ] | [ ] |
-| I believe that the hierarchy _Storyboard_ &gt; _Scenes_ &gt; _Containers_ were created to make Views in iOS, objective and easy to manage. | [ ] | [ ] |
+| Segues give me the ability to transition between Scenes, without coding | [ ] | [ ] |
+| The hierarchy _Storyboard_ &gt; _Scenes_ &gt; _Containers_ gives me control over the flow of my applications UX | [ ] | [ ] |

@@ -1,27 +1,29 @@
 # Outcome 11 - View Controllers
 ## Skill Description
 
-The View Controller is the container in the Scene where all the UI Elements are placed, which include buttons, text, images and other interactive Elements.
+The Fellow will be able use View Controllers with it's varying implementations to create Lists, Collections or just simple scenes with UI Views as well as passing data to View Controllers before they appear on the screen and scripting the behavior of the Controllers.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
-- An iOS project with a View Controller embedded in a Navigation Controller, that navigates 2 controllers deep (excluding the initial View Controller) by tapping buttons.
-
+1. An iOS project with a View Controller embedded in a Navigation Controller, that navigates 2 controllers deep (excluding the initial View Controller) by tapping buttons.
+2. A **Checkpoint 4** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What are View Controllers used for? | [ ] | [ ] |
-| The `UIViewController` class in the UIKit [namespace](../4%20-%20Object%20Oriented%20Programming/). | [ ] | [ ] |
-| What elements can be added to a View Controller (in the Scene's container)? | [ ] | [ ] |
-| How to switch View Controllers non-programmatically(Segues) and programmatically? | [ ] | [ ] |
-| In what circumstances do you embed View Controllers in Navigation and Tab Bar Controllers? | [ ] | [ ] |
-| What are the other forms of the `UIViewController` (Page, Table, Collection etc)? | [ ] | [ ] |
-| How do I link my View Controller in the Scene, to a custom View Controller class I have created? | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| The `UIViewController` class in the UIKit [namespace](../4%20-%20Object%20Oriented%20Programming/) | [ ] | [ ] |
+| The Elements present a View Controller | [ ] | [ ] |
+| Switching between Scenes programmatically | [ ] | [ ] |
+| Passing properties to View Controllers before they load | [ ] | [ ] |
+| Embedding View Controllers in Navigation and Tab Bar Controllers | [ ] | [ ] |
+| Other implementations of the `UIViewController` | [ ] | [ ] |
+| View Controllers used to present list or collections | [ ] | [ ] |
+| Linking your View Controller to the Controller Script | [ ] | [ ] |
 
 ------
 
@@ -30,16 +32,15 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to split your View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I use the Tab Bar Controller | [ ] | [ ] |
-| **Context:** When I need to automate the to and fro navigation between View Controllers using a `UINavigationBar`, **Action:** I use the Navigation Controller. | [ ] | [ ] |
-| **Context:** When I need a page that should contain just a table, **Action:** I should make use of a Table View Controller. | [ ] | [ ] |
-| **Context:** When I need a collection of items in my app to fill a page, **Action:** the page should be created as a Collection View Controller. | [ ] | [ ] |
-| **Context:** When I need to add code functionality to my View Controller Scene, **Action:** I create a script with a class that implements the View Controllers' class, and reference it in the Scene. | [ ] | [ ] |
+| **Context:** When I need to automate the to and fro navigation between View Controllers using a `UINavigationBar`, **Action:** I use the Navigation Controller | [ ] | [ ] |
+| **Context:** When I need a page that should contain just a table, **Action:** I should make use of a Table View Controller | [ ] | [ ] |
+| **Context:** When I need to pass data to a View Controller,  **Action:** I override the `prepareForSegue` function and assign the data accordingly | [ ] | [ ] |
+| **Context:** When I need a collection of items in my app to fill a page, **Action:** the page should be created as a Collection View Controller | [ ] | [ ] |
+| **Context:** When I need to add code functionality to my View Controller Scene, **Action:** I create a script with a class that implements the View Controllers' class, and reference it in the Scene | [ ] | [ ] |
 ------
 
 ### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that the various View Controllers are abstractions of the `UIViewController` class, with some added Behaviors. | [ ] | [ ] |
-| I believe that the `TableViewController` and `CollectionViewController` should contain a monolith element(s) / template(s) that are repeated for a collection of data. | [ ] | [ ] |
-| I believe that the Navigation, Tab View Controllers, the Page View Controllers are used to simplify creation of tabs and pages to achieve the akin User Experience. | [ ] | [ ] |
+| With View Controllers, I can achieve any User Experience | [ ] | [ ] |

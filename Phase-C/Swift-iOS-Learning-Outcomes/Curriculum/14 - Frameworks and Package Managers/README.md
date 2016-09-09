@@ -2,28 +2,25 @@
 
 ## Skill Description
 
-_Frameworks_ give you access to methods and procedures that have been developed by open-source contributors, operating in efficiency, helping you eliminate the stress of developing these procedures yourself. A lot of Frameworks exists that can help you complete some operations that are ubiquitous, a good example will be 3rd party authentication, which most applications employ.
-
-_Package Managers_ provide a structure to control the Frameworks that are installed and / or used in your application.
+The Fellow will be able to add Frameworks to their iOS Projects, use them within a Swift Script and manage the Frameworks using a Package Manager.
 
 ## Output
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I will create the following:
 
-- Install CocoaPod Package Manager, and install the `AlamoFire` Framework, Use AlamoFire to make a request to GitHub API (fetching the repos of a said user) and embed the result into a table list view.
-
+1. An iOS Swift Project with `AlamoFire` Framework installed via CocoaPods, used to send a request to public API as well as fetching the result.
+2. A **Checkpoint 4** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What Frameworks exist in Xcode by default, and where can they be found? | [ ] | [ ] |
-| What Package Managers are available for iOS Swift? | [ ] | [ ] |
-| Why is it important to use a Package Manager? | [ ] | [ ] |
-| _How can I add a Framework to my existing iOS Project?_ |
-| 1. manually using the `.framework` file | [ ] | [ ] |
-| 2. using a Package Manager _(CocoaPod)_ | [ ] | [ ] |
-| How do you use a Framework added to your iOS Project | [ ] | [ ] |
+| I can describe the following from memory: | | |
+| The existing Frameworks in Xcode | [ ] | [ ] |
+| The Package Managers are available for iOS Swift | [ ] | [ ] |
+| The importance of Package Managers | [ ] | [ ] |
+| Methods of adding Frameworks to your iOS Project | [ ] | [ ] |
+| Importing Frameworks to your Swift Script | [ ] | [ ] |
 
 ------
 
@@ -31,15 +28,15 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need a service that's overly complicated and might pose some redundancy building it from scratch, **Action:** I install and use a Framework that has this service. | [ ] | [ ] |
-| **Context:** When I need a Framework, **Action:** I install it using a Package Manager. | [ ] | [ ] |
-| **Context:** Before I use a Framework in my codebase, **Action:** I import the namespace at the top of my script, before my code begins. | [ ] | [ ] |
-| **Context:** Before I use an iOS SDK Framework, **Action:** I add and reference them in the _Linked Frameworks and Libraries_ section under the _General Tab_ in the Project's Properties. | [ ] | [ ] |
+| **Context:** When I need a service that's overly complicated and might pose some redundancy building it from scratch, **Action:** I install and use a Framework that has this service | [ ] | [ ] |
+| **Context:** When I need a Framework, **Action:** I install it using a Package Manager | [ ] | [ ] |
+| **Context:** Before I use a Framework in my codebase, **Action:** I import the namespace at the top of my script, before my code begins | [ ] | [ ] |
+| **Context:** Before I use an iOS SDK Framework, **Action:** I add and reference them in the _Linked Frameworks and Libraries_ section under the _General Tab_ in the Project's Properties | [ ] | [ ] |
 ------
 
 ### Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I believe that using Frameworks gives me the power to use complicated services that run super efficiently. | [ ] | [ ] |
-| I believe that using Package Managers will help organize the Frameworks I use in my Xcode Workspace. | [ ] | [ ] |
+| Frameworks give me access to services that make my work efficient | [ ] | [ ] |
+| Package Managers give me control over my Frameworks | [ ] | [ ] |
