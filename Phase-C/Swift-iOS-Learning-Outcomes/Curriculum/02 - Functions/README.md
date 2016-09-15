@@ -20,9 +20,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I can describe the following from memory: | | |
 | Functions and methods | [ ] | [ ] |
 | Difference between Arguments and Parameters | [ ] | [ ] |
-| Creating `Optional` Arguments | [ ] | [ ] |
+| The use cases `Optional` Arguments | [ ] | [ ] |
 | Callback functions in Swift | [ ] | [ ] |
-| Function shorthands in Swift | [ ] | [ ] |
+| The Function shorthands in Swift | [ ] | [ ] |
 
 ----------
 ### Behaviors
