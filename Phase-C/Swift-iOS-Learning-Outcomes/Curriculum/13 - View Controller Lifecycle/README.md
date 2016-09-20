@@ -6,8 +6,11 @@ The Fellow will be able to override and customize the Lifecycle methods, to carr
 ## Output
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. An iOS project that overrides the four major View Controller Lifecycle methods logging the state passed at each method.
-2. A **Checkpoint 4** project submission meeting all the required specifications.
+1. An iOS project that Overrides the four major View Controller Lifecycle methods.
+2. An iOS project that has a dummy View Controller that presents from any parent View Controller.
+3. An iOS Project that has Animations that will be performed right after the view is rendered.
+4. An iOS Project that shows the state of the View Controller in a dialog (and logged in the console) after each state is reached.
+5. A **Checkpoint 4** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
@@ -15,10 +18,11 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
+| The Life Cycle of a View Controller | [ ] | [ ] |
 | The methods triggered by the states of a View Controller | [ ] | [ ] |
 | The frequency at which the Lifecycle methods are called | [ ] | [ ] |
 | The order of the _will\*\*_ and the _did\*\*_ Lifecycle methods | [ ] | [ ] |
-| The Operations that should be carried out in these functions | [ ] | [ ] |
+| The Operations that should be carried out in these Lifecycle methods | [ ] | [ ] |
 
 ------
 
@@ -26,11 +30,11 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| When I create a View Controller, I override the methods I need, to run my procedures at the appropriate Application State | [ ] | [ ] |
-| When I need to run a procedure in the View Controller, I add my procedure to the `viewWillAppear` function, which runs just before the Views are displayed | [ ] | [ ] |
-| When I need to render animations in a View, I add my procedure to the `viewDidAppear` function, which is called just after the View has been rendered | [ ] | [ ] |
-| When I need to run a procedure just once in a `UIViewController`, I add the procedure to the `viewDidLoad` function, as it only runs once after the `UIViewController` has been loaded (excluding memory warning exceptions) | [ ] | [ ] |
-| When I need to run a procedure just before a ViewController is dismissed, I add my procedure to the `viewWillUnload` function, which runs just before the `viewDidUnload` (read-only) function is called | [ ] | [ ] |
+| **Context:** When I create a View Controller **Action:** I override only the lifecycle methods I need | [ ] | [ ] |
+| **Context:** When I write code in a lifecycle method **Action:** it reflects an understanding of what state the view controller is in at that time. | [ ] | [ ] |
+| **Context:** When I want to run a procedure before the view is displayed **Action:**  I add my procedure to the `viewWillAppear` function | [ ] | [ ] |
+| **Context:** When I need to run a procedure just once in a View Controller **Action:** I add the procedure to the `viewDidLoad` function | [ ] | [ ] |
+| **Context:** When I need to run a procedure just before a ViewController is dismissed **Action:** I add the procedure to the `viewWillUnload` function | [ ] | [ ] |
 
 ------
 
@@ -38,4 +42,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| The user experience of my Application can be controlled to the detail when I override the Lifecycle functions | [ ] | [ ] |
+| The user experience of my Application can be controlled to the detail when I override the Lifecycle methods | [ ] | [ ] |
