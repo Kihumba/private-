@@ -9,10 +9,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 1. A Swift Playground Application that meets the following requirements:
   - Returns varying outputs based on an input data type
-  - Uses a function with optional arguments.
+  - Uses a function with optional arguments
   - Uses arguments that encompass all the common data types
   - Includes a function that prints the data types of the arguments that were passed
-2. A **Checkpoint 1** project submission meeting all the required specifications.
+2. A **Checkpoint 1** project submission meeting all the required specifications
 
 ## Objectives
 ### Knowledge
