@@ -17,7 +17,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| The contents or elements of a Storyboard | [ ] | [ ] |
+| The contents or elements that make up a Storyboard | [ ] | [ ] |
 | The purpose of the Scene in a Storyboard | [ ] | [ ] |
 | The Relationships between  and Scenes |  [ ] | [ ] |
 | Transitioning from one Scene to another | [ ] | [ ] |
@@ -44,4 +44,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Segues give me the ability to transition between Scenes, without coding | [ ] | [ ] |
-| The hierarchy _Storyboard_ &gt; _Scenes_ &gt; _Containers_ gives me control over the flow of my applications UX | [ ] | [ ] |
+| The hierarchy _Storyboard_ &gt; _Scenes_ &gt; _Containers_ gives me control over the flow of my application's UX | [ ] | [ ] |

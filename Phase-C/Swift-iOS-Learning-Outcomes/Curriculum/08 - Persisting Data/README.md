@@ -6,9 +6,9 @@ The fellow will be able to store data locally on an iOS device where necessary, 
 ## Output
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. An iOS Project is to be created which includes `CoreData` in the project initialization. The Project will write and read Sample Data into all 3 storage systems, User Defaults (`NSUserDefaults`), `NSKeyedArchiver` and `CoreData`.
+1. An iOS Project is to be created which includes `CoreData` in the project initialization. The project must write and read sample data into all 3 storage systems, User Defaults (`NSUserDefaults`), `NSKeyedArchiver` and `CoreData`
 
-2. A **Checkpoint 2** project submission meeting all the required specifications.
+2. A **Checkpoint 2** project submission meeting all the required specifications
 
 ## Objectives
 ### Knowledge
@@ -16,11 +16,12 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
-| The importance of Persisting Data | [ ] | [ ] |
-| The use cases for un-persistent data | [ ] | [ ] |
+| The uses of persisting data | [ ] | [ ] |
+| The reasons for not persisting data | [ ] | [ ] |
 | The storage systems used for persisting data in iOS | [ ] | [ ] |
-| The types of data stored with each system | [ ] | [ ] |
+| The storage structure of each system | [ ] | [ ] |
 | The query methods used in each system | [ ] | [ ] |
+| The difference between serialization and deserialization | [ ] | [ ] |
 | The data storage limits of each API | [ ] | [ ] |
 
 -------
@@ -29,10 +30,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I have data to store locally on a device, **Action:** I use the most appropriate storage system based on the data format | [ ] | [ ] |
+| **Context:** When I have data to store locally on a device, **Action:** I use the most appropriate storage system based on the type of data | [ ] | [ ] |
 | **Context:** When I need to save relational data, **Action:** I use `CoreData` | [ ] | [ ] |
-| **Context:** When I use `NSKeyedArchiver`, **Action:** I serialize the data manually | [ ] | [ ] |
-| **Context:** When I need to save non-relational data, **Action:** I can use `NSKeyedArchiver` or the User Defaults (`NSUserDefaults`) | [ ] | [ ] |
+| **Context:** When I need to serialize data manually, **Action:** I use `NSKeyedArchiver` | [ ] | [ ] |
+| **Context:** When I need to save non-relational data, **Action:** I use either `NSKeyedArchiver` or the User Defaults (`NSUserDefaults`) | [ ] | [ ] |
 | **Context:** When saving key-value data or data that is relatively small , **Action:** I make use of User Defaults (`NSUserDefaults`) | [ ] | [ ] |
 
 -------
@@ -41,6 +42,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Data is saved on the device when its to read or written frequently | [ ] | [ ] |
-| User Defaults (`NSUserDefaults`) gives me the ability to store lite data for quick access | [ ] | [ ] |
-| `CoreData` runs on SQLite Engine and will allow me store relational data | [ ] | [ ] |
+| Data should be saved to the device when retrieval of the data would tax resources or the data needs to persist after memory is cleared | [ ] | [ ] |
+| User Defaults (`NSUserDefaults`) is used to get / set data only when quick access to said data is required | [ ] | [ ] |
+| `CoreData` can be used to save relational data on a local device | [ ] | [ ] |

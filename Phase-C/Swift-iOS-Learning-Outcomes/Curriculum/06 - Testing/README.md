@@ -17,10 +17,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | |
-| Test Driven Development | [ ] | [ ] |
-| How to write a Unit test in iOS | [ ] | [ ] |
+| The benefits of Test Drive Development | [ ] | [ ] |
+| How to write a Unit test | [ ] | [ ] |
 | How to write UI Tests | [ ] | [ ] |
-| The benefits of Testing | [ ] | [ ] |
+| How to test asynchronous operations | [ ] | [ ] |
 | The test Assertions available in Swift | [ ] | [ ] |
 
 -------
@@ -31,7 +31,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to assert the proper functioning of an application, **Action:** I write tests to compare the output of the methods with their ideal outputs | [ ] | [ ] |
 | **Context:** While writing tests, **Action:** I use assertions to create the expectations for my methods and procedures | [ ] | [ ] |
-| **Context:** When I need to build an application, **Action:**  I begin with tests, making the methods abstracted, testable and scalable as independent units (modular) | [ ] | [ ] |
+| **Context:** When I need to build an application using tests, **Action:**  I begin with tests, making the methods abstracted, testable and scalable as independent units (modular) | [ ] | [ ] |
 | **Context:** Before writing a test, **Action:** I select the assertion that most matches the expectation of the method or value to be tested | [ ] | [ ] |
 
 -------
@@ -41,4 +41,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | The potential of bugs are reduced when I write tests | [ ] | [ ] |
-| The Test Driven Development approach forces me to write modular code | [ ] | [ ] |
+| The Test Driven Development approach forces me to write modular code that can be easily maintained and trusted | [ ] | [ ] |

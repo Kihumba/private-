@@ -6,9 +6,9 @@ The Fellow will be able to create an iOS Application using the MVC pattern, crea
 ## Output
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. A model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`).
-2. A `UIViewController` with its Script and UI Component (the container of the Scene in the Storyboard).
-3. A **Checkpoint 3** project submission meeting all the required specifications.
+1. A model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`)
+2. A `UIViewController` tied to its script and Scene
+3. A **Checkpoint 3** project submission meeting all the required specifications
 
 ## Objectives
 
@@ -21,6 +21,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | The role of each Component in the MVC Pattern | [ ] | [ ] |
 | Each component as a modular entity | [ ] | [ ] |
 | Bringing the components together for use | [ ] | [ ] |
+| How to use a Controller with different views | [ ] | [ ]
 | Persisting Data store with your Model | [ ] | [ ] |
 
 -------
@@ -29,10 +30,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** Before I build an application, **Action:** I separate the application's components into a Model, a View, and a Controller | [ ] | [ ] |
-| **Context:** While building an application, **Action:** I create logic and behavior of the application in its Controllers | [ ] | [ ] |
-| **Context:** Before I access or manipulate data, **Action:** I create a Model that assumes the structure of data I'd like to modify and carry out all other operations with the Model | [ ] | [ ] |
-| **Context:** While styling an application, **Action:** I'll make all the adjustments of the UI Elements in its Views | [ ] | [ ] |
+| **Context:** Before I build an application whose primary use is to save, update, and/or display data, **Action:** I separate the application's components into a Model, a View, and a Controller. | [ ] | [ ] |
+| **Context:** While building an MVC application, **Action:** I construct the logic and data handling of the application in Controllers. | [ ] | [ ] |
+| **Context:** When building an MVC application, **Action:** I create models to represent the data I'd like to modify and use. | [ ] | [ ] |
+| **Context:** While constructing a GUI in an MVC application, **Action:** I place UI Elements in its Views. | [ ] | [ ] |
 
 -------
 

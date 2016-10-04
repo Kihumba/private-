@@ -30,10 +30,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I run processes that should not distort the user interface of an application  **Action:** I run the processes on a new background thread.  | [ ] | [ ] |
+| **Context:** When I run processes that could block the updating of the UI **Action:** I run the processes on a new background thread.  | [ ] | [ ] |
 | **Context:** When I create a background thread, **Action:** I create the thread on a non-blocking queue | [ ] | [ ] |
-| **Context:** When I need to run a method that interacts with the User Interface, **Action:** I run the process on the main queue | [ ] | [ ] |
-| **Context:** When I need to run two or more processes that consume resources, **Action:** I run them on new threads in parallel | [ ] | [ ] |
+| **Context:** When I need to run a method that interacts with the User Interface, **Action:** I run the process on the main queue and UI thread | [ ] | [ ] |
+| **Context:** When I need to run two or more processes asynchronously, **Action:** I run them on new threads in parallel | [ ] | [ ] |
 
 -------
 
@@ -42,4 +42,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | My Application will not Freeze or stutter if I run blocking processes on background queues | [ ] | [ ] |
-| Processes that run in parallel will complete and return results asynchronously | [ ] | [ ] |
+| Swift handles running asynchronous code in a way that allows me to take advantage of event driven processes | [ ] | [ ] |

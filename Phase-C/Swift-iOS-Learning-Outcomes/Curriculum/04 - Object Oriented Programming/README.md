@@ -7,7 +7,7 @@ The Fellow will be able to apply O.O.P Principles in Swift, write concise and mo
 
 After attaining this skill, and as a demonstration of it, I will create the following:
 
-1. An extension of the `String` class with a method that returns an Array of words in a sentence called `words`.
+1. An extension of the `String` class with a method that returns an Array of words in a sentence called `words`
 
 2. A **Checkpoint** 1 project submission meeting all the required specifications
 
@@ -21,7 +21,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | The difference between Structs and Classes | [ ] | [ ] |
 | Use cases for Structs and Classes | [ ] | [ ] |
 | Enumerations with Conditionals | [ ] | [ ] |
-| Computed Properties in Classes | [ ] | [ ] |
+| Advantages of using Computed Properties in Classes | [ ] | [ ] |
 | The advantages of Computed Properties | [ ] | [ ] |
 | Protocol Oriented Programming using protocols | [ ] | [ ] |
 | Adding methods to existing Classes using `extension` | [ ] | [ ] |
@@ -32,11 +32,11 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want a collection of methods, properties or attributes that I need to re-use, **Action:** I create a Class that contains these methods and attributes, and create instances of that Class when I needed | [ ] | [ ] |
-| **Context:** When I need to create a Class that that needs some existing behaviors already present in another Class, **Action:** I will create a Class that inherits these behaviors | [ ] | [ ] |
-| **Context:** When I need to access classes, function and variables, **Action:**  I will import the encapsulating namespace and reference them accordingly | [ ] | [ ] |
-| **Context:** When I need to encapsulate a few relatively simple data values, **Action:** I make use of Structs | [ ] | [ ] |
-| **Context:** When I need to extend the functionality of an existing Class, to add methods or properties, **Action:** I use the `extension` concept | [ ] | [ ] |
+| **Context:** When I want a collection of methods, properties or attributes that I need to re-use, **Action:** I create a Class that contains these methods and attributes, and create instances of that Class when I need to | [ ] | [ ] |
+| **Context:** When I need to create a Class that that needs some existing behaviors already present in another Class, **Action:** I create a Class that inherits these behaviors | [ ] | [ ] |
+| **Context:** When I need to access classes, functions, and variables, **Action:**  I import the encapsulating namespace and reference them accordingly | [ ] | [ ] |
+| **Context:** When I need to encapsulate a few relatively simple data values, **Action:** I make use of Structs instead of classes | [ ] | [ ] |
+| **Context:** When I need to extend the functionality of an existing Class, **Action:** I use the `extension` keyword to add methods or properties | [ ] | [ ] |
 
 -------
 
