@@ -24,7 +24,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * The Agile Manifesto | [ ] | [ ]  |
 | * The differences between Agile and waterfall methodologies for software development |   [ ]   |   [ ] |
-| * Common terms used in Scrum  | [ ] |    [ ] |
+| * Kanban principles * | [ ] | [ ]  |
+| * Scrum principles * | [ ] | [ ] |
+| * Differences between Scrum and Kanban * | [ ] |  [ ] |
 
 
 ----------
