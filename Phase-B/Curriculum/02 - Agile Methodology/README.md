@@ -24,7 +24,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * The Agile Manifesto | [ ] | [ ]  |
 | * The differences between Agile and waterfall methodologies for software development |   [ ]   |   [ ] |
-| * Common terms used in Scrum  | [ ] |    [ ] |
+| * Kanban principles * | [ ] | [ ]  |
+| * Scrum principles * | [ ] | [ ] |
+| * Differences between Scrum and Kanban * | [ ] |  [ ] |
 
 
 ----------
@@ -39,6 +41,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I am planning a project and see that I have a number of tasks to work on **Action:** I assign each task points based on their complexity |   [ ]   |   [ ] |
 | **Context:** When I am planning a project and see that I have a number of tasks to work on **Action:** I prioritize them based on importance and complexity (or a combination of both) | [ ] |    [ ] |
 | **Context:** When I am actively working on a project **Action:** I reflect everyday on the state of the project to assess my progress | [ ] |    [ ] |
+| **Context:** When I am actively working on a project **Action** In order to facilitate project transperancy, I record all activity in one place so that it is visible to the team and project stakeholders  | [ ] |  [ ] |
+| **Context:** When I am actively working on a project **Action** I limit the number of active issues I work on in order to stay focused on correct decisions, completion and quality  | [ ] |  [ ] |
 | **Context:** When I am at the end of a sprint **Action:** I reflect on the progress of the entire project so far and keep track of changes/improvements to make to my systems and processes in upcoming sprints | [ ] |    [ ] |
 
 ----------
@@ -50,4 +54,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | My project stands a higher chance of succeeding when I use Agile | [ ] | [ ]  |
+| I foster a mindset of continual improvement, in order to help my team and my company achieve optimal performance | [ ] | [ ]  | 
 | Good software is built by continuously integrating customer and client feedback into my application and my process |   [ ]   |   [ ] |
