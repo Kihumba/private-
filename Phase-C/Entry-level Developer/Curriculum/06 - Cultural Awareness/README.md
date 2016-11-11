@@ -11,7 +11,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 1. Written or recorded explanation of differences between regional cultures in common Client locations and local culture.
 2. Written or recorded explanation of differences in the regional and organizational culture between two existing Clients and of each of them to Andela
-3. Written or recorded description of how the Fellow would effectively share aspects of Nigeria and Andela's culture with their client
+3. Written or recorded description of how the Fellow would effectively share aspects of their country's and Andela's culture with their client
 
 
 ## Objectives
