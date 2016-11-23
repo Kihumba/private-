@@ -52,7 +52,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief | Felt | Demonstrated |
 |:---|:---:|:---:|
 | | | |
-| The core of what motivates me is in my heard and my mind | [ ] | [ ] |
+| The core of what motivates me is in my head and my mind | [ ] | [ ] |
 | Completing goals yields tremendous satisfaction | [ ] | [ ] |
 | I can accomplish anything that I set my mind to | [ ] | [ ] |
 | All feelings are temporary | [ ] | [ ] |
