@@ -8,7 +8,7 @@ The Fellow knows how to keep his team focused on the client's top priorities but
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. One aseesment of emotional/psychological/fatigue state of team members (e.g. red, yellow, green indicators)
+1. One assessment of emotional/psychological/fatigue state of team members (e.g. red, yellow, green indicators)
 2. Team syncs (e.g. sprint sessions, update sessions) focused on progress towards project/organization priorities
 
 
