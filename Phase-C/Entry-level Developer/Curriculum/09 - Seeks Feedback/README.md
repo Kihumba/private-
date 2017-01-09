@@ -8,9 +8,7 @@ The Fellow is relentless in their pursuit of external information that will faci
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Action plan outlining practices in response to self-initiated feedback
-2. Report of questions asked requesting feedback over a period of time
-3. Narrative of time I acted on feedback and bettered myself as a result
+1. Reflection notes made after seeking and engaging a Team Lead (or similar stakeholder) that include the approach discussed, the feedback received, and the adjusted course of action to be taken before committing code.
 
 ## Objectives
 
@@ -31,6 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - The difference between feedback and advice | [ ] | [ ] |
 | - When feedback should be shared publicly vs privately | [ ] | [ ] |
 | - How to develop a personal improvement plan | [ ] | [ ] |
+| - The people on my team whose input will lead to better solutions and when it's necessary/appropriate to seek their feedback | [ ] | [ ] |
 | | | |
 
 ---
@@ -41,6 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | | | |
 | **Context:** When I have just joined a new team **Action:** I establish relationships and channels conducive to direct and honest feedback from my team members| [ ] | [ ] |
+| **Context:** When I notice myself strategizing on a solution/implementation without feedback from my Team Lead for more than an  hour, **Action:** I pause my work and share where I'm at for insights and guidance| [ ] | [ ] |
 | **Context:** When I receive feedback | | |
 | - **Action:** I ensure I fully understand the feedback | [ ] | [ ] |
 | - **Action:** I express appreciation for the feedback| [ ] | [ ] |
@@ -81,5 +81,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I become more self-aware through consistent feedback | [ ] | [ ] |
 | Public feedback is often healthy and valuable for the team | [ ] | [ ] |
 | I take responsibility when someone is not comfortable being open and direct with me | [ ] | [ ] |
+| I compulsively seek ways to get feedback early and often | [ ] | [ ] |
+| A little exploring of a problem on my own goes a long way, a lot of exploring on my own drives me down the wrong path | [ ] | [ ] |
 | | | |
 ___
