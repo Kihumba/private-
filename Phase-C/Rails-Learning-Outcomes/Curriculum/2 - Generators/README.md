@@ -2,12 +2,12 @@
 
 Skill Description
 ----------
-The fellow understand how to use built in generators as well as custom generators to improve development workflow and reduce rework.
+The Fellow understand how to use built in generators as well as custom generators to improve development workflow and reduce rework.
 
 Outputs
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-- A writeup explaining how rails generator helped him/her to improve development speed.
+- A writeup explaining how rails generator helped him/her to improve development speed
 - A clone of model generator called `my_model` used like this: rails generate my_model MODEL_NAME
 ----------
 ## **Knowledge**
@@ -56,5 +56,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can create custom generators when the need arises. | [ ] | [ ]  |
-| I can increase development speed by taking advantage of generators. | [ ] | [ ]  |
+| Generators makes us more efficient | [ ] | [ ]  |

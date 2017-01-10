@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-The fellow understands the need to have multiple environments eg development, production and test in an application and how rails makes it possible to work with multiple environment. Has a complete understanding of environment variables and why they should always be used.
+The Fellow understands the need to have multiple environments(eg development, production and test) in an application and how rails makes it possible to work with multiple environment. Has a complete understanding of environment variables and why they should always be used.
 
 Outputs
 ----------
@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | How to create environment variable via command line | [ ] | [ ]  |
 | How to use `figaro` gem to manage environment variables of a rails application | [ ] | [ ]  |
 | How environment variables are different from rails environments | [ ] | [ ]  |
-| I know the relationship between environment variables and rails environments | [ ] | [ ]  |
+| The relationship between environment variables and rails environments | [ ] | [ ]  |
 
 
 

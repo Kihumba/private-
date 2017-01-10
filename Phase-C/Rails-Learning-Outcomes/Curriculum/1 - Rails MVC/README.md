@@ -2,13 +2,14 @@
 
 Skill Description
 ----------
-The fellow understands the basic concepts of Rails MVC framework that makes it possible to quickly build out a web application.
+The Fellow understands the basic concepts of Rails MVC framework that makes it possible to quickly build out a web application.
 
 Outputs
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-- A Gemfile showing how bundler is used to manage application dependencies.
-- A rails application where all ruby files are in the recommended rails directory.
+After attaining this skill, and as a demonstration of it, I should be able to create the following:
+- A Gemfile that manages dependencies using a bundler
+- A rails application where all ruby files are in the recommended rails directory
+- A document describing what each rails directory is used for
 
 
 ----------
@@ -27,7 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | What kind of files should be placed in `app` directory and it's subdirectories | [ ] | [ ]  |
 | What kind of files should be placed in `config` directory and it's subdirectories | [ ] | [ ]  |
 | What kind of files should be placed in `lib` directory | [ ] | [ ]  |
-| What kind of files should be placed in `db` directory and it's subdirectories | [ ] | [ ]  |
+| What kind of files should be placed in `db` directory and its subdirectories | [ ] | [ ]  |
 | What kind of files should be placed in `public` directory | [ ] | [ ]  |
 | What kind of files should be placed in `test` directory | [ ] | [ ]  |
 | How ActiveRecord, ActionController, ActionView and MVC pattern relate with the Rails framework | [ ] | [ ]  |

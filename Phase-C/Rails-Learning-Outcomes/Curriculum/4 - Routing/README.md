@@ -2,13 +2,13 @@
 
 Skill Description
 ----------
-The fellow fully understand the role of a router in an MVC architecture including how the router maps http request to controller action. The fellow can also articulate the different ways routes are created in a rails application including use cases where it makes sense to use one approach over the other.
+The Fellow fully understand the role of a router in an MVC architecture including how the router maps http request to controller action. The fellow can also articulate the different ways routes are created in a rails application including use cases where it makes sense to use one approach over the other.
 
 Outputs
 ----------
 
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
--  A rails api project that makes use of route namespace to version it's API
+- A rails api project that makes use of route namespace to version it's API
 - A rails project that uses route helper methods
 - A rails project that appropriately makes use of resources and nested resources to create restful endpoints
 
@@ -48,7 +48,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building a rails application **Action:** I specify routes for the application| [ ] | [ ]  |
 | **Context:** When I need to create all seven restful route for a resource **Action:** I use the `resources` method| [ ] | [ ]  |
 | **Context:** When adding links to my views **Action:** I use route helper methods as against adding the raw link| [ ] | [ ]  |
 | **Context:** When defining routes for an application **Action:** I always specify a `root` route| [ ] | [ ]  |
