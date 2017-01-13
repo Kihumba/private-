@@ -26,3 +26,4 @@ The Mid-Level Developer is a role that comes after Entry-Level Developer and bef
 22. Text Editors
 23. Command Line (Unix)
 24. GIT
+25. Functional Programming
