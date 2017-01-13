@@ -1,14 +1,12 @@
-# Rails MVC
+# Outcome 1 - Rails MVC
 
 Skill Description
 ----------
-Rails is an MVC framework for quickly out building web applications. This outcome is an introduction to the word of rails.
+The Fellow is comfortable with the basic concepts of Rails MVC framework and how it is utilized to quickly build out a web application.
 
 Outputs
 ----------
-When working on checkpoint 2, your rails application should:
-- Effectively use bundler to manage the gem dependencies.
-- Have the right files in the right directories
+After attaining this skill, and as a demonstration of it, I should be able to create a Rails application with a Gemfile that manages dependencies using a bundler, and where all Ruby files are in the recommended directory. 
 
 
 ----------
@@ -17,32 +15,14 @@ When working on checkpoint 2, your rails application should:
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe rails as a framework | [ ] | [ ]  |
-| I can clearly explain what it means to say `Rails favors convention over configuration` | [ ] | [ ]  |
-| I can install the rails framework on my local machine | [ ] | [ ]  |
-| I can effectively use the following commands |  |   |
-| <ul><li> rails server | [ ] | [ ]  |
-| <ul><li> rails console | [ ] | [ ]  |
-| <ul><li> rails new | [ ] | [ ]  |
-| <ul><li> rails generate | [ ] | [ ]  |
-| <ul><li> rails dbconsole | [ ] | [ ]  |
-|I can describe rails directory structure, including the purpose of the following directories | [ ] | [ ]  |
-| <ul><li> app | [ ] | [ ]  |
-| <ul><li> app/assets | [ ] | [ ]  |
-| <ul><li> app/models | [ ] | [ ]  |
-| <ul><li> app/controllers | [ ] | [ ]  |
-| <ul><li> app/helpers | [ ] | [ ]  |
-| <ul><li> config | [ ] | [ ]  |
-| <ul><li> config/initializers | [ ] | [ ]  |
-| <ul><li> config/environments | [ ] | [ ]  |
-| <ul><li> db | [ ] | [ ]  |
-| <ul><li> lib | [ ] | [ ]  |
-| <ul><li> public | [ ] | [ ]  |
-| <ul><li> test | [ ] | [ ]  |
-| I can describe how ActiveRecord, ActionController, ActionView and MVC pattern relate with the Rails framework | [ ] | [ ]  |
-| I can explain how Bundler is used to manage Gem dependencies | [ ] | [ ]  |
-| I can describe the relationship between Gemfile, Gemfile.lock and Bundler | [ ] | [ ]  |
-| I can describe the relationship between Rack apps and the Rails framework | [ ] | [ ]  |
+| What it means to say `Rails favors convention over configuration` | [ ] | [ ]  |
+| The most common Rails commands used in an application (eg. 'rails console,' 'rails generate,' etc.) | [ ] | [ ]  |
+| The kind of files that should be placed in Rails directories | [ ] | [ ]  |
+| The main subdirectories of each Rails directory | [ ] | [ ]  |
+| How ActiveRecord, ActionController, ActionView and MVC pattern relate to the Rails framework | [ ] | [ ]  |
+| How Bundler is used to manage Gem dependencies | [ ] | [ ]  |
+| The relationship between Gemfile, Gemfile.lock and Bundler | [ ] | [ ]  |
+| The relationship between Rack apps and the Rails framework | [ ] | [ ]  |
 
 
 ----------
@@ -52,8 +32,8 @@ When working on checkpoint 2, your rails application should:
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When adding gems to my application... **Action:** I use Gemfile to manage my application's gem dependencies. | [ ] | [ ]  |
-| **Context:** When building a rails application... **Action:** I place each application file in their appropriate directory.E.g. I place model files in app/models directory.| [ ] | [ ]  |
+| **Context:** When adding gems to my application **Action:** I use Gemfile to manage my application's gem dependencies | [ ] | [ ]  |
+| **Context:** When creating a file in a Rails application **Action:** I place the file in the recommended Rails directory| [ ] | [ ]  |
 
 
 ----------
@@ -64,6 +44,5 @@ When working on checkpoint 2, your rails application should:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| It easy to get up and running with rails. | [ ] | [ ]  |
-| I can quickly build/deploy an application using the rails framework. | [ ] | [ ]  |
-| The magical nature of rails enables me to do more with less code. | [ ] | [ ]  |
+| I can quickly build/deploy an application using the Rails framework. | [ ] | [ ]  |
+| Rails framework enables me to do more with less code. | [ ] | [ ]  |

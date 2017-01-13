@@ -1,17 +1,16 @@
-# Outcome
+# Outcome 4 - Routing
 
 Skill Description
 ----------
-The router is the doorman of your application. When an HTTP request arrives from the user's browser, it needs to know which controller action (method) should be run. Should we display the "new user" webpage? Should we edit an existing user with whatever data got sent along? etc. The router basically match HTTP request to the appropriate action.
+The Fellow fully understand the role of a router in an MVC architecture including how the router maps http request to controller action. The fellow can also articulate the different ways routes are created in a rails application including use cases where it makes sense to use one approach over the other.
 
 Outputs
 ----------
-In checkpoint 3:
-- Appropriately namespace based on the problem description.
 
-In checkpoint 2 and simulation project:
-- Use route helper methods
-- Appropriately make use of resources and nested resources.
+After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+- A rails api project that makes use of route namespace to version it's API
+- A rails project that uses route helper methods
+- A rails project that appropriately makes use of resources and nested resources to create restful endpoints
 
 
 ----------
@@ -20,28 +19,27 @@ In checkpoint 2 and simulation project:
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I know what `Root` route represent | [ ] | [ ]  |
-| I know the seven routes for a resource | [ ] | [ ]  |
-| I know which routing resource share the same url but use different verbs | [ ] | [ ]  |
-| I know how to specify an ID or other variable in a route | [ ] | [ ]  |
-| I know what `rake routes` command is used for | [ ] | [ ]  |
-| I understand the purpose of route helper methods, including | [ ] | [ ]  |
-| <ul><li> Knowing the rails helper method that creates the HTML for links | [ ] | [ ]  |
-| <ul><li> Knowing how path and url helpers differ| [ ] | [ ]  |
-| I understand the importance of naming routes, including | [ ] | [ ]  |
-| <ul><li> The convention used to name routes | [ ] | [ ]  |
-| <ul><li> How to explicitly name routes | [ ] | [ ]  |
-| <ul><li> How route namespace relate with the names of helpers generated for a particular route | [ ] | [ ]  |
-| I understand the importance of resources, including: | [ ] | [ ]  |
-| <ul><li> How to easily write all seven RESTful routes in Rails | [ ] | [ ]  |
-| <ul><li> How to limit the restful routes created by resources | [ ] | [ ]  |
-| <ul><li> How to create nested resources | [ ] | [ ]  |
-| <ul><li> When to use nested resources | [ ] | [ ]  |
-| I understand the need to namespace routes, including: | [ ] | [ ]  |
-| <ul><li> How to namespace | [ ] | [ ]  |
-| <ul><li> When to namespace | [ ] | [ ]  |
-| <ul><li> How namespacing is different from using nested resources | [ ] | [ ]  |
-| <ul><li> How namespacing relates to scopes | [ ] | [ ]  |
+| I can describe the following from memory: |||
+| How to create a route that maps to the homepage of a given url | [ ] | [ ]  |
+| The seven HTTP routes for a resource | [ ] | [ ]  |
+| The routing resource that share the same url but use different verbs | [ ] | [ ]  |
+| How to specify an ID or other variable in a route | [ ] | [ ]  |
+| What `rake routes` command is used for | [ ] | [ ]  |
+| The purpose of route helper method | [ ] | [ ]  |
+| How path and url helpers differ| [ ] | [ ]  |
+| The importance of naming routes | [ ] | [ ]  |
+| The convention rails uses to name routes by default | [ ] | [ ]  |
+| How to explicitly name routes | [ ] | [ ]  |
+| How route namespace relate with the names of helpers generated for a particular route | [ ] | [ ]  |
+| The importance of resources | [ ] | [ ]  |
+| How to easily write all seven RESTful routes in Rails | [ ] | [ ]  |
+| How to limit the restful routes created by resources | [ ] | [ ]  |
+| How to create nested resources | [ ] | [ ]  |
+| When to use nested resources | [ ] | [ ]  |
+| The need to namespace routes | [ ] | [ ]  |
+| How to namespace a set of routes | [ ] | [ ]  |
+| How namespacing is different from using nested resources | [ ] | [ ]  |
+| How namespacing relates to scopes | [ ] | [ ]  |
 
 ----------
 
@@ -50,13 +48,12 @@ In checkpoint 2 and simulation project:
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building a rails application... **Action:** I specify routes for the application. | [ ] | [ ]  |
-| **Context:** When I need to create all seven restful route for a resource... **Action:** I use the `resources` method. | [ ] | [ ]  |
-| **Context:** When adding links to my views... **Action:** I use route helper methods as against adding the raw link. | [ ] | [ ]  |
-| **Context:** When defining routes for an application... **Action:** I always specify a `root` route. | [ ] | [ ]  |
-| **Context:** When I want to know the different routes supported by my application... **Action:** I use the `rake routes` command. | [ ] | [ ]  |
-| **Context:** When auto generated route names are too complex or hard to remember... **Action:** I explicitly name my routes. | [ ] | [ ]  |
-| **Context:** When building out an API... **Action:** I namespace my routes. | [ ] | [ ]  |
+| **Context:** When I need to create all seven restful route for a resource **Action:** I use the `resources` method| [ ] | [ ]  |
+| **Context:** When adding links to my views **Action:** I use route helper methods as against adding the raw link| [ ] | [ ]  |
+| **Context:** When defining routes for an application **Action:** I always specify a `root` route| [ ] | [ ]  |
+| **Context:** When I want to know the different routes supported by my application **Action:** I use the `rake routes` command| [ ] | [ ]  |
+| **Context:** When auto generated route names are too complex or hard to remember **Action:** I explicitly name my routes| [ ] | [ ]  |
+| **Context:** When building out an API **Action:** I namespace my routes| [ ] | [ ]  |
 
 
 ----------
@@ -67,6 +64,6 @@ In checkpoint 2 and simulation project:
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can build a scalable application by appropriately using routes. | [ ] | [ ]  |
-| I can dry up links using route helper methods. | [ ] | [ ]  |
-| I can do more with less using resources and nested resources. | [ ] | [ ]  |
+| Scalable web applications have well defined routes(restful endpoints)| [ ] | [ ]  |
+| Route helper methods help dry up my code | [ ] | [ ]  |
+| Resources and nested resources help dry up my routes definition | [ ] | [ ]  |
