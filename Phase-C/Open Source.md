@@ -7,7 +7,7 @@ The Fellow knows how to find an open source project, communicate with members of
 
 Output
 ----------
-After attaining this skill, and as a demonstration of it, I will merge at least one PR to an open source project started by someone outside Andela, communicated with other contributors, and triaged an issue on that project.
+After attaining this skill, and as a demonstration of it, I will merge at least one PR to an open source project, communicate with other contributors, and triage an issue on that project.
 
 
 ## Knowledge
@@ -20,14 +20,14 @@ After attaining this skill, and as a demonstration of it, I will merge at least 
 | Three common open source licenses and the ways they differ | [ ] | [ ] |
 | Common open source contribution workflows | [ ] | [ ] |
 | Ways that I benefit from contributing to open source projects | [ ] | [ ] |
-| Ways that the tech community benefits from my contributions to open source projects | [ ] | [ ] |
+| Ways that the tech community (and the broader community) benefit from my contributions to open source projects | [ ] | [ ] |
 | Different roles of members in an open source community | [ ] | [ ] |
-| Advantages that newcomers have over veterans in growing an open source project | [ ] | [ ] |
+| Advantages that newcomers have over veterans in contributing to an open source project | [ ] | [ ] |
 | Ways that an open source community welcomes newcomers well | [ ] | [ ] |
 | The benefits of tagging issues with the tags “help-wanted”, “first-timers-only”, and “up-for-grabs” | [ ] | [ ] |
 | How to triage an issue | [ ] | [ ] |
 | Ways to promote an open source project | [ ] | [ ] |
-| Resources available to new contributors for an open source project of my choice | [ ] | [ ] |
+| Resources available to new contributors for an open source project| [ ] | [ ] |
 
 ## Behaviors
 
