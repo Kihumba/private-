@@ -2,15 +2,12 @@
 
 Skill Description
 ----------
-This outcome introduces the rails controller which is the logical center of an application. The controller coordinates the interaction between the user, the views, and the model.
+The Fellow can effectively use the Rails controller, which is the logical center of an application. The controller coordinates the interaction between the user, the views, and the model.
 
 
 Outputs
 ----------
-1. In checkpoints and simulation projects, 
-	+ Write slim controllers
-	+ Use strong parameters
-
+After attaining this skill, and as a demonstration of it, I should be able to write slim controllers and strong parameters into my application. 
 
 
 ----------
@@ -21,19 +18,18 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Why is it important what you name your models, controllers, and views? | [ ] | [ ]  |
-| Where is the view file located that's rendered by default for a given controller? | [ ] | [ ]  |
-| What's the difference between a #render and a #redirect_to? | [ ] | [ ]  |
-| What happens to the controller's instance variables in each case? | [ ] | [ ]  |
-| What is a shortcut for redirecting to a specific Post (tip: this works in all kinds of places like #link_to and #*_path) | [ ] | [ ]  |
-| Does a method finish executing or get interrupted when it hits a#render or #redirect_to? | [ ] | [ ]  |
-| What happens if you have multiple renders or redirects? | [ ] | [ ]  |
-| What are Strong Parameters? | [ ] | [ ]  |
-| When can you just use the params hash directly and when do you need to specifically "whitelist" its contents? | [ ] | [ ]  |
-| What are "scalar" values? | [ ] | [ ]  |
-| What does #require do? #permit? | [ ] | [ ]  |
-| What's the #flash? | [ ] | [ ]  |
-| What's the difference between #flash and #flash.now? | [ ] | [ ]  |
+| The importance of what you name your models, controllers, and views | [ ] | [ ]  |
+| Where to find the view file that is rendered by default for a given controller | [ ] | [ ]  |
+| The difference between a #render and a #redirect_to | [ ] | [ ]  |
+| What happens to the controller's instance variables in each case | [ ] | [ ]  |
+| A shortcut for redirecting to a specific Post (tip: this works in all kinds of places like #link_to and #*_path) | [ ] | [ ]  |
+| How a method reacts when it hits a #render or #redirect_to | [ ] | [ ]  |
+| What happens if you have multiple renders or redirects | [ ] | [ ]  |
+| The definition of Strong Parameters | [ ] | [ ]  |
+| The distinction of when I can use the params hash directly and when I need to specifically "whitelist" its contents | [ ] | [ ]  |
+| The definition of "scalar" values | [ ] | [ ]  |
+| The function of #require, #permit, and #flash | [ ] | [ ]  |
+| The difference between #flash and #flash.now | [ ] | [ ]  |
 
 
 
@@ -45,13 +41,13 @@ Outputs
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating a controller... **Action:** I follow rails controller naming convention. | [ ] | [ ]  |
-| **Context:** When getting user data from input fields... **Action:** I use strong parameters to whitelist its contents? | [ ] | [ ]  |
-| **Context:** When structuring and refactoring rails controllers... **Action:**  I make my controllers very slim by delegating tasks to models and other poro classes. | [ ] | [ ]  |
-| **Context:** When sending status messages to the view... **Action:** I use flash objects. | [ ] | [ ]  |
-| **Context:** When I want to render status messages on the same page... **Action:** I use “flash.now” | [ ] | [ ]  |
-| **Context:** When retrieving data passed by a user...  **Action:** I access the params object. | [ ] | [ ]  |
-| **Context:** When I want render status messages... **Action:** I use the appropriate flash keys (i.e error, notice, etc.) | [ ] | [ ]  |
+| **Context:** When creating a controller **Action:** I follow the Rails controller naming convention. | [ ] | [ ]  |
+| **Context:** When getting user data from input fields **Action:** I use strong parameters to whitelist their contents | [ ] | [ ]  |
+| **Context:** When structuring and refactoring Rails controllers **Action:**  I make my controllers very slim by delegating tasks to models and other poro classes | [ ] | [ ]  |
+| **Context:** When sending status messages to the view **Action:** I use flash objects | [ ] | [ ]  |
+| **Context:** When I want to render status messages on the same page **Action:** I use “flash.now” | [ ] | [ ]  |
+| **Context:** When retrieving data passed by a user  **Action:** I access the params object | [ ] | [ ]  |
+| **Context:** When I want render status messages **Action:** I use the appropriate flash keys (i.e error, notice, etc.) | [ ] | [ ]  |
 
 
 ----------
@@ -63,6 +59,6 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Controllers should be slim. | [ ] | [ ]  |
-| Controllers are the backbone of a rails application. | [ ] | [ ]  |
-| It pays to use strong parameters to whitelist user data. | [ ] | [ ]  |
+| Slim controllers make my code beautiful (and thus readable). | [ ] | [ ]  |
+| Slim’s syntax is guided by one very cool motto: “What's the minimum required to make this work?” | [ ] | [ ]  |
+| Strong parameters give me the power to whitelist user data without listing accessable fields in my model. | [ ] | [ ]  |
