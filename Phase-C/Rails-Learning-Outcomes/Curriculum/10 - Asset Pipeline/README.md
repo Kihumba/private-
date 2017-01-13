@@ -2,13 +2,11 @@
 
 Skill Description
 ----------
-This outcome touches on asset pipeline as a tool and mechanism by which Javascript files, stylesheets, and images are processed and prepared for use by the browser.
+The Fellow can effectively utilize asset pipeline as a method to allow their application to process Javascript files, stylesheets, and images, and prepare them for use by the browser.
 
 Outputs
 ----------
-- In checkpoint two and simulation project, make use of rails asset pipeline to manage all your application assets(Javascript, css, images, sass etc)
-- Write a blog post on rails asset pipeline.
-
+After attaining this skill, and as a demonstration of it, I should be able to make use of asset pipeline to manage all my Rails application's assets (Javascript, css, images, sass etc). 
 
 ----------
 ## **Knowledge**
@@ -16,16 +14,16 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What is the "Asset Pipeline"? | [ ] | [ ]  |
-| What are "Manifest Files"? | [ ] | [ ]  |
-| Why would you namespace your stylesheets? | [ ] | [ ]  |
-| What does it mean to "Escape" HTML? | [ ] | [ ]  |
-| Difference between require_self and require_tree. | [ ] | [ ]  |
-| What is Fingerprinting and Why Should I Care? | [ ] | [ ]  |
-| How do you add controller specific assets? | [ ] | [ ]  |
-| How do you precompile assets? | [ ] | [ ]  |
-| When and why should you precompile your assets? | [ ] | [ ]  |
-| How do assets pipeline operate in development and production mode? | [ ] | [ ]  |
+| The definition of the "Asset Pipeline" | [ ] | [ ]  |
+| The definition of "Manifest Files" | [ ] | [ ]  |
+| The reason I should namespace my stylesheets | [ ] | [ ]  |
+| What it means to "Escape" HTML | [ ] | [ ]  |
+| The difference between require_self and require_tree. | [ ] | [ ]  |
+| The definition of Fingerprinting and why I should care about it | [ ] | [ ]  |
+| How to add controller specific assets | [ ] | [ ]  |
+| How to precompile assets | [ ] | [ ]  |
+| When I should precompile my assets, and why | [ ] | [ ]  |
+| How assets pipeline operates in development and production mode | [ ] | [ ]  |
 
 
 
@@ -37,9 +35,9 @@ Outputs
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When my application is in production mode... **Action:** I precompile all assets. | [ ] | [ ]  |
-| **Context:** When the css of my layout design/theme need to change per page... **Action:** I namespace my css. | [ ] | [ ]  |
-| **Context:** When adding css/javascripts to my views... **Action:** I use the provided assets helper methods. | [ ] | [ ]  |
+| **Context:** When my application is in production mode **Action:** I precompile all assets. | [ ] | [ ]  |
+| **Context:** When the CSS of my layout design/theme need to change per page **Action:** I namespace my CSS. | [ ] | [ ]  |
+| **Context:** When adding CSS/JavaScripts to my views **Action:** I use the provided assets helper methods. | [ ] | [ ]  |
 
 
 
@@ -51,5 +49,5 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| All compiled/bundled assets(js and css) should have a fingerprint. | [ ] | [ ]  |
-| Application assets are very important to every rails application. | [ ] | [ ]  |
+| Just like humans, all compiled/bundled assets(js and css) should have a fingerprint. | [ ] | [ ]  |
+| The asset pipeline, in its benevolence, resolves long load time, high bandwidth use, and avoid caching issues. | [ ] | [ ]  |
