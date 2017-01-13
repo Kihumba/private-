@@ -7,9 +7,7 @@ when to apply them while crafting programs.
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to:
-
-1. Create programs that utilize functional programming principles.
+After attaining this skill, and as a demonstration of it, I should be able to create a program that utilizes functional programming principles.
 
 
 **Objectives**
@@ -19,19 +17,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
-| * Immutable Values | [ ] | [ ]  |
-| * Pure Functions | [ ] | [ ]  |
-| * Recursion | [ ] | [ ]  |
-| * First Class Functions | [ ] | [ ]  |
-| * Higher Order Functions     | [ ] | [ ]  |
-| * Function Composition     | [ ] | [ ]  |
-| * Using functional concepts in imperative languages     | [ ] | [ ]  |
-| * Functional Composition    | [ ] | [ ]  |
-| * Currying and how it differs from partial application     | [ ] | [ ]  |
-| * Point free functions     | [ ] | [ ]  |
-| * Basic category theory - Composition, Associativity, Conjunction, Disjunction, e.t.c.   | [ ] | [ ]  |
-| * Container types - Monads, Functors, Semigroups, Monoids, Futures, e.t.c.  | [ ] | [ ]  |
+| The definition of Immutable Values | [ ] | [ ]  |
+| The definition of Pure Functions | [ ] | [ ]  |
+| The definition of Recursion | [ ] | [ ]  |
+| The definition of First Class Functions | [ ] | [ ]  |
+| The definition of Higher Order Functions     | [ ] | [ ]  |
+| The definition of Function Composition     | [ ] | [ ]  |
+| How to use functional concepts in imperative languages     | [ ] | [ ]  |
+| The definition of Functional Composition    | [ ] | [ ]  |
+| The definition of currying and how it differs from partial application     | [ ] | [ ]  |
+| The definition of point free functions     | [ ] | [ ]  |
+| Basic category theory - Composition, Associativity, Conjunction, Disjunction, etc.   | [ ] | [ ]  |
+| Container types - Monads, Functors, Semigroups, Monoids, Futures, etc.  | [ ] | [ ]  |
 
 ----------
 
@@ -40,10 +37,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:
-| **Context:** When I have to create a function that accepts multiple parameters **Action:** I curry it. | [ ] | [ ]  |
-| **Context:** When I have to manipulate data in an array **Action:** I utilize map-reduce over traditional loops | [ ] | [ ]  |
-| **Context:** When I have to apply transformations on structured data  **Action:** I decompose the transformations into small, easily understood and composable morphisms to pipe the data through. | [ ] | [ ]  |
-| **Context:** When I have to refactor code with a bunch of impure functions  **Action:** I extract the impure functionality and wrap it in pure wrappers.  | [ ] | [ ]  |
+| **Context:** When I need to create a function that accepts multiple parameters **Action:** I curry it. | [ ] | [ ]  |
+| **Context:** When I need to manipulate data in an array **Action:** I utilize map-reduce over traditional loops. | [ ] | [ ]  |
+| **Context:** When I need to apply transformations on structured data  **Action:** I decompose the transformations into small, easily understood and composable morphisms to pipe the data through. | [ ] | [ ]  |
+| **Context:** When I need to refactor code with a bunch of impure functions  **Action:** I extract the impure functionality and wrap it in pure wrappers.  | [ ] | [ ]  |
 
 ----------
 
@@ -52,6 +49,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Utilizing the functional programming principles make my code more modular, reusable, testable and predictable | [ ] | [ ]  |
+| Utilizing the functional programming principles make my code more modular, reusable, testable and predictable. | [ ] | [ ]  |
 | Favouring declarative over imperative coding makes my code easier to reason about. | [ ] | [ ]  |
-| Understanding functional programming makes me a craftsman even when developing in languages that do not necessary support functional programming conventionally  | [ ] | [ ]  |
+| Understanding functional programming makes me a craftsman even when developing in languages that do not necessary support functional programming conventionally.  | [ ] | [ ]  |
