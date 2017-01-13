@@ -7,7 +7,7 @@ The Fellow knows how to find an open source project, communicate with members of
 
 Output
 ----------
-After attaining this skill, and as a demonstration of it, I will merge at least one PR to an open source project started by soneone outside Andela, communicated with other contributors, and triaged an issue on that project.
+After attaining this skill, and as a demonstration of it, I will merge at least one PR to an open source project started by someone outside Andela, communicated with other contributors, and triaged an issue on that project.
 
 
 ## Knowledge
