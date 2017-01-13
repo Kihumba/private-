@@ -4,8 +4,6 @@ Skill Description
 ----------
 The Fellow understands the function of Active Record within the Rails framework, and how it allows their application to interact with a database.
 
-Active Record is one of the seven Ruby gems working harmoniously together to make up the rails framework. It takes care of all the database related stuff. It's known as an "ORM". ORM stands for Object-Relational-Mapping. It basically means that Active Record takes data which is stored in a database table using rows and columns, which needs to be modified or retrieved by writing SQL statements (if you're using a SQL database), and it lets you interact with that data as though it was a normal Ruby object.
-
 Outputs
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to lay out the data architecture I would need to implement to build a Rails app that enables users to post and follow other users. 
