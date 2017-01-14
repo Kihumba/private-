@@ -2,18 +2,12 @@
 
 **Skill Description**
 ----------
-Complete understanding of this skill means a good grasp of the best practices associated with:
-
-- Process of Token-Based Authentication
-- Creating Tokens
-- Workflow associated with using Tokens for Authentication
+Token based authentication is a process through which the Fellow can ensure that each request to a server is accompanied by a "token," and thus verified for authenticity before responding to the request. 
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to do the following:
-
-1. Implement Token-Based Authentication on Checkpoint 2
+After attaining this skill, and as a demonstration of it, I should be able to create a Python web app that implements token-based authentication. 
 
 
 **Objectives**
@@ -23,11 +17,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Differences between Token-Based Authentication and Server-Based Authentication. | [ ] | [ ] |
-| Steps involved in Token-Based Authentication <ul><li>User logs in</li><li>User Data is encoded as token using a secret key</li><li>Token is sent back to the client</li><li>Token is stored in the client using LocalStorage</li><li>Token in sent in the header with all subsequent requests.</li></ul> | [ ] | [ ] |
-| Pros and Cons of Token-Based Authentication. | [ ] | [ ] |
-| Anatomy of a JWT Token - Header, Payload and Signature - and what each section contains. | [ ] | [ ] |
-| Process of encoding and decoding JWT Token. | [ ] | [ ] |
+| The differences between Token-Based Authentication and Server-Based Authentication | [ ] | [ ] |
+| The steps involved in Token-Based Authentication| [ ] | [ ] |
+| Pros and Cons of Token-Based Authentication | [ ] | [ ] |
+| Anatomy of a JWT Token (Header, Payload and Signature) and what each section contains | [ ] | [ ] |
+| Process of encoding and decoding JWT Token | [ ] | [ ] |
 
 
 ----------
@@ -37,17 +31,14 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to implement stateless transactions on my application... **Action:** I make use Token-Based Authentication. | [ ] | [ ] |
-| **Context:** After creating a token for my user... **Action:** I always ensure store the token on the client for subsequent requests. | [ ] | [ ] |
-| **Context:** When making use of Token-Based Authentication... **Action:** I add the token to the `Authorization` Header of every HTTP request to a protected route. | [ ] | [ ] |
-| **Context:** When I want to create a public API that makes use of Token-Based Authentication... **Action:** I allow my server accept requests from all domains using `Access-Control-Allow-Origin: *` | [ ] | [ ] |
-| **Context:** When creating tokens... **Action:** I encode enough data to identify the user from the token. | [ ] | [ ] |
-| **Context:** When creating tokens... **Action:** I always ensure to set a reasonable expiry time for my tokens. | [ ] | [ ] |
-| **Context:** When using tokens in my web application... **Action:** I encode the data using the key and use the same key to decode the token. | [ ] | [ ] |
-| **Context:** When validating tokens... **Action:** I always check that the token is valid, not expired and has the appropriate user data. | [ ] | [ ] |
-
-
-
+| **Context:** When I want to implement stateless transactions on my application **Action:** I make use Token-Based Authentication. | [ ] | [ ] |
+| **Context:** After creating a token for my user **Action:** I always ensure that I store the token on the client for subsequent requests. | [ ] | [ ] |
+| **Context:** When making use of Token-Based Authentication **Action:** I add the token to the `Authorization` Header of every HTTP request of a protected route. | [ ] | [ ] |
+| **Context:** When I want to create a public API that makes use of Token-Based Authentication **Action:** I allow my server accept requests from all domains using `Access-Control-Allow-Origin: *` | [ ] | [ ] |
+| **Context:** When creating tokens **Action:** I encode enough data to identify the user from the token. | [ ] | [ ] |
+| **Context:** When creating tokens **Action:** I always ensure that I set a reasonable expiration time for my tokens. | [ ] | [ ] |
+| **Context:** When using tokens in my web application **Action:** I encode the data using the key and use the same key to decode the token. | [ ] | [ ] |
+| **Context:** When validating tokens **Action:** I always check that the token is valid, not expired, and has the appropriate user data. | [ ] | [ ] |
 
 
 ----------
