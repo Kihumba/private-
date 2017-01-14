@@ -42,3 +42,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Any programmer can understand my app if my resource folder is well organised. | [ ] | [ ]  |
 | Components are only useful when I write code for the events they listen for. |   [ ]   |   [ ] |
+| An Android application built with careful attention to UI will enable and inspire users. |   [ ]   |   [ ] |
+| The User Interface of an Android app is essential for more than "looking pretty." It is the doorway to access the functionality of my application. |   [ ]   |   [ ] |
