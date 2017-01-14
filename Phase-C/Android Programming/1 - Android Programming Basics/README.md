@@ -4,13 +4,7 @@
 Android provides a rich application framework that allows you to build innovative apps and games for mobile devices in a Java language environment. It is important that you understand the basics of the Android OS and how to set up your work environment to get started with Android programming.
 
 ## Output
-After attaining this skill, and as a demonstration of it, a person should be able to do the following:
-- Install the Java JDK and set up the JRE
-- Install the Android Studio and connect the JDK to the Android Studio
-- Install the Genymotion emulator
-- Write a basic android app to compute celsius to fahrenheit
-- Run the app on an emulator.
-- Run the app on an actual android device.
+After attaining this skill, and as a demonstration of it, I should be able to install, build, and run a basic Android application both on an emulator and on an actual Android device. 
 
 ## Objectives
 
@@ -18,15 +12,15 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What is the architecture of the Android OS?| [ ] | [ ] |
-| What is the Dalvik Virtual Machine (DVM) and Android Runtime(ART)?| [ ] | [ ] |
-| How do you install and setup the Android studio?| [ ] | [ ] |
-| What are the prerequisites for running an Android app? These prerequisites include the Java JDK 1.7 or 1.8 (that is Java 7 or Java 8). How to install and setup the JDK?| [ ] | [ ] |
-| How do you connect the JDK to Android Studio?| [ ] | [ ] |
-| What is an Android Emulator?| [ ] | [ ] |
-| What emulators are available? What is HAXM? And how do they improve the performance of emulators?| [ ] | [ ] |
-| How do you install and setup the highly recommended Genymotion emulator.| [ ] | [ ] |
-| How to create a basic app with Android and run first on the emulator and then on an actual android device? | [ ] | [ ] |
+| The architecture of the Android OS| [ ] | [ ] |
+| The definition of Dalvik Virtual Machine (DVM) and Android Runtime(ART)| [ ] | [ ] |
+| How to install and setup the Android studio| [ ] | [ ] |
+| The prerequisites for running an Android app (Java JDK 1.7 or 1.8), and how to install and setup the JDK| [ ] | [ ] |
+| How to connect the JDK to Android Studio| [ ] | [ ] |
+| The definition and function of an Android Emulator| [ ] | [ ] |
+| A list of the emulators available, and how HAXM improves their performance| [ ] | [ ] |
+| How to install and setup the highly recommended Genymotion emulator | [ ] | [ ] |
+| How to create a basic app with Android and run first on the emulator and then on an actual Android device | [ ] | [ ] |
 
 -------
 
@@ -34,10 +28,10 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I am starting out as an Android developer... **Action:** I first setup my environment by installing the java JDK and my IDE - the Android studio. | [ ] | [ ]  |
-| **Context:** When I want to create an Android app... **Action:** I set up a new android project from the Android studio from `File` -> `New` -> `New Project`. | [ ] | [ ]  |
-| **Context:** When I want to add basic components to my android app.... **Action:**  I drag and drop the component in the Design view available on android studio. |   [ ]   |   [ ] |
-| **Context:** When I have code that's ready for testing.... **Action:**  I set up an emulator and a physical device and test on both. |   [ ]   |   [ ] |
+| **Context:** When I am starting out as an Android developer **Action:** I first setup my environment by installing the java JDK and my IDE - the Android studio. | [ ] | [ ]  |
+| **Context:** When I want to create an Android app **Action:** I set up a new Android project from the Android studio from `File` -> `New` -> `New Project`. | [ ] | [ ]  |
+| **Context:** When I want to add basic components to my Android app **Action:**  I drag and drop the component in the Design view available on Android studio. |   [ ]   |   [ ] |
+| **Context:** When I have code that's ready for testing **Action:**  I set up an emulator and a physical device and test on both. |   [ ]   |   [ ] |
 
 -------
 
@@ -45,6 +39,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| My app will thrive in an environment that is well set up | [ ] | [ ]  |
-| It's more effective testing my android app on an emulator that's fast. |   [ ]   |   [ ] |
-| I can test my android app on any android device.|   [ ]   |   [ ] |
+| My app will thrive in an environment that is well set up. | [ ] | [ ]  |
+| Android is a programming language that allows me to build innovative applications that can reach many people.  |   [ ]   |   [ ] |
+| I can (and should) test my Android app on any Android device.|   [ ]   |   [ ] |
