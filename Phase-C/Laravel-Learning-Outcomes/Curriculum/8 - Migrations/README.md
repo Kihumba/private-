@@ -48,4 +48,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Migrations are powerful in keeping developers working in a team in sync. | [ ] | [ ]  |
+| Migrations are powerful tools to keep a team of developers work in sync. | [ ] | [ ]  |
