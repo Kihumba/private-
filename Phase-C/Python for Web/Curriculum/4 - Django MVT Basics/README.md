@@ -69,3 +69,5 @@ After attaining this skill, and as a demonstration of it, I should be able to se
 | Django's architecture gives me a simple foundation for developing complex applications. | [ ] | [ ]  |
 | Developing applications using the MVT architecture makes my application easy to maintain in the long run. | [ ] | [ ]  |
 | Django is a powerful tool for creating extremely robust and scalable web applications. | [ ] | [ ]  |
+| I am the only person that can limit how much I can create using Django as my main tool of choice. | [ ] | [ ]  |
+
