@@ -50,7 +50,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-
 | Dependency Injection is essential in writing decoupled PHP programs. |   [ ]   |   [ ] |
 | When I am programming in PHP, I am playing a key part in the larger PHP community. |   [ ]   |   [ ] |
 
