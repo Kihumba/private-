@@ -1,25 +1,14 @@
-# Module 5: Object Oriented Programming in PHP - KBBs
+# Module 5: Object Oriented Programming in PHP
 
 **Summary:**
-The learning outcomes expected of a fellow that has covered this module are as follows:
-- Object oriented programming concepts, classes and objects.
-- Concepts of Inheritance, Polymorphism and Encapsulation, among others, in PHP programming.
-- The concept of Traits, Interfaces and Abstraction in PHP.
-- The concept of type-hinting non-scalar and scalar values in PHP.
-- The concept of Inversion of Control in PHP.
-- The concept of Method overloading using __call() and __callStatic().
-- PHP magic methods available to objects and their uses e.g Getters, Setters and Destructors.
-- Object Serialization in PHP.
-
-
-The following are the Outputs, Knowledge, Behaviors, and Beliefs for Callbacks and Closures.
+Object Oriented Programming in PHP specifically has several distinct and important concepts. The Fellow with this skill is comfortable with the concepts of Traits, Interface, Abstraction, Inheritance, Polymorphism and Encapsulation in PHP programming.
 
 
 ## **Outputs**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
+After attaining this skill, and as a demonstration of it, I should be able to create a PHP program using OOP and object serialization.
 
-1. [Checkpoint 1](https://docs.google.com/document/d/1vRZsAI8BJTq8t0-ewZvtxyT9PviY2LtvSqzlfM00jPY)
+1. Example:(https://docs.google.com/document/d/1vRZsAI8BJTq8t0-ewZvtxyT9PviY2LtvSqzlfM00jPY)
 
 
 
@@ -29,32 +18,18 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What is Type-hinting and how do you type-hint non-scalar and scalar values in PHP? | [] | [] |
-| What are Classes and Objects? | [ ] | [ ] |
-| What is Inheritance? | [ ] | [ ] |
-| What is Abstraction? | [] | [] |
-| What is Encapsulation?| [] | [] |
-| What is Polymorphism?  | [ ] | [ ] |
-| What is a Namespace? | [] | [] |
-| What are Traits in PHP and how do they enable a form of multiple Inheritance?| [] | [] |
-| What are magic methods in PHP and their purpose? |
-| <ul><li>__call</li></ul>| [] | [] |
-| <ul><li>__callStatic</li></ul>| [] | [] |
-| <ul><li>__set</li></ul>| [] | [] |
-| <ul><li>__get</li></ul>| [] | [] |
-| <ul><li>__clone</li></ul>| [] | [] |
-| <ul><li>__invoke</li></ul>| [] | [] |
-| <ul><li>__toString</li></ul>| [] | [] |
-| <ul><li>__construct</li></ul>| [] | [] |
-| <ul><li>__destruct</li></ul>| [] | [] |
-| <ul><li>__sleep</li></ul>| [] | [] |
-| <ul><li>__wakeup</li></ul>| [] | [] |
-| <ul><li>__debugInfo</li></ul>| [] | [] |
-| <ul><li>__state</li></ul>| [] | [] |
-| <ul><li>__unset</li></ul>| [] | [] |
-| What is method Overloading?| [] | [] |
-| What is Inversion of Control?| [] | [] |
-| How to perform Object Serialization in PHP?| [] | [] |
+| The definition of Type-hinting and how to type-hint non-scalar and scalar values in PHP | [] | [] |
+| The definitions of Classes and Objects | [ ] | [ ] |
+| The definition of Inheritance | [ ] | [ ] |
+| The definition of Abstraction | [] | [] |
+| The definition of Encapsulation | [] | [] |
+| The definition of Polymorphism | [] | [] |
+| The definition of Namespace | [] | [] |
+| The definition of Traits in PHP and how they enable a form of multiple Inheritance| [] | [] |
+| The definition and purpose of magic methods in PHP|[] | [] |
+| The definition and purpose of method Overloading| [] | [] |
+| The definition of Inversion of Control| [] | [] |
+| How to perform Object Serialization in PHP| [] | [] |
 
 
 
@@ -65,9 +40,9 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to reuse a collection of methods, properties or attributes... **Action:**  I will create an instance of a class that contains those collections when needed. | [ ] | [ ]  |
-| **Context:**  When I need to create a class that needs some existing behaviors already present in another class...**Action:** I will create a class that inherits these behaviors.|   [ ]   |   [ ] |
-| **Context:** When I need to access classes, function and variables... **Action:**  I will import the encapsulating namespace and reference them accordingly. |   [ ]   |   [ ] |
+| **Context:** When I want to reuse a collection of methods, properties or attributes **Action:**  I create an instance of a class that contains those collections. | [ ] | [ ]  |
+| **Context:**  When I need to create a class that needs some existing behaviors already present in another class **Action:** I create a class that inherits these behaviors.|   [ ]   |   [ ] |
+| **Context:** When I need to access classes, function and variables **Action:**  I import the encapsulating namespace and reference them accordingly. |   [ ]   |   [ ] |
 
 
 ----------
