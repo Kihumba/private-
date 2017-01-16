@@ -6,13 +6,7 @@ The router is the doorman of your application. When an HTTP request arrives from
 
 Outputs
 ----------
-In checkpoint 3:
-- Use Slim Routes and Middleware in building out an API
-
-In checkpoint 4 :
-- Use route helper methods
-- Make use of routes and middleware in building out the project.
-
+After attaining this skill, and as a demonstration of it, I should be able to build out an API using Slim Routes and Middleware. 
 
 ----------
 ## **Knowledge**
@@ -20,25 +14,18 @@ In checkpoint 4 :
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What are Middlewares used for? | [ ] | [ ]  |
-| I can clearly describe  |  |   |
-| <ul><li> A Controller Middleware </li></ul>  | [ ] | [ ]  |
-| <ul><li> A Route Middleware </li></ul>  | [ ] | [ ]  |
-| I know which routing resource share the same url but use different verbs | [ ] | [ ]  |
-| I know how to specify an ID or other variables in a route | [ ] | [ ]  |
-| I know what `php artisan route:list` command is used for | [ ] | [ ]  |
-| I understand the purpose of route helper methods, including | [ ] | [ ]  |
-| <ul><li> Knowing the laravel helper method that creates the HTML for links | [ ] | [ ]  |
-| <ul><li> Knowing how path and url helpers differ| [ ] | [ ]  |
-| I know how to group a set of routes | [ ] | [ ]  |
-| I understand the importance of naming routes, including | [ ] | [ ]  |
-| <ul><li> The convention used to name routes | [ ] | [ ]  |
-| <ul><li> How to explicitly name routes | [ ] | [ ]  |
-| I understand the importance of route resources, including: | [ ] | [ ]  |
-| <ul><li> How to easily write all seven RESTful routes in Laravel | [ ] | [ ]  |
-| <ul><li> How to limit the restful routes created by resources | [ ] | [ ]  |
-| <ul><li> How to create nested resources | [ ] | [ ]  |
-| <ul><li> When to use nested resources | [ ] | [ ]  |
+| The definition of Middlewares and what they are used for | [ ] | [ ]  |
+| The difference between a Controller Middleware and a Route Middleware | [ ] | [ ]  |
+| How to specify an ID or other variables in a route | [ ] | [ ]  |
+| The purpose of various route helper methods | [ ] | [ ]  |
+| The difference between path and url helpers| [ ] | [ ]  |
+| How to group a set of routes | [ ] | [ ]  |
+| The importance of naming routes | [ ] | [ ]  |
+| The importance of route resources| [ ] | [ ]  |
+| How to easily write all seven RESTful routes in Laravel | [ ] | [ ]  |
+| How to limit the restful routes created by resources | [ ] | [ ]  |
+| How to create nested resources | [ ] | [ ]  |
+| When to use nested resources | [ ] | [ ]  |
 
 
 ----------
@@ -48,13 +35,13 @@ In checkpoint 4 :
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building a laravel application... **Action:** I specify routes for the application. | [ ] | [ ]  |
-| **Context:** When I want to limit routes to specific users ... **Action:** I use a middleware | [ ] | [ ]  |
-| **Context:** When I need to create all seven restful route for a resource... **Action:** I use the `resource` method. | [ ] | [ ]  |
-| **Context:** When adding links to my views... **Action:** I use route helper methods as against adding the raw link. | [ ] | [ ]  |
-| **Context:** When defining routes for an application that does not have a controller action... **Action:** I use a callback | [ ] | [ ]  |
-| **Context:** When I want to know the different routes supported by my application... **Action:** I use the `php artisan route:list` command. | [ ] | [ ]  |
-| **Context:** When building out an API... **Action:** I prefix my routes and group them with the route `group` method. | [ ] | [ ]  |
+| **Context:** When building a Laravel application **Action:** I specify routes for the application. | [ ] | [ ]  |
+| **Context:** When I want to limit routes to specific users **Action:** I use a Middleware. | [ ] | [ ]  |
+| **Context:** When I need to create all seven RESTful routes for a resource **Action:** I use the `resource` method. | [ ] | [ ]  |
+| **Context:** When adding links to my views **Action:** I use route helper methods instead of adding the raw link. | [ ] | [ ]  |
+| **Context:** When defining routes for an application that does not have a controller action **Action:** I use a callback. | [ ] | [ ]  |
+| **Context:** When I want to know the different routes supported by my application **Action:** I use the `php artisan route:list` command. | [ ] | [ ]  |
+| **Context:** When building out an API **Action:** I prefix my routes and group them with the route `group` method. | [ ] | [ ]  |
 
 
 ----------
@@ -65,7 +52,5 @@ In checkpoint 4 :
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Grouping similar routes together eliminates code duplication | [ ] | [ ]  |
-| Middlewares are excellent components in intercepting Http requests made to routes to perform specific actions. | [] | [] |
-| Route helper methods dry up links. | [ ] | [ ]  |
-| Route resource will create the route parameters for your resource routes based on the resource name. | [ ] | [ ]  |
+| Grouping similar routes together eliminates code duplication. | [ ] | [ ]  |
+| A router is the doorman for my application. | [ ] | [ ]  |
