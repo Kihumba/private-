@@ -1,17 +1,12 @@
-# Module 7:  Working with Databases - KBBs
+# Module 7:  Working with Databases
 
 **Summary:**
-The learning outcomes expected of a fellow that has covered this module are as follows:
-- Native PHP syntax for connecting to database, querying databases and working with query results using MySQLi (MySQLi).
-- PDO, a database agnostic PHP component, and how to use it to perform more complex database operations like Prepared Statements, Stored Procedures and Transactions.
-
-The following are the Outputs, Knowledge, Behaviors, and Beliefs for Working with Databases.
+With PHP, you can connect to and manipulate dtabases. By working with databases in PHP, the Fellow can create complex and useful applications.   
 
 ## **Outputs**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to create the following:
-
-1. [Checkpoint 2](https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
+After attaining this skill, and as a demonstration of it, I should be able to create a PHP application that connects to and manipulates at least one database. 
+1. Example: (https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
 
 ----------
 ## **Knowledge**
@@ -19,15 +14,11 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What are databases? | [] | [] |
-| How do you connect to a database in PHP? |
-| <ul><li> MySQLi Driver</li></ul> | [] | [] |
-| <ul><li> PDO Driver</li></ul> | [] | [] |
-| <ul><li> Sqlite Driver</li></ul> | [] | [] |
-| PDO - the general PHP database agnostic driver and how it works. | [ ] | [ ] |
-| How to perform Prepared Statements and what's the purpose? | [ ] | [ ] |
-| What are Stored procedures and Transactions? | [] | [] |
-
+| The definition of a database| [] | [] |
+| Three ways (drivers) to connect to a database in PHP | [] | [] |
+| How to use PDO (the general PHP database agnostic driver) | [ ] | [ ] |
+| How and why to perform Prepared Statements | [ ] | [ ] |
+| The definitions of Stored procedures and Transactions | [] | [] |
 
 
 ----------
@@ -37,8 +28,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to write a PHP program that can connect to any database without rewriting the codebase.. **Action:**  I will use PDO.| [ ] | [ ]  |
-| **Context:**  When I am writing a PHP program that strictly requires a MYSQL database...**Action:** I can use the PHP MYSQLi driver. |   [ ]   |   [ ] |
+| **Context:** When I want to write a PHP program that can connect to any database without rewriting the codebase **Action:**  I use PDO.| [ ] | [ ]  |
+| **Context:**  When I am writing a PHP program that strictly requires a MYSQL database **Action:** I use the PHP MYSQLi driver. |   [ ]   |   [ ] |
 
 
 ----------
@@ -49,8 +40,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| PDO is required to develop a database agnostic PHP application. | [ ] | [ ]  |
-| The PHP MYSQLi driver is a tool used in writing PHP programs that works only with MYSQL databases.  |   [ ]   |   [ ] |
 | Stored procedures and transactions can help improve the efficiency of database calls in my application. |   [ ]   |   [ ] |
 
 
