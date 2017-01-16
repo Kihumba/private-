@@ -6,7 +6,7 @@ Migrations are a feature of Eloquent that allows you to evolve your database sch
 
 Outputs
 ----------
-In checkpoint 2,3 and simulation project, make use of migrations.
+After attaining this skill, and as a demonstration of it, I should be able to create a Laravel application that makes use of migrations.
 
 
 ----------
@@ -15,23 +15,14 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| What are migrations? | [ ] | [ ]  |
-| When do we need migrations? | [ ] | [ ]  |
-| How to create a migration? | [ ] | [ ]  |
-| What’s the difference between change, up and down methods in laravel migration? | [ ] | [ ]  |
-| What does the following migration methods do  |||
-| <ul><li>Schema::create | [ ] | [ ]  |
-| <ul><li>$table->index | [ ] | [ ]  |
-| <ul><li>$table->foreign | [ ] | [ ]  |
-| <ul><li>$table->renameColumn | [ ] | [ ]  |
-| <ul><li>$table->dropIndex | [ ] | [ ]  |
-| <ul><li>$table->dropColumn | [ ] | [ ]  |
-| <ul><li>Schema::drop | [ ] | [ ]  |
-| <ul><li>Schema::rename | [ ] | [ ]  |
-| How to run migrations? | [ ] | [ ]  |
-| When and how to execute queries in a migration? | [ ] | [ ]  |
-| What are schema files?| [ ] | [ ]  |
-| How to rollback migrations? | [ ] | [ ]  |
+| The definition of migrations and when to use them | [ ] | [ ]  |
+| How to create a migration | [ ] | [ ]  |
+| The difference between change, up and down methods in Laravel migration | [ ] | [ ]  |
+| The functionality of various migration methods | [ ] | [ ]  |
+| How to run migrations | [ ] | [ ]  |
+| When and how to execute queries in a migration | [ ] | [ ]  |
+| The definition of schema files| [ ] | [ ]  |
+| How to rollback migrations | [ ] | [ ]  |
 
 
 ----------
@@ -42,10 +33,10 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When generating migrations... **Action:**  I use the laravel artisan command generators.| [ ] | [ ]  |
-| **Context:** When working with databases in any laravel application... **Action:**  I use laravel migration to change the schema.| [ ] | [ ]  |
-| **Context:** When I deploy an application... **Action:**  I always run migrations using “php artisan migrate”.| [ ] | [ ]  |
-| **Context:** When I want to view the database structure... **Action:**  I check out the schema file.| [ ] | [ ]  |
+| **Context:** When generating migrations **Action:**  I use the Laravel Artisan command generators.| [ ] | [ ]  |
+| **Context:** When working with databases in any Laravel application **Action:**  I use Laravel migration to change the schema.| [ ] | [ ]  |
+| **Context:** When I deploy an application **Action:**  I always run migrations using “php artisan migrate”.| [ ] | [ ]  |
+| **Context:** When I want to view the database structure **Action:**  I check out the schema file.| [ ] | [ ]  |
 
 
 
@@ -57,5 +48,4 @@ In checkpoint 2,3 and simulation project, make use of migrations.
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Migrations help in database schema versioning | [ ] | [ ]  |
 | Migrations are powerful in keeping developers working in a team in sync. | [ ] | [ ]  |
