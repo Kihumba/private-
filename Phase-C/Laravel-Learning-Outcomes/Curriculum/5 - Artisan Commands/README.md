@@ -3,13 +3,12 @@
 Skill Description
 ----------
 
-This skill involves understanding how to create commands for various tasks in a Laravel application. Artisan is a laravel tool for running commands.
+Artisan is a laravel tool for running commands. This skill involves understanding how to create commands for various tasks in a Laravel application. 
 
 
 Outputs
 ----------
-- Write a blog post about artisan commands.
-- Create an Artisan Command for installing a laravel application on a client machine.
+After attaining this skill, and as a demonstration of it, I should be able to create an Artisan Command for installing a Laravel application on a client machine.
 
 ----------
 ## **Knowledge**
@@ -17,23 +16,11 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can explain what Artisan is. | [ ] | [ ]  |
-| I can clearly explain the need for Artisan commands. | [ ] | [ ]  |
-| I can describe the following artisan commands: | |  |
-| <ul><li> artisan route:cache | [ ] | [ ]  |
-| <ul><li> artisan migrate:install | [ ] | [ ]  |
-| <ul><li> artisan migrate:status | [ ] | [ ]  |
-| <ul><li> artisan cache:clear | [ ] | [ ]  |
-| <ul><li> artisan app:name | [ ] | [ ]  |
-| <ul><li> artisan db:seed | [ ] | [ ]  |
-| <ul><li> artisan event:generate | [ ] | [ ]  |
-| <ul><li> artisan migrate | [ ] | [ ]  |
-| <ul><li> artisan optimize | [ ] | [ ]  |
-| <ul><li> artisan down | [ ] | [ ]  |
-| <ul><li> artisan clear-compiled | [ ] | [ ]  |
-| I understand the importance of custom artisan commands, including: | | |
-| <ul><li> How to create custom artisan commands? | [ ] | [ ]  |
-| <ul><li> When to create artisan commands? | [ ] | [ ]  |
+| The definition of an Artisan command and why to use them | [ ] | [ ]  |
+| The most commonly used artisan commands | [ ] | [ ]  |
+| The importance of custom Artisan commands | [ ] | [ ]  |
+| How to create custom Artisan commands | [ ] | [ ]  |
+| When to create Artisan commands | [ ] | [ ]  |
 
 
 ----------
@@ -44,10 +31,10 @@ Outputs
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When working on repetitive tasks... **Action:** I automate the task using artisan commands. | [ ] | [ ]  |
-| **Context:** When I need to run artisan commands at certain intervals... **Action:** I use laravel scheduler. | [ ] | [ ]  |
-| **Context:** When working on repetitive tasks... **Action:** I create custom artisan commands if there are no inbuilt artisan commands to handle the task. | [ ] | [ ]  |
-| **Context:** When creating a custom artisan command... **Action:** I use “php artisan make:console” to set up boilerplate code for the task. | [ ] | [ ]  |
+| **Context:** When working on repetitive tasks **Action:** I automate the task using Artisan commands. | [ ] | [ ]  |
+| **Context:** When I need to run Artisan commands at certain intervals **Action:** I use Laravel scheduler. | [ ] | [ ]  |
+| **Context:** When working on repetitive tasks **Action:** I create custom Artisan commands if there are no inbuilt artisan commands to handle the task. | [ ] | [ ]  |
+| **Context:** When creating a custom Artisan command **Action:** I use set up boilerplate code for the task using PHP. | [ ] | [ ]  |
 
 
 ----------
