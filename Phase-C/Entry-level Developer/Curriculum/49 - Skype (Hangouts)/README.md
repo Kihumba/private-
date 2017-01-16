@@ -42,9 +42,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** Before I get on a call **Action:** I move to a quiet environment | [ ] | [ ] |
 | **Context:** When on a video call **Action:** I use headphones with a mic | [ ] | [ ] |
 | **Context:** When on a call **Action:** I confirm that the other parties can hear me | [ ] | [ ] |
+| **Context:** When sharing my screen or conducting a presentation **Action:** I disable Slack notifications and close windows not relevant to the share to avoid distractions for the other participants. | [ ] | [ ] |
 | **Context:** When I have trouble hearing or understanding others on a call **Action:** I let them know | [ ] | [ ] |
 | **Context:** When internet connection issues are disrupting a call **Action:**I quickly take action to resolve them | [ ] | [ ] |
-
 
 ----------
 
