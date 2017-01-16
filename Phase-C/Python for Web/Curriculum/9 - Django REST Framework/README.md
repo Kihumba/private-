@@ -1,23 +1,13 @@
-# Outcome 1 - Django REST Framework
+# Outcome 9 - Django REST Framework
 
 **Skill Description**
 ----------
-To show complete understanding of HTTP and Web services skill, one must have an understanding of the following:
-
-- Serializers
-- Requests and Responses
-- API Views
-- Authentication and Permissions
-- Viewsets and Routers
+Django REST framework is a toolkit for building Web APIs in Python. The Fellow is comfortable with the various components of the REST framework, including Serializers, Requests and Responses, API Views, Authentications, Viewsets, and Routers. 
 
 
 **Output**
 ----------
-After attaining this skill, and as a demonstration of it, a person should be able to do the following:
-
-1. Create a complete API using DRF
-2. Implement Token-Based Authentication using DRF
-3. Complete Checkpoint 4
+After attaining this skill, and as a demonstration of it, I should be able to create a complete API using Django REST framework. 
 
 
 **Objectives**
@@ -27,16 +17,15 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What Serializers are and how they can be used | [ ] | [ ] |
+| The definition of Serializers and how they are used | [ ] | [ ] |
 | Types of Serializers available in DRF | [ ] | [ ] |
-| Common serializer fields including for creating Relationships | [ ] | [ ] |
-| Serializer methods | [ ] | [ ] |
-| DRF `APIView` class for writing Class-Based Views | [ ] | [ ] |
-| DRF Generic Views | [ ] | [ ] |
-| Permission classes and how to add them to views | [ ] | [ ] |
-| Authentication classes and how to add them to views | [ ] | [ ] |
-| Viewsets as being used for creating generic API resource structures | [ ] | [ ] |
-| Generating routes for viewsets automatically using Routers | [ ] | [ ] |
+| Common Serializer fields including for creating Relationships | [ ] | [ ] |
+| How to implement Serializer methods | [ ] | [ ] |
+| The difference between DRF Generic Views and the DRF `APIView` class | [ ] | [ ] |
+| The definition of permission classes and how to add them to views | [ ] | [ ] |
+| The definition of authentication classes and how to add them to views | [ ] | [ ] |
+| How to use Viewsets to create generic API resource structures | [ ] | [ ] |
+| How to generate routes for viewsets automatically using Routers | [ ] | [ ] |
 
 
 ----------
@@ -46,21 +35,13 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to specify format for requests to my API and responses back to a client... **Action:** I create serializer | [ ] | [ ] |
-| **Context:** When I want to automatically generate a serializer from my models... **Action:** I make use of `serializers.ModelSerializer` to create my base serializer | [ ] | [ ] |
-| **Context:** When I am creating a serializer from scratch... **Action:** I always use the appropriate serializer fields for the different attributes I'm expecting in the request data and that I'm returning in my response body. | [ ] | [ ] |
-| **Context:** When I want to support saving instances using my serializer... **Action:** I override either or both of the `create()` and `update()` methods. | [ ] | [ ] |
-| **Context:** For `ModelSerializer` when I want to override default serializer save and update actions... **Action:** I override the corresponding functions in the serializer class. | [ ] | [ ] |
-| **Context:** When I want to validate a single field in my DRF serializer... **Action:** I override the `validate_<field_name>()` function in the serializer class (Where <field_name> refers to the particular field we want to validate). | [ ] | [ ] |
-| **Context:** When I want to validate multiple fields in my DRF serializer... **Action:** I override the `validate()` function in the serializer class. | [ ] | [ ] |
-| **Context:** When I want to create an API view fuction... **Action:** I can choose to write it using CBVs (using the `APIView` class) or FBVs (using the `@api_view()` decorator). | [ ] | [ ] |
-| **Context:** When I create an API view fuction... **Action:** I can choose to write it using CBVs (using the `APIView` class) or FBVs (using the `@api_view()` decorator). | [ ] | [ ] |
-| **Context:** When I create an an API using CBVs... **Action:** I use higher level abstractions like the `CreateAPIView`, `RetrieveUpdateDestroyAPIView` etc. to make writing the API more straightforward | [ ] | [ ] |
-| **Context:** When I want to specify permissions for an `APIView`... **Action:** I specify them as a tuple using the `permission_classes` class variable. | [ ] | [ ] |
-| **Context:** When I want to automatically create resource endpoints... **Action:** I create a viewset for each data model. | [ ] | [ ] |
-| **Context:** When working with viewsets... **Action:** I create all the URLs automatically using routes. | [ ] | [ ] |
-
-
+| **Context:** When I want to specify format for requests to my API and responses back to a client **Action:** I create serializer. | [ ] | [ ] |
+| **Context:** When I am creating a serializer from scratch **Action:** I always use the appropriate serializer fields for the different attributes I'm expecting in the request data and that I'm returning in my response body. | [ ] | [ ] |
+| **Context:** When I want to generate a serializer from my models **Action:** I make use of `serializers.ModelSerializer` to create my base serializer. | [ ] | [ ] |
+| **Context:** When I want to automatically create resource endpoints **Action:** I create a viewset for each data model. | [ ] | [ ] |
+| **Context:** When working with viewsets **Action:** I create all the URLs automatically using routes. | [ ] | [ ] |
+| **Context:** When I want to specify permissions for an `APIView` **Action:** I specify them as a tuple. | [ ] | [ ] |
+| **Context:** When I create an API view function **Action:** I choose between writing it using CBVs or FBVs. | [ ] | [ ] |
 
 ----------
 
@@ -70,5 +51,5 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I can nest serializers. | [ ] | [ ]  |
-| DRF is a tool I can use to rapidly create APIs. | [ ] | [ ]  |
+| The Django REST framework combines power and flexibility. | [ ] | [ ]  |
+| Authentication is a piece of cake using DRF. | [ ] | [ ]  |
