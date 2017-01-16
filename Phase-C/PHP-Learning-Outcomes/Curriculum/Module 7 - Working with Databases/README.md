@@ -5,8 +5,7 @@ With PHP, you can connect to and manipulate dtabases. By working with databases 
 
 ## **Outputs**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create a PHP application that connects to and manipulates at least one database. 
-1. Example: (https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
+After attaining this skill, and as a demonstration of it, I should be able to create a PHP application that connects to and manipulates at least one database. Example: (https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
 
 ----------
 ## **Knowledge**
