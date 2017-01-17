@@ -16,7 +16,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The contents or elements that make up a Storyboard | [ ] | [ ] |
 | The purpose of the Scene in a Storyboard | [ ] | [ ] |
 | The Relationships between  and Scenes |  [ ] | [ ] |
