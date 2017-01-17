@@ -15,7 +15,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The `UIViewController` class in the UIKit [namespace](../4%20-%20Object%20Oriented%20Programming/) | [ ] | [ ] |
 | The Elements that can be added to the View Controller Scene | [ ] | [ ] |
 | Switching between Scenes programmatically | [ ] | [ ] |
@@ -23,7 +22,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embedding View Controllers in Navigation and Tab Bar Controllers | [ ] | [ ] |
 | Other implementations of the `UIViewController` | [ ] | [ ] |
 | View Controllers used to present list or collections | [ ] | [ ] |
-| Linking your custom View Controller class to your View Controller Scene | [ ] | [ ] |
+| Linking the custom View Controller class to the View Controller Scene | [ ] | [ ] |
 
 ------
 
@@ -31,7 +30,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to split your View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I use the Tab Bar Controller and it's associated classes | [ ] | [ ] |
+| **Context:** When I need to split the View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I use the Tab Bar Controller and it's associated classes | [ ] | [ ] |
 | **Context:** When I need to navigate between two or more View Controllers, **Action:** I use the Navigation Controller and it's associated classes | [ ] | [ ] |
 | **Context:** When I need to display a list of items of similar type, **Action:** I should make use of a Table View Controller and it's associated classes | [ ] | [ ] |
 | **Context:** When I need to pass data to a View Controller,  **Action:** I override the `prepareForSegue` function and assign the data accordingly | [ ] | [ ] |
