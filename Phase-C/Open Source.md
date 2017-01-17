@@ -41,7 +41,7 @@ After attaining this skill, and as a demonstration of it, I will merge at least 
 | **Context:** When reading through a project’s documentation **Action:** I report and improve areas that I find difficult to understand | [ ] | [ ] |
 | **Context:** Before contributing to an open source project:  | | |
 | - **Action:** I examine the repository for indicators of an active community | [ ] | [ ] |
-| - **Action:** I consider how else I might contribute to the project, apart from writing code | [ ] | [ ] |
+| - **Action:** I consider how else I might contribute to the project, apart from writing code (E.g. writing documentation, end user testing, writing test cases, etc.) | [ ] | [ ] |
 | - **Action:** I read through and follow any contribution guidelines | [ ] | [ ] |
 | **Context:** When accepting a contribution **Action:** I actively thank any new contributors for any work they put into my project| [ ] | [ ] |
 | **Context:** When I come across an issue that looks abandoned **Action:** I comment on the issue, asking if it is still relevant| [ ] | [ ] |
