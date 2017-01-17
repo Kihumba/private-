@@ -2,12 +2,12 @@
 
 Skill Description
 -----------------
-The Fellow knows the services (virtualized computing resources) provided by AWS and how to utilize AWS to create and manage application environments
+The Fellow how to utilize the services (virtualized computing resources) provided by AWS to create and manage application environments.
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Hosting a static website on Amazon AWS using Amazon S3
@@ -27,7 +27,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
-| I can describe the following from memory: | | |
 | Use cases for cloud computing | [ ] | [ ] |
 | Differences between Cloud Elasticity and Cloud Scalability | [ ] | [ ] |
 | Resources provided by a IaaS | [ ] | [ ] |
