@@ -14,9 +14,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The components of the MVC Pattern | [ ] | [ ] |
 | The role of each Component in the MVC Pattern | [ ] | [ ] |
 | Each component as a modular entity | [ ] | [ ] |
@@ -28,12 +27,12 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** Before I build an application whose primary use is to save, update, and/or display data, **Action:** I separate the application's components into a Model, a View, and a Controller. | [ ] | [ ] |
-| **Context:** While building an MVC application, **Action:** I construct the logic and data handling of the application in Controllers. | [ ] | [ ] |
-| **Context:** When building an MVC application, **Action:** I create models to represent the data I'd like to modify and use. | [ ] | [ ] |
-| **Context:** While constructing a GUI in an MVC application, **Action:** I place UI Elements in its Views. | [ ] | [ ] |
+| **Context:** Before I build an application whose primary use is to save, update, and/or display data, **Action:** I separate the application's components into a Model, a View, and a Controller | [ ] | [ ] |
+| **Context:** While building an MVC application, **Action:** I construct the logic and data handling of the application in Controllers | [ ] | [ ] |
+| **Context:** When building an MVC application, **Action:** I create models to represent the data I'd like to modify and use | [ ] | [ ] |
+| **Context:** While constructing a GUI in an MVC application, **Action:** I place UI Elements in its Views | [ ] | [ ] |
 
 -------
 
