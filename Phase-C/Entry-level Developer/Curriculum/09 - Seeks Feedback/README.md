@@ -82,6 +82,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Public feedback is often healthy and valuable for the team | [ ] | [ ] |
 | I take responsibility when someone is not comfortable being open and direct with me | [ ] | [ ] |
 | I compulsively seek ways to get feedback early and often | [ ] | [ ] |
+| It's better to ask "What can I try next?" than it is to ask "What did I do wrong?" | [ ] | [ ] |
 | A little exploring of a problem on my own goes a long way, a lot of exploring on my own drives me down the wrong path | [ ] | [ ] |
 | | | |
 ___
