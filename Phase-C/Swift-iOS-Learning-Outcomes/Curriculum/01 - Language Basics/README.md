@@ -16,7 +16,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | How to use Variables, as a value reference | [ ] | [ ] |
 | How to use Constants as immutable variables | [ ] | [ ] |
@@ -30,7 +30,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need a value reference that could change, **Action:** I create a variable | [ ] | [ ] |
 | **Context:** When a value shouldn't change, **Action:** I always use a constant instead of a variable to represent it | [ ] | [ ] |
