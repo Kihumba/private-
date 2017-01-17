@@ -2,12 +2,12 @@
 
 Skill Description
 -----------------
-The Fellow should have an understanding of processes required for general system maintenance and know how to perform routine maintenance tasks
+The Fellow will be comfortable running the processes required for general system maintenance, and will know how to perform routine maintenance tasks.
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a Fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Performing application/system updates or changes
@@ -30,8 +30,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
-| How to free up disk space when the disk if full | [ ] | [ ] |
+| How to free up disk space when the disk is full | [ ] | [ ] |
 | How to perform system updates | [ ] | [ ] |
 | How to setup access control for a user account | [ ] | [ ] |
 | How to setup log rotation for log files | [ ] | [ ] |
