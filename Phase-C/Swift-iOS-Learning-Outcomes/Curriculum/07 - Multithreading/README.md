@@ -14,9 +14,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | Working with different queues in Swift | [ ] | [ ] |
 | The generic queues available in Swift | [ ] | [ ] |
 | The importance of running tasks in parallel | [ ] | [ ] |
@@ -28,9 +27,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I run processes that could block the updating of the UI **Action:** I run the processes on a new background thread.  | [ ] | [ ] |
+| **Context:** When I run processes that could block the updating of the UI **Action:** I run the processes on a new background thread | [ ] | [ ] |
 | **Context:** When I create a background thread, **Action:** I create the thread on a non-blocking queue | [ ] | [ ] |
 | **Context:** When I need to run a method that interacts with the User Interface, **Action:** I run the process on the main queue and UI thread | [ ] | [ ] |
 | **Context:** When I need to run two or more processes asynchronously, **Action:** I run them on new threads in parallel | [ ] | [ ] |
