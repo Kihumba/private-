@@ -2,14 +2,12 @@
 
 Skill Description
 -----------------
-The Fellow should understand the standard processes, techniques and tools used to manage the changes in an environment and be able to use them. They should understand and articulate what configuration & change management is and the problems it solves
-
-The fellow should be able to setup and configure common software (MySQL, Apache Web Server, MongoDB, ExpressJS, AngularJS, NodeJS, PHP, Python, etc) on a VM using the Ansible configuration tool
+The Fellow will be comfortable implementing the standard processes, techniques, and tools to manage changes in a development environment. Additionally, the Fellow will be able to setup and configure common software (MySQL, Apache Web Server, MongoDB, ExpressJS, AngularJS, NodeJS, PHP, Python, etc) on a VM using the Ansible configuration tool. 
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Setting up a test harness to test and verify configuration scripts
@@ -24,7 +22,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
 | How software development environments may change over time | [ ] | [ ] |
 | Problems solved by configuration & change management | [ ] | [ ] |
 | Various processes for executing configuration & change management | [ ] | [ ] |
@@ -42,7 +39,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 |:----------------------|:------------------:|:--------:|
 | **Context:** When I need to provision machines **Action:** I use a configuration tool | [ ] | [ ]  |
 | **Context:** Before I create configuration scripts **Action:** I setup a test harness to TDD the scripts | [ ] | [ ]  |
-| **Context:** When I create configuration scripts **Action:** I test and validate it locally before deploying | [ ] | [ ] |
+| **Context:** When I create configuration scripts **Action:** I test and validate them locally before deploying | [ ] | [ ] |
 
 
 --------------
@@ -52,5 +49,5 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| Configuration scripts should be idempotent | [ ] | [ ] |
-| I leverage the process of provisioning and orchestrating machines through effective use of configuration tools | [ ] | [ ] |
+| Configuration scripts should be idempotent. | [ ] | [ ] |
+| I leverage the process of provisioning and orchestrating machines through effective use of configuration tools. | [ ] | [ ] |
