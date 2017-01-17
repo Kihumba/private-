@@ -18,13 +18,12 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Knowledge Unit   |      Studied      | Memorized |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | How to use Variables, as a value reference | [ ] | [ ] |
 | How to use Constants as immutable variables | [ ] | [ ] |
 | Syntax for creating Variables and Constants | [ ] | [ ] |
 | The types of Control Flow Statements | [ ] | [ ] |
 | The types of Conditionals | [ ] | [ ] |
-| The Types of Loops | [ ] | [ ] |
+| The types of Loops | [ ] | [ ] |
 | The use cases of Loops and Conditional Statements | [ ] | [ ] |
 
 -------
