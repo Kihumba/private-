@@ -2,13 +2,13 @@
 
 Skill Description
 -----------------
-The Fellow understands the process of backing up data on a system in a frequent manner so as to be able to recover from data loss or system crashes
+The Fellow will feel comfortable backing up data on a system so as to be able to recover from data loss or system crashes.
 
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Setting up recurring automatic backups of critical data (database, e.t.c) on a system
@@ -25,7 +25,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
 | The kind of data to be backed up on a system | [ ] | [ ] |
 | How to identify existing backup/restore tools | [ ] | [ ] |
 | How to restore backups to a system in the event of data loss | [ ] | [ ] |
@@ -38,8 +37,8 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
-| **Context:** When I setup a plan to backup data **Action:** I identify the critical data that should be backed up | [ ] | [ ] |
-| **Context:** When I setup a plan to backup data **Action:** I set a recurring schedule at which the data should be backed up | [ ] | [ ] |
+| **Context:** When I develop a plan to backup data **Action:** I identify the critical data that should be backed up | [ ] | [ ] |
+| **Context:** When I develop a plan to backup data **Action:** I set a recurring schedule at which the data should be backed up | [ ] | [ ] |
 | **Context:** After I backup data on a system **Action:** I encrypt it so as not to expose user data | [ ] | [ ] |
 | **Context:** After I backup data on a system **Action:** I move the backup to an external system for safekeeping | [ ] | [ ] |
 | **Context:** After I move the backup to an external system for safekeeping **Action:** I delete the backup from the system to free up space | [ ] | [ ] |
