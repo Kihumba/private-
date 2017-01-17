@@ -20,7 +20,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The UI Elements that are abstractions of the `UIView` class | [ ] | [ ] |
 | The difference between a View and a View Controller | [ ] | [ ] |
 | How to add Views to a Scene's View Controller | [ ] | [ ] |
@@ -37,7 +36,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I add views to my View Controller, **Action:** I choose an appropriate UI element that suits the purpose.| [ ] | [ ] |
+| **Context:** When I add views to my View Controller, **Action:** I choose an appropriate UI element that suits the purpose| [ ] | [ ] |
 | **Context:** When I add views to my Controller, **Action:** I link them as Outlets or Actions based on the purpose they serve | [ ] | [ ] |
 | **Context:** When I need to position UI Elements in my View Controller, **Action:** I will use Constraints to make sure they adapt to various screen sizes | [ ] | [ ] |
 
