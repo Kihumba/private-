@@ -1,7 +1,7 @@
 # Outcome 8 - Persisting Data
 ## Skill Description
 
-The fellow will be able to store data locally on an iOS device where necessary, using the most appropriate storage system based on the type of data to be persisted.
+The Fellow will be able to store data locally on an iOS device where necessary, using the most appropriate storage system based on the type of data to be persisted.
 
 ## Output
 After attaining this skill, and as a demonstration of it, I will create the following:
@@ -13,9 +13,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The uses of persisting data | [ ] | [ ] |
 | The reasons for not persisting data | [ ] | [ ] |
 | The storage systems used for persisting data in iOS | [ ] | [ ] |
@@ -28,7 +27,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I have data to store locally on a device, **Action:** I use the most appropriate storage system based on the type of data | [ ] | [ ] |
 | **Context:** When I need to save relational data, **Action:** I use `CoreData` | [ ] | [ ] |
