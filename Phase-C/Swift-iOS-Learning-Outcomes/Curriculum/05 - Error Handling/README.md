@@ -16,9 +16,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | |
 | The properties of common error class in Swift `NSError` | [ ] | [ ] |
 | Types of Error in Swift | [ ] | [ ] |
 | How to handle errors in Swift | [ ] | [ ] |
@@ -29,7 +28,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When throwing Errors that have steps or categories, **Action:** I create an enumerated `ErrorType` that throws different Errors in steps to increase flexibility in the Error Handling | [ ] | [ ] |
 | **Context:** When I need to perform an operation that could fail, **Action:** I use a try block to catch any error and present a self-explanatory message if it fails | [ ] | [ ] |
