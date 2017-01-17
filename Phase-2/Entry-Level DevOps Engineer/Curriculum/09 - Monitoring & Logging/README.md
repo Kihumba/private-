@@ -2,19 +2,14 @@
 
 Skill Description
 -----------------
-The Fellow should have a clear understanding of the various log levels and how to set up logging for a service. They should know the common locations of various log files. They should understand and be able to demonstrate the basics of log rotation
-
-They should understand the difference between logging important information and logging "noise". They should be able to demonstrate how to set up a system to send alerts when errors occur in production systems
+The Fellow will be able to make effective use of logging for important information-- including familiarity with various log levels, common locations of log files, and the basics of log rotation. Additionally, they will be able to demonstrate how to set up a system to send alerts when errors occur in production systems
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
-  - Setting up server monitoring for a _production_ environment using Nagios
-  - Analyzing the collected metrics for 5 days and write a comprehensive report with recommendations
-2. An exercise that covers the following operations:
   - Setting up application monitoring for a NodeJS application using New Relic
   - Deploying the NodeJS application to a VM on AWS
   - Setting up monitoring for the VM using AWS Cloudwatch
@@ -29,7 +24,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
 | The different layers in the Open Systems Interconnection model | [ ] | [ ] |
 | How to monitor user metrics and KPIs in the Application layer  | [ ] | [ ] |
 | How to monitor web and browser metrics in the Presentation layer  | [ ] | [ ] |
@@ -68,10 +62,10 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** When making new code changes **Action:** I monitor for any major metric change | [ ] | [ ] |
-| **Context:** When setting up any deployment environment **Action:** I make sure that specific monitoring tools are set up for every service e.g. databases, web-server, etc | [ ] | [ ] |
+| **Context:** When setting up any deployment environment **Action:** I make sure that specific monitoring tools are set up for every service (e.g. databases, web-server, etc.) | [ ] | [ ] |
 | **Context:** When setting up monitoring tools **Action:** I identify metrics that will be monitored in real-time and those that will be mined from log data | [ ] | [ ] |
 | **Context:** When choosing a logging strategy for a distributed environment **Action:** I consider keeping the logs on a separate server from the one running the apps so the logging service does not go down with the apps (centralized logs) | [ ] | [ ] |
-| **Context:** When setting up monitoring for any environment **Action:** I make sure I set up alerts and notification for critical metrics and events | [ ] | [ ] |
+| **Context:** When setting up monitoring for any environment **Action:** I make sure I set up alerts and notifications for critical metrics and events | [ ] | [ ] |
 
 
 --------------
