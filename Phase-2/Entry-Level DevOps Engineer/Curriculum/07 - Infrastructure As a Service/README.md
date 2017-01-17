@@ -2,7 +2,7 @@
 
 Skill Description
 -----------------
-The Fellow how to utilize the services (virtualized computing resources) provided by AWS to create and manage application environments.
+The Fellow will be able to utilize the services (virtualized computing resources) provided by AWS to create and manage application environments.
 
 
 Outputs
