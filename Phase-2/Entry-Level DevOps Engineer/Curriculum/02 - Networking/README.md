@@ -2,13 +2,12 @@
 
 Skill Description
 -----------------
-The Fellow should be able to list network interfaces and routing table. They should be able to configure a device on the network and open any necessary or needed ports. They should also be able to list all currently open ports on the system. The Fellow should know the basics of using a firewall to control access to the system.
-
+The Fellow will be able to work with network interfaces, routing tables, and ports to configure a device on a network. The Fellow will also be able to work with a Firewall to control access to the system.
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Displaying network interfaces
@@ -27,15 +26,14 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
-| Differences between network router and a network switch | [ ] | [ ] |
+| The difference between a network router and a network switch | [ ] | [ ] |
 | How to forward a port from one machine to another machine (port forwarding) | [ ] | [ ] |
 | How DNS is used to translate domain names to IP addresses | [ ] | [ ] |
 | What network address translation is and how it works | [ ] | [ ] |
 | The transport layer protocols | [ ] | [ ] |
 | Uses of private IPV4 address spaces | [ ] | [ ] |
-| Differences between Internet Protocol Versions (IPv4 vs IPv6) | [ ] | [ ] |
-| Differences between UDP and TCP | [ ] | [ ] |
+| The differences between Internet Protocol Versions (IPv4 vs IPv6) | [ ] | [ ] |
+| The differences between UDP and TCP | [ ] | [ ] |
 | How the transport layers fits into the broader OSI model | [ ] | [ ] |
 
 
