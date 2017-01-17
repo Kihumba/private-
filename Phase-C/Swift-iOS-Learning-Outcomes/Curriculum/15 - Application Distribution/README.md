@@ -13,7 +13,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The requirements for application distribution on AppStore | [ ] | [ ] |
 | How to upload an App to the Apple AppStore | [ ] | [ ] |
 | Alpha and Beta Testing of your uploaded application | [ ] | [ ] |
