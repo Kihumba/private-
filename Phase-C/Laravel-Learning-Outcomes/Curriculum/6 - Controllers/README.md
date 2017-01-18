@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-The Laravel controller is the logical center of an application. The controller coordinates the interaction between the views, and the model in a Laravel application.
+The Fellow will be able to use controllers to coordinate the interaction between the views the model in a Laravel application.
 
 
 Outputs
