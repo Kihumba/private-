@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Flask is a Python framework for creating web applications. 
+The Fellow will be able to use Flask as a Python framework for creating web applications. 
 
 
 **Output**
