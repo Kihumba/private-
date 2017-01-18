@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Django Models contain the essential fields and behaviors of the data you're storing. A model will generally map to a single database table. 
+The Fellow will be able to use Django Models to manage the fields and behaviors of the data stored by their application.
 
 
 **Output**
