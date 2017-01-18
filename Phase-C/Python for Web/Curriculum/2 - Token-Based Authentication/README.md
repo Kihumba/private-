@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-Token based authentication is a process through which the Fellow can ensure that each request to a server is accompanied by a "token," and thus verified for authenticity before responding to the request. 
+The Fellow will be able to use token-based authentication to ensure that each request to a server is accompanied by a "token," and thus verified for authenticity. 
 
 
 **Output**
@@ -50,5 +50,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Token-Based Authentication can and will reduce the processing load on my server. | [ ] | [ ] |
-| My application is very secure when using Token-Based Authentication. | [ ] | [ ] |
+| Security is critical to the functionality of my app. | [ ] | [ ] |
 | My application is much more scalable when I use Token-Based Authentication. | [ ] | [ ] |
