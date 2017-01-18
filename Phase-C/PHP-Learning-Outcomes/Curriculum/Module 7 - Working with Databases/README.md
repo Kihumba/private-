@@ -1,7 +1,7 @@
 # Module 7:  Working with Databases
 
 **Summary:**
-With PHP, you can connect to and manipulate dtabases. By working with databases in PHP, the Fellow can create complex and useful applications.   
+The Fellow will be able to connect to and manipulate databases in PHP to create complex and useful applications.
 
 ## **Outputs**
 ----------
