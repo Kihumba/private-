@@ -1,6 +1,6 @@
 # Module 7:  Working with Databases
 
-**Summary:**
+**Skill Description**
 The Fellow will be able to connect to and manipulate databases in PHP to create complex and useful applications.
 
 ## **Outputs**
