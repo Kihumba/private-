@@ -1,6 +1,6 @@
 # Module 4: Callbacks and Closures
 
-**Summary:**
+**Skill Description**
 Callbacks and Closures are used in modern day PHP frameworks when it does not make sense to define a function. The Fellow with this skill effectively implements both callbacks and closures in their PHP programming. 
 
 ## **Outputs**
