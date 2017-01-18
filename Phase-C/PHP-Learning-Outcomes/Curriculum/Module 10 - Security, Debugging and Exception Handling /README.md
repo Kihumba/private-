@@ -1,6 +1,6 @@
 # Module 10: Security, Debugging and Exception Handling
 
-**Summary:**
+**Skill Description**
 An application is only as useable as it is secure. The Fellow with this skill will be able to effectively prevent major bugs and security breaches in their PHP application. 
 
 
