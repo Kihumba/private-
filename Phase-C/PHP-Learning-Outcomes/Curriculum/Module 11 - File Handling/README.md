@@ -1,6 +1,6 @@
 # Module 11: File Handling
 
-**Skill Description:**
+**Skill Description**
 The Fellow will be able to make effective use of File Handling in their PHP app.
 
 ## **Outputs**
