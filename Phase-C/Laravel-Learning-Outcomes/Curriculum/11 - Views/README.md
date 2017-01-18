@@ -1,8 +1,8 @@
-# Outcome 8 - Views
+# Outcome 11 - Views
 
 Skill Description
 ----------
-The view is the simplest part of the MVC structure -- at the basic level, it's just a bunch of HTML boilerplate into which you insert the variables you've received from your controller and which will be sent to the browser. It is the actual "webpage."
+The Fellow will have an understanding of the "veiw" component of an MVC structure. They will be able to effectively work with vew rendering, templates, and partials in Laravel. 
 
 Outputs
 ----------
