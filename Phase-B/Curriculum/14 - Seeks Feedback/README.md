@@ -50,3 +50,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | To reach my potential I must relentlessly seek and act on feedback |   [ ]   |   [ ] |
 | Other people’s perspectives matter and add value to my life and work |   [ ]   |   [ ] |
 | There are valuable truths that I can only understand through feedback |   [ ]   |   [ ] |
+| It is not enough to ask "What went wrong?" without also asking "What can I try next?" |   [ ]   |   [ ] |
