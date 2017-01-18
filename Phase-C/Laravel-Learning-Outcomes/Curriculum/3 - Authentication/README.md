@@ -3,7 +3,7 @@
 Skill Description
 ----------
 
-This skill involves understanding how authentication works with Laravel "out of the box" and how to implement it.
+The Fellow is comfortable implementing authentication the way it works with Laravel "out of the box."
 
 
 Outputs
