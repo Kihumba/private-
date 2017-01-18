@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-The Fellow comfortable using the main Django testing methods to validate that their code works as expected.
+The Fellow will be comfortable using the main Django testing methods to validate that their code works as expected.
 
 **Output**
 ----------
