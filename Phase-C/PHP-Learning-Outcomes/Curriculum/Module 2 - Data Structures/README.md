@@ -1,7 +1,7 @@
 # Module 2: PHP Data Structures
 **Summary:**
 PHP Data Structures allow the Fellow to work with arrays and SPL data structures to write effient and effective code. 
-The Fellow with this skill has a thorough understanding of PHP Data Structures and how to use
+The Fellow with this skill has a thorough understanding of PHP Data Structures and how to use them.
 
 ## **Outputs**
 ----------
