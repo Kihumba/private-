@@ -24,7 +24,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | The definition of Higher Order Functions     | [ ] | [ ]  |
 | The definition of Function Composition     | [ ] | [ ]  |
 | How to use functional concepts in imperative languages     | [ ] | [ ]  |
-| The definition of Functional Composition    | [ ] | [ ]  |
 | The definition of currying and how it differs from partial application     | [ ] | [ ]  |
 | The definition of point free functions     | [ ] | [ ]  |
 | Basic category theory - Composition, Associativity, Conjunction, Disjunction, etc.   | [ ] | [ ]  |
@@ -51,4 +50,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Utilizing the functional programming principles make my code more modular, reusable, testable and predictable. | [ ] | [ ]  |
 | Favouring declarative over imperative coding makes my code easier to reason about. | [ ] | [ ]  |
-| Understanding functional programming makes me a craftsman even when developing in languages that do not necessary support functional programming conventionally.  | [ ] | [ ]  |
+| Understanding functional programming makes me effective even when developing in languages that do not necessary support functional programming conventionally.  | [ ] | [ ]  |
