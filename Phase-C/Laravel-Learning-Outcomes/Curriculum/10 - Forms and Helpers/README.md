@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-Understanding how forms are created in HTML and how Laravel helpers make a deveoper's life easier will go a long way in web development. The code itself is not difficult, but a Fellow will usually want to build forms that accomplish many different things at once, which adds an important layer of complexity covered by this skill.
+The Fellow will have an understanding of how forms are created in HTML, and how Laravel helpers can assist in building forms that accomplish many things at once.
 
 Outputs
 ----------
