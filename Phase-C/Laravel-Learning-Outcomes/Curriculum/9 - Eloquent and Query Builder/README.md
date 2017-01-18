@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-The Eloquent ORM included with Laravel provides a beautiful, simple ActiveRecord implementation for working with your database. Each database table has a corresponding "Model" which is used to interact with that table. Models allow you to query for data in your tables, as well as insert new records into the table.
+The Fellow will be comfortable using Eloquent to work with their Laravel database, including querying for data and inserting new records into datatables. 
 
 
 Outputs
@@ -67,3 +67,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | All applications have a need for speed-- Query Builder methods return results faster than Eloquent methods. | [ ] | [ ] |
 | Retrieving related data using Eloquent associations is easy. | [ ] | [ ]  |
 | Conventions used in Eloquent makes it easy to get started with Eloquent ORM. | [ ] | [ ]  |
+| Eloquent ORM included with Laravel provides a beautiful, simple ActiveRecord implementation for working with my database. | [ ] | [ ]  |
+
