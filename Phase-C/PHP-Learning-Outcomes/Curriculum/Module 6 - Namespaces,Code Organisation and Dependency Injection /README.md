@@ -1,6 +1,6 @@
 # Module 6:  Namespaces, Code Organization, and Dependency Injection
 
-**Summary:**
+**Skill Description**
 The Fellow will be able to make effective use of Namespacing and Code Organization to work with PHP as an opensource community programming language. In addition, they will use Dependency Injection to simplify code and create flexibility in hard-coded dependencies.
 
 ## **Outputs**
