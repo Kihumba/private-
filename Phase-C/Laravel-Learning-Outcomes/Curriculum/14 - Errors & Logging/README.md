@@ -1,8 +1,8 @@
-# Outcome - Errors and Logging
+# Outcome 14- Errors and Logging
 
 Skill Description
 ----------
-Laravel provides support for a variety of powerful log handlers, allowing developers to monitor and handle errors. 
+The Fellow will be able to make use of Laravel's powerful log handlers, allowing them to monitor and handle errors. 
 
 Outputs
 ----------
