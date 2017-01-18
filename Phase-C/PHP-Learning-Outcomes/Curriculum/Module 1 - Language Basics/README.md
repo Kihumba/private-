@@ -1,5 +1,5 @@
 # Module 1: PHP Language Basics
-**Summary:**
+**Skill Description:**
 PHP is a script language used primarily on Linux web servers. The Fellow with this skill is comfortable with the flow, data types, and structure of PHP, as well as the language constructs and coding standards when using PHP. 
 
 
