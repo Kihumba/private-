@@ -1,6 +1,6 @@
 # Module 5: Object Oriented Programming in PHP
 
-**Summary:**
+**Skill Description**
 Object Oriented Programming in PHP specifically has several distinct and important concepts. The Fellow with this skill is comfortable with the concepts of Traits, Interface, Abstraction, Inheritance, Polymorphism and Encapsulation in PHP programming.
 
 
