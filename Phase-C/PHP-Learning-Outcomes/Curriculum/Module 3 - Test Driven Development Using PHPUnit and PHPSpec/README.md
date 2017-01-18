@@ -1,6 +1,6 @@
 # Module 3: Test Driven Development in PHP
 
-**Summary:**
+**Skill Description**
 Test driven development is applicable to many programming languages, and the Fellow with this skill is comfortable writing unit tests and applications for TDD in a PHP application.  
 
 ## **Outputs**
