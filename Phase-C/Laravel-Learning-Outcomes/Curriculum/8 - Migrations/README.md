@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-Migrations are a feature of Eloquent that allows you to evolve your database schema over time. This outcome touches on how to create and use migrations.
+The Fellow will be able to use Migrations in Eloquent to evolve database schema over time. 
 
 Outputs
 ----------
