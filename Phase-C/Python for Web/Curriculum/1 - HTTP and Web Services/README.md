@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-On order to use Python when developing for the web, the Fellow must first show complete understanding of HTTP and Web services. This includes various components, including HTTP protocol, REST, and consuming APIs.
+The Fellow will have a foundational understanding of HTTP and web services, including HTTP protocol, REST, and consuming APIs. 
 
 **Output**
 ----------
@@ -20,8 +20,8 @@ After attaining this skill, and as a demonstration of it, I should be able to bu
 | The different HTTP Verbs and how to use them | [ ] | [ ] |
 | Parts of a URL and what they mean | [ ] | [ ] |
 | Composition of an HTTP Request and Response | [ ] | [ ] |
-| Most frequently used HTTP Header fields - `Accept`, `Accept-Encoding`, `Authorization`, `Content-Type`, `User-Agent`, `X-Requested-With`, `Allow`, `Access-Control-Allow-Origin`, `Last-Modified`, `X-Frame-Options`, `ETag`, `X-UA-Compatible` | [ ] | [ ] |
-| The majorly used HTTP Status codes and what they mean - `200 OK`, `201 CREATED`, `204 NO CONTENT`, `301 MOVED PERMANENTLY`, `302 REDIRECT`, `304 NOT MODIFIED`, `400 BAD REQUEST`, `404 NOT FOUND`, `500 INTERNAL SERVER ERROR`, `502 BAD GATEWAY` | [ ] | [ ] |
+| Most frequently used HTTP Header fields ( eg. `Accept`, `Authorization`, `Content-Type`, ect.) | [ ] | [ ] |
+| The majorly used HTTP Status codes and what they mean (eg. `200 OK`, `201 CREATED`, `204 NO CONTENT`, ect.)| [ ] | [ ] |
 | The definition and functionality of REST: Client-Server Model | [ ] | [ ] |
 | The definition and functionality of REST: HTTP Verb - Action Mapping | [ ] | [ ] |
 | The definition and functionality of `requests` library functions and parameters | [ ] | [ ] |
