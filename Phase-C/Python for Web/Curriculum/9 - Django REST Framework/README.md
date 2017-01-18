@@ -2,8 +2,7 @@
 
 **Skill Description**
 ----------
-Django REST framework is a toolkit for building Web APIs in Python. The Fellow is comfortable with the various components of the REST framework, including Serializers, Requests and Responses, API Views, Authentications, Viewsets, and Routers. 
-
+The Fellow will be able to use Django REST framework as a toolkit for building Web APIs in Python. 
 
 **Output**
 ----------
