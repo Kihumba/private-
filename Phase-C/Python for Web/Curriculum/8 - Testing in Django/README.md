@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
-As with all apps, care must be taken to test and validate that the code works as expected. The Fellow with this skill is comfortable using the main Django testing methods: testing routes in Django, unit testing in Django, and E2E testing with Selenium.
+The Fellow comfortable using the main Django testing methods to validate that their code works as expected.
 
 **Output**
 ----------
