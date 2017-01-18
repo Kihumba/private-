@@ -3,7 +3,7 @@
 Skill Description
 ----------
 
-Sessions and cookies are very important when building a Laravel web application-- they help with handling timeouts as well as curbing session hijacking.
+The Fellow will be able to effectively use sessions and cookies to handle timeouts as well as curb session hijacking.
 
 Outputs
 ----------
