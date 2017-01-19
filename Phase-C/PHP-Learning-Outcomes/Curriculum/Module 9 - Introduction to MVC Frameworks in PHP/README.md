@@ -1,7 +1,7 @@
 # Module 9:   Introduction to MVC Frameworks in PHP
 
-**Summary:**
-Frameworks are a way for a developer to avoid creating their own architecture and "reinventing the wheel." There are many different frameworks available to PHP-- a Fellow who has attained this skill feels comfortable with the range of frameworks available and is able to effectively use one of the major ones, Laravel.
+**Skill Description**
+The Fellow will feel comfortable with the range of frameworks available in PHP programming, and will have a basic knowledge of using one of the most common frameworks, Laravel.
 
 
 ## **Outputs**

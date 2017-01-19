@@ -16,22 +16,21 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | How to use Variables, as a value reference | [ ] | [ ] |
 | How to use Constants as immutable variables | [ ] | [ ] |
 | Syntax for creating Variables and Constants | [ ] | [ ] |
 | The types of Control Flow Statements | [ ] | [ ] |
 | The types of Conditionals | [ ] | [ ] |
-| The Types of Loops | [ ] | [ ] |
+| The types of Loops | [ ] | [ ] |
 | The use cases of Loops and Conditional Statements | [ ] | [ ] |
 
 -------
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need a value reference that could change, **Action:** I create a variable | [ ] | [ ] |
 | **Context:** When a value shouldn't change, **Action:** I always use a constant instead of a variable to represent it | [ ] | [ ] |

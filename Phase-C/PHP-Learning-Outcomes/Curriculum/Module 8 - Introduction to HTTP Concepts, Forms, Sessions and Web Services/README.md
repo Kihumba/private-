@@ -1,6 +1,6 @@
 # Module 8:   Introduction to HTTP Concepts, Forms, Sessions and Web Services
 
-**Summary:**
+**Skill Description**
 When programming in PHP, it is important to understand how it interacts with the web and APIs. The Fellow who has attained this skill has a concrete comprehension of the factors at play when building a PHP API.
 
 

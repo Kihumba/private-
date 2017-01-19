@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-Laravel is an MVC framework for quickly out building elegant web applications. This outcome is an introduction to the world of Laravel.
+The Fellow will be familiar with the basic structure of Laravel as an MVC framework for quickly out building elegant web applications. 
 
 Outputs
 ----------

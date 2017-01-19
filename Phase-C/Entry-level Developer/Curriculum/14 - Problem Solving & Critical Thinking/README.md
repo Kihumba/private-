@@ -58,6 +58,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | My perspectives are insightful and add value to others | [ ] | [ ] |
 | I only use brute force to code my way to a solution if I have exhausted other potential solutions.  | [ ] | [ ] |
 | I am obsessed with finding the most effective solutions | [ ] | [ ] |
+| I do not solve problems I don't have yet | [ ] | [ ] |
 | Not every problem requires a technical solution | [ ] | [ ] |
 | | | |
 ---

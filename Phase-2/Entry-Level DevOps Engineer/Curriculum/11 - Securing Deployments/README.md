@@ -2,12 +2,12 @@
 
 Skill Description
 -----------------
-The Fellow understands how to apply security policies to secure machines deployed to a cloud
+The Fellow will be able to apply security policies to secure machines deployed to a cloud. 
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a Fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Setting up hooks to scan for secure credentials/token before code is checked in to a repo
@@ -30,9 +30,8 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
 | How to install/update software on a system | [ ] | [ ] |
-| How to disable root ssh login on a system | [ ] | [ ] |
+| How to disable root SSH login on a system | [ ] | [ ] |
 | How to run a process with elevated privileges | [ ] | [ ] |
 | How to run a process with restricted privileges | [ ] | [ ] |
 | How to view a list of all open ports/connections on a system | [ ] | [ ] |
@@ -48,7 +47,7 @@ After attaining this skill, and as a demonstration of it, a Fellow should be abl
 
 | Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
-| **Context:** Before deploying code to a repository **Action:** I remove all security credentials/tokens if any | [ ] | [ ]  |
+| **Context:** Before deploying code to a repository **Action:** I remove all security credentials/tokens (if any) | [ ] | [ ]  |
 | **Context:** Before deploying code to production systems **Action:** I run a list of common attacks against the system to ensure the system is not vulnerable | [ ] | [ ]  |
 | **Context:** After a Common Vulnerability and Exposure (CVE) is disclosed and patched **Action:** I apply the patch to production systems in a timely manner | [ ] | [ ]  |
 | **Context:** When a security credential/token is leaked **Action:** I generate new credentials and replace them on production systems in a timely manner | [ ] | [ ]  |

@@ -3,7 +3,7 @@
 Skill Description
 ----------
 
-Laravel has generators for scaffolding. Scaffolding is a technique supported by MVC frameworks that involves generating pre-defined code templates to accelerate development. 
+The Fellow will be comfortable using Laravel generators for scaffolding to accelerate development. 
 
 Outputs
 ----------

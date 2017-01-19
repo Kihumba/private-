@@ -2,12 +2,12 @@
 
 Skill Description
 -----------------
-The fellow knows the fundamentals of Command Line Unix and knows how to use various Linux/Unix system utilities to perform system administration tasks
+The Fellow will be able to use the fundamentals of Command Line Unix and the various Linux/Unix system utilities to perform System Administration tasks. 
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following exercises:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following exercises:
 
 1. Files and Directories
   - Create directory named `some-dir` in the `/tmp` folder
@@ -51,13 +51,12 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| I can describe the following from memory: | | |
-| The functions of package managers in linux distros | [ ] | [ ] |
-| Managing files and directories | [ ] | [ ] |
-| How to mount, unmount and format devices on a unix system | [ ] | [ ] |
-| Scheduling processes | [ ] | [ ] |
-| Sending signals to processes | [ ] | [ ] |
-| How Shell options control execution in a bash script | [ ] | [ ] |
+| The functions of Package Managers in Linux distros | [ ] | [ ] |
+| How to manage files and directories | [ ] | [ ] |
+| How to mount, unmount, and format devices on a Unix system | [ ] | [ ] |
+| How to work with scheduling processes | [ ] | [ ] |
+| How to send signals to processes | [ ] | [ ] |
+| How Shell options control execution in a Bash script | [ ] | [ ] |
 
 
 ----------------
@@ -73,7 +72,7 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | **Context:** When writing scripts **Action:** I enable the shell option to exit immediately when an unbound variable is found | [ ] | [ ]  |
 | **Context:** When writing scripts **Action:** I log actions in the script to provide visibility on command execution | [ ] | [ ]  |
 | **Context:** When calling shell commands with arguments **Action:** I quote command arguments | [ ] | [ ]  |
-| **Context:** When writing scripts **Action:** I take advantage of and use the various single function utilities in Linux to solve complex tasks | [ ] | [ ]  |
+| **Context:** When writing scripts **Action:** I take advantage of the various single-function utilities in Linux to solve complex tasks | [ ] | [ ]  |
 
 
 --------------
@@ -83,6 +82,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
-| I leverage automation to successfully perform a wide variety of system administration tasks | [ ] | [ ] |
-| I create reliable systems by appropriately implementating services which results in a reliable system | [ ] | [ ] |
-| I review the manual pages (standard software documentation on Unix like systems) to understand how to leverage the various tools available in a Unix system | [ ] | [ ] |
+| I leverage automation to successfully perform a wide variety of System Administration tasks | [ ] | [ ] |
+| I create reliable systems by appropriately implementating services | [ ] | [ ] |
+| I review the manual pages (standard software documentation on Unix systems) to understand how to leverage the various tools available in a Unix system | [ ] | [ ] |

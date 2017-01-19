@@ -1,7 +1,8 @@
 # Outcome 2 - The Android UI
 
 ## Skill Description
-The users of your application will interact with the application through the user interfaces (UI). Android provides a collection of `View` and `ViewGroup` objects that offer you common input controls (such as buttons and text fields) and various layout models (such as a linear or relative layout).
+The users of your application will interact with the application through the user interfaces (UI). The Fellow will be able to make use of the collection of `View` and `ViewGroup` objects in Android to create common input controls (such as buttons and text fields) and layout models (such as a linear or relative layout).
+
 
 ## Output
 After attaining this skill, and as a demonstration of it, I should be able to create an Android app that looks like the Gmail app (only the Interface).

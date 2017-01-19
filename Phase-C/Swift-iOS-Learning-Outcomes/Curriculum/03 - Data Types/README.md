@@ -17,9 +17,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | |
 | The Data types available in Swift | [ ] | [ ] |
 | How to use the `typealias` keyword | [ ] | [ ] |
 | How to create a collection | [ ] | [ ] |
@@ -33,7 +32,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to create, reference or manipulate data, **Action:** I use the most appropriate data type that best suites that data | [ ] | [ ] |
 | **Context:** When I create a custom data type, **Action:** I use `typealias` to to make it easy to reference | [ ] | [ ] |

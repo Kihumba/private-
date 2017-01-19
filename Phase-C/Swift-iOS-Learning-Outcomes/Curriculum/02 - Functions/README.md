@@ -10,15 +10,13 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 1. A *function* in Swift Playground that can parse different data types and return a result depending on the parameters' data types present
 2. A *function* that takes a *function* as one of its *arguments* and uses it as a callback
-3. A **Checkpoint 1** project submission meeting all the required specifications
 
 ## Objectives
 
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | Function declaration syntax | [ ] | [ ] |
 | The difference between calling and defining a *function* | [ ] | [ ] |
 | How to use Functions and parameters | [ ] | [ ] |
@@ -30,7 +28,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ----------
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to run a collection of procedures that should run from top to bottom with abstracted encapsulated data, **Action:** I use *functions* | [ ] | [ ] |
 | **Context:** When making use of callback *functions* that contain parameters that I need to work with directly, **Action:** I use the shorthands available and avoid creating additional variables or references to the parameters | [ ] | [ ] |
@@ -41,5 +39,5 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Functions will run my procedures from top to bottom continuously without any interruptions | [ ] | [ ] |
-| Memory is conserved when I use parameters directly without creating redundant variables | [ ] | [ ] |
+| Functions will run my procedures from top to bottom continuously without any interruptions. | [ ] | [ ] |
+| Memory is conserved when I use parameters directly without creating redundant variables. | [ ] | [ ] |

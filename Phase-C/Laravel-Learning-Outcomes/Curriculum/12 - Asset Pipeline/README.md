@@ -1,8 +1,8 @@
-# Outcome - Asset Pipeline
+# Outcome 12 - Asset Pipeline
 
 Skill Description
 ----------
-Asset pipeline is a tool and mechanism by which Javascript files, stylesheets are processed and prepared for use by the browser.
+The Fellow will be able to use Asset pipeline as a tool to process Javascript files and stylesheets, and prepare them for use by the browser.  
 
 Outputs
 ----------

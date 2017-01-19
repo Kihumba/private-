@@ -1,8 +1,8 @@
-# Outcome - Events
+# Outcome 13 - Events
 
 Skill Description
 ----------
-Events, listeners, and observers are key to user interaction with a Laravel application. Laravel's Events provide a simple observer implementation, allowing you to subscribe and listen for events in your application.
+The Fellow will be comfortable implementing effective user interaction in their Laravel application through the use of events, listeners, and observers. 
 
 Outputs
 ----------

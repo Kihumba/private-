@@ -2,7 +2,8 @@
 
 **Skill Description**
 ----------
-Django is a high-level Python web framework that allows for the creation of complex, data-driven websites. To get started using Django for Python programming, the Fellow will first implement the setup and understand the basics of the Django model and functionality. 
+The Fellow will be able to set up and understand the basics of the Django model and functionality. This is the first step to using Django as a high-level Python web framework to create complex, data-driven websites.
+
 
 
 **Output**

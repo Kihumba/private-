@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-The router is the doorman of your application. When an HTTP request arrives from the user's browser, it needs to know which controller action (method) should be run. Should we display the "new user" web page? Should we edit an existing user with whatever data got sent along? etc. The router basically match HTTP request to the appropriate action.
+The Fellow will be able to use Routing to effectively manage APIs. 
 
 Outputs
 ----------

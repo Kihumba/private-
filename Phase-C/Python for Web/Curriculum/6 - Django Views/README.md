@@ -2,7 +2,7 @@
 
 **Skill Description**
 ----------
- A Django View is simply a Python function that takes a Web request and returns a Web response. There are many different types of views including Function-Based Views, Class-Based Views, Sessions, Forms, and Authentication.
+The Fellow will feel comfortable using various types of Django Views- Python functions that take a Web request and return a Web response. 
 
 
 **Output**

@@ -3,7 +3,7 @@
 Skill Description
 ----------
 
-Artisan is a laravel tool for running commands. This skill involves understanding how to create commands for various tasks in a Laravel application. 
+The Fellow wil be able to use Artisan to create commands for various tasks in a Laravel application. 
 
 
 Outputs

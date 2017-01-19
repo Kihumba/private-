@@ -15,7 +15,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The existing Frameworks in Xcode | [ ] | [ ] |
 | The Package Managers are available for iOS Swift | [ ] | [ ] |
 | The benefits of Package Managers | [ ] | [ ] |
@@ -28,9 +27,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need a service that is complex, **Action:** I first attempt to find and use a Framework that has this service. | [ ] | [ ] |
-| **Context:** When I need a Framework, **Action:** I first try to install it using a Package Manager. | [ ] | [ ] |
-| **Context:** When I need a Framework that can't be installed with a Package Manager, **Action:** I install it manually. | [ ] | [ ] |
+| **Context:** When I need a service that is complex, **Action:** I first attempt to find and use a Framework that has this service | [ ] | [ ] |
+| **Context:** When I need a Framework, **Action:** I first try to install it using a Package Manager | [ ] | [ ] |
+| **Context:** When I need a Framework that can't be installed with a Package Manager, **Action:** I install it manually | [ ] | [ ] |
 | **Context:** Before I use a Framework in my codebase, **Action:** I import the namespace at the top of my script, before my code begins | [ ] | [ ] |
 | **Context:** Before I use an iOS SDK Framework, **Action:** I add and reference them in the _Linked Frameworks and Libraries_ section under the _General Tab_ in the Project's Properties | [ ] | [ ] |
 ------

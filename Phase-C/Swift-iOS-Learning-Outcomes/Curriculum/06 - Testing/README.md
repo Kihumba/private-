@@ -14,9 +14,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 ## Objectives
 ### Knowledge
 
-| Knowledge Unit   |      Studied      | Memorized |
+| Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | |
 | The benefits of Test Drive Development | [ ] | [ ] |
 | How to write a Unit test | [ ] | [ ] |
 | How to write UI Tests | [ ] | [ ] |
@@ -27,7 +26,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Behaviors
 
-| Observable Behavior   |      Observed      | Mastered |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I need to assert the proper functioning of an application, **Action:** I write tests to compare the output of the methods with their ideal outputs | [ ] | [ ] |
 | **Context:** While writing tests, **Action:** I use assertions to create the expectations for my methods and procedures | [ ] | [ ] |

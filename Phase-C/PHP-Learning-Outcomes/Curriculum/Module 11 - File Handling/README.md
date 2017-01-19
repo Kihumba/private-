@@ -1,12 +1,7 @@
 # Module 11: File Handling
 
-**Summary:**
-The learning outcomes expected of a fellow that has covered this module are as follows:
-
-
-
-The following are the Outputs, Knowledge, Behaviors, and Beliefs for File Handling.
-
+**Skill Description**
+The Fellow will be able to make effective use of File Handling in their PHP app.
 
 ## **Outputs**
 ----------

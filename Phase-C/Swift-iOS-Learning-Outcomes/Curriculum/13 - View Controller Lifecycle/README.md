@@ -17,7 +17,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I can describe the following from memory: | | |
 | The Life Cycle of a View Controller | [ ] | [ ] |
 | The methods triggered by the states of a View Controller | [ ] | [ ] |
 | The frequency at which the Lifecycle methods are called | [ ] | [ ] |
@@ -31,7 +30,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I create a View Controller **Action:** I override only the lifecycle methods I need | [ ] | [ ] |
-| **Context:** When I write code in a lifecycle method **Action:** it reflects an understanding of what state the view controller is in at that time. | [ ] | [ ] |
+| **Context:** When I write code in a lifecycle method **Action:** it reflects an understanding of what state the view controller is in at that time | [ ] | [ ] |
 | **Context:** When I want to run a procedure before the view is displayed **Action:**  I add my procedure to the `viewWillAppear` function | [ ] | [ ] |
 | **Context:** When I need to run a procedure just once in a View Controller **Action:** I add the procedure to the `viewDidLoad` function | [ ] | [ ] |
 | **Context:** When I need to run a procedure just before a ViewController is dismissed **Action:** I add the procedure to the `viewWillUnload` function | [ ] | [ ] |

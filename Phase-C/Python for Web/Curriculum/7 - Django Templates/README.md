@@ -2,8 +2,7 @@
 
 **Skill Description**
 ----------
-Django is a web framework, and therefore uses templates as a convenient way to generate HTML dynamically. A Django project can use one or several template engines. The Fellow with this skill has a mastery of the Django Template language, from configuration to syntax.
-
+The Fellow will be able to make use of the Django Template language as a convenient way to generate HTML dynamically. A Django project can use one or several template engines.
 
 **Output**
 ----------

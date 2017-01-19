@@ -2,12 +2,12 @@
 
 Skill Description
 -----------------
-The Fellow is able to utilize the features provided by a PaaS to effectively address server management, database management, operations expertise etc. so that they can invest more time on application development.
+The Fellow will be able to utilize the features provided by a PaaS to effectively address server management, database management, operations expertise, etc. so that they can invest more time on application development.
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, a fellow should be able to complete the following:
+After attaining this skill, and as a demonstration of it, I should be able to complete the following:
 
 1. An exercise that covers the following operations:
   - Creating and pushing an app to a PaaS
@@ -24,7 +24,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
-| I can describe the following from memory: | | |
 | Examples of PaaS | [ ] | [ ] |
 | The benefits/advantages of using a PaaS | [ ] | [ ] |
 | The disadvantages of using a PaaS | [ ] | [ ] |
@@ -60,6 +59,6 @@ After attaining this skill, and as a demonstration of it, a fellow should be abl
 | Embodied Belief   |      Felt      | Demonstrated |
 |:------------------|:--------------:|:------------:|
 | PaaS eases the pain of deployment and takes care of the overhead of deploying applications | [ ] | [ ] |
-| PaaS allows you to focus only on application development as the rest is taken care of | [ ] | [ ] |
+| PaaS allows you to focus only on application development-- it takes care of the rest| [ ] | [ ] |
 | PaaS makes release management easy (rolling back code and deploying code) | [ ] | [ ] |
 
