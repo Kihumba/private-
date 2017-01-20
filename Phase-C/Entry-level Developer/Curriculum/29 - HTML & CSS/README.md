@@ -23,11 +23,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Differences between the latest version of HTML and previous versions | [ ] | [ ]  |
 | Differences between the latest version of CSS and previous versions | [ ] | [ ]  |
 | Current HTML and CSS best practices | [ ] | [ ]  |
+| How to move CSS to external files | [ ] | [ ]  |
 | Above the fold content | [ ] | [ ]  |
 | When to use fixed, fluid or elastic layouts | [ ] | [ ]  |
 | Principles of responsive front-end development | [ ] | [ ]  |
-| Tools/Frameworks that support responsive front-end development     | [ ] | [ ]  |
-
+| Tools/Frameworks that support responsive front-end development | [ ] | [ ]  |
 
 
 ----------
@@ -41,8 +41,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When assigning a value to HTML element attributes **Action:** I use double quotes to enclose the value | [ ] | [ ] |
 | **Context:** When I style HTML elements **Action:** I prioritize the rules for the above the fold content by including the style rules inline (either in `head` or directly on elements) | [ ] | [ ] |
 | **Context:** When I style non-above the fold HTML elements **Action:** I reference elements by IDs and classes and style them within CSS files | [ ] | [ ] |
+| **Context:** When I am styling my HTML document **Action:** I make good use of ids and classes | [ ] | [ ] |
 | **Context:** When building responsive web pages **Action:** I use principles of fluid or elastic layouts | [ ] | [ ] |
 | **Context:** When I intend to build responsive web pages **Action:** I use a framework that supports responsiveness out of the box | [ ] | [ ] |
+
 
 ----------
 
