@@ -56,9 +56,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I am a critical thinker and can make a valuable contribution to any group | [ ] | [ ] |
 | My ability to solve problems will create opportunities for me | [ ] | [ ] |
 | My perspectives are insightful and add value to others | [ ] | [ ] |
-| I only use brute force to code my way to a solution if I have exhausted other potential solutions.  | [ ] | [ ] |
+| I only use brute force to code my way to a solution if I have exhausted other potential solutions | [ ] | [ ] |
 | I am obsessed with finding the most effective solutions | [ ] | [ ] |
-| I do not solve problems I don't have yet | [ ] | [ ] |
+| I don't spend time looking for the solution to something that is not yet a problem | [ ] | [ ] |
 | Not every problem requires a technical solution | [ ] | [ ] |
 | | | |
 ---
