@@ -5,7 +5,8 @@ The Fellow will be able to connect to and manipulate databases in PHP to create 
 
 ## **Outputs**
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create a PHP application that connects to and manipulates at least one database. Example: (https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
+After attaining this skill, and as a demonstration of it, I should be able to create a PHP application that connects to and manipulates at least one database.
+Example:  [link here](https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
 
 ----------
 ## **Knowledge**
@@ -40,6 +41,3 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Stored procedures and transactions can help improve the efficiency of database calls in my application. |   [ ]   |   [ ] |
-
-
-

@@ -8,7 +8,7 @@ Object Oriented Programming in PHP specifically has several distinct and importa
 ----------
 After attaining this skill, and as a demonstration of it, I should be able to create a PHP program using OOP and object serialization.
 
-1. Example:(https://docs.google.com/document/d/1vRZsAI8BJTq8t0-ewZvtxyT9PviY2LtvSqzlfM00jPY)
+1. Example: [link here](https://docs.google.com/document/d/1vRZsAI8BJTq8t0-ewZvtxyT9PviY2LtvSqzlfM00jPY)
 
 
 
@@ -56,5 +56,3 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | The essentials of object oriented programming allows one to write well decoupled and reusable code.| [ ] | [ ]  |
 | Inheritance and Abstraction are essential techniques that can be employed to avoid writing duplicated blocks of code. |   [ ]   |   [ ] |
 | Every thing in the real world can be modeled in terms of objects interacting with each other. |   [ ]   |   [ ] |
-
-
