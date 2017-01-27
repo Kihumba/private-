@@ -1,15 +1,13 @@
+
 # Outcome 4 - Object Oriented Programming
 ## Skill Description
 
-The Fellow will be able to apply O.O.P Principles in Swift, write concise and modular code using extensions, protocols, and other Swift proprietary structures.
+A person with this skill can apply O.O.P. Principles in Swift, and can write concise and modular code using extensions, protocols, and other Swift proprietary structures.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
+Create an extension of the `String` class with a method that returns an Array of words in a sentence called `words.`
 
-1. An extension of the `String` class with a method that returns an Array of words in a sentence called `words`
-
-2. A **Checkpoint** 1 project submission meeting all the required specifications
 
 ## Objectives
 ### Knowledge
@@ -21,7 +19,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Use cases for Structs and Classes | [ ] | [ ] |
 | Enumerations with Conditionals | [ ] | [ ] |
 | Advantages of using Computed Properties in Classes | [ ] | [ ] |
-| The advantages of Computed Properties | [ ] | [ ] |
 | Protocol Oriented Programming using protocols | [ ] | [ ] |
 | Adding methods to existing Classes using `extension` | [ ] | [ ] |
 
@@ -44,7 +41,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | The essentials of object oriented programming help me write well decoupled and reusable code | [ ] | [ ] |
-| Inheritance and Abstraction will prevent me from writing duplicate blocks of code, [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) | [ ] | [ ] |
+| Inheritance and Abstraction will prevent me from writing duplicate blocks of code | [ ] | [ ] |
 | Computed Properties will improve my code quality by abstracting property procedures | [ ] | [ ] |
 | Namespaces gives me the ability to explicitly reference a particular package | [ ] | [ ] |
 | Protocols and Extension helps me implement Inheritance and Abstraction in Swift | [ ] | [ ] |
