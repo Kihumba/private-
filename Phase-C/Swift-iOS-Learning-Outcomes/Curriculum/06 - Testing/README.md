@@ -1,22 +1,18 @@
 # Outcome 6 - Testing
 ## Skill Description
 
-The Fellow will be able to write Unit and UI Tests. The Fellow will understand and implement T.D.D when developing iOS Applications.
+A person with this skill can write Unit and UI Tests for iOS, and effectively implements T.D.D when developing iOS Applications.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. An iOS project with failing tests cases intended to cover the functions defined.
-2. An iOS Project with passing tests targeting the methods and properties of a defined Class.
-3. A **Checkpoint 1** project submission meeting all the required specifications.
+Create an iOS project with failing and passing tests cases targeting the methods and properties of a defined Class.
 
 ## Objectives
 ### Knowledge
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| The benefits of Test Drive Development | [ ] | [ ] |
+| The benefits of Test Driven Development | [ ] | [ ] |
 | How to write a Unit test | [ ] | [ ] |
 | How to write UI Tests | [ ] | [ ] |
 | How to test asynchronous operations | [ ] | [ ] |
