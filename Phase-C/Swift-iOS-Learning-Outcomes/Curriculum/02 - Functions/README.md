@@ -1,15 +1,12 @@
 # Outcome 2 - Functions
 ## Skill Description
 
-The Fellow will be able to use *functions* to encapsulate and run procedures, using shorthands (Functional Swift Syntax) in scenarios were it can be applied.
+A person with this skill can use *functions* to encapsulate and run procedures, using shorthands (Functional Swift Syntax) in scenarios where it can be applied.
 
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. A *function* in Swift Playground that can parse different data types and return a result depending on the parameters' data types present
-2. A *function* that takes a *function* as one of its *arguments* and uses it as a callback
+Create a *function* in Swift Playground that can parse different data types and return a result depending on the parameters' data types present. 
 
 ## Objectives
 
