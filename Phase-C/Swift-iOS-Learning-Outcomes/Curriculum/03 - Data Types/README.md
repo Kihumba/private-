@@ -1,18 +1,11 @@
 # Outcome 3 - Data types
 ## Skill Description
 
-The Fellow will be able to identify and use the Data types available in Swift, as well as create collections of these data types.
+A person with this skill can identify and use the Data types available in Swift, as well as create collections of these data types.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. A Swift Playground Application that meets the following requirements:
-  - Returns varying outputs based on an input data type
-  - Uses a function with optional arguments
-  - Uses arguments that encompass all the common data types
-  - Includes a function that prints the data types of the arguments that were passed
-2. A **Checkpoint 1** project submission meeting all the required specifications
+Create the a  Swift Playground Application that includes a function that prints the data types of the arguments that were passed.
 
 ## Objectives
 ### Knowledge
@@ -27,6 +20,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Type casting | [ ] | [ ] |
 | Optionals in Swift | [ ] | [ ] |
 | Unwrapping variables in Swift | [ ] | [ ] |
+| How to use optionals as normal variables| [ ] | [ ] |
+| The definition of a Collection and what it is used for | [ ] | [ ] |
+
+
 
 -------
 
@@ -34,7 +31,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to create, reference or manipulate data, **Action:** I use the most appropriate data type that best suites that data | [ ] | [ ] |
+| **Context:** When I need to create, reference or manipulate data, **Action:** I use the most appropriate data type that best suits that data | [ ] | [ ] |
 | **Context:** When I create a custom data type, **Action:** I use `typealias` to to make it easy to reference | [ ] | [ ] |
 | **Context:** When I need to process a collection of Data, **Action:** I use the `.forEach` function when available, otherwise I use a normal loop | [ ] | [ ] |
 | **Context:** When I create a variable / constant, **Action:** I explicitly set the Data type, to make it clear what the data is used for | [ ] | [ ] |
@@ -47,5 +44,3 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Explicitly specifying the Data type makes my code readable | [ ] | [ ] |
-| Collections hold the same type of Data together | [ ] | [ ] |
-| Optionals can be used as normal variables by Unwrapping them | [ ] | [ ] |
