@@ -1,13 +1,10 @@
 # Outcome 15 - Application Distribution
 ## Skill Description
 
-The Fellow will be able to develop applications that support multiple languages with a targeted audience after uploading to the Apple AppStore.
+A person with this skill can develop applications that support multiple languages with a targeted audience after uploading to the Apple AppStore.
 
 ## Output
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. An iOS Application with Localization for English, French and German. Text will be rendered from the Storyboard views and change based on device's localization.
-2. A **Checkpoint 4** project submission meeting all the required specifications.
+Create an iOS Application with Localization for English, French and German. Text will be rendered from the Storyboard views and change based on device's localization.
 
 ### Knowledge
 
@@ -40,4 +37,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 |:-------------|:------------------:|:--------:|
 | Beta testers help me simulate a real life scenario of downloading and using my application before its final release | [ ] | [ ] |
 | Localization gives me the power to distribute a single application with multiple language support | [ ] | [ ] |
-| Regionalizing my application allows me target and restrict my audience | [ ] | [ ] |
+| Regionalizing my application allows me to target my audience | [ ] | [ ] |
