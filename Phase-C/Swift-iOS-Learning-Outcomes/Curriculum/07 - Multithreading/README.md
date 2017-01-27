@@ -1,15 +1,11 @@
 # Outcome 7 - Multithreading
 ## Skill Description
 
-The Fellow will be to able to run tasks in parallel, utilizing the threads available on the device to run blocking processes in the background to avoid User Experience distortion.
+A person with this skill can run tasks in parallel in an iOS app, utilizing the threads available on the device to run blocking processes in the background.                                                                                         
 
 ## Outputs
 
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. A process in an iOS project that performs an operation in a background thread and displays the result in the main thread on completion.
-
-2. A **Checkpoint 2** project submission meeting all the required specifications.
+Create a process in an iOS project that performs an operation in a background thread and displays the result in the main thread on completion.
 
 ## Objectives
 ### Knowledge
