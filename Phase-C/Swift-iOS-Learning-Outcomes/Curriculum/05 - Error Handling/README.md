@@ -1,16 +1,11 @@
 # Outcome 5 - Error Handling
 ## Skill Description
 
-The Fellow will be able to handle errors in an iOS Application, identifying and catching these errors during development, to prevent the application from crashing at runtime.
+A person with this skill can handle errors in an iOS Application, identifying and catching these errors during development, to prevent the application from crashing at runtime.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. A Swift Playground project that handles errors generated from bad inputs into a function and performs a different operation to cater for the error thrown that allows for normal operation of the application
-2. A Swift Playground Program that throws a custom error when it receives an invalid input, without any form of error handling. The custom Error should be enumerated and caught
-3. A Swift Playground Program that catches any generic error as NSError, and outputs the error message.
-4. A **Checkpoint 1** project submission meeting all the required specifications
+Create a Swift Playground project that handles errors generated from bad inputs into a function and performs a different operation to cater for the error thrown that allows for normal operation of the application.
 
 
 ## Objectives
@@ -40,3 +35,5 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Applications can crash at runtime if errors are not handled | [ ] | [ ] |
+| I can write applications that prevent runtime crashes and gracefully handles errors | [ ] | [ ] |
+
