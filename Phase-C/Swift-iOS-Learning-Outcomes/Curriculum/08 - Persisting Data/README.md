@@ -1,14 +1,11 @@
 # Outcome 8 - Persisting Data
 ## Skill Description
 
-The Fellow will be able to store data locally on an iOS device where necessary, using the most appropriate storage system based on the type of data to be persisted.
+A person with this skill can store data locally on an iOS device where necessary, using the most appropriate storage system based on the type of data to be persisted.
 
 ## Output
-After attaining this skill, and as a demonstration of it, I will create the following:
+Create an iOS Project which includes `CoreData` in the project initialization. The project must write and read sample data into all 3 storage systems, User Defaults (`NSUserDefaults`), `NSKeyedArchiver` and `CoreData`
 
-1. An iOS Project is to be created which includes `CoreData` in the project initialization. The project must write and read sample data into all 3 storage systems, User Defaults (`NSUserDefaults`), `NSKeyedArchiver` and `CoreData`
-
-2. A **Checkpoint 2** project submission meeting all the required specifications
 
 ## Objectives
 ### Knowledge
