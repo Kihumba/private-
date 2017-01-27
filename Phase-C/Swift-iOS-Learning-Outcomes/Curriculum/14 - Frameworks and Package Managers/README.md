@@ -2,13 +2,10 @@
 
 ## Skill Description
 
-The Fellow will be able to add Frameworks to their iOS Projects, use them within a Swift Script and manage the Frameworks using a Package Manager.
+A person with this skill can add Frameworks to their iOS Projects, use them within a Swift Script and manage the Frameworks using a Package Manager.
 
 ## Output
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. An iOS Swift Project with `AlamoFire` Framework installed via CocoaPods, used to send a request to public API as well as fetching the result.
-2. A **Checkpoint 4** project submission meeting all the required specifications.
+Create an iOS Swift Project with `AlamoFire` Framework installed via CocoaPods, use it to send a request to public API as well as fetching the result.
 
 ## Objectives
 ### Knowledge
@@ -16,7 +13,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | The existing Frameworks in Xcode | [ ] | [ ] |
-| The Package Managers are available for iOS Swift | [ ] | [ ] |
+| The Package Managers available for iOS Swift | [ ] | [ ] |
 | The benefits of Package Managers | [ ] | [ ] |
 | How to add Frameworks to your iOS Project | [ ] | [ ] |
 | Importing Frameworks to your Swift Script | [ ] | [ ] |
@@ -38,5 +35,6 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Frameworks give me access to services that make my work efficient | [ ] | [ ] |
+| Frameworks give me access to services that make my work more efficient | [ ] | [ ] |
 | Package Managers give me control over my Frameworks | [ ] | [ ] |
+
