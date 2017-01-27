@@ -51,4 +51,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Slack is one of the most powerful instant communication tools of this age | [ ] | [ ] |
 | Emojis are a valuable enhancement to communication when used well | [ ] | [ ] |
+| Using Public over Private chat communication when possible strengthens our public discourse and benefits my fellow Andelans| [ ] | [ ] |
 
