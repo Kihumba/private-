@@ -1,15 +1,12 @@
 # Outcome 10 - Storyboards, Scenes and Segues
 ## Skill Description
 
-The Fellow will be able to transition from on Scene to another in a Storyboard by attaching Segues to controls in View Controllers(containers) without coding.
+A person with this skill can transition from one Scene to another in a Storyboard by attaching Segues to controls in View Controllers(containers) without coding.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
+Create an iOS Project containing a Storyboard, and View Controllers (at least 2 abstractions of the View Controller).
 
-1. An iOS Project containing a Storyboard, and View Controllers (at least 2 abstractions of the View Controller).
-2. An iOS Project with controls attached to Segues to move between Scenes.
-3. A **Checkpoint 3** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
@@ -31,10 +28,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating Scenes in my application, **Action:** I create them inside a Storyboard | [ ] | [ ] |
-| **Context:** When I need create a View Controller / Container, **Action:** I create it inside a Scene | [ ] | [ ] |
-| **Context:** To Transition from one Scene to another, **Action:** I will make use of Segues | [ ] | [ ] |
-| **Context:** When creating user interactive transitions, **Action:** I create the Segues from the  Control element (e.g button) to the Scene | [ ] | [ ] |
+| **Context:** When creating Scenes in my application **Action:** I create them inside a Storyboard | [ ] | [ ] |
+| **Context:** When I need to create a View Controller / Container **Action:** I create it inside a Scene | [ ] | [ ] |
+| **Context:** To Transition from one Scene to another **Action:** I make use of Segues | [ ] | [ ] |
+| **Context:** When creating user interactive transitions **Action:** I create the Segues from the  Control element (e.g button) to the Scene | [ ] | [ ] |
 
 -------
 
