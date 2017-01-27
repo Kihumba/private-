@@ -1,16 +1,11 @@
 # Outcome 13 - View Controller Lifecycle
 ## Skill Description
 
-The Fellow will be able to override and customize the Lifecycle methods, to carry out operations to the View Controller based on its state, to control the user experience of the application.
+A person with this skill can override and customize the Lifecycle methods, to carry out operations to the View Controller based on its state and control the user experience of the application.
 
 ## Output
-After attaining this skill, and as a demonstration of it, I will create the following:
+Create an iOS project that Overrides the four major View Controller Lifecycle methods, and that has Animations that will be performed right after the view is rendered.
 
-1. An iOS project that Overrides the four major View Controller Lifecycle methods.
-2. An iOS project that has a dummy View Controller that presents from any parent View Controller.
-3. An iOS Project that has Animations that will be performed right after the view is rendered.
-4. An iOS Project that shows the state of the View Controller in a dialog (and logged in the console) after each state is reached.
-5. A **Checkpoint 4** project submission meeting all the required specifications.
 
 ## Objectives
 ### Knowledge
@@ -22,6 +17,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | The frequency at which the Lifecycle methods are called | [ ] | [ ] |
 | The order of the _will\*\*_ and the _did\*\*_ Lifecycle methods | [ ] | [ ] |
 | The Operations that should be carried out in these Lifecycle methods | [ ] | [ ] |
+| How to create a dummy View Controller | [ ] | [ ] |
+
 
 ------
 
@@ -41,4 +38,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| The user experience of my Application can be controlled to the detail when I override the Lifecycle methods | [ ] | [ ] |
+| The user experience of my Application can be controlled to the smallest detail when I override the Lifecycle methods | [ ] | [ ] |
