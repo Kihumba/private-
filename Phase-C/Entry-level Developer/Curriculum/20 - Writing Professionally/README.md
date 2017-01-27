@@ -52,6 +52,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Contexts:** When I have to communicate something in writing urgently **Action:** I do the best I can to follow the 7 C’s without delaying the message, with a special focus on clarity | [ ] | [ ] |
 | **Contexts:** When I communicate in writing **Action:** I use simpler words to minimize ambiguity | [ ] | [ ] |
 | **Contexts:** When communicating to a technical audience about a topic that involves meaningful technical terms **Action:** I use the terms precisely and accurately | [ ] | [ ] |
+| **Contexts:** When I communicate in writing **Action:** I use simpler words to minimize ambiguity | [ ] | [ ] |
 | | | |
 
 ---
