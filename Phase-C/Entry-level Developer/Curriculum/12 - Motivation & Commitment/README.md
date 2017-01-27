@@ -35,6 +35,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:---|:---:|:---:|
 | | | |
 | **Context:** When I am finding it difficult to stay motivated on a task **Action:** I leverage my personal motivators to ensure I meet expectations | [ ] | [ ] |
+| **Context:** When I am finding it difficult to stay committed to a task or outcome **Action:** I leverage my network by informing others of my goal and asking them to discuss my progress with me.| [ ] | [ ] |
 | **Context:** When my environment is detracting from my motivation and ability to stay committed **Action:** I identify and resolve the source of the problem | [ ] | [ ] |
 | **Context:** When assigned a task that I do not find inspiring or motivating **Action:** I identify the value added of completing the task and how that aligns with my personal goals / motivations | [ ] | [ ] |
 | **Context:** When I am feeling overwhelmed by my work | | |
