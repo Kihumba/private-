@@ -1,14 +1,11 @@
 # Outcome 11 - View Controllers
 ## Skill Description
 
-The Fellow will be able use View Controllers with it's varying implementations to create Lists, Collections or just simple scenes with UI Views as well as passing data to View Controllers before they appear on the screen and scripting the behavior of the Controllers.
+A person with this skill can use View Controllers with its varying implementations to create Lists, Collections or just simple scenes with UI Views, as well as passing data to View Controllers before they appear on the screen and scripting the behavior of the Controllers.
 
 ## Output
 
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. An iOS project with a View Controller embedded in a Navigation Controller, that navigates between 3 view controllers by tapping buttons.
-2. A **Checkpoint 4** project submission meeting all the required specifications.
+Create an iOS project with a View Controller embedded in a Navigation Controller, that navigates between 3 view controllers by tapping buttons.
 
 ## Objectives
 ### Knowledge
@@ -30,11 +27,11 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to split the View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I use the Tab Bar Controller and it's associated classes | [ ] | [ ] |
-| **Context:** When I need to navigate between two or more View Controllers, **Action:** I use the Navigation Controller and it's associated classes | [ ] | [ ] |
-| **Context:** When I need to display a list of items of similar type, **Action:** I should make use of a Table View Controller and it's associated classes | [ ] | [ ] |
+| **Context:** When I need to split the View Controllers into tabs for easy navigation using the `UITabBar`, **Action:** I use the Tab Bar Controller and its associated classes | [ ] | [ ] |
+| **Context:** When I need to navigate between two or more View Controllers, **Action:** I use the Navigation Controller and its associated classes | [ ] | [ ] |
+| **Context:** When I need to display a list of items of similar type, **Action:** I should make use of a Table View Controller and its associated classes | [ ] | [ ] |
 | **Context:** When I need to pass data to a View Controller,  **Action:** I override the `prepareForSegue` function and assign the data accordingly | [ ] | [ ] |
-| **Context:** When I need to display a list of items of varying type and layout, **Action:** I use a Collection View Controller and it's associated classes | [ ] | [ ] |
+| **Context:** When I need to display a list of items of varying type and layout, **Action:** I use a Collection View Controller and its associated classes | [ ] | [ ] |
 | **Context:** When I need to add custom code functionality to my View Controller Scene, **Action:** I implement an appropriate View Controller class and reference it in the Scene. | [ ] | [ ] |
 ------
 
@@ -43,4 +40,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | With View Controllers, I can achieve any User Experience | [ ] | [ ] |
-| Reusing or Recycling views, makes my UI more responsive and efficient. | [ ] | [ ] |
+| Reusing or Recycling views, makes my UI more responsive and efficient | [ ] | [ ] |
