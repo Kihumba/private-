@@ -1,14 +1,10 @@
 # Outcome 9 - MVC Pattern in iOS
 ## Skill Description
 
-The Fellow will be able to create an iOS Application using the MVC pattern, creating each content as a modular entity, and bringing them together to build the product.
+A person with this skill can create an iOS Application using the MVC pattern, creating each content as a modular entity, and bringing them together to build the product.
 
 ## Output
-After attaining this skill, and as a demonstration of it, I will create the following:
-
-1. A model highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`)
-2. A `UIViewController` tied to its script and Scene
-3. A **Checkpoint 3** project submission meeting all the required specifications
+Create a model for your iOS app highlighting fields that represent a user object, mapped to a persistent data store (`NSKeyedArchiver` or `CoreData`). 
 
 ## Objectives
 
