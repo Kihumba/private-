@@ -1,8 +1,7 @@
-
 # Outcome 4 - Object Oriented Programming
 ## Skill Description
 
-A person with this skill can apply O.O.P. Principles in Swift, and can write concise and modular code using extensions, protocols, and other Swift proprietary structures.
+A person with this skill can apply O.O.P Principles in Swift, write concise and modular code using extensions, protocols, and other Swift proprietary structures.
 
 ## Output
 
@@ -28,7 +27,8 @@ Create an extension of the `String` class with a method that returns an Array of
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want a collection of methods, properties or attributes that I need to re-use, **Action:** I create a Class that contains these methods and attributes, and create instances of that Class when I need to | [ ] | [ ] |
+| **Context:** When I want a collection of methods, properties, or attributes that I need to re-use, **Action:** I create a Class that contains these methods and attributes, and create instances of that Class when I need to | [ ] | [ ] |
+| **Context:** When I want to avoid having multiple instances of the same class **Action:** I create singletons or Class constants | [ ] | [ ] |
 | **Context:** When I need to create a Class that that needs some existing behaviors already present in another Class, **Action:** I create a Class that inherits these behaviors | [ ] | [ ] |
 | **Context:** When I need to access classes, functions, and variables, **Action:**  I import the encapsulating namespace and reference them accordingly | [ ] | [ ] |
 | **Context:** When I need to encapsulate a few relatively simple data values, **Action:** I make use of Structs instead of classes | [ ] | [ ] |
