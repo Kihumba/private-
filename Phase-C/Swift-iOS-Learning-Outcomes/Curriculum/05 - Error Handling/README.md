@@ -17,6 +17,7 @@ Create a Swift Playground project that handles errors generated from bad inputs 
 | Types of Error in Swift | [ ] | [ ] |
 | How to handle errors in Swift | [ ] | [ ] |
 | How to throw errors | [ ] | [ ] |
+| When to throw errors as opposed to handling them immediately | [ ] | [ ] |
 | The difference between run-time error and compiling error | [ ] | [ ] |
 
 -------
