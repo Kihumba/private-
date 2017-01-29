@@ -15,7 +15,7 @@ Create an iOS Project containing a Storyboard, and View Controllers (at least 2 
 |:-------------|:------------------:|:--------:|
 | The contents or elements that make up a Storyboard | [ ] | [ ] |
 | The purpose of the Scene in a Storyboard | [ ] | [ ] |
-| The Relationships between  and Scenes |  [ ] | [ ] |
+| The Relationships between Storyboards and Scenes |  [ ] | [ ] |
 | Transitioning from one Scene to another | [ ] | [ ] |
 | The transitions styles and modes for Segues | [ ] | [ ] |
 | Attaching _3D Touch_ Peek Preview to Segues | [ ] | [ ] |
@@ -28,10 +28,10 @@ Create an iOS Project containing a Storyboard, and View Controllers (at least 2 
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When creating Scenes in my application **Action:** I create them inside a Storyboard | [ ] | [ ] |
-| **Context:** When I need to create a View Controller / Container **Action:** I create it inside a Scene | [ ] | [ ] |
-| **Context:** To Transition from one Scene to another **Action:** I make use of Segues | [ ] | [ ] |
-| **Context:** When creating user interactive transitions **Action:** I create the Segues from the  Control element (e.g button) to the Scene | [ ] | [ ] |
+| **Context:** When creating Scenes in my application, **Action:** I create them inside a Storyboard | [ ] | [ ] |
+| **Context:** When I need to create a View Controller / Container, **Action:** I create it inside a Scene | [ ] | [ ] |
+| **Context:** To Transition from one Scene to another, **Action:** I will make use of Segues | [ ] | [ ] |
+| **Context:** When creating user interactive transitions, **Action:** I create the Segues from the  Control element (e.g button) to the Scene | [ ] | [ ] |
 
 -------
 
