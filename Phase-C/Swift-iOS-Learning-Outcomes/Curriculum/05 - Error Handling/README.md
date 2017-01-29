@@ -27,6 +27,7 @@ Create a Swift Playground project that handles errors generated from bad inputs 
 |:-------------|:------------------:|:--------:|
 | **Context:** When throwing Errors that have steps or categories, **Action:** I create an enumerated `ErrorType` that throws different Errors in steps to increase flexibility in the Error Handling | [ ] | [ ] |
 | **Context:** When I need to perform an operation that could fail, **Action:** I use a try block to catch any error and present a self-explanatory message if it fails | [ ] | [ ] |
+| **Context:** When errors are thrown, **Action:** I provide user-friendly error messages to end users where appropriate | [ ] | [ ] |
 
 -------
 
