@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | How to improve calls that are disrupted by internet connection issues | [ ] | [ ]  |
 | How to troubleshoot common bugs in Skype/Hangouts | [ ] | [ ]  |
 | When to switch to a different video call software | [ ] | [ ]  |
-
+| How and when to use Ethernet for more reliable Internet | [ ] | [ ]  |
 
 
 ----------
@@ -40,8 +40,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** Before I get on a call **Action:** I move to a quiet environment | [ ] | [ ] |
+| **Context:** Before I get on a call **Action:** I close other bandwidth-intensive applications | [ ] | [ ] |
+| **Context:** When joining a video call **Action:** I turn on my video and audio | [ ] | [ ] |
 | **Context:** When on a video call **Action:** I use headphones with a mic | [ ] | [ ] |
 | **Context:** When on a call **Action:** I confirm that the other parties can hear me | [ ] | [ ] |
+| **Context:** When I am not speaking **Action:** I mute to improve connection quality and eliminate background noise | [ ] | [ ] |
 | **Context:** When sharing my screen or conducting a presentation **Action:** I disable Slack notifications and close windows not relevant to the share to avoid distractions for the other participants. | [ ] | [ ] |
 | **Context:** When I have trouble hearing or understanding others on a call **Action:** I let them know | [ ] | [ ] |
 | **Context:** When internet connection issues are disrupting a call **Action:**I quickly take action to resolve them | [ ] | [ ] |
