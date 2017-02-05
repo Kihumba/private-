@@ -29,7 +29,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | How to improve calls that are disrupted by internet connection issues | [ ] | [ ]  |
 | How to troubleshoot common bugs in Skype/Hangouts | [ ] | [ ]  |
 | When to switch to a different video call software | [ ] | [ ]  |
-| How and when to use Ethernet for more reliable Internet | [ ] | [ ]  |
+| How and when to use an Ethernet cable for more reliable Internet | [ ] | [ ]  |
 
 
 ----------
