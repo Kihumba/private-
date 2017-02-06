@@ -1,17 +1,17 @@
-# Sessions and Cookies
+#Outcome 7- Using Sessions and Cookies
 
-Skill Description
+## Skill Description
 ----------
 
-The Fellow will be able to effectively use sessions and cookies to handle timeouts as well as curb session hijacking.
+A person with this skill can effectively use Sessions and Cookies to handle timeouts, as well as to curb session hijacking.
 
-Outputs
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to build a Laravel application that appropriately makes use of sessions and cookies.
+Add Sessions and Cookies to your Laravel application in a way that handles possible timeouts of your app. 
 
 
 ----------
-## **Knowledge**
+## Knowledge
 
 
 | Knowledge Unit   |      Studied      | Applied |
@@ -20,33 +20,35 @@ After attaining this skill, and as a demonstration of it, I should be able to bu
 | The definition of cookies | [ ] | [ ]  |
 | The difference between the session "hash" and the cookies "hash" | [ ] | [ ]  |
 | The definition of session hijacking and how to prevent it | [ ] | [ ]  |
-| The relationships between sessions and cookies | [ ] | [ ]  |
+| The relationship between sessions and cookies | [ ] | [ ]  |
 | How to store a session | [ ] | [ ]  |
 | Merits and demerits of storing session data on the client side vs the server side | [ ] | [ ]  |
 | Merits and demerits of storing session data using cache vs a database | [ ] | [ ]  |
 | How to configure session options in Laravel | [ ] | [ ]  |
-| How to set and read sessions and cookies data | [ ] | [ ]  |
+| How to set up and read sessions and cookies data | [ ] | [ ]  |
+| How to set up a session driver| [ ] | [ ]  |
 | The relationship between sessions and flash messages | [ ] | [ ]  |
 
 
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working with data that will persist throughout an application **Action:** I use Sessions. | [ ] | [ ]  |
 | **Context:** When working with Sessions **Action:** I always store Session data on the server side for security reasons. | [ ] | [ ]  |
+| **Context:** When working with Sessions **Action:** I choose the appropriate session depending on the scale of the application. | [ ] | [ ]  |
 | **Context:** When working with Sessions applications  **Action:** I store minimal data in sessions or cookies to improve efficiency and speed. | [ ] | [ ]  |
-| **Context:** When working with Sessions in a Laravel application **Action:** I do not store sensitive data in cookies/sessions to reduce the effect of session hijacking. | [ ] | [ ]  |
+| **Context:** When working with Sessions in a Laravel application **Action:** I do not store sensitive data in cookies/sessions to reduce the potential of session hijacking. | [ ] | [ ]  |
 
 
 ----------
 
 
-## **Beliefs**
+## Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
