@@ -1,16 +1,16 @@
-# Outcome 13 - Events
+# Outcome 13 - Events, Listeners, and Observers
 
-Skill Description
+## Skill Description
 ----------
-The Fellow will be comfortable implementing effective user interaction in their Laravel application through the use of events, listeners, and observers. 
+A person with this skill implements effective user interaction in their Laravel application through the use of events, listeners, and observers. 
 
-Outputs
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create a Laravel app that makes use of events and listeners for user signups and reminder emails.
+Create a Laravel app that makes use of events and listeners for user signups and reminder emails.
 
 
 ----------
-## **Knowledge**
+## Knowledge
 
 
 | Knowledge Unit   |      Studied      | Applied |
@@ -33,7 +33,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 
 | Observable Behavior   |      Practiced      | Observed |
@@ -46,8 +46,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Beliefs**
-
+## Beliefs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
