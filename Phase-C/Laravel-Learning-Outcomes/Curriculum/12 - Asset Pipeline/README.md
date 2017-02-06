@@ -1,22 +1,22 @@
 # Outcome 12 - Asset Pipeline
 
-Skill Description
+## Skill Description
 ----------
-The Fellow will be able to use Asset pipeline as a tool to process Javascript files and stylesheets, and prepare them for use by the browser.  
+A person with this skill can use Asset pipeline as a tool to process Javascript files and stylesheets, and prepare them for use by the browser.  
 
-Outputs
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create an application that makes use of Laravel Elixir to manage all my application assets (Javascript, css, images, sass etc. 
+Create an application that makes use of Laravel Elixir to manage all your application assets (Javascript, css, images, etc.).
 
 ----------
-## **Knowledge**
+## Knowledge
 
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | The definition of the "Asset Pipeline" | [ ] | [ ]  |
 | The definition of "Cache Busting" | [ ] | [ ]  |
-| How to configure Elixir to work with less,sass and JavaScript files | [ ] | [ ]  |
+| How to configure Elixir to work with less, sass, and JavaScript files | [ ] | [ ]  |
 | How and why to precompile assets | [ ] | [ ]  |
 | How an Assets Pipeline operates in development and production mode | [ ] | [ ]  |
 
@@ -25,7 +25,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 
 | Observable Behavior   |      Practiced      | Observed |
@@ -38,7 +38,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Beliefs**
+## Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
