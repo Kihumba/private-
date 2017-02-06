@@ -1,20 +1,20 @@
-# Routing and Middleware
+#Outcome 4- Routing and Middleware
 
-Skill Description
+## Skill Description
 ----------
-The Fellow will be able to use Routing to effectively manage APIs. 
+A person with this skill can write and use Middleware as a filtering mechanism for HTTP requests entering their app. They can use Routing to manage APIs in a Laravel application, and assign Middleware to routes. 
 
-Outputs
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to build out an API using Slim Routes and Middleware. 
+Build an API using Slim Routes and Middleware and connect it to your Laravel application. 
 
 ----------
-## **Knowledge**
+## Knowledge
 
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| The definition of Middlewares and what they are used for | [ ] | [ ]  |
+| The definition of Middleware and what it is used for | [ ] | [ ]  |
 | The difference between a Controller Middleware and a Route Middleware | [ ] | [ ]  |
 | How to specify an ID or other variables in a route | [ ] | [ ]  |
 | The purpose of various route helper methods | [ ] | [ ]  |
@@ -26,16 +26,17 @@ After attaining this skill, and as a demonstration of it, I should be able to bu
 | How to limit the restful routes created by resources | [ ] | [ ]  |
 | How to create nested resources | [ ] | [ ]  |
 | When to use nested resources | [ ] | [ ]  |
+| How to specify appropriate HTTP verb when defining route (e.g Route::get, Route:post) | [ ] | [ ]  |
 
 
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building a Laravel application **Action:** I specify routes for the application. | [ ] | [ ]  |
+| **Context:** When I am planning out my Laravel application **Action:** I specify routes for the application. | [ ] | [ ]  |
 | **Context:** When I want to limit routes to specific users **Action:** I use a Middleware. | [ ] | [ ]  |
 | **Context:** When I need to create all seven RESTful routes for a resource **Action:** I use the `resource` method. | [ ] | [ ]  |
 | **Context:** When adding links to my views **Action:** I use route helper methods instead of adding the raw link. | [ ] | [ ]  |
@@ -47,7 +48,7 @@ After attaining this skill, and as a demonstration of it, I should be able to bu
 ----------
 
 
-## **Beliefs**
+## Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
