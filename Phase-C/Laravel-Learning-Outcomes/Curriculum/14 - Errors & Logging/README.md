@@ -1,16 +1,16 @@
 # Outcome 14- Errors and Logging
 
-Skill Description
+## Skill Description
 ----------
-The Fellow will be able to make use of Laravel's powerful log handlers, allowing them to monitor and handle errors. 
+A person with this skill can monitor and handle errors using Laravel's powerful log handlers.
 
-Outputs
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create a Laravel application that makes use of exception handling techniques and Loggers.
+Add exception handling techniques and Loggers to one of your previous Laravel applications.
 
 
 ----------
-## **Knowledge**
+## Knowledge
 
 
 | Knowledge Unit   |      Studied      | Applied |
@@ -27,12 +27,12 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When building an application in development environment **Action:** I set the APP_DEBUG environment variable to true. | [ ] | [ ]  |
+| **Context:** When building an application in a development environment **Action:** I set the APP_DEBUG environment variable to true. | [ ] | [ ]  |
 | **Context:** When running an application in production **Action:** I check the log files for silent failures, errors and exceptions. | [ ] | [ ]  |
 | **Context:** When I do not need a certain exception to be logged **Action:** I use the `$dontReport` property of the Exception Handler. | [ ] | [ ]  |
 
@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Beliefs**
+## Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
