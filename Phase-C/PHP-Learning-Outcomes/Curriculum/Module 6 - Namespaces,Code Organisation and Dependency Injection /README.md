@@ -1,57 +1,54 @@
 # Module 6:  Namespaces, Code Organization, and Dependency Injection
 
-**Skill Description**
-The Fellow will be able to make effective use of Namespacing and Code Organization to work with PHP as an opensource community programming language. In addition, they will use Dependency Injection to simplify code and create flexibility in hard-coded dependencies.
+## Skill Description
+A person with this skill is “fluent” in the programming conventions of PHP, and uses proper Namespacing, Code Simplicity, and Code Organization. They can explain why Namespacing and Code Organization are important, both to their own code and to the broader PHP community. 
 
-## **Outputs**
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to creae a PHP Program that contains at least 3 different classes that are namespaced and interact with each other.
+Create a PHP Program that contains at least 3 different classes that are namespaced and interact with each other-- upload any packages you create to share with the broader community.
 
 ----------
-## **Knowledge**
+## Knowledge
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| The definition of Namespaces and the purpose of Namespacing | [] | [] |
-| The definition of Aliases | [] | [] |
-| How to import classes and interfaces| [ ] | [ ] |
+| The purpose of Namespacing | [ ] | [ ] |
+| The benefits and drawbacks of using Aliases in PHP | [ ] | [ ] |
+| How to import classes and interfaces | [ ] | [ ] |
 | How to apply namespacing in an Object Oriented Program | [ ] | [ ] |
-| The definition of the SOLID principle | [] | [] |
-| The principles of modular application design | [] | [] |
-| The definition of Dependency Injection | [ ] | [ ] |
-| The definition of a Composer and the role it plays in achieving decoupled and modular PHP code components | [] | [] |
-| The definition of Traits in PHP and how enable a form of multiple Inheritance | [] | [] |
-| The definition of PSR-2 Coding Standard and when to use it | [] | [] |
-| The definition of the PSR-4 Autoloading Standard and when to use it| [] | [] |
-| How to implement Dependency Injection using the composer package library Packagist | [] | [] |
+| The components of the SOLID principles and why they matter | [ ] | [ ] |
+| The principles of modular application design | [ ] | [ ] |
+| How and why to use Dependency Injection | [ ] | [ ] |
+| The definition of a Composer and the role it plays in achieving decoupled and modular PHP code components | [ ] | [ ] |
+| The components of the PSR-2 Coding Standard and when to use it | [ ] | [ ] |
+| The components of the PSR-4 Autoloading Standard and when to use it| [ ] | [ ] |
+| How to implement Dependency Injection using the composer package library Packagist | [ ] | [ ] |
 
 
 
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When writing a PHP Package that involves multiple Classes **Action:**  I namespace the classes and use the PSR-4 Autoloading Standard.| [ ] | [ ]  |
-| **Context:**  When I am writing reusable code **Action:** I namespace it.|   [ ]   |   [ ] |
 | **Context:** When I write a PHP Package **Action:**  I upload it to Packagist using Composer to make it available for everyone. |   [ ]   |   [ ] |
+| **Context:** When I am adding multiple Classes to my PHP package **Action:**  I namespace the classes and use the PSR-4 Autoloading Standard.| [ ] | [ ]  |
+| **Context:**  When I am writing reusable code **Action:** I namespace it. |   [ ]   |   [ ] |
 | **Context:** When I want to achieve multiple inheritance in a PHP program **Action:**  I use Traits. |   [ ]   |   [ ] |
 | **Context:** When I want to write a loosely coupled PHP program **Action:**  I make use of the Dependency Injection concept. |   [ ]   |   [ ] |
+| **Context:** When I am injecting dependencies **Action:**  I use a container. |   [ ]   |   [ ] |
 
 
 
 ----------
 
 
-## **Beliefs**
+## Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Dependency Injection is essential in writing decoupled PHP programs. |   [ ]   |   [ ] |
+| Dependency Injection is a method for writing better code. |   [ ]   |   [ ] |
 | When I am programming in PHP, I am playing a key part in the larger PHP community. |   [ ]   |   [ ] |
-
-
-
