@@ -1,23 +1,22 @@
-# Artisan Commands
+#Outcome 5- Using Artisan Commands
 
-Skill Description
+## Skill Description
 ----------
+A person with this skill can use Artisan to create commands for various tasks in a Laravel application, and explain why they used them. 
 
-The Fellow wil be able to use Artisan to create commands for various tasks in a Laravel application. 
 
-
-Outputs
+## Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to create an Artisan Command for installing a Laravel application on a client machine.
+Create an Artisan Command for installing a Laravel application on a client machine and implement it in your Laravel app.
 
 ----------
-## **Knowledge**
+## Knowledge
 
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | The definition of an Artisan command and why to use them | [ ] | [ ]  |
-| The most commonly used artisan commands | [ ] | [ ]  |
+| The most commonly used Artisan commands | [ ] | [ ]  |
 | The importance of custom Artisan commands | [ ] | [ ]  |
 | How to create custom Artisan commands | [ ] | [ ]  |
 | When to create Artisan commands | [ ] | [ ]  |
@@ -26,7 +25,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Behaviors**
+## Behaviors
 
 
 | Observable Behavior   |      Observed      | Mastered |
@@ -40,7 +39,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ----------
 
 
-## **Beliefs**
+## Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
