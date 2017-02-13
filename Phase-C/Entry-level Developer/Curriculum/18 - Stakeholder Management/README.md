@@ -37,6 +37,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - Purpose and intention behind listing individuals in 'to:' vs. 'cc:' vs. "bcc:" in an email | [ ] | [ ] |
 | - The potential consequences of ineffective stakeholder engagement | [ ] | [ ] |
 | - How to identify instances where the specific order of communicating with multiple stakeholders is important | [ ] | [ ] |
+| How to communicate technical information to a non-technical audience | [ ] | [ ] | 
 | | | |
 
 ---
@@ -65,6 +66,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | - **Action:** I determine whether the meeting should proceed in their absence and reschedule the meeting if necessary | [ ] | [ ] |
 | - **Action:** I ensure the absent person is kept in the loop if the meeting proceeds without them | [ ] | [ ] |
 | **Context:** When I am experiencing a blocker that is preventing me from solving a problem that has consequences for other stakeholders **Action:** I escalate the issue early to the appropriate stakeholders | [ ] | [ ] |
+| **Context:** When I am communicating technical information to various stakeholders **Action:** I first understand their domain knowledge and then determine how best to tailor this information to them | [ ] | [ ] |
+| **Context:** When speaking with a less technical audience **Action:** I speak about high-level concepts and in "Plain English," avoiding an overload on technical concepts and terms | [ ] | [ ] |
 | | | |
 ---
 
