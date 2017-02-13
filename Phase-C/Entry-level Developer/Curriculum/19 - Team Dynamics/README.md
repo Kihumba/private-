@@ -51,6 +51,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | **Action:** I escalate the issue to senior staff and/or Andela support staff when appropriate | [ ] | [ ] |
 | **Action:** I put the team needs first, and manage my personal opinions, preferences, emotions, and biases | [ ] | [ ] |
 | **Context:** When taking action that will affect the team, **Action:** I promote the team first | [ ] | [ ] |
+| **Context:** When I receive an email that requires action or acknowledgment on my part **Action:** I respond as promptly as possible (within a few hours) | [ ] | [ ] |
 | | | |
 
 ---
@@ -65,4 +66,5 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I can work well with anyone | [ ] | [ ] |
 | Understanding the roles of every member of my team, including my own role, makes me more effective at my role | [ ] | [ ] |
 | Each of my actions shape the environment of the team's dynamic and its ability to thrive | [ ] | [ ] |
+| Not communicating quickly and clearly with my team has a negative impact on how my team members function and strains my relationships with them | [ ] | [ ] |
 ---
