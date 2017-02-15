@@ -42,17 +42,17 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior | Practiced | Observed |
 |:---|:---:|:---:|
 | | | |
-| **Contexts:** When preparing to write a message | | |
+| **Context:** When preparing to write a message | | |
 | - **Action:** I consider my audience and how to best tailor the message to that audience | [ ] | [ ] |
 | - **Action:** I consider the mode of communication | [ ] | [ ] |
-| **Contexts:** Before sending a written message | | |
+| **Context:** Before sending a written message | | |
 | - **Action:** I make sure it is clear and concise | [ ] | [ ] |
 | - **Action:** I ensure it has no errors in writing standards (e.g. spelling, grammar, punctuation)| [ ] | [ ] |
-| **Contexts:** When I am not effective in communicating via a specific mode of written communication **Action:** I take action to learn the mode of communication until I have gained competency | [ ] | [ ] |
-| **Contexts:** When I have to communicate something in writing urgently **Action:** I do the best I can to follow the 7 C’s without delaying the message, with a special focus on clarity | [ ] | [ ] |
-| **Contexts:** When I communicate in writing **Action:** I use simpler words to minimize ambiguity | [ ] | [ ] |
-| **Contexts:** When communicating to a technical audience about a topic that involves meaningful technical terms **Action:** I use the terms precisely and accurately | [ ] | [ ] |
-| **Contexts:** When I communicate in writing **Action:** I use simpler words to minimize ambiguity | [ ] | [ ] |
+| **Context:** When I am not effective in communicating via a specific mode of written communication **Action:** I take action to learn the mode of communication until I have gained competency | [ ] | [ ] |
+| **Context:** When I have to communicate something in writing urgently **Action:** I do the best I can to follow the 7 C’s without delaying the message, with a special focus on clarity | [ ] | [ ] |
+| **Context:** When I communicate in writing **Action:** I use simpler words to minimize ambiguity | [ ] | [ ] |
+| **Context:** When communicating to a technical audience about a topic that involves meaningful technical terms **Action:** I use the terms precisely and accurately | [ ] | [ ] |
+| **Context:** When I communicate in writing **Action:** I use simpler words to minimize ambiguity | [ ] | [ ] |
 | | | |
 
 ---
