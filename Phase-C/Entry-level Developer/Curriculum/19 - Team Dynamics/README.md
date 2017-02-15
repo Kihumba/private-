@@ -40,7 +40,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | **Action:** I gain a complete understanding of my role | [ ] | [ ] |
 | **Action:** I determine what is expected of me by my supervisor and team members | [ ] | [ ] |
 | **Action:** I gain a complete understanding of the team structure | [ ] | [ ] |
-| **Action:** I gain a complete understanding of the team's in-house syntax and conventions | [ ] | [ ] |
+| **Action:** I gain a complete understanding of the team's in-house style guides and conventions | [ ] | [ ] |
 | **Action:** I learn what all of the team goals and priorities are | [ ] | [ ] |
 | **Action:** I gain a complete understanding of all of my team members' roles and responsibilities and how they relate to my work | [ ] | [ ] |
 | **Context:** When I do not feel adept at my role **Action:** I identify this feeling to the appropriate person(s) at Andela and work to become adept at my role or transition into a role where I will add more value to the team | [ ] | [ ] |
