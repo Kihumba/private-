@@ -47,7 +47,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I am not speaking **Action:** I mute to improve connection quality and eliminate background noise | [ ] | [ ] |
 | **Context:** When sharing my screen or conducting a presentation **Action:** I disable Slack notifications and close windows not relevant to the share to avoid distractions for the other participants. | [ ] | [ ] |
 | **Context:** When I have trouble hearing or understanding others on a call **Action:** I let them know | [ ] | [ ] |
-| **Context:** When internet connection issues are disrupting a call **Action:**I quickly take action to resolve them | [ ] | [ ] |
+| **Context:** When internet connection issues are disrupting a call **Action:** I quickly take action to resolve them | [ ] | [ ] |
+| **Context:** When I am on an individual or group call **Action:** I leave my video on for the duration of the call, unless internet connectivity prevents it | [ ] | [ ] |
 
 ----------
 
