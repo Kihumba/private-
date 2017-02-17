@@ -21,16 +21,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Knowledge Unit | Studied | Memorized |
 |:---|:---:|:---:|
-| I can describe the following from memory: | | |
-| | | |
-| - Factors that Influence attention to detail | [ ] | [ ] |
-| - Outputs | [ ] | [ ] |
-| - Inputs | [ ] | [ ] |
-| - The difference between attention to detail in outputs vs. inputs | [ ] | [ ] |
-| - Methods and tools for supporting attention to detail | [ ] | [ ] |
-| - Standards and specifications a given output must meet | [ ] | [ ] |
-| - How to determine the relative importance and priority of details | [ ] | [ ] |
-| - Details that are important to my users and stakeholders | [ ] | [ ] |
+| Factors that Influence attention to detail | [ ] | [ ] |
+| The difference between attention to detail in outputs vs. inputs | [ ] | [ ] |
+| Standards and specifications a given output must meet | [ ] | [ ] |
+| How to determine the relative importance and priority of details | [ ] | [ ] |
+| Details that are important to my users and stakeholders | [ ] | [ ] |
 | | | |
 
 
