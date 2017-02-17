@@ -64,6 +64,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Addressing every detail, no matter how minor, delights the people that rely on my work | [ ] | [ ] |
 | The little things matter | [ ] | [ ] |
 | The key to excellence is in the details | [ ] | [ ] |
+| I leave my code better than I found it | [ ] | [ ] |
 | I can create detailed and well thought out solutions | [ ] | [ ] |
 | | | |
 
