@@ -39,6 +39,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When I want to have a one on one conversation with an individual **Action:** I use a direct message | [ ] | [ ] |
 | **Context:** When I want to have a group conversation **Action:** I use a channel or a multi-user direct message | [ ] | [ ] |
 | **Context:** When I have questions that others would benefit from **Action:** I ask the questions in the appropriate channels or a multi-user direct message | [ ] | [ ] |
+| **Context:** When I receive a multi-person direct message (MDM) **Action:** I "star" it for safe keeping until the discussion raised is resolved or migrated to an existing channel | [ ] | [ ] |
 
 
 ----------
