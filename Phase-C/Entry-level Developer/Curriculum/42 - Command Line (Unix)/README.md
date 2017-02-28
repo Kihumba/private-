@@ -21,7 +21,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | I can describe the following from memory: | | |
 | Different types of UNIX shells | [ ] | [ ]  |
-| What are the different types of Unix shells | [ ] | [ ] |
 | Basic shell commands | [ ] | [ ] |
 | The command for moving to a different directory | [ ] | [ ] |
 | The command for copying files | [ ] | [ ] |
