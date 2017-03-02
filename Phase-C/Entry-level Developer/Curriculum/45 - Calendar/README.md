@@ -40,7 +40,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When there are scheduling conflicts on participants' calendars **Action:** I engage the participants in conversation to figure out a time that works | [ ] | [ ] |
 | **Context:** When I create meeting invites on a calendar **Action:** I include a meeting agenda to the event | [ ] | [ ] |
 | **Context:** When I create meeting invites on a calendar **Action:** I include the meeting location/conferencing information to the event | [ ] | [ ] |
+| **Context:** When I schedule a meeting **Action:** I book a room for the participants in my location | [ ] | [ ] |
 | **Context:** When I receive a calendar invite **Action:** I promptly respond to it, accurately indicating whether I will attend | [ ] | [ ] |
+| **Context:** When I receive a meeting invite **Action:** I make sure to book a room in my location immediately to ensure I will have a place to take the call | [ ] | [ ] |
 | **Context:** When an event arises that I plan to put aside time for **Action:** I add it to my calendar | [ ] | [ ] |
 | **Context:** When an event on my calendar is no longer occuring **Action:** I remove the calendar event, and ensure the obsolete event does not block anyone's ability to book any meeting rooms | [ ] | [ ] |
 
