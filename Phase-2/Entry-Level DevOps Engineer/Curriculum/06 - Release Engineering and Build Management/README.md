@@ -12,10 +12,6 @@ Outputs
 - **Include:** Use a project you or a team member are working on as an example. 
 
 
-**Objectives**
---------------
-
-
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
