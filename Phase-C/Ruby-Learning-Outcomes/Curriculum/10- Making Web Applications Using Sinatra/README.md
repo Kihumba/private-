@@ -6,9 +6,9 @@ A person with this skill can use Sinatra to create simple web apps. They can exp
 
 Outputs
 ----------
-<li/> **Task:** Create and deploy a simple web app that allows users to create, read, update and delete (CRUD)
-<li/> **Resources:** Using Ruby and Sinatra run in Command Line 
-<li/> **Include:** N/A 
+- **Task:** Create and deploy a simple web app that allows users to create, read, update and delete (CRUD)
+- **Resources:** Using Ruby and Sinatra run in Command Line 
+- **Include:** N/A 
 
 
 ----------
