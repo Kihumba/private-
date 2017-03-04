@@ -6,9 +6,9 @@ A person with this skill can create a simple web app using the Ruby Web framewor
 
 Outputs
 ----------
-<li/> **Task:** Create and deploy a simple Rails application that allows users to create, read, update, and delete items from a database
-<li/> **Resources:** Use a Gemfile that manages dependencies using a bundler, and ensure that all Ruby files are in the recommended directory. Use Heroku to deploy your application.
-<li/> **Include:** N/A 
+- **Task:** Create and deploy a simple Rails application that allows users to create, read, update, and delete items from a database
+- **Resources:** Use a Gemfile that manages dependencies using a bundler, and ensure that all Ruby files are in the recommended directory. Use Heroku to deploy your application.
+- **Include:** N/A 
 
 
 ----------
