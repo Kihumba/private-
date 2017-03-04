@@ -7,9 +7,9 @@ A person with this skill is able to explain (in big-picture terms) why security 
 
 Outputs
 ----------
-<li/> **Task:** Using a new or existing Rails application, add in a feature that requires users to authenticate against a BCrypt password. 
-<li/> **Resources:** BCrypt password authentication
-<li/> **Include:** Be able to explain to your fellow Rubyists (or users, in a Readme file) why the measure is necessary. 
+- **Task:** Using a new or existing Rails application, add in a feature that requires users to authenticate against a BCrypt password. 
+- **Resources:** BCrypt password authentication
+- **Include:** Be able to explain to your fellow Rubyists (or users, in a Readme file) why the measure is necessary. 
 
 ----------
 
