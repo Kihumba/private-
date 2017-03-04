@@ -8,9 +8,9 @@ A person with this skill can explain why asset pipeline is useful as a way to pr
 
 Outputs
 ----------
-<li/> **Task:** Create a Rails application that allows users to upload and manage documents, images, videos, or other items.
-<li/> **Resources:** Use the Asset Pipeline to manage all your application’s assets, including Javascript files, CSS, and any other necessary assets. 
-<li/> **Include:** N/A
+- **Task:** Create a Rails application that allows users to upload and manage documents, images, videos, or other items.
+- **Resources:** Use the Asset Pipeline to manage all your application’s assets, including Javascript files, CSS, and any other necessary assets. 
+- **Include:** N/A
 
 ----------
 
