@@ -6,9 +6,9 @@ A person with this skill can effectively find and use the best Ruby documentatio
 
 Outputs
 ----------
-<li/> **Task:** Find documentation on Ruby Object Oriented Programming, and explain your research process
-<li/> **Using:** A blog post, infographic, or other medium of your choice
-<li/> **Involve:** Your Fellow Rubyists-- compare what documentation they found and the research process they used. 
+- **Task:** Find documentation on Ruby Object Oriented Programming, and explain your research process
+- **Using:** A blog post, infographic, or other medium of your choice
+- **Involve:** Your Fellow Rubyists-- compare what documentation they found and the research process they used. 
 
 ----------
 ## **Knowledge**
