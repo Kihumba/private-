@@ -6,9 +6,9 @@ A person with this skill uses callbacks to execute code at specific times in the
 
 Outputs
 ----------
-<li/> **Task:** Create, debug, and refactor an app that is an applicable solution to a real-world need (eg. an online store).
-<li/> **Resources:** The app should use Callbacks to create, save, validate, and destroy data that a user inputs. 
-<li/> **Include:** N/A
+- **Task:** Create, debug, and refactor an app that is an applicable solution to a real-world need (eg. an online store).
+- **Resources:** The app should use Callbacks to create, save, validate, and destroy data that a user inputs. 
+- **Include:** N/A
 
 ----------
 ## **Knowledge**
