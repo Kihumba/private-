@@ -7,9 +7,9 @@ A person with this skill can effectively execute the process of managing and aut
 
 Outputs
 ----------
-<li/> **Task:** On a new or existing project, set up a pipeline to automate the build process by automatically generating builds for every commit to a repository.
-<li/> **Resources:** Use a configuration tool of your choice
-<li/> **Include:** You can pair program, or ask a fellow Developer for a project to work with for more “real world” practice. 
+- **Task:** On a new or existing project, set up a pipeline to automate the build process by automatically generating builds for every commit to a repository.
+- **Resources:** Use a configuration tool of your choice
+- **Include:** You can pair program, or ask a fellow Developer for a project to work with for more “real world” practice. 
 
 **Objectives**
 --------------
