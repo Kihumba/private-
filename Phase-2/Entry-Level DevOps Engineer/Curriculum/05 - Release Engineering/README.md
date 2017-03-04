@@ -1,20 +1,15 @@
-# Outcome 05 - Release Engineering
+# Outcome 06 - Release Engineering & Build Management
 
 Skill Description
 -----------------
-The Fellow will be able to do proper branch management and document release procedures. Additionally, they will be able to use build tools to automate release processes that transform source code into a product that is ready for release. 
+A person with this skill can explain why release engineering is necessary. They can use build tools to automate release processes that transform source code into a product that is ready for release, while executing proper branch management and documenting release procedures. 
 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, I should be able to create the following:
-
-1. A completed exercise that covers the following operations:
-  - Setting up a release plan for builds that have been tested through a CI system
-  - Versioning the builds as final builds and placing them on a storage server
-  - Creating release notes that identify the changes and fixes to the software that are present in the release
-  - Documenting release procedures on how to deploy/deliver the release
-
+- **Task:** Create a release plan for builds that have been tested through a CI system, and document release procedures on how to deploy/deliver the release.
+- **Resources:** Choose a release engineering tool of your choice-- be able to defend why you chose that specific tool.
+- **Include:** Use a project you or a team member are working on as an example. 
 
 
 **Objectives**
@@ -25,9 +20,17 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
-| How to implement code builds and automated deployment procedures | [ ] | [ ] |
+| The difference between build management and release management  | [ ] | [ ] |
+| How to implement code builds and build management | [ ] | [ ] |
 | How to document release procedures for replication | [ ] | [ ] |
 | How to setup a deployment process for deploying releases  | [ ] | [ ] |
+| Common build tools for automating release processes | [ ] | [ ] |
+| Common build tools for build management | [ ] | [ ] |
+| The steps to proper branch management  | [ ] | [ ] |
+| How to push minor releases that occur from bug fixes | [ ] | [ ] |
+| How to manage different versions of released products | [ ] | [ ] |
+| How to apply a versioning scheme using semver (major, minor, patch, build) | [ ] | [ ] |
+
 
 
 ----------------
@@ -42,6 +45,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** After a release is created **Action:** I add release notes to identify the changes/fixes that are present in the release | [ ] | [ ] |
 | **Context:** After a release is created **Action:** I apply a release tag and add it to version control | [ ] | [ ] |
 | **Context:** After a release is created **Action:** I add the release to the storage system for tracking builds | [ ] | [ ] |
+| **Context:** When I want to automatically generate builds for every commit to a repository **Action:** I set up a pipeline using a configuration tool | [ ] | [ ] |
 
 
 --------------
@@ -52,4 +56,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt          | Demonstrated |
 |:------------------|:------------------:|:------------:|
 | Software releases should be immutable | [ ] | [ ] |
-| Builds should be rigorously tested before being made into a release | [ ] | [ ] |
+| I rigorously test my builds before making them into a release | [ ] | [ ] |
