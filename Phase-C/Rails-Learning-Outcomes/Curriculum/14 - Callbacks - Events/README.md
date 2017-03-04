@@ -18,7 +18,7 @@ Outputs
 |:-------------|:------------------:|:--------:|
 | The definition of callbacks and what they are used for | [ ] | [ ]  |
 | The relationship between callbacks and filters | [ ] | [ ]  |
-| How to build an "around" callback | [ ] | [ ]  |
+| How to build an `around` callback | [ ] | [ ]  |
 | The most commonly used controller filters | [ ] | [ ]  |
 | The most commonly used ActiveRecord callback functions | [ ] | [ ]  |
 | The lifecycle stages of an ActiveRecord object and why it matters for using Callbacks | [ ] | [ ]  |
@@ -43,14 +43,14 @@ Outputs
 | **Context:** Before using a callback or filter **Action:** I always register it. | [ ] | [ ]  |
 | **Context:** When I need to execute a callback or filter based on some condition **Action:** I use the conditional filter.  | [ ] | [ ]  |
 | **Context:** When I need a method executed before or after an action **Action:** I use the `before` filter (or callback).  | [ ] | [ ]  |
-| **Context:** When I need to call a filter method for specific controller actions **Action:** I use the ‘:only’ option when registering the filter.  | [ ] | [ ]  |
-| **Context:** When I need to call a filter method for all controller actions except a few specific ones **Action:** I use the ‘:except’ option when registering the filter.  | [ ] | [ ]  |
-| **Context:** When I only want to run an ActiveRecord callback if a particular controller action calls it **Action:** I use the ‘:on’ option when registering the callback.  | [ ] | [ ]  |
+| **Context:** When I need to call a filter method for specific controller actions **Action:** I use the `:only` option when registering the filter.  | [ ] | [ ]  |
+| **Context:** When I need to call a filter method for all controller actions except a few specific ones **Action:** I use the `:except` option when registering the filter.  | [ ] | [ ]  |
+| **Context:** When I only want to run an ActiveRecord callback if a particular controller action calls it **Action:** I use the `:on` option when registering the callback.  | [ ] | [ ]  |
 | **Context:** When I need to run an ActiveRecord callback before and after model validations **Action:** I use `before_validation` and `after_validation` methods.  | [ ] | [ ]  |
 | **Context:** When I need to run an ActiveRecord callback before and after model creation **Action:** I use `before_create` and `after_create` methods.  | [ ] | [ ]  |
 | **Context:** When I need to run an ActiveRecord callback before and after saving a model **Action:** I use `before_save` and `after_save` methods.  | [ ] | [ ]  |
 | **Context:** When I need to run an ActiveRecord callback before and after deleting a record **Action:** I use `before_destroy` and `after_destroy` methods.  | [ ] | [ ]  |
-| **Context:** When I want an ActiveRecord callback chain to be halted **Action:** I return ‘false’ or raise an exception in any of the registered callback methods.  | [ ] | [ ]  |
+| **Context:** When I want an ActiveRecord callback chain to be halted **Action:** I return `false` or raise an exception in any of the registered callback methods.  | [ ] | [ ]  |
 
 
 
@@ -62,6 +62,6 @@ Outputs
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Callbacks are a way of saying, "Hey Active Record! Give me a call so I can run this method at the right time!" | [ ] | [ ]  |
+| Callbacks are a way of saying, "Hey ActiveRecord! Give me a call so I can run this method at the right time!" | [ ] | [ ]  |
 | Callback classes are easy to test in isolation | [ ] | [ ]  |
 | Excessive callbacks create knotty nastiness and hide bugs | [ ] | [ ]  |
