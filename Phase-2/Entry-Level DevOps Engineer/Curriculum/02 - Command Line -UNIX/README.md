@@ -7,13 +7,10 @@ A person with this skill can use command line Unix and the various Linux/Unix sy
 
 Outputs
 -------
-<li/> **Task:** Create a directory, add and install a repository on Linux, and schedule a CRON entry to add the current system time to file `/tmp/some-file` every 2 hours.
-<li/> **Resources:**  Use command line Unix. 
-<li/> **Include:** N/A
+- **Task:** Create a directory, add and install a repository on Linux, and schedule a CRON entry to add the current system time to file `/tmp/some-file` every 2 hours.
+- **Resources:**  Use command line Unix. 
+- **Include:** N/A
 
-
-**Objectives**
---------------
 
 ## **Knowledge**
 
