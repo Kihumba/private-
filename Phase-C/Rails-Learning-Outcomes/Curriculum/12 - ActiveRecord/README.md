@@ -6,9 +6,9 @@ A person with this skill can use ActiveRecord within the Rails framework to acce
 
 Outputs
 ----------
-<li/> **Task:** Lay out the data architecture you would need to implement to build a Rails app that enables users to post updates, comment on updates, and follow other users. 
-<li/> **Resources:** You should also write the necessary ActiveRecord queries for retrieving data from the database.
-<li/> **Include:** N/A
+- **Task:** Lay out the data architecture you would need to implement to build a Rails app that enables users to post updates, comment on updates, and follow other users. 
+- **Resources:** You should also write the necessary ActiveRecord queries for retrieving data from the database.
+- **Include:** N/A
 
 
 
