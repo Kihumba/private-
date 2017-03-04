@@ -11,9 +11,6 @@ Outputs
 - **Resources:** Use a configuration tool of your choice
 - **Include:** You can pair program, or ask a fellow Developer for a project to work with for more “real world” practice. 
 
-**Objectives**
---------------
-
 
 ## **Knowledge**
 
