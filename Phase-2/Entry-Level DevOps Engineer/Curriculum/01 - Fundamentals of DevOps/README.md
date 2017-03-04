@@ -1,15 +1,16 @@
 # 01-  Fundamentals of DevOps
 
 Skill Description
+----------
 A person with this skill can explain the role of a DevOps engineer within a product & engineering team, and how they fit into a Software Development Lifecycle. They can clearly articulate the the tasks central to a DevOps engineer’s work, both relational and technical, and the tools used to do them.
 
 
 
 Outputs
 ----------
-<li/> **Task:** Write and share a brief description the place of DevOps in the Software Development Cycle. 
-<li/> **Resources:** You can use a blog post, infographics, a screencast, or any other medium you choose. 
-<li/> **Include:** Share this with your team.
+- **Task:** Write and share a brief description the place of DevOps in the Software Development Cycle. 
+- **Resources:** You can use a blog post, infographics, a screencast, or any other medium you choose. 
+- **Include:** Share this with your team.
 
 ----------
 ## **Knowledge**
