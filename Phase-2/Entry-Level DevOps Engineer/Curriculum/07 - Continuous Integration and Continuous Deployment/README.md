@@ -12,11 +12,6 @@ Outputs
 - **Include:** Work with a project you or a teammate are building
 
 
-
-**Objectives**
---------------
-
-
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
