@@ -6,9 +6,9 @@ A person with this skill will be able to use Ruby data structures to design and 
 
 Outputs
 ----------
-<li/> **Task:** Create a Ruby program that use Enumerable methods to manipulate the contents of a collection of data
-<li/> **Resources:** Use either hashes or arrays (or both) as your collection of data.
-<li/> **Include:** N/A
+- **Task:** Create a Ruby program that use Enumerable methods to manipulate the contents of a collection of data
+- **Resources:** Use either hashes or arrays (or both) as your collection of data.
+- **Include:** N/A
 
 ----------
 ## **Knowledge**
