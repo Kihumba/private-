@@ -6,7 +6,7 @@ A person with this skill can both use built-in generators and build custom gener
 
 Outputs
 ----------
-_ **Task:** Create a Rails app that allows users to share their own posts and browse the posts of other users.  
+- **Task:** Create a Rails app that allows users to share their own posts and browse the posts of other users.  
 - **Tools:**  Use both built-in and custom Generators in Rails.
 - **Include:** N/A 
 
