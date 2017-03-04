@@ -6,9 +6,9 @@ A person with this skill uses authentication and authorization in their Rails ap
 
 Outputs
 ----------
-<li/> **Task:** On a new or existing Rails app, add in user-specific authorization functionality that distinguishes between Guests, Users, Moderators, and Admins. 
-<li/> **Resources:** Use authentication for a protected sign in, and authorization to separate the views and functionalities that each user is able to access
-<li/> **Include:** N/A
+- **Task:** On a new or existing Rails app, add in user-specific authorization functionality that distinguishes between Guests, Users, Moderators, and Admins. 
+- **Resources:** Use authentication for a protected sign in, and authorization to separate the views and functionalities that each user is able to access
+- **Include:** N/A
 
 
 ----------
