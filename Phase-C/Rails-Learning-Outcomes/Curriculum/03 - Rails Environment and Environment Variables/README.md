@@ -6,9 +6,9 @@ A person with this skill uses all of the multiple environments (development, pro
 
 Outputs
 ----------
-<li/> **Task:** Create a Rails project that uses a local environment variables to protect usernames. 
-<li/> **Resources:** Set your local variable using any method, and be able to explain why you chose that one (eg. Figaro Gem, Unix, local files, etc.)
-<li/> **Include:** N/A 
+- **Task:** Create a Rails project that uses a local environment variables to protect usernames. 
+- **Resources:** Set your local variable using any method, and be able to explain why you chose that one (eg. Figaro Gem, Unix, local files, etc.)
+- **Include:** N/A 
 
 
 ----------
