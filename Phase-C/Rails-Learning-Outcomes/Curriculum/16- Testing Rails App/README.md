@@ -6,9 +6,9 @@ A person with this skill can describe the importance of BDD and TDD in Rails. Th
 
 Output
 ----------
-<li/> **Task:**  Test a simple Rails app that you have created as it is, and try to work through fixing the errors. 
-<li/> **Resources:** Then, go back and use Capybara Gem as you rebuild your application, implementing TDD as you build. 
-<li/> **Include:** N/A
+- **Task:**  Test a simple Rails app that you have created as it is, and try to work through fixing the errors. 
+- **Resources:** Then, go back and use Capybara Gem as you rebuild your application, implementing TDD as you build. 
+- **Include:** N/A
 
 
 ----------
