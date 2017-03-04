@@ -6,9 +6,9 @@ A person with this skill uses Views templates in conjunction with controllers to
 
 Outputs
 ----------
-<li/> **Task:** Create a Rails app that allows the user to edit, update, index, and delete their user information on the application.
-<li/> **Resources:** Use View templates and partials, and make use of effective helper classes. 
-<li/> **Include:** N/A
+- **Task:** Create a Rails app that allows the user to edit, update, index, and delete their user information on the application.
+- **Resources:** Use View templates and partials, and make use of effective helper classes. 
+- **Include:** N/A
 
 ----------
 
