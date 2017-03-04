@@ -9,9 +9,9 @@ A person with this skill can use Rake as a helper program, and is comfortable im
 
 Outputs
 ----------
-<li/> **Task:** Create a single Rake task that finds all the models in an application and creates csv files for you to fill in the seed data. 
-<li/> **Resources:**  As an extension, add in a Rake task that reads seed data from the csv files created above, and populate the database with the data.
-<li/> **Include:** N/A
+- **Task:** Create a single Rake task that finds all the models in an application and creates csv files for you to fill in the seed data. 
+- **Resources:**  As an extension, add in a Rake task that reads seed data from the csv files created above, and populate the database with the data.
+- **Include:** N/A
 
 
 ----------
