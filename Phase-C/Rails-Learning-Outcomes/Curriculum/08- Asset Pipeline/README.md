@@ -11,9 +11,10 @@ Outputs
 <li/> **Task:** Create a Rails application that allows users to upload and manage documents, images, videos, or other items.
 <li/> **Resources:** Use the Asset Pipeline to manage all your application’s assets, including Javascript files, CSS, and any other necessary assets. 
 <li/> **Include:** N/A
-----------
-## **Knowledge**
 
+----------
+
+## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
