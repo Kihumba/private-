@@ -1,58 +1,29 @@
-# Outcome 09 - Monitoring Deployments
+#Objective 09- SaaS, PaaS, & Iaas
 
 Skill Description
------------------
-The Fellow will be able to make effective use of logging for important information-- including familiarity with various log levels, common locations of log files, and the basics of log rotation. Additionally, they will be able to demonstrate how to set up a system to send alerts when errors occur in production systems
-
+-------
+A person with this skill can explain what SaaS, PaaS, and IaaS are and the differences between them. They can use each platform to create additional efficiencies when running a software application. 
 
 Outputs
 -------
-After attaining this skill, and as a demonstration of it, I should be able to complete the following:
-
-1. An exercise that covers the following operations:
-  - Setting up application monitoring for a NodeJS application using New Relic
-  - Deploying the NodeJS application to a VM on AWS
-  - Setting up monitoring for the VM using AWS Cloudwatch
-
-
-
-**Objectives**
---------------
-
+- **Task:** On either an existing or new application, create and push your app to a PaaS and scale it to multiple instances.
+- **Resources:** Choose an appropriate PaaS of your choice. 
+- **Involve:** N/A
 
 ## **Knowledge**
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-| The different layers in the Open Systems Interconnection model | [ ] | [ ] |
-| How to monitor user metrics and KPIs in the Application layer  | [ ] | [ ] |
-| How to monitor web and browser metrics in the Presentation layer  | [ ] | [ ] |
-| How to monitor sessions and transactions in the Session layer  | [ ] | [ ] |
-| How to monitor App server and database metrics in the Transport layer | [ ] | [ ] |
-| How to monitor bandwidth, trace routes, and requests in the Network layer | [ ] | [ ] |
-| How to monitor packets, access, and data transfer in the Data Link layer | [ ] | [ ] |
-| How to monitor CPU, memory, and disk usage in the Physical layer | [ ] | [ ] |
-| How to identify an appropriate monitoring tool for a particular deployment IaaS monitoring, Application Performance Monitoring (APM) | [ ] | [ ] |
-| Various APM (Application Performance Monitoring) metrics | [ ] | [ ] |
-| How application response times affect users | [ ] | [ ] |
-| How to measure Mean Time to Resolve (MTTR) | [ ] | [ ] |
-| Various Database monitoring metrics | [ ] | [ ] |
-| How to measure time spent in database calls | [ ] | [ ] |
-| How to measure database call response time and throughput | [ ] | [ ] |
-| How to perform SQL query analysis | [ ] | [ ] |
-| The differences between Reactive Monitoring and Proactive Monitoring | [ ] | [ ] |
-| Use cases for logging | [ ] | [ ] |
-| Use cases for infrastructure logs | [ ] | [ ] |
-| Use cases for App Stack logs (OS, app server, database, programming language) | [ ] | [ ] |
-| Use cases for API logs | [ ] | [ ] |
-| Use cases for Application logs | [ ] | [ ] |
-| Use cases for Security logs | [ ] | [ ] |
-| Use cases for Events, notifications, alerts | [ ] | [ ] |
-| Use cases for Changes, configuration management, deployment logs | [ ] | [ ] |
-| Use cases for Access logs | [ ] | [ ] |
-| Use cases for Patching history logs | [ ] | [ ] |
-| Use cases for machine images logs | [ ] | [ ] |
-
+The distinctions between SaaS, PaaS, and IaaS
+Examples of PaaS
+The advantages and disadvantages of using a PaaS
+Examples of IaaS
+The advantages and disadvantages of using an IaaS
+How to deploy an app to a Paas or Iaas
+How to decide which platform is best suited to my program’s needs
+How to know when I should not use any platform
+Most common IaaS host service platforms (eg. Amazon AWS) and how to use them
+How and why to create an autoscaling group for IaaS
 
 ----------------
 
@@ -61,24 +32,25 @@ After attaining this skill, and as a demonstration of it, I should be able to co
 
 | Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
-| **Context:** When making new code changes **Action:** I monitor for any major metric change | [ ] | [ ] |
-| **Context:** When setting up any deployment environment **Action:** I make sure that specific monitoring tools are set up for every service (e.g. databases, web-server, etc.) | [ ] | [ ] |
-| **Context:** When setting up monitoring tools **Action:** I identify metrics that will be monitored in real-time and those that will be mined from log data | [ ] | [ ] |
-| **Context:** When choosing a logging strategy for a distributed environment **Action:** I consider keeping the logs on a separate server from the one running the apps so the logging service does not go down with the apps (centralized logs) | [ ] | [ ] |
-| **Context:** When setting up monitoring for any environment **Action:** I make sure I set up alerts and notifications for critical metrics and events | [ ] | [ ] |
-
+| **Context:** When I create a user to access a IaaS resource **Action:** I ensure the user's permission is restricted | [ ] | [ ] |
+| **Context:** When I deploy my application to an IaaS **Action:** I deploy critical components of the application across multiple Availability Zones for redundancy | [ ] | [ ] |
+| **Context:** Before I store data on a IaaS storage service **Action:** I encrypt the data | [ ] | [ ] |
+| **Context:** After I provision a machine on a IaaS **Action:** I put proper monitoring in place to gather metrics | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I look for a PaaS that has the app runtime support required to run my app code | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I look for a PaaS that has the database that my app needs  | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I check if there are any PaaS-specific config files needed to run my app properly | [ ] | [ ] |
+| **Context:** Before I deploy my app to a PaaS **Action:** I put together a list of dependencies needed to run my app | [ ] | [ ] |
+| **Context:** After I deploy my app to a PaaS **Action:** I check that it is running and accessible | [ ] | [ ] |
+| **Context:** When my app instances cannot handle the amount of incoming requests **Action:** I use the PaaS to scale the instances | [ ] | [ ] 
 
 --------------
 
 
 ## **Beliefs**
 
-| Embodied Belief   |      Felt      | Demonstrated |
-|:------------------|:--------------:|:------------:|
-| Monitoring is vital for identifying performance bottlenecks of any system | [ ] | [ ] |
-| Proactive monitoring helps solve anticipated problems | [ ] | [ ] |
-| Performance is key to a great user experience for any application | [ ] | [ ] |
-| Every good monitoring strategy should be accompanied with a sound logging solution | [ ] | [ ] |
-| To maintain integrity in monitoring, developer access to the _live server_ should be blocked and they should be directed to the logging app instead | [ ] | [ ] |
-| Logs need to be easy to use and understand, otherwise they will be useless | [ ] | [ ] |
-
+| Embodied Belief   |      Felt          | Demonstrated |
+|:------------------|:------------------:|:------------:|
+| PaaS eases the pain of deployment and takes care of the overhead of deploying applications | [ ] | [ ] |
+| PaaS allows me to focus only on application development-- it takes care of the rest | [ ] | [ ] |
+| PaaS makes release management easy (rolling back code and deploying code) | [ ] | [ ] |
+ 
