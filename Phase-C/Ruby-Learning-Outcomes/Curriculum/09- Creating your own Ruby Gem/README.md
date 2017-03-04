@@ -7,9 +7,9 @@ A person with this skill can build, test, and use their own Ruby Gem. They can e
 
 Outputs
 ----------
-<li/> **Task:** Build a simple Ruby Gem that you use in one of your own programs. 
-<li/> **Resources:** Include well-written documentation and Readme file
-<li/> **Include:** Share it with the Ruby community (through GitHub or another avenue). 
+- **Task:** Build a simple Ruby Gem that you use in one of your own programs. 
+- **Resources:** Include well-written documentation and Readme file
+- **Include:** Share it with the Ruby community (through GitHub or another avenue). 
 
 
 
