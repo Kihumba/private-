@@ -6,9 +6,9 @@ A person with this skill uses Test Driven Development consistently throughout th
 
 Outputs
 ----------
-<li/> **Task:** Test your command line app as it is, and try to work through fixing any bugs/errors. 
-<li/> **Resources:** Using Test Driven Development, go back and re-build the simple app in command line with TDD steps included along the way. 
-<li/> **Include:**  N/A
+- **Task:** Test your command line app as it is, and try to work through fixing any bugs/errors. 
+- **Resources:** Using Test Driven Development, go back and re-build the simple app in command line with TDD steps included along the way. 
+- **Include:**  N/A
 
 ----------
 ## **Knowledge**
