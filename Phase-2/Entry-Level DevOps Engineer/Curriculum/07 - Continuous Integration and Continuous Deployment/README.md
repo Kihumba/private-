@@ -7,9 +7,9 @@ A person with this skill can set up an environment for continuous integration an
 
 Outputs
 -------
-Task: Create and configure a CI pipeline to automate integration with a Mainline branch when a new commit is checked in. Make sure that you run tests on the code prior to merging. 
-Resources: Use a CI tool of your choice-- be able to defend your choice of tools
-Include: Work with a project you or a teammate are building
+- **Task:** Create and configure a CI pipeline to automate integration with a Mainline branch when a new commit is checked in. Make sure that you run tests on the code prior to merging. 
+- **Resources:** Use a CI tool of your choice-- be able to defend your choice of tools
+- **Include:** Work with a project you or a teammate are building
 
 
 
