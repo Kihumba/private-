@@ -19,7 +19,6 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-
 | What a controller does | [ ] | [ ]  |
 | How to call a controller in Rails | [ ] | [ ]  |
 | What developers mean when they say a Rails controller is “slim” | [ ] | [ ]  |
