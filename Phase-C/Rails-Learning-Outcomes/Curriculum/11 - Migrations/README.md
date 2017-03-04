@@ -7,9 +7,9 @@ A person with this skill can use migrations to create and evolve their applicati
 
 Outputs
 ----------
-<li/> **Task:** Create a simple content management database that has multiple sections and pages.
-<li/> **Resources:**  Generate the Subject, Page, and Section models, and then write and run migrations with appropriate subjects and pages, foreign keys, and indexes
-<li/> **Include:** Share your application with your team and get feedback on whether the development is clear enough for them to jump in and start working with it. 
+- **Task:** Create a simple content management database that has multiple sections and pages.
+- **Resources:**  Generate the Subject, Page, and Section models, and then write and run migrations with appropriate subjects and pages, foreign keys, and indexes
+- **Include:** Share your application with your team and get feedback on whether the development is clear enough for them to jump in and start working with it. 
 
 
 
