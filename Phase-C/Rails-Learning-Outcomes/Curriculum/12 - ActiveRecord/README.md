@@ -1,14 +1,16 @@
-# Outcome - ActiveRecord
+# Outcome 12 - ActiveRecord
 
 Skill Description
 ----------
-The Fellow understands the function of Active Record within the Rails framework, and how it allows their application to interact with a database.
+A person with this skill can use ActiveRecord within the Rails framework to access a database. They can explain how ActiveRecord fits into the MVC paradigm, 
 
 Outputs
 ----------
-After attaining this skill, and as a demonstration of it, I should be able to lay out the data architecture I would need to implement to build a Rails app that enables users to post and follow other users. 
+<li/> **Task:** Lay out the data architecture you would need to implement to build a Rails app that enables users to post updates, comment on updates, and follow other users. 
+<li/> **Resources:** You should also write the necessary ActiveRecord queries for retrieving data from the database.
+<li/> **Include:** N/A
 
-**Note:** I will also be able to write the necessary ActiveRecord queries for retrieving data from the database.
+
 
 
 ----------
@@ -17,26 +19,18 @@ After attaining this skill, and as a demonstration of it, I should be able to la
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| The defiition of an ORM | [ ] | [ ]  |
-| Why ActiveRecord is more useful than just using SQL | [ ] | [ ]  |
-| Why ActiveRecord::Relation is important and what it means | [ ] | [ ]  |
-| The definition of Lazy Evaluation | [ ] | [ ]  |
+| The definition of an ORM | [ ] | [ ]  |
+| The benefits of ActiveRecord vs. simply using SQL | [ ] | [ ]  |
+| Why `ActiveRecord::Relation` is important and what it means | [ ] | [ ]  |
 | The difference between Lazy Evaluation and Eager Evaluation | [ ] | [ ]  |
-| How to make a relation evaluate into an array | [ ] | [ ]  |
 | How to check whether a database already contains a record | [ ] | [ ]  |
-| Why #find_by is useful and how it is used | [ ] | [ ]  |
-| The difference between what is returned using a #where query and a #find query | [ ] | [ ]  |
+| Why `#find_by` is useful and how it is used | [ ] | [ ]  |
+| The difference between `Include`s vs. `Joins` and optimal use cases for each | [ ] | [ ]  |
 | How to join tables together in Rails | [ ] | [ ]  |
-| When to use symbols / hashes and when to use explicit strings for query parameters | [ ] | [ ]  |
+| When to use symbols/hashes vs. using explicit strings for query parameters | [ ] | [ ]  |
 | The definition of `scopes` and why are they useful | [ ] | [ ]  |
-| What needs to happen for a class method to act like a scope | [ ] | [ ]  |
-| How Rails normally determines which table and foreign key to use when you have an association (e.g. User.first.posts) | [ ] | [ ]  |
-| When I would need to specify particular options in an association (:class_name, :foreigh_key, :source) | [ ] | [ ]  |
 | The definition of a polymorphic association and when to use one | [ ] | [ ]  |
-| The difference between using the association to create a new object vs. calling YourObject.new, and which is the preferred method | [ ] | [ ]  |
-| How to automatically destroy all a User's Post objects if that user is deleted | [ ] | [ ]  |
 | How to set up a self-association, such as with Users following Users | [ ] | [ ]  |
-
 
 ----------
 
@@ -47,15 +41,16 @@ After attaining this skill, and as a demonstration of it, I should be able to la
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When working with a database in any Rails application **Action:** I use an ORM  | [ ] | [ ]  |
-| **Context:** When performing CRUD operation on my database **Action:** I use ActiveRecord to construct my queries | [ ] | [ ]  |
-| **Context:** When retrieving related model data that might not be used **Action:** I use `lazy loading`/`lazy evaluation` | [ ] | [ ]  |
-| **Context:** When retrieving related model data that are used everywhere with the main model **Action:** I use `eager loading`/`eager evaluation`  | [ ] | [ ]  |
+| **Context:** When performing CRUD operations on my database **Action:** I use ActiveRecord to construct my queries | [ ] | [ ]  |
+| **Context:** When retrieving related model data that might not be used **Action:** I use `lazy loading` or `lazy evaluation` | [ ] | [ ]  |
+| **Context:** When retrieving related model data that are used everywhere with the main model **Action:** I use `eager loading` or `eager evaluation`  | [ ] | [ ]  |
 | **Context:** When I want to retrieve a single record from the database based on the model attribute **Action:** I use the `find_by` method | [ ] | [ ]  |
 | **Context:** When I want to retrieve a single record based on the primary key of a table **Action:** I use the `find` method | [ ] | [ ]  |
 | **Context:** When I need a custom chain of ActiveRecord methods **Action:** I use ActiveRecord `scopes` | [ ] | [ ]  |
 | **Context:** When I want to create relationships between different models **Action:** I use ActiveRecord association | [ ] | [ ]  |
-| **Context:** When I need to pre-load(eager load) scopes **Action:** I turn them into associations instead | [ ] | [ ]  |
-| **Context:** When I do more than chain built-in scopes into larger scopes **Action:** I use class methods | [ ] | [ ]  |
+| **Context:** When I need to pre-load (eager load) scopes **Action:** I turn them into associations instead | [ ] | [ ]  |
+| **Context:** When I want to chain built-in scopes into larger scopes **Action:** I use class methods | [ ] | [ ]  |
+| **Context:** When I need to enforce data integrity in a SQL statement with multiple actions **Action:** I use a transaction class or an instance method | [ ] | [ ]  |
 
 
 ----------
@@ -66,7 +61,5 @@ After attaining this skill, and as a demonstration of it, I should be able to la
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Using ORM makes working with databases in a Rails application simpler. | [ ] | [ ]  |
-| ORMs built using the ActiveRecord pattern are easier to work with than those built with other patterns (e.g DataMapper pattern). | [ ] | [ ]  |
-| Retrieving related data using ActiveRecord associations is easy. | [ ] | [ ]  |
-| Conventions used in ActiveRecord makes it easy to get started with ActiveRecord ORM. | [ ] | [ ]  |
+| Using ORM breeds simplicity; Simplicity is part of the power of Rails. | [ ] | [ ]  |
+| Using ActiveRecord patterns makes building ORMS even simpler.  | [ ] | [ ]  |
