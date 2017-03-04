@@ -6,9 +6,9 @@ A person with this skill can fast-track their Ruby learning by doing… or “Pl
 
 Outputs
 ----------
-**Task:** Create and run a basic file storing app in Ruby <br/>
-**Resources:** Using Command Line and IRB. <br/>
-**Include:** N/A <br/>
+- **Task:** Create and run a basic file storing app in Ruby <br/>
+- **Resources:** Using Command Line and IRB. <br/>
+- **Include:** N/A <br/>
 
 **Additional Practice:** Using the Ruby Koans exercises, play with the first 10 exercises in Command Line and IRB.
 
