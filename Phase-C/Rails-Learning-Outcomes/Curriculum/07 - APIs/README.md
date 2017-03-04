@@ -6,9 +6,9 @@ With this skill, a person can create a full Rails API application. They can effe
 
 Outputs
 ----------
-<li/> **Task:** Create several versions of a Rails API project that allows anyone to create, update and delete “to do” items. In the first version the API will accept “task,” “title,” and “description” as required fields. In the second version of the API, add an optional field, and deprecate the first version of the API.
-<li/> **Resources:** Make use of routes (as will be necessary) as well as namespacing, helper methods, and nested resources in your application. 
-<li/> **Include:** N/A
+- **Task:** Create several versions of a Rails API project that allows anyone to create, update and delete “to do” items. In the first version the API will accept “task,” “title,” and “description” as required fields. In the second version of the API, add an optional field, and deprecate the first version of the API.
+- **Resources:** Make use of routes (as will be necessary) as well as namespacing, helper methods, and nested resources in your application. 
+- **Include:** N/A
 
 ----------
 ## **Knowledge**
