@@ -7,9 +7,9 @@ A person with this skill generates Rails controllers to coordinate the interacti
 
 Outputs
 ----------
-<li/> **Task:** Using a new Rails application or one you’ve been working on, generate a controller with appropriate view files, index, and show actions. 
-<li/> **Resources:** Be sure to use slim controllers and strong parameters. 
-<li/> **Include:** N/A
+- **Task:** Using a new Rails application or one you’ve been working on, generate a controller with appropriate view files, index, and show actions. 
+- **Resources:** Be sure to use slim controllers and strong parameters. 
+- **Include:** N/A
 
 ----------
 
