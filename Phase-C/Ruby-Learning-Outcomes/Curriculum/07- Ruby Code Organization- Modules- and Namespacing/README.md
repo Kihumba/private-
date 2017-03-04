@@ -8,9 +8,9 @@ A person with this skill can explain why Rubyists are so passionate about well-o
 
 Outputs
 ----------
-<li/> **Task:** Using code that’s already built (by you or by someone else) refactor it to optimize its namespacing and organization. 
-<li/> **Resources:** Use ‘include’ and ‘extend’ in your methods to optimize efficiency. 
-<li/> **Include:** Swap with a peer to give and receive feedback on the edits you made.  
+- **Task:** Using code that’s already built (by you or by someone else) refactor it to optimize its namespacing and organization. 
+- **Resources:** Use ‘include’ and ‘extend’ in your methods to optimize efficiency. 
+- **Include:** Swap with a peer to give and receive feedback on the edits you made.  
 
 ----------
 ## **Knowledge**
