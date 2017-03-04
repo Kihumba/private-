@@ -6,9 +6,9 @@ A person with this skill can explain the basics of the underlying technology pro
 
 Outputs
 ----------
-<li/> **Task:** Create and deploy an online store using Rails. The store should feature a product list, ability to view product details, and ability to add a product to cart. (Bonus if cart/checkout workflow can also be implemented).
-<li/> **Resources:** Optimize your routes to be as effective as possible, and ensure they are namespaced appropriately
-<li/> **Include:** N/A
+- **Task:** Create and deploy an online store using Rails. The store should feature a product list, ability to view product details, and ability to add a product to cart. (Bonus if cart/checkout workflow can also be implemented).
+- **Resources:** Optimize your routes to be as effective as possible, and ensure they are namespaced appropriately
+- **Include:** N/A
 
 ----------
 ## **Knowledge**
