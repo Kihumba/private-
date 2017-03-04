@@ -6,9 +6,9 @@ A person with this skill knows when their code would benefit from adding a Ruby 
 
 Outputs
 ----------
-<li/> **Task:** Create a Ruby application that connects to a database and allows the user to interact with data. 
-<li/> **Resources:** Use appropriate Gems to support your development 
-<li/> **Include:** Share this with your team. 
+- **Task:** Create a Ruby application that connects to a database and allows the user to interact with data. 
+- **Resources:** Use appropriate Gems to support your development 
+- **Include:** Share this with your team. 
 
 ----------
 ## **Knowledge**
