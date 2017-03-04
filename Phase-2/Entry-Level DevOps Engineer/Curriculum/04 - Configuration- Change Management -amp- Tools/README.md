@@ -6,13 +6,9 @@ A person with this skill is comfortable implementing the standard processes, tec
 
 Outputs
 -------
-<li/> **Task:** On an existing project, perform an audit of the system security, set up alerts to be delivered to technical staff via email or SMS, and generate reports that track the changes of your project.
-<li/> **Resources:** Use a configuration management tool of your choice (and be able to explain why you chose that tool) 
-<li/> **Include:**  You can pair program, or ask a fellow Developer for a project to work with for more “real world” practice. 
-
-
-**Objectives**
---------------
+- **Task:** On an existing project, perform an audit of the system security, set up alerts to be delivered to technical staff via email or SMS, and generate reports that track the changes of your project.
+- **Resources:** Use a configuration management tool of your choice (and be able to explain why you chose that tool) 
+- **Include:**  You can pair program, or ask a fellow Developer for a project to work with for more “real world” practice. 
 
 ## **Knowledge**
 
