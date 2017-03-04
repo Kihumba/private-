@@ -1,12 +1,16 @@
-# Outcome - Migrations
+# Outcome 11 - Migrations
 
 Skill Description
 ----------
-The Fellow can create and use migrations as a feature of Active Record, allowing them to evolve their applicaiton's database schema over time. 
+A person with this skill can use migrations to create and evolve their application's database schema. They can also set up their application for future success by building migration into their version control system, allowing other developers on their team to roll out new releases and bring the database up to date.  
+
 
 Outputs
 ----------
-After attaining this skill, and as a demonstration of it, a Rails application that makes use of migrations.
+<li/> **Task:** Create a simple content management database that has multiple sections and pages.
+<li/> **Resources:**  Generate the Subject, Page, and Section models, and then write and run migrations with appropriate subjects and pages, foreign keys, and indexes
+<li/> **Include:** Share your application with your team and get feedback on whether the development is clear enough for them to jump in and start working with it. 
+
 
 
 ----------
@@ -15,16 +19,18 @@ After attaining this skill, and as a demonstration of it, a Rails application th
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| The definition of migrations | [ ] | [ ]  |
-| When to use migrations | [ ] | [ ]  |
-| How to create a migration | [ ] | [ ]  |
-| The difference between change, up and down methods in Rails migration | [ ] | [ ]  |
-| The most common migration methods and how can they be generated using generators|||
-| How to run migrations in different environments | [ ] | [ ]  |
-| When and how to execute queries in a migration | [ ] | [ ]  |
-| The definition of schema files| [ ] | [ ]  |
+| The definition of migrations in Rails and when to use them| [ ] | [ ]  |
+| Basic migration file syntax | [ ] | [ ]  |
+| How to create and run a migration | [ ] | [ ]  |
+| How to run migrations in different Rails environments | [ ] | [ ]  |
 | How to rollback migrations | [ ] | [ ]  |
+| When and how to execute queries in a migration | [ ] | [ ]  |
+| How to change a column name or type using migrations | [ ] | [ ]  |
+| The difference between `change`, `up`, and `down` methods in Rails migration | [ ] | [ ]  |
+| The most common migration methods and how can they be created using generators | [ ] | [ ]  |
+| The definition of schema files and how they work with migrations | [ ] | [ ]  |
 | How to view the database structure using the schema file | [ ] | [ ]  |
+
 
 
 ----------
@@ -35,10 +41,12 @@ After attaining this skill, and as a demonstration of it, a Rails application th
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When generating migrations **Action:**  I use Rails generators.| [ ] | [ ]  |
-| **Context:** When working with databases in any Rails application **Action:**  I use Rails migration to change the schema.| [ ] | [ ]  |
+| **Context:** When I am creating a new model **Action:**  I run `rails generate model` | [ ] | [ ]  |
+| **Context:** When I am using a boolean function in a migration **Action:**  I always create a default | [ ] | [ ]  |
+| **Context:** When I have foreign keys in my migration **Action:**  I always add an index to my foreign key | [ ] | [ ]  |
+| **Context:** When I want to create a migration **Action:**  I use the appropriate Rails generator. | [ ] | [ ]  |
+| **Context:** When working with databases in any Rails application **Action:**  I use a Rails migration to change the schema. | [ ] | [ ]  |
 | **Context:** When I deploy an application **Action:**  I always run migrations using “rake db:migrate”.| [ ] | [ ]  |
-| **Context:** When working in different environments **Action:**  I run migrations specific to the environment.| [ ] | [ ]  |
 
 
 ----------
@@ -49,5 +57,4 @@ After attaining this skill, and as a demonstration of it, a Rails application th
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| The great thing about migrations in Rails is that they are database independent. | [ ] | [ ]  |
-| Migrations are powerful. | [ ] | [ ]  |
+| Migrations in Rails are both powerful and flexible (they are database independent!) | [ ] | [ ]  |
