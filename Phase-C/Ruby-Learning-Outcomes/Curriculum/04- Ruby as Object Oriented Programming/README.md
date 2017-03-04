@@ -7,9 +7,9 @@ Skill Description
 
 Outputs
 ----------
-<li/> **Task:** Create a basic Ruby application that solves a real world problem that you may encounter on a day-to-day basis
-<li/> **Resources:** Making use of OOP principles 
-<li/> **Involve:** N/A
+- **Task:** Create a basic Ruby application that solves a real world problem that you may encounter on a day-to-day basis
+- **Resources:** Making use of OOP principles 
+- **Involve:** N/A
 
 ----------
 ## **Knowledge**
