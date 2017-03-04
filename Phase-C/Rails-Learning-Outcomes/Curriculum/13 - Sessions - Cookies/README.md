@@ -6,9 +6,9 @@ A person with this skill can create sessions and cookies to manage user data wit
 
 Outputs
 ----------
-<li/> **Task:** On a new or existing  Rails application that you have been working on, add on the ability to track and store user data. 
-<li/> **Resources:** Use Sessions and Cookies to implement the functionality.
-<li/> **Include:** N/A
+- **Task:** On a new or existing  Rails application that you have been working on, add on the ability to track and store user data. 
+- **Resources:** Use Sessions and Cookies to implement the functionality.
+- **Include:** N/A
 
 ----------
 
