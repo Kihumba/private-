@@ -7,9 +7,9 @@ A person with this skill can use existing Rails helpers to create an interactive
 
 Outputs
 ----------
-<li/> **Task:** Create an online form that users can fill out, edit, and submit.  
-<li/> **Resources:** Use helper methods to include a text field, password field, text area, radio button, check box, and submit tag. Bonus: generate a custom helper method to store the form code for use later
-<li/> **Include:** N/A 
+- **Task:** Create an online form that users can fill out, edit, and submit.  
+- **Resources:** Use helper methods to include a text field, password field, text area, radio button, check box, and submit tag. Bonus: generate a custom helper method to store the form code for use later
+- **Include:** N/A 
 
 ----------
 ## **Knowledge**
