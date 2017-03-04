@@ -7,9 +7,9 @@ A person with this skill embodies the beliefs of productivity, play, and positiv
 
 Output
 ----------
-Task: Create a document that explains the “Ruby Way” and your personal take on why it matters to writing effective code in the Ruby community
-Resources: Use a blog post, infographic, or other representation of your choice
-Include: Ask for Feedback from peers who are fellow Rubyists
+- **Task:** Create a document that explains the “Ruby Way” and your personal take on why it matters to writing effective code in the Ruby community
+- **Resources:** Use a blog post, infographic, or other representation of your choice
+- **Include:** Ask for Feedback from peers who are fellow Rubyists
 
 ----------
 ## **Knowledge**
