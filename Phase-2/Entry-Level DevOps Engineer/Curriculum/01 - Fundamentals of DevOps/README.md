@@ -2,7 +2,7 @@
 
 Skill Description
 ----------
-A person with this skill can explain the role of a DevOps engineer within a product & engineering team, and how they fit into a Software Development Lifecycle. They can clearly articulate the the tasks central to a DevOps engineer’s work, both relational and technical, and the tools used to do them.
+A person with this skill can explain the role of a DevOps engineer within a product & engineering team, and how they fit into a Software Development Lifecycle. They can clearly articulate the tasks central to a DevOps engineer’s work, both relational and technical, and the tools used to do them.
 
 
 
