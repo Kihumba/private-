@@ -1,6 +1,6 @@
-# Ruby on Rails
+# Ruby Development
 
-The Ruby on Rails Developer is a role that includes the following Learning Outcomes:
+The Ruby Development curriculum is a path that includes the following Learning Outcomes:
 
 1. The Ruby Way
 2. Setting up your Tools
