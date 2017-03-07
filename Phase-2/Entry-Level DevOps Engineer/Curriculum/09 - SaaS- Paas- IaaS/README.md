@@ -14,16 +14,16 @@ Outputs
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:---------:|
-The distinctions between SaaS, PaaS, and IaaS
-Examples of PaaS
-The advantages and disadvantages of using a PaaS
-Examples of IaaS
-The advantages and disadvantages of using an IaaS
-How to deploy an app to a Paas or Iaas
-How to decide which platform is best suited to my program’s needs
-How to know when I should not use any platform
-Most common IaaS host service platforms (eg. Amazon AWS) and how to use them
-How and why to create an autoscaling group for IaaS
+| The distinctions between SaaS, PaaS, and IaaS | [ ] | [ ] |
+| Examples of PaaS | [ ] | [ ] |
+| The advantages and disadvantages of using a PaaS | [ ] | [ ] |
+| Examples of IaaS | [ ] | [ ] |
+| The advantages and disadvantages of using an IaaS | [ ] | [ ] |
+| How to deploy an app to a PaaS or IaaS | [ ] | [ ] |
+| How to decide which platform is best suited to my program’s needs | [ ] | [ ] |
+| How to know when I should not use any platform | [ ] | [ ] |
+| Most common IaaS host service platforms and how to use them | [ ] | [ ] |
+| How and why to create an autoscaling group for IaaS | [ ] | [ ] |
 
 ----------------
 
