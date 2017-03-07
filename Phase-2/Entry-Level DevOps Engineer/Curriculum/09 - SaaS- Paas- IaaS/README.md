@@ -19,6 +19,7 @@ Outputs
 | The advantages and disadvantages of using a PaaS | [ ] | [ ] |
 | Examples of IaaS | [ ] | [ ] |
 | The advantages and disadvantages of using an IaaS | [ ] | [ ] |
+| Definition of Availability Zones in an IaaS | [ ] | [ ] |
 | How to deploy an app to a PaaS or IaaS | [ ] | [ ] |
 | How to decide which platform is best suited to my program’s needs | [ ] | [ ] |
 | How to know when I should not use any platform | [ ] | [ ] |
