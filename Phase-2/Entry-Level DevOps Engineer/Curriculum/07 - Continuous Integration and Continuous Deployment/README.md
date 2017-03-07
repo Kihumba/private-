@@ -21,8 +21,8 @@ Outputs
 | What constitutes a good Continuous Deployment process | [ ] | [ ] |
 | How to set up an environment for Continuous Integration  | [ ] | [ ] |
 | How and why to create a CI pipeline | [ ] | [ ] |
-| Main Continuous Deployment tools (Docker, ElectricFlow, etc) and what they are used for | [ ] | [ ] |
-| The most common tools used in Continuous Integration (Concourse, Jenkins, etc.) | [ ] | [ ] |
+| Main Continuous Deployment tools and what they are used for | [ ] | [ ] |
+| The most common tools used in Continuous Integration | [ ] | [ ] |
 | The principles of Containers as a Service (CaaS)  | [ ] | [ ] |
 | How to set up production-like environments for testing | [ ] | [ ] |
 | How to automate unit test builds | [ ] | [ ] |
