@@ -15,7 +15,7 @@ Output
 | Knowledge Unit   |      Studied      | Applied |
 |:-----------------|:-----------------:|:-------:|
 | When to use virtualization tools | [ ] | [ ] |
-| Most common virtualization tools (VMWare, KVM, Xen, Hyper-V) | [ ] | [ ] |
+| Most common virtualization tools | [ ] | [ ] |
 | How to use at least one virtualization tool | [ ] | [ ] |
 | The distinction between Containers and Virtual Machines, and when to use each | [ ] | [ ] |
 | Differences between Cloud Elasticity and Cloud Scalability | [ ] | [ ] |
