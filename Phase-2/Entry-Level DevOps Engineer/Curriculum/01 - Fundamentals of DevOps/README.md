@@ -22,12 +22,12 @@ Outputs
 | Where DevOps fits into the Software Development Lifecycle | [ ] | [ ]  |
 | How a DevOps engineer’s work intersects cross-functionally with development teams, operations, and Product Managers  | [ ] | [ ]  |
 | The main steps required for general system maintenance of a product  | [ ] | [ ]  |
-| Main DevOps tools and their use cases (Ansible, Nagios, AccelOps, Tripwire, etc.) | [ ] | [ ]  |
+| Main DevOps tools and their use cases | [ ] | [ ]  |
 | Main operating systems you might work with as a DevOps engineer | [ ] | [ ]  |
 | The definition and importance of Continuous Integration  | [ ] | [ ]  |
 | The definition and importance of Test Automation  | [ ] | [ ]  |
 | The definition and importance of Release Management  | [ ] | [ ]  |
-| The appropriate functions within different development environments (testing, integration, staging, and production) | [ ] | [ ]  |
+| The functions of different development environments (testing, integration, staging, and production) | [ ] | [ ]  |
 | How application code progresses from one environment to the next | [ ] | [ ]  |
 
 
@@ -40,6 +40,9 @@ Outputs
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I join a new project as a DevOps engineer **Action:** I learn the basics of how my product’s languages and frameworks are used and deployed | [ ] | [ ]  |
+| **Context:** When determining the best process to implement as a DevOps engineer **Action:** I choose the one that maximizes efficiency without losing any function. | [ ] | [ ]  |
+| **Context:** When I have a DevOps problem to solve **Action:** I break it down into smaller pieces and choose the appropriate tool to resolve each. | [ ] | [ ]  |
+| **Context:** If none of the traditional DevOps tools to meet my needs **Action:** I come up with my own. | [ ] | [ ]  |
 | **Context:** When I am asked to solve an issue or bug for my team **Action:** I consider the scope of the work, set reasonable and realistic timelines, and present alternatives if the work asked of me will be impossible to accomplish in the time given. | [ ] | [ ]  |
 | **Context:** When estimating the time it will take me to complete some work **Action:** I systematically break down the challenge into individual tasks and provide estimates on each. | [ ] | [ ]  
 | **Context:** Before putting forth any outputs (code commits, emails, Slack, Development Environment setup, etc) **Action:** I check and double check to review that they meet standards. | [ ] | [ ]  |
