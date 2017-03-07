@@ -8,7 +8,7 @@ A person with this skill can back up data on a system so as to be able to recove
 
 Outputs
 -------
-- **Task:** On either an existing or new application, set up recurring automatic backups of critical data (database, e.t.c) on the system. Also set up scripts to verify the backups to ensure it is valid and restorable and to move the backup data to an external store (AWS S3). 
+- **Task:** On either an existing or new application, set up recurring automatic backups of critical data (database, e.t.c) on the system. Also set up scripts to verify the backups to ensure it is valid and restorable and to move the backup data to an external store (eg. AWS S3). 
 - **Resources:** Be able to defend your choice of tools based on your product’s system
 - **Include:** N/A
 
@@ -24,6 +24,7 @@ Outputs
 | How to implement both incremental backups and full backups | [ ] | [ ] |
 | How to set up recurring automatic backups for critical data | [ ] | [ ] |
 | How to set up scripts to move backup data to external storage | [ ] | [ ] |
+| How to verify a backup | [ ] | [ ] |
 | How to put  together a recovery plan to restore the data in the event of data loss | [ ] | [ ] |
 
 
@@ -52,3 +53,4 @@ Outputs
 |:------------------|:--------------:|:------------:|
 | It is my responsibility to protect user information | [ ] | [ ] |
 | Having a backup installed is like having a magical “undo” button-- I will inevitably be very grateful for its existence | [ ] | [ ] |
+| Verifying that the backup worked gives me peace of mind.| [ ] | [ ] |
