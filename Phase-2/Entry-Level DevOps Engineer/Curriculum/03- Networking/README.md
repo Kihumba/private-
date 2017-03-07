@@ -33,7 +33,7 @@ Outputs
 | How to work with a Firewall to control access to the system | [ ] | [ ] |
 | How to tell which ports are currently open on a system | [ ] | [ ] |
 | How to open or block ports | [ ] | [ ] |
-| Common network troubleshooting and analysis commands (nmap, ping, airmon, etc.) | [ ] | [ ] |
+| Common network troubleshooting and analysis commands | [ ] | [ ] |
 | How to set a static or dynamic IP address on a machine with different subnets (CIDR) | [ ] | [ ] |
 
 
@@ -47,7 +47,7 @@ Outputs
 | Observable Behavior   |      Practiced      | Observed |
 |:----------------------|:------------------:|:--------:|
 | **Context:** Before setting up a network **Action:** I use a subnet mask to define the available number of IP addresses | [ ] | [ ] |
-| **Context:** When I assign an IP address to a machine **Action:** I assign using a subnet mask | [ ] | [ ] |
+| **Context:** When I assign an IP address to a machine **Action:** I assign it using a subnet mask | [ ] | [ ] |
 | **Context:** When I assign an IP address to a machine **Action:** I assign both IPv4 & IPV6 address | [ ] | [ ] |
 | **Context:** When I am setting up a Firewall  **Action:** I list and set rules to tell the Firewall what attributes are “good” and “bad” | [ ] | [ ] |
 | **Context:** When I see anything unusual in my Firewall log **Action:** I compare it with frequently abused ports and services and block any that might be harmful | [ ] | [ ] |
