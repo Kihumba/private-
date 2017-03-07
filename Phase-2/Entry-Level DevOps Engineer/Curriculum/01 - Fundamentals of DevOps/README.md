@@ -29,6 +29,8 @@ Outputs
 | The definition and importance of Release Management  | [ ] | [ ]  |
 | The functions of different development environments (testing, integration, staging, and production) | [ ] | [ ]  |
 | How application code progresses from one environment to the next | [ ] | [ ]  |
+| How to communicate timelines and expectations with my team | [ ] | [ ]  |
+| Steps to estimate the time a task will take me | [ ] | [ ]  |
 
 
 
