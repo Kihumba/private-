@@ -58,6 +58,5 @@ Outputs
 | Speed is key-- the faster I can fix a customer issue, the more effective my product can be. | [ ] | [ ]  |
 | DevOps exists to kill bureaucracy and move fast. | [ ] | [ ]  |
 | If I bring in the wrong tools or use them in the wrong way it can introduce more bureaucracy. | [ ] | [ ]  |
-| If DevOps is standing in the way of efficiency, that is Anti-DevOps | [ ] | [ ]  |
 | I must be able to defend how I came up with a time estimate that it would take me to complete some work, even if it wound up not being accurate.  | [ ] | [ ]  |
 
