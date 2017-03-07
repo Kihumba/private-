@@ -50,7 +50,6 @@ Outputs
 
 ## **Beliefs**
 
-
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | DevOps is a process, not just the tools I use to implement that process. | [ ] | [ ]  |
