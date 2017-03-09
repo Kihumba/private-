@@ -32,7 +32,7 @@ ____
 | When I begin a new working relationship with someone, I frame the value that I have gained from an open feedback environment and discuss how we could implement this here | [ ] | [ ] |
 | When I give ASK feedback, I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information | [ ] | [ ] |
 | When I give feedback that is actionable, I speak to future actions and avoid past scenarios or what I wish “would have happened” | [ ] | [ ] |
-| When I am giving and receiving feedback, I am courageously vulnerable.  (https://www.ted.com/talks/brene_brown_on_vulnerability) | [ ] | [ ] |
+| When I am giving and receiving feedback, I am [courageously vulnerable.] (https://www.ted.com/talks/brene_brown_on_vulnerability "courageously vulnerable") | [ ] | [ ] |
 | When my feedback is Specific and Kind, I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
 | When I give feedback, I start with the belief in the other person’s ability to grow and change | [ ] | [ ] |
 | When I have a negative reaction to feedback presented to me, I voice my discomfort | [ ] | [ ] |
