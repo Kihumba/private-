@@ -1,6 +1,7 @@
 # Passion 
 
 Skill Description
+---------- 
 With this life approach, I believe I can change the world and I act accordingly. I constantly seek to inspire and to be inspired. I approach every goal with unwavering energy and conviction; I embody grit and persistence.
 
 
