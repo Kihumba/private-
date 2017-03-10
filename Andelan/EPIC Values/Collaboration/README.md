@@ -49,10 +49,10 @@ With a colleague, co-design a guide to your team principles regarding collaborat
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I trust We more than I trust Me | [ ] | [ ]  |
-| Our Sum is greater than our Parts | [ ] | [ ]  |
-| I am not limited by borders, real or imaginary | [ ] | [ ]  |
-| Our strength is in our diversity | [ ] | [ ]  |
-| The magic happens when we work together  | [ ] | [ ]  |
-| I inspire people with debate rather than infecting them with complaints | [ ] | [ ]  |
-| There is nothing more powerful than the collective wisdom of a diverse community  | [ ] | [ ]  |
+| I trust We more than I trust Me. | [ ] | [ ]  |
+| Our Sum is greater than our Parts. | [ ] | [ ]  |
+| I am not limited by borders, real or imaginary. | [ ] | [ ]  |
+| Our strength is in our diversity. | [ ] | [ ]  |
+| The magic happens when we work together. | [ ] | [ ]  |
+| I inspire people with debate rather than infecting them with complaints. | [ ] | [ ]  |
+| There is nothing more powerful than the collective wisdom of a diverse community. | [ ] | [ ]  |
