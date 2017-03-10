@@ -6,12 +6,12 @@ With this life approach, I aspire to be the best possible version of myself. I k
 
 Outputs
 ----------
-- Output 1: 
+- Output 1: <br>
 **Task** Write a list of obstacles that you face in your current daily life. <br>
 **Resources** Transform them one at a time into a set of opportunities, and outine the process to get there.<br>
 **Include** Share with your colleagues for reflection.<br>
 
-- Output 2: 
+- Output 2: <br>
 **Task** Describe how you currently embody excellence, and how you strive to to do so in the future.<br>
 **Resources** Create a short blog post, reflection, image, or other artifact. <br>
 **Incude** Share with your colleagues for reflection.<br>
