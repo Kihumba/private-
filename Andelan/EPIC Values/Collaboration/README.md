@@ -1,6 +1,7 @@
 # Collaboration 
 
 Skill Description
+----------
 With this life approach, I will be able to have a greater impact by joining forces with others. I will know how to effectively collaborate with individuals from different backgrounds, with different beliefs and personalities, in order to achieve our goals.
 
 Outputs
