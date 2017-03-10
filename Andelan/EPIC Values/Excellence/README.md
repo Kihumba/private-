@@ -1,6 +1,7 @@
 # Excellence 
 
 Skill Description
+----------
 With this life approach, I aspire to be the best possible version of myself. I know that my work is a representation of who I am, and I hold everything I do and everyone I interact with to the highest standards. I am a lifelong learner who strives for mastery of my craft.
 
 Outputs
