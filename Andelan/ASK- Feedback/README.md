@@ -22,23 +22,24 @@ ____
 | How to deliver ASK feedback while reducing the emotional cost of the feedback  | [ ] | [ ] |
 | What vulnerability is  | [ ] | [ ] |
 | How to be vulnerable when giving and receiving feedback  | [ ] | [ ] |
+| The benefits of giving specific feedback  | [ ] | [ ] |
 
 ____ 
 
 ## Behavior
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
-| When I begin a new working relationship with someone, I ask them what their expectations are around feedback and communication. | [ ] | [ ] |
-| When I begin a new working relationship with someone, I frame the value that I have gained from an open feedback environment and discuss how we could implement this here | [ ] | [ ] |
-| When I give ASK feedback, I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information | [ ] | [ ] |
-| When I give feedback that is actionable, I speak to future actions and avoid past scenarios or what I wish “would have happened” | [ ] | [ ] |
-| When I am giving and receiving feedback, I am [courageously vulnerable.] (https://www.ted.com/talks/brene_brown_on_vulnerability "courageously vulnerable") | [ ] | [ ] |
-| When my feedback is Specific and Kind, I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
-| When I give feedback, I start with the belief in the other person’s ability to grow and change | [ ] | [ ] |
-| When I have a negative reaction to feedback presented to me, I voice my discomfort | [ ] | [ ] |
-| When I voice discomfort with the way feedback is given to me, I do it in a way that is also ASK to allow the feedback to be communicated in a new way (“Owning my Ouch”) | [ ] | [ ] |
-| When I notice that I am being hard on myself, I give myself ASK feedback | [ ] | [ ] |
-| When I notice doubt in myself in a person’s ability to grow, I remind myself of values and strengths the person has, and describe ways they can build on those gifts with my support | [ ] | [ ] |
+| **Context** When I begin a new working relationship with someone, **Action** I ask them what their expectations are around feedback and communication. | [ ] | [ ] |
+| **Context** When I begin a new working relationship with someone, **Action** I frame the value that I have gained from an open feedback environment and discuss how we could implement this here | [ ] | [ ] |
+| **Context** When I give ASK feedback, **Action** I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information | [ ] | [ ] |
+| **Context** When I give actionable feedback, **Action** I focus on what can be done better rather than dwelling on how I wish past events had occurred. | [ ] | [ ] |
+| **Context** When I am giving and receiving feedback, **Action** I am [courageously vulnerable.] (https://www.ted.com/talks/brene_brown_on_vulnerability "courageously vulnerable") | [ ] | [ ] |
+| **Context** When my feedback is Specific and Kind, **Action** I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
+| **Context** When I give feedback, **Action** I start with the belief in the other person’s ability to grow and change | [ ] | [ ] |
+| **Context** When I have a negative reaction to feedback presented to me, **Action** I voice my discomfort | [ ] | [ ] |
+| **Context** When I voice discomfort with the way feedback is given to me, **Action** I do it in a way that is also ASK to allow the feedback to be communicated in a new way (“Owning my Ouch”) | [ ] | [ ] |
+| **Context** When I notice that I am being hard on myself, **Action** I give myself ASK feedback | [ ] | [ ] |
+| **Context** When I notice doubt in myself in a person’s ability to grow, **Action** I remind myself of values and strengths the person has, and describe ways they can build on those gifts with my support | [ ] | [ ] |
 
 ____ 
 
@@ -55,6 +56,7 @@ ____
 | Specific feedback inspires reflection and action | [ ] | [ ] |
 | Kind feedback opens up hearts to receive the feedback | [ ] | [ ] |
 | Kind feedback ignites the recipient’s desire to act on the feedback using their strengths | [ ] | [ ] |
+| Trust is broken when feedback is not shared in time, or at all | [ ] | [ ] |
 
 
 
