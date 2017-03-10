@@ -7,9 +7,9 @@ With this life approach, I live in accordance with my values. I know that all I 
 
 Outputs
 ----------
-**Task** Write a personal honor code.<br>
-**Resources** Reflect (in writing) on how you prioritize what is right relative to what might bring you personal benefit.<br>
-**Include** Share with colleageus for reflection. <br>
+- **Task:** Write a personal honor code.<br>
+- **Resources:** Reflect (in writing) on how you prioritize what is right relative to what might bring you personal benefit.<br>
+- **Include:** Share with colleageus for reflection. <br>
 
 ----------
 
