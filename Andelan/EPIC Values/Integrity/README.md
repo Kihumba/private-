@@ -1,12 +1,15 @@
 # Integrity 
 
-Skill Description
+Skill Description 
+----------
 With this life approach, I live in accordance with my values. I know that all I do is a reflection of the values I profess. I embrace the added responsibility of leading by example, and want others to hold me accountable. I know Integrity is everything I say and everything I do which is a true reflections of what I value and what is important to me. 
 
 
 Outputs
 ----------
-Write a personal honor code. Reflect (in writing) on how you prioritize what is right relative to what might bring you personal benefit.
+**Task** Write a personal honor code.
+**Resources** Reflect (in writing) on how you prioritize what is right relative to what might bring you personal benefit.
+**Include** Share with colleageus for reflection. 
 
 ----------
 
