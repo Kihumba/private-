@@ -44,20 +44,23 @@ Outputs
 | **Context:** When I experience a fear of failure, **Action:** I channel that energy into improving my chances of success. | [ ] | [ ]  |
 
 
+----------
+
+
 ## **Beliefs**
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| I am internally motivated | [ ] | [ ]  |
-| I advance through merit alone | [ ] | [ ]  |
-| I earn trust and respect by radiating excellence | [ ] | [ ]  |
-| If I can dream it then I can live it | [ ] | [ ]  |
-| Nothing is impossible | [ ] | [ ]  |
-| I am accountable for the results of my actions | [ ] | [ ]  |
-| When the world says “it is impossible,” I make it possible | [ ] | [ ]  |
-| I solve my own problems to the benefit of others | [ ] | [ ]  |
-| I will learn something new everyday | [ ] | [ ]  |
+| I am internally motivated. | [ ] | [ ]  |
+| I advance through merit alone. | [ ] | [ ]  |
+| I earn trust and respect by radiating excellence. | [ ] | [ ]  |
+| If I can dream it then I can live it. | [ ] | [ ]  |
+| Nothing is impossible. | [ ] | [ ]  |
+| I am accountable for the results of my actions. | [ ] | [ ]  |
+| When the world says “it is impossible,” I make it possible. | [ ] | [ ]  |
+| I solve my own problems to the benefit of others. | [ ] | [ ]  |
+| I will learn something new everyday. | [ ] | [ ]  |
 | Excellent mentality will start producing excellent thoughts, excellent thoughts produce excellent actions such as: | | |
 | -Taking initiative | [ ] | [ ]  |
 | -Having a broad vision | [ ] | [ ]  |
@@ -70,5 +73,3 @@ Outputs
 | -Respecting others | [ ] | [ ]  |
 | -Using the best available resources | [ ] | [ ]  |
 | -Knowing how to express myself clearly, in writing or verbally | [ ] | [ ]  |
-
-
