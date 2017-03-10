@@ -5,9 +5,9 @@ Andelans are committed to communicating and interpreting feedback in a way that 
 
 
 ## Output
-Task: Give ASK feedback to a peer, a boss, and a friend 
-Resources: Use the ASK Framework 
-Include: Reflect with each person about how your feedback came across (and process their feedback in the ASK model as well!)
+**Task:** Give ASK feedback to a peer, a boss, and a friend  
+**Resources:** Use the ASK Framework 
+**Include:** Reflect with each person about how your feedback came across (and process their feedback in the ASK model as well!)
 
 ____ 
 
