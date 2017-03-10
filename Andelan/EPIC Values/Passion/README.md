@@ -7,9 +7,20 @@ With this life approach, I believe I can change the world and I act accordingly.
 
 Outputs
 ---------- 
-- Craft your own personal (and/or professional) mission and vision statements
-- Draw an Inspiration Map that shows where you derive your inspiration from and what your core passions are
-- Create a vision board that shows your passions and how you plan to act on them
+- Output 1: <br>
+**Task:** Craft your own personal (and/or professional) mission and vision statements.  <br>
+**Resources:** Create a short statement in writing. <br>
+**Include:** N/A <br>
+- Output 2: <br>
+**Task:** Draw an Inspiration Map that shows where you derive your inspiration from and what your core passions are. <br>
+**Resources:** Use any physical or digital medium you choose. <br>
+**Include:** N/A <br>
+
+- Output 3: <br> 
+**Task:** Create a vision board that shows your passions and how you plan to act on them. <br>
+**Resources:** Use any physical or digital medium you choose. <br>
+**Include:** N/A <br>
+
 
 ----------
 ## **Knowledge**
