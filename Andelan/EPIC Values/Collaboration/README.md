@@ -5,7 +5,9 @@ With this life approach, I will be able to have a greater impact by joining forc
 
 Outputs
 ----------
-With a colleague, co-design a guide to your team principles regarding collaboration. Include reflections on the creation process.
+**Task:** Co-design a guide to your team principles regarding collaboration.
+**Resources:** Use a visualization or writing. Include reflections on the creation process.
+**Include** A colleague on your team. 
 
 ----------
 
