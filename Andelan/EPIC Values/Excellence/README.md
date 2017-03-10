@@ -5,8 +5,15 @@ With this life approach, I aspire to be the best possible version of myself. I k
 
 Outputs
 ----------
-- Write a list of obstacles that you face in your current daily life. Transform them one at a time into a set of opportunities, and outine the process to get there.
-- Create a short blog post, reflection, image, or other artifact in which you describe how you currently embody excellence, and how you strive to to do so in the future.
+- Output 1: 
+**Task** Write a list of obstacles that you face in your current daily life. 
+**Resources** Transform them one at a time into a set of opportunities, and outine the process to get there.
+**Include** Share with your colleagues for reflection.
+
+- Output 2: 
+**Task** Describe how you currently embody excellence, and how you strive to to do so in the future.
+**Resources** Create a short blog post, reflection, image, or other artifact. 
+**Incude** Share with your colleagues for reflection.
 
 ----------
 ## **Knowledge**
