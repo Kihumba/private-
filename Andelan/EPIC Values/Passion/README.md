@@ -39,6 +39,8 @@ Outputs
 | **Context:** When I feel like giving up, **Action:** I reflect on my goals and dreams to keep going. | [ ] | [ ]  |
 | **Context:** To prepare for inevitable setbacks, **Action:** I build support systems that I can turn to when I need help. | [ ] | [ ]  |
 
+----------
+
 
 ## **Beliefs**
 
