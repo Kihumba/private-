@@ -10,7 +10,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 1. Screenshots showing I passed the exercises in following sections of Khan Academy's Probability snd Statistics courses:
   - Independent and Dependent events
-  - Probablity and Combinatorics
+  - Probability and Combinatorics
 2. A program showing assignment and use of variables
 
 
@@ -24,7 +24,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * Examples of independent events | [ ] | [ ]  |
 | * Examples of dependent events | [ ] | [ ]  |
-| * Use cases of probablity in programming | [ ] | [ ]  |
+| * Use cases of probability in programming | [ ] | [ ]  |
 | * Use cases of combinatorics in programming | [ ] | [ ]  |
 | * How to assign and use variables     | [ ] | [ ]  |
 | * Similarities between algebraic functions and programing functions   | [ ] | [ ]  |
@@ -39,7 +39,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When writing programs **Action:** I use variables to make my functions dynamic | [ ] | [ ] |
-| **Context:** When writing programs with conditional logic **Action:** I leverage probablity to optimize my conditionals for cases that are most likely to occur | [ ] | [ ] |
+| **Context:** When writing programs with conditional logic **Action:** I leverage probability to optimize my conditionals for cases that are most likely to occur | [ ] | [ ] |
 | | | |
 
 
@@ -53,5 +53,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Algebra is solid foundation for understanding how programming works with inputs and outputs| [ ] | [ ] |
-| Probablity lets me write programs optimized for frequent use cases | [ ] | [ ] |
+| Probability lets me write programs optimized for frequent use cases | [ ] | [ ] |
 
