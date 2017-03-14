@@ -1,4 +1,4 @@
-#Program Design Track
+Program Design Track
 
 1. Setting and Reporting on Program Goals
 2. Running Program Tests
