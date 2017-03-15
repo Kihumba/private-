@@ -31,7 +31,7 @@ Outputs
 | **Context:** Once I have identified a small group of experts, **Action:** I ask them to come together for a 20 to 30 minute conversation about the subject matter, for the purpose of drafting curriculum | [ ] | [ ]  |
 | **Context:** Before the conversation with the experts, **Action:** I ensure that the call will be recorded if possible to provide supplementary learning resources | [ ] | [ ]  |
 | **Super-Context:** During the expert interview... |  |   |
-| **Context:** At the start of the conversation with the experts, **Action:**I briefly remind everyone of the purpose of the call and ensure that everyone understands which topic we will be discussing | [ ] | [ ]  |
+| **Context:** At the start of the conversation with the experts, **Action:** I briefly remind everyone of the purpose of the call and ensure that everyone understands which topic we will be discussing | [ ] | [ ]  |
 | **Context:** As soon as everyone is aligned on the purpose and topic for the conversation,  **Action:** I ask everyone to share their successes and challenges with the topic of interest to get the conversation flowing | [ ] | [ ]  |
 | **Context:** While the experts are describing their successes and challenges with the skill, **Action:** I take notes on key themes | [ ] | [ ]  |
 | **Context:** Once everyone has contributed and a handful of key themes have been raised,  **Action:** I ask for specific examples, details, and stories that reveal the beliefs, habits, and knowledge behind the key themes | [ ] | [ ]  |
