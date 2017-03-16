@@ -61,4 +61,4 @@ ____
 ____ 
 
 ## External Resources
-- [ASK Feedback Presentation](https://docs.google.com/a/andela.com/presentation/d/1psh95nUAs3Tpt8gxhQdVgKJ8jh1NZ7hgnhs09Ksk_TA/edit?usp=sharing
+- [ASK Feedback Presentation](https://docs.google.com/a/andela.com/presentation/d/1psh95nUAs3Tpt8gxhQdVgKJ8jh1NZ7hgnhs09Ksk_TA/edit?usp=sharing)
