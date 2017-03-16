@@ -33,7 +33,7 @@ ____
 | **Context** When I begin a new working relationship with someone, **Action** I frame the value that I have gained from an open feedback environment and discuss how we could implement this here | [ ] | [ ] |
 | **Context** When I give ASK feedback, **Action** I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information | [ ] | [ ] |
 | **Context** When I give actionable feedback, **Action** I focus on what can be done better rather than dwelling on how I wish past events had occurred. | [ ] | [ ] |
-| **Context** When I am giving and receiving feedback, **Action** I am [courageously vulnerable.] (https://www.ted.com/talks/brene_brown_on_vulnerability "courageously vulnerable") | [ ] | [ ] |
+| **Context** When I am giving and receiving feedback, **Action** I am [courageously vulnerable] (https://www.ted.com/talks/brene_brown_on_vulnerability). | [ ] | [ ] |
 | **Context** When my feedback is Specific and Kind, **Action** I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
 | **Context** When I give feedback, **Action** I start with the belief in the other person’s ability to grow and change | [ ] | [ ] |
 | **Context** When I have a negative reaction to feedback presented to me, **Action** I voice my discomfort | [ ] | [ ] |
