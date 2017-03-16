@@ -30,12 +30,12 @@ ____
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
 | **Context** When I begin a new working relationship with someone, **Action** I ask them what their expectations are around feedback and communication. | [ ] | [ ] |
-| **Context** When I begin a new working relationship with someone, **Action** I frame the value that I have gained from an open feedback environment and discuss how we could implement this here | [ ] | [ ] |
-| **Context** When I give ASK feedback, **Action** I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information | [ ] | [ ] |
+| **Context** When I begin a new working relationship with someone, **Action** I frame the value that I have gained from an open feedback environment and discuss how we could implement this here. | [ ] | [ ] |
+| **Context** When I give ASK feedback, **Action** I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information. | [ ] | [ ] |
 | **Context** When I give actionable feedback, **Action** I focus on what can be done better rather than dwelling on how I wish past events had occurred. | [ ] | [ ] |
-| **Context** When I am giving and receiving feedback, **Action** I am courageously vulnerable. | [ ] | [ ] |
+| **Context** When I am giving and receiving feedback, **Action** I am [courageously vulnerable]( https://www.ted.com/talks/brene_brown_on_vulnerability). | [ ] | [ ] |
 | **Context** When my feedback is Specific and Kind, **Action** I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
-| **Context** When I give feedback, **Action** I start with the belief in the other person’s ability to grow and change | [ ] | [ ] |
+| **Context** When I give feedback, **Action** I start with the belief in the other person’s ability to grow and change. | [ ] | [ ] |
 | **Context** When I have a negative reaction to feedback presented to me, **Action** I voice my discomfort | [ ] | [ ] |
 | **Context** When I voice discomfort with the way feedback is given to me, **Action** I do it in a way that is also ASK to allow the feedback to be communicated in a new way (“Owning my Ouch”) | [ ] | [ ] |
 | **Context** When I notice that I am being hard on myself, **Action** I give myself ASK feedback | [ ] | [ ] |
@@ -61,5 +61,4 @@ ____
 ____ 
 
 ## External Resources
-- Courageous Vulnerability: https://www.ted.com/talks/brene_brown_on_vulnerability)
-- ASK Feedback Presentation: https://docs.google.com/a/andela.com/presentation/d/1psh95nUAs3Tpt8gxhQdVgKJ8jh1NZ7hgnhs09Ksk_TA/edit?usp=sharing
+- [ASK Feedback Presentation](https://docs.google.com/a/andela.com/presentation/d/1psh95nUAs3Tpt8gxhQdVgKJ8jh1NZ7hgnhs09Ksk_TA/edit?usp=sharing
