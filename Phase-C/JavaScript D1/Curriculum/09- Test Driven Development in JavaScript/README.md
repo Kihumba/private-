@@ -1,0 +1,45 @@
+# Outcome 9- Test Driven Development in Javascript
+
+## Skill Description 
+A person with this skill can explain the importance of TDD as a software development process in general, and consistently uses TDD in their JavaScript programming process. They are familiar with the tool options they have for testing in JavaScript, can explain the benefits and drawbacks of each, and can effectively use at least one. 
+
+## Output
+- **Task:** Test a simple JavaScript application you have already written as is, and try to work through fixing any bugs/errors. 
+- **Resources:** Using Test Driven Development, go back and rebuild the application, including TDD steps along the way.
+- **Include:** N/A
+-------
+
+### Knowledge
+
+| Knowledge Unit   |      Studied      | Applied |
+|:-------------|:------------------:|:--------:|
+| The definition of test driven development | [ ] | [ ] |
+| Why TDD is important in JavaScript | [ ] | [ ] |
+| The steps of the [TDD process](https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/25%20-%20Test-Driven%20Development/README.md) | [ ] | [ ] |
+| How to write unit tests in Javascript | [ ] | [ ] |
+| Tools for Testing in Javascript, and how to determine which to use | [ ] | [ ] |
+| Distinction between Mocks, Stubs, spies and how to use each in testing | [ ] | [ ] |
+
+
+-------
+
+### Behaviors
+
+| Observable Behavior   |      Practiced      | Observed |
+|:-------------|:------------------:|:--------:| 
+| **Context:** When I am writing a Javascript program, **Action:** I first write tests before I even write my functions or procedures. | [ ] | [ ] |
+| **Context:** When a test fails, **Action:** I write the minimum code to make the test pass. 
+| **Context:** When I have written my minimal code for a method or function, **Action:** I refactor to improve it to acceptable standards. | [ ] | [ ] | 
+| **Context:** When I want a test double that returns controlled values to the object being tested, I use a test stub. | [ ] | [ ] | 
+| **Context:** When I want to verify object behavior during a test, **Action:** I use a mock object. | [ ] | [ ] |
+When I want to verify indirect outputs of the system under test, **Action:** I use a test spy. | [ ] | [ ] |
+
+-------
+
+### Beliefs
+
+| Embodied Belief   |      Felt      | Demonstrated |
+|:-------------|:------------------:|:--------:| 
+| Test Driven Development leads to more effective code. | [ ] | [ ] |
+| Refactoring is a necessary part of the TDD process. | [ ] | [ ] |
+| Test driven development is fun-- the simple steps and pattern add a structure to my process and make it (even) more enjoyable! | [ ] | [ ] |
