@@ -4,9 +4,9 @@
 A person with this skill can apply their basic knowledge of Java programming to Google’s Android environment. They can set up an Android work environment and use it to construct and run a basic Android app. 
 
 ## Output
-*Task:* Install, build, and run a basic Android application with a single view 
-*Resources:* Using both an emulator and an actual Android device.
-*Involving:* N/A 
+- **Task:** Install, build, and run a basic Android application with a single view 
+- **Resources:** Using both an emulator and an actual Android device.
+- **Involving:** N/A 
 
 ### Knowledge
 
