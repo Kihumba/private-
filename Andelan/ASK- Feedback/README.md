@@ -34,7 +34,6 @@ ____
 | **Context** When I give ASK feedback, **Action** I make sure to give it in a timely manner so that the other person has time to reflect and grow from the information. | [ ] | [ ] |
 | **Context** When I give actionable feedback, **Action** I focus on what can be done better rather than dwelling on how I wish past events had occurred. | [ ] | [ ] |
 | **Context** When I am giving and receiving feedback, **Action** I am [courageously vulnerable]( https://www.ted.com/talks/brene_brown_on_vulnerability). | [ ] | [ ] |
-| **Context** When my feedback is Specific and Kind, **Action** I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
 | **Context** When I give feedback, **Action** I start with the belief in the other person’s ability to grow and change. | [ ] | [ ] |
 | **Context** When I have a negative reaction to feedback presented to me, **Action** I voice my discomfort | [ ] | [ ] |
 | **Context** When I voice discomfort with the way feedback is given to me, **Action** I do it in a way that is also ASK to allow the feedback to be communicated in a new way (“Owning my Ouch”) | [ ] | [ ] |
@@ -57,6 +56,7 @@ ____
 | Kind feedback opens up hearts to receive the feedback | [ ] | [ ] |
 | Kind feedback ignites the recipient’s desire to act on the feedback using their strengths | [ ] | [ ] |
 | Trust is broken when feedback is not shared in time, or at all | [ ] | [ ] |
+| When my feedback is Specific and Kind, I encourage the recipient to take actionable steps to improve  | [ ] | [ ] |
 
 ____ 
 
