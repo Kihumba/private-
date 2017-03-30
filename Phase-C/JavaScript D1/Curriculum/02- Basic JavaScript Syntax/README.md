@@ -1,4 +1,4 @@
-## Objective 2- Basic JavaScript Syntax
+# Objective 2- Basic JavaScript Syntax
 
 ## Skill Description
 A person with this skill can write and run basic JavaScript commands in the console.  They adhere to Javascript syntax conventions, and comment their code to clarify the purpose of each line. 
