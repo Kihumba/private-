@@ -1,4 +1,4 @@
-Outcome 7- Writing Multithreaded Applications
+# Outcome 7- Writing Multithreaded Applications
 
 ## Skill Description
 A person with this skill can use multithreading to allow their application to run multiple tasks at once. They can explain the concept of multithreading, identify when it’s being used, and outline what is happening in the background of concurrent events. 
