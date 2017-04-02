@@ -28,7 +28,7 @@ A person with this skill can use various build tools to transpile their code. Th
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I want to try out a new feature or new specs as soon as they are available, **Action:** I use a transpiler to communicate my code to the browser. |   [ ]   |   [ ] |
-| **Context:** When I discover something that works or doesn’t work in a new Spec, **Action:** I let the writer and the community know. |   [ ]   |   [ ] |
+| **Context:** When I discover something that works or doesn’t work in a new Spec, **Action:** I let the writer of the Spec and the community know. |   [ ]   |   [ ] |
 | **Context:** When I want to write future facing code, **Action:** I use a transpiler. |   [ ]   |   [ ] |
 | **Context:** When I am choosing a transpiler, **Action:** I consider the tradeoff between being able to use the next and newest with the risk of incompatibility in the future, and choose my own level of “instability tolerance.” |   [ ]   |   [ ] |
 
