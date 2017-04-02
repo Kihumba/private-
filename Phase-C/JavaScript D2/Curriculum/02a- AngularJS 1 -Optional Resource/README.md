@@ -34,6 +34,8 @@ A person with this skill can explain what makes AngularJS powerful, when it is t
 | **Context:** When I want to add a behavior to my scope object, **Action:** I attach a method. | [ ] | [ ] |
 | **Context:** When I am adding variables to my AngularJS code, **Action:**  I use isolated scopes whenever possible to avoid unwanted complexity. | [ ] | [ ] |
 | **Context:** When I need to perform business logic, **Action:** I use a controller rather than a function assigned to $rootScope. | [ ] | [ ] |
+| **Context:** When I want to keep my controllers slim, **Action:** I encapsulate work that doesn’t belong in them into services. | [ ] | [ ] |
+| **Context:** Once I have a service that needs to be used in a controller, **Action:** I make use of it through dependency injection.| [ ] | [ ] |
 
 -------
 
