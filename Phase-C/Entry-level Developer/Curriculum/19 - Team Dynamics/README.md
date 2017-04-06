@@ -67,4 +67,5 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Understanding the roles of every member of my team, including my own role, makes me more effective at my role | [ ] | [ ] |
 | Each of my actions shape the environment of the team's dynamic and its ability to thrive | [ ] | [ ] |
 | Not communicating quickly and clearly with my team has a negative impact on how my team members function and strains my relationships with them | [ ] | [ ] |
+| Helping my teammate is equivalent to helping myself | [ ] | [ ] |
 ---
