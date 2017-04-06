@@ -1,4 +1,4 @@
-#Guide to This Learning Path
+# Guide to This Learning Path
 
 At Andela, we are a community of passionate learners and innovators who live our values and use them to guide our actions. We want to empower leaders who will carry these values forward into the world, and influence others to believe in and practice them.
 
