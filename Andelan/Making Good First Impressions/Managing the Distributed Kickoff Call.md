@@ -20,8 +20,8 @@ A person with this skill can communicate clearly and effectively in a situation 
 | My own personal “isms” (verbal or physical communication habits) and tricks to avoiding them  | [ ] | [ ]  |
 | How to notice the communication patterns in my own speech | [ ] | [ ]  |
 | The proper lighting and background setting for a video call | [ ] | [ ]  |
-| The [best practices for a Google Hangouts/Skype call]("https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/49%20-%20Skype%20(Hangouts)/README.md") (muting when not speaking, using headphones, ect.) | [ ] | [ ]  |
-| How to [speak to be understood]("https://github.com/andela/learningmap/blob/master/Phase-B/Curriculum/15%20-%20Speaking%20to%20be%20Understood/README.md")| [ ] | [ ]  |
+| The [best practices for a Google Hangouts/Skype call]("https://github.com/andela/learningmap/tree/master/Phase-C/Entry-level%20Developer/Curriculum/49%20-%20Skype%20(Hangouts)") (muting when not speaking, using headphones, ect.) | [ ] | [ ]  |
+| How to [speak to be understood]("https://github.com/andela/learningmap/tree/master/Phase-B/Curriculum/15%20-%20Speaking%20to%20be%20Understood")| [ ] | [ ]  |
 | How to position myself and my laptop/camera for the call (camera angle, background, eye contact)  | [ ] | [ ]  |
 | How to give visual cues that I am listening and understanding | [ ] | [ ]  |
 | How to speak to be understood| [ ] | [ ]  |
