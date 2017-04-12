@@ -20,8 +20,8 @@ A person with this skill can communicate clearly and effectively in a situation 
 | My own personal “isms” (verbal or physical communication habits) and tricks to avoiding them  | [ ] | [ ]  |
 | How to notice the communication patterns in my own speech | [ ] | [ ]  |
 | The proper lighting and background setting for a video call | [ ] | [ ]  |
-| The best practices for a Google Hangouts/Skype call (muting when not speaking, using headphones, ect.) | [ ] | [ ]  |
-| How to speak to be understood| [ ] | [ ]  |
+| The [best practices for a Google Hangouts/Skype call]("https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/49%20-%20Skype%20(Hangouts)/README.md") (muting when not speaking, using headphones, ect.) | [ ] | [ ]  |
+| How to [speak to be understood]("https://github.com/andela/learningmap/blob/master/Phase-B/Curriculum/15%20-%20Speaking%20to%20be%20Understood/README.md")| [ ] | [ ]  |
 | How to position myself and my laptop/camera for the call (camera angle, background, eye contact)  | [ ] | [ ]  |
 | How to give visual cues that I am listening and understanding | [ ] | [ ]  |
 | How to speak to be understood| [ ] | [ ]  |
@@ -46,7 +46,7 @@ A person with this skill can communicate clearly and effectively in a situation 
 | **Context:** When I am taking notes  **Action:** I let the other person know that I am doing so in order to ensure they know why I’m looking down and away from the call. | [ ] | [ ]  |
 | **Context:** When I am on a video call **Action:** I look at the camera when talking, not at the person’s picture. | [ ] | [ ]  |
 | **Context:** When I am nervous before a call **Action:** I take 3-5 deep breaths from the diaphragm to help myself slow down my nervous system and enhance my calm. | [ ] | [ ]  |
-| **Context:** When I am speaking to be understood  **Action:** I I use these tools: 
+| **Context:** When I am speaking to be understood  **Action:** I use these tools: 
 |<li> Pausing </li> | [ ] | [ ]  |
 |<li> Pacing (speed of speech)</li> | [ ] | [ ]  |
 |<li> Checking in (asking if the listener understands) </li> | [ ] | [ ]  |
@@ -71,5 +71,5 @@ A person with this skill can communicate clearly and effectively in a situation 
 | I care more about what a person hears from me than what I “actually” say.   | [ ] | [ ]  |
 | It is better to be genuine and let my personality show than to be overly formal or self-conscious.  | [ ] | [ ]  |
 | A smile is a powerful tool for communication.  | [ ] | [ ]  |
-| Speaking slowly is the #1 way to enable understanding  | [ ] | [ ]  |
+| Speaking slowly is the #1 way to enable understanding.  | [ ] | [ ]  |
 | “Exaggerating” skills during practice will translate to greater comfort and better understanding during real world scenarios.  | [ ] | [ ]  |
