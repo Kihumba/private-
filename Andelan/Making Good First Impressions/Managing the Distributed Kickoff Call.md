@@ -16,7 +16,7 @@ A person with this skill can communicate clearly and effectively in a situation 
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| I know how to be a brand Ambassador for Andela | [ ] | [ ]  |
+| How to be a brand Ambassador for Andela | [ ] | [ ]  |
 | My own personal “isms” (verbal or physical communication habits) and tricks to avoiding them  | [ ] | [ ]  |
 | How to notice the communication patterns in my own speech | [ ] | [ ]  |
 | The proper lighting and background setting for a video call | [ ] | [ ]  |
