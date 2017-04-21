@@ -3,9 +3,10 @@
 ## Skill Description
 A person with this skill can connect to and manipulate databases in PHP to create complex and useful applications.
 
-## Outputs
-----------
-Create a PHP application that connects to at least one database, and allows users to create, read, update, and delete (CRUD) through your application. Example: (https://docs.google.com/a/andela.com/document/d/1UurObk2P9Nn7YKLWka12_PMDRHT7CbDCIgEMYzaEXVU)
+
+## Related Outputs
+- [Output 5](www.link.com)
+
 
 ----------
 ## Knowledge
