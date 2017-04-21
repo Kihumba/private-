@@ -3,9 +3,9 @@
 ## Skill Description
 A person with this skill can effectively implement both callbacks and closures in PHP program, and can explain how they work with anonymous functions. 
 
-## Outputs
-----------
-Create a PHP program that uses callbacks and closures in the place of defining a function. Alternatively, you can edit an existing PHP program you are working on to replace a function with callbacks and closures. 
+
+## Related Outputs
+- [Output 3](www.link.com)
 
 ----------
 ## Knowledge
