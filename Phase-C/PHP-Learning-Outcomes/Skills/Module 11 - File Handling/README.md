@@ -3,9 +3,8 @@
 ## Skill Description
 A person with this skill can make effective use of File Handling in a PHP app.
 
-## Outputs
-----------
-Create a simple File Manager in PHP that allows the user to create, read, update, and delete files, as well as navigate through the files they add. 
+## Related Outputs
+- [Output 5](www.link.com)
 
 ----------
 ## Knowledge
