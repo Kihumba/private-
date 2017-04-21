@@ -23,6 +23,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can describe the following from memory: | | |
 | * What version control is | [ ] | [ ]  |
 | * Possible use cases of version control |   [ ]   |   [ ] |
+| * Benefits of using version control systems |   [ ]   |   [ ] |
 | * Examples of version control systems apart from Git | [ ] |    [ ] |
 
 
