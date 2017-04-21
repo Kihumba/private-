@@ -3,9 +3,10 @@
 ## Skill Description
 A person with this skill is “fluent” in the programming conventions of PHP, and uses proper Namespacing, Code Simplicity, and Code Organization. They can explain why Namespacing and Code Organization are important, both to their own code and to the broader PHP community. 
 
-## Outputs
-----------
-Create a PHP Program that contains at least 3 different classes that are namespaced and interact with each other-- upload any packages you create to share with the broader community.
+
+## Related Outputs
+- [Output 4](www.link.com)
+
 
 ----------
 ## Knowledge
