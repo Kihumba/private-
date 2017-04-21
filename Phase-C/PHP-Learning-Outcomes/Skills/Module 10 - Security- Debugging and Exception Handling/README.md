@@ -4,9 +4,10 @@
 A person with this skill can effectively prevent major bugs and security breaches in their PHP application. When bugs do arise, they can also effectively implement thorough debugging with exception handling to catch and resolve the issue.  
 
 
-## Outputs
-----------
-Create an application that implements a Secure Register and Login Script written in PHP (or add these features to a PHP application you have been working on). 
+## Related Outputs
+- [Output 5](www.link.com)
+- [Output 6](www.link.com)
+
 
 ----------
 ## Knowledge
