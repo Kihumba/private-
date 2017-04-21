@@ -2,9 +2,11 @@
 ##Skill Description
 A person with this skill can use PHP Data Structures to work with arrays and SPL data structures and write efficient and effective code for their PHP application. 
 
-## Outputs
 
-Create a PHP application that makes use of data structures to allow users to create, read, update, and delete (CRUD) a to-do list application.
+## Related Outputs
+- [Output 2](www.link.com)
+
+-------
 
 ## Knowledge
 
