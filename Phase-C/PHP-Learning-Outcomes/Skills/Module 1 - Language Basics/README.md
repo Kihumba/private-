@@ -2,8 +2,8 @@
 ## Skill Description
 A person with this skill can explain why PHP is a powerful language for creating web programs, and what the language constructs and coding standards are when using PHP. They can set up and configure PHP for development and production environments, and use PHP to create simple web programs.
 
-## Outputs
-Using PHP, build a program that works with data files-- be sure to plan it out in “plain English” ahead of time, including edge case analysis, and to adhere to proper PHP style guides. 
+## Related Outputs
+- [Output 1](www.link.com)
 
 ## Knowledge
 
