@@ -4,11 +4,9 @@
 A person with this skill can build an API using PHP, and explain how it interacts with the web and other APIs. 
 
 
-## Outputs
-----------
-Build a RestFul API using Slim for an application that allows users to create, update, and delete.
 
-Example: (https://docs.google.com/document/d/1J39GPJ5Md5hrCITVYbkDydo5sFPSPtFFhxHH7wgZ1tI)
+## Related Outputs
+- [Output 6](www.link.com)
 
 
 ----------
