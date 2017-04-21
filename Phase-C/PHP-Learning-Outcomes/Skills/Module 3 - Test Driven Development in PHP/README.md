@@ -3,9 +3,11 @@
 ## Skill Description
 A person with this skill can write and apply unit tests for TDD and BDD in a PHP application.  They can explain the benefits and drawbacks of the two major testing methods. 
 
-## Outputs
 
-Create a PHP project with custom functional test cases written for it; run unit tests at every step of the application process. 
+## Related Outputs
+- [Output 2](www.link.com)
+- [Output 5](www.link.com)
+- [Output 6](www.link.com)
 
 ## Knowledge
 
