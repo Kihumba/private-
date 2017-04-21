@@ -4,11 +4,10 @@
 A person with this skill can use PHP as an Object Oriented Programming language to create more compact and effective code. 
 
 
-## Outputs
-----------
-Using OOP PHP and object serialization, create a program that can add, retrieve, update and delete meanings of urban words thrown in as arguments to the class functions.
 
-1. Example:(https://docs.google.com/document/d/1vRZsAI8BJTq8t0-ewZvtxyT9PviY2LtvSqzlfM00jPY)
+## Related Outputs
+- [Output 4](www.link.com)
+
 
 
 ----------
