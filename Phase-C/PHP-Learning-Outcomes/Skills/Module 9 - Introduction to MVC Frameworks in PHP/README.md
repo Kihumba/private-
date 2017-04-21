@@ -4,9 +4,8 @@
 A person with this skill can outline the difference between building a basic PHP app from scratch, and building one by using one of the most common frameworks. 
 
 
-## Outputs
-----------
-Using a new RestFul API you have created in PHP (or using one that you have worked on in the past), re-write the program using two different PHP frameworks and explain which one you would choose if you were to deploy the API. 
+## Related Outputs
+- [Output 6](www.link.com)
 
 
 ----------
