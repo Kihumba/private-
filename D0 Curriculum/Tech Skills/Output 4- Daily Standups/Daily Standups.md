@@ -1,0 +1,4 @@
+- Agile Process
+- Managing Expectations
+- Stakeholder Management
+- Slack
