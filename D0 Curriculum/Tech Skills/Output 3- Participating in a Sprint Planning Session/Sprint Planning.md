@@ -1,6 +1,6 @@
-Agile
-Stakeholder Management
-Team Dynamics
-Pivotal Tracker
-Speaking to be Understood
-Managing Expectations
+- Agile
+- Stakeholder Management
+- Team Dynamics
+- Pivotal Tracker
+- Speaking to be Understood
+- Managing Expectations
