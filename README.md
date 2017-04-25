@@ -39,3 +39,44 @@ Your contribution has an impact on all current and future learners at Andela.
 
 #TIA. 
 
+.
+├── Bootcamp             # This is the Learning Path for Pre-Andela Bootcamp Applicants
+│   ├── Bootcamp Curriculum
+│   └── ...           
+├── D0              # This is the Andela Learning Path for D0 Developers 
+│   ├── Simulations Week 1 
+│   ├── Simulations Week 2
+│   └── ...                  
+├── D1                  # These are the Andela Learning Paths for D1 Developers
+│   ├── D1 PHP/Laravel  
+│   ├── D1 Ruby/Rails 
+│   ├── D1 Python/Django   
+│   ├── D1 DevOps     
+│   └── ...                   
+├── D2                    # These are the Andela Learning Paths for D2 Developers
+│   ├── Entry Level Test Engineer
+│   ├── D2 JavaScript
+│   ├── D2 DevOps
+│   └── ...   
+├── D3                     #These are the Andela Learning Paths for D3 Developers    
+│   ├── Technical Team Lead             
+│   ├── D3 Developer
+│   ├── D3 JavaScript
+│   └── ...                       
+├── D4+                        # These are the Andela Learning Paths for D4+ Developers
+│   ├── Systems Architect           
+│   ├── Data Science           
+│   ├── Cyber Security
+│   ├── Machine Learning 
+│   ├── Product Manager
+│   ├── Product Designer
+│   └── ...    
+├── Andelan                       # These are Learning Paths available for the benefit of all andelans
+│   ├──EPIC Values                   
+│   │  ├── E
+│   │  ├── P
+│   │  ├── I
+│   │  ├── C
+│   │  └── ...     
+└── README                        # Summary of Andela Learning Map and how to Use it
+>>>>>>> New Structure directory with PHP
