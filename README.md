@@ -39,7 +39,7 @@ Your contribution has an impact on all current and future learners at Andela.
 
 #TIA. 
 
-.
+```.
 ├── Bootcamp             # This is the Learning Path for Pre-Andela Bootcamp Applicants
 │   ├── Bootcamp Curriculum
 │   └── ...           
@@ -79,4 +79,4 @@ Your contribution has an impact on all current and future learners at Andela.
 │   │  ├── C
 │   │  └── ...     
 └── README                        # Summary of Andela Learning Map and how to Use it
->>>>>>> New Structure directory with PHP
+ ```
