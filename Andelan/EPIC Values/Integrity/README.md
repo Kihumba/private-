@@ -20,7 +20,7 @@ Outputs
 |:-------------|:------------------:|:--------:|
 | Definition of Integrity | [ ] | [ ]  |
 | Techniques to resolve conflicts that preserve the sense of team and personal integrity | [ ] | [ ]  |
-| Definition of “Imposter syndrome” is and how to recognise it | [ ] | [ ]  |
+| A definition of “Imposter syndrome” and how to recognise it | [ ] | [ ]  |
 | How to manage imposter syndrome when it arises  | [ ] | [ ]  |
 | What makes up my own moral code | [ ] | [ ]  |
 | How to speak honestly, kindly, and constructively in difficult situations | [ ] | [ ]  |
