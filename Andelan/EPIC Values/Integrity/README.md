@@ -40,7 +40,7 @@ Outputs
 | -**Action:** I learn from it. | [ ] | [ ]  |
 | -**Action:** I move forward with gratitude for that learning and without dwelling on the failure. | [ ] | [ ]  |
 | **Context:** Even in the toughest situations **Action:** I remain transparent and honest. | [ ] | [ ]  |
-| **Context:** When asked questions about work that may be falling short of expectations **Action:**I offer sincere and transparent explanations instead of being defensive. | [ ] | [ ]  |
+| **Context:** When asked questions about work that may be falling short of expectations **Action:** I offer sincere and transparent explanations instead of being defensive. | [ ] | [ ]  |
 | **Context:** When a situation takes place that goes against my values, **Action:** I remain courageously true to my integrity and push forward despite friction. | [ ] | [ ]  |
 | **Context:** When I'm noticing somethings that's uncomfortable or anxiety-provoking for me or others, **Action:** I raise my concern with ALL the people involved. | [ ] | [ ]  |
 | **Context:** When I notice an action that could be harmful to Andela, **Action:** I raise my concerns with all parties involved. | [ ] | [ ]  |
