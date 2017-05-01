@@ -1,12 +1,12 @@
-# Outcome 11- The JavaScript DOM
+# Outcome 12- Essential JavaScript Design Patterns
 
 ## Skill Description
-A person with this skill can describe how the DOM allows their JavaScript code to run in a web page. They can explain the HTML “tree” of objects and how they allow code to get, change, add, or delete HTML elements. 
+A person with this skill can work with common JavaScript design patterns when building an application. They can explain why design patterns matter, and how they are created. 
 
 ## Output
-- **Task:** Draw a diagram representing the DOM and how it works with your JavaScript code. 
-- **Resources:** Use whatever medium you feel is most appropriate.
-- **Include:** Share with a fellow programmer to discuss how well your diagram captures the nuances of the DOM.
+- **Task:** Using a JavaScript program you have worked on in the past, or one you are currently building, implement a design pattern that resolves a problem in it. 
+- **Resources:** Use any design pattern that you deem most effective, and defend in writing why you chose to use this particular pattern.
+- **Include:** N/A
 
 -------
 
@@ -14,15 +14,10 @@ A person with this skill can describe how the DOM allows their JavaScript code t
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Definition of the DOM | [ ] | [ ] |
-| How to work with nodes and elements | [ ] | [ ] |
-| How to access DOM elements | [ ] | [ ] |
-| How to create DOM elements | [ ] | [ ] |
-| How to change DOM elements | [ ] | [ ] |
-| Definition of “nodes” in the DOM | [ ] | [ ] |
-| The 12 types of “nodes” in the DOM, and the 3 most critical node types | [ ] | [ ] |
-| How to write JavaScript to grab nodes | [ ] | [ ] |
-
+| The definition of a design pattern in JavaScript | [ ] | [ ] |
+| Most common object oriented design patterns and what they do | [ ] | [ ] |
+| Most common JavaScript design patterns and examples of when to use each | [ ] | [ ] |
+| Types of Creational design patterns in JavaScript | [ ] | [ ] |
 
 -------
 
@@ -30,13 +25,12 @@ A person with this skill can describe how the DOM allows their JavaScript code t
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need my Javascript code to interact with any web page, **Action:** I use the DOM convention. | [ ] | [ ] |
-| **Context:** When I want to manipulate an element in the DOM that is unique, **Action:** I use `document.getElementByID`. | [ ] | [ ] |
-| **Context:** When I don’t have an ID on the element I want to manipulate, **Action:** I use `document.getElementsByTagName`. | [ ] | [ ] |
-| **Context:** When I want to change content in the DOM, **Action:** I start with the element, then indicate what I want to change about it. | [ ] | [ ] |
-| **Context:** When I want to create content in the DOM, **Action:** I first create an element, then create a text node out of it. | [ ] | [ ] |
-
-
+| **Context:** When I am not sure what design pattern to implement, **Action:** I start by considering the problem I am trying to solve. | [ ] | [ ] |
+| **Context:** When I am clear on what problem I am trying to solve, **Action:** I think about what the implementation will look like. | [ ] | [ ] |
+| **Context:** When I need to control the object creation process, **Action:** I use the creational design pattern. | [ ] | [ ] |
+| **Context:** When I need to manage relationships between objects so that one part of my application does not affect all other parts, **Action:** I use a Structural (or “singleton”( design pattern. | [ ] | [ ] |
+| **Context:** When my primary goal is for objects to communicate with one another, **Action:** I use a behavioral (or “observer”) design pattern. | [ ] | [ ] |
+| **Context:** When I need to keep parts of my code independent from other parts, **Action:** I use a module design pattern. | [ ] | [ ] |
 
 
 -------
@@ -45,6 +39,5 @@ A person with this skill can describe how the DOM allows their JavaScript code t
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| When I am programming JavaScript for the front end, the web page is the canvas I am painting on. | [ ] | [ ] |
-| The DOM lets me communicate with my web page. | [ ] | [ ] |
-| Understanding the DOM is the most important skill for a JS developer to have. | [ ] | [ ] |
+| Design patterns offer developers ways to solve technical problems in a reusable and elegant way. | [ ] | [ ] |
+| Proper design patterns are the basic building block for maintainable software applications. | [ ] | [ ] |
