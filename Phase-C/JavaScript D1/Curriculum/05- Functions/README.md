@@ -1,9 +1,9 @@
-Outcome 5- Functions
+# Outcome 5- Functions
 
-Skill Description
+### Skill Description
 A person with this skill can write clean, powerful JavaScript code that executes specific tasks through the use of functions. 
 
-## Output 
+### Output 
 - **Task:** Write a JavaScript program that uses functions to models a real world problem. (Examples to get you started: Card Counter, Temperature Converter, Age Calculator…)
 - **Resources:** Use clean, efficient functions of the proper scope. 
 - **Include:** N/A
