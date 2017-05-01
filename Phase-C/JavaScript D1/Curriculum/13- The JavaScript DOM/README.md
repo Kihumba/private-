@@ -1,9 +1,9 @@
 # Outcome 13- The JavaScript DOM
 
-# Skill Description
+## Skill Description
 A person with this skill can explain how the DOM allows their JavaScript code to run in a web page. They can access, create, and change DOM elements. 
 
-# Output
+## Output
 - **Task:** Draw a diagram representing the DOM and how it works with your JavaScript code. 
 - **Resources:** Use whatever medium you feel is most appropriate.
 - **Include:** Share with a fellow programmer to discuss how well your diagram captures the nuances of the DOM.
