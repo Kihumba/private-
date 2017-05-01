@@ -19,7 +19,10 @@ A person with this skill can build an application that stores persistent applica
 | How to save files on the Android device | [ ] | [ ] |
 | Techniques for backing up data and how to implement the most effective one | [ ] | [ ] |
 
-Behavior: 
+## Behavior
+
+| Observable Behavior   |      Practiced      | Observed |
+|:-------------|:------------------:|:--------:|
 | **Context:** When building an Android app where I need to save information for future retrieval **Action:** I make use of persistent storage. | [ ] | [ ]  |
 | **Context:** When I have files that don’t require access restrictions, **Action:** I use external storage. | [ ] | [ ]  |
 | **Context:** When I want to be sure that neither the user nor other applications can access my application’s files, **Action:** I use internal storage. | [ ] | [ ]  |
