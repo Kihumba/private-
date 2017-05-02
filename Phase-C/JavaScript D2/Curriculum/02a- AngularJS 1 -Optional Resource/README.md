@@ -1,5 +1,5 @@
-# Outcome 2a- AngularJS 1 Syntax (Optional Resource)
-A person with this skill can explain what makes AngularJS powerful, when it is the best library to use, and what drawbacks it might have. They can write a simple application in AngularJS 1 syntax. 
+# Outcome 2a- Angular JS1 Syntax (Optional Resource)
+A person with this skill can explain what makes AngularJS powerful, when it is the best library to use, and what drawbacks it might have. They can write a simple application in AngularJS 1 syntax. This will be most useful if inheriting existing JavaScript code-- new programs should default to Angular2
 
 ## Output
 - **Task:** Build a simple, one page application with multiple views and at least two custom filters. 
@@ -12,17 +12,17 @@ A person with this skill can explain what makes AngularJS powerful, when it is t
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| When to use AngularJS | [ ] | [ ] |
+| When to use AngularJS as a framework | [ ] | [ ] |
 | Benefits and drawbacks of AngularJS | [ ] | [ ] |
 | Basic syntax of AngularJS 1 | [ ] | [ ] |
 | How to define a controller | [ ] | [ ] |
-| Purpose of Controllers in AngularJS 1 | [ ] | [ ] |
-| How and when to use Nested Controllers | [ ] | [ ] |
-| How and when to use Inheritance Controllers | [ ] | [ ] |
+| Purpose of controllers in AngularJS 1 | [ ] | [ ] |
+| How and when to use nested controllers | [ ] | [ ] |
+| How and when to use inheritance controllers | [ ] | [ ] |
 | Definition of slim controllers and why they matter | [ ] | [ ] |
-| Definition of Scopes in Angular JS 1 | [ ] | [ ] |
-| How and when to use AngularJS $scope Hierarchy | [ ] | [ ] |
-| Drawbacks of using $rootScope, and when it might be necessary | [ ] | [ ] |
+| Definition of Scopes in AngularJS 1 | [ ] | [ ] |
+| How and when to use AngularJS scope Hierarchy | [ ] | [ ] |
+| Drawbacks of using root scope, and when it might be necessary | [ ] | [ ] |
 
 -------
 
@@ -34,8 +34,6 @@ A person with this skill can explain what makes AngularJS powerful, when it is t
 | **Context:** When I want to add a behavior to my scope object, **Action:** I attach a method. | [ ] | [ ] |
 | **Context:** When I am adding variables to my AngularJS code, **Action:**  I use isolated scopes whenever possible to avoid unwanted complexity. | [ ] | [ ] |
 | **Context:** When I need to perform business logic, **Action:** I use a controller rather than a function assigned to $rootScope. | [ ] | [ ] |
-| **Context:** When I want to keep my controllers slim, **Action:** I encapsulate work that doesn’t belong in them into services. | [ ] | [ ] |
-| **Context:** Once I have a service that needs to be used in a controller, **Action:** I make use of it through dependency injection.| [ ] | [ ] |
 
 -------
 
