@@ -4,9 +4,9 @@
 A person with this skill can make use of the Redux library and the Flux pattern to create robust, scalable React applications. They are able to explain what Redux does well, where it falls short, and how to leverage common libraries to create a Redux-friendly ecosystem. 
 
 ## Output
--**Task:** Create a React application that allows users to create, edit, access, and delete data directly through the UI of your program. If you would prefer, you can refactor an existing program that does this, building in Flux architecture through Redux. 
--**Resources:** Download and configure Redux and any other libraries you might need. 
--**Include:** N/A
+- **Task:** Create a React application that allows users to create, edit, access, and delete data directly through the UI of your program. If you would prefer, you can refactor an existing program that does this, building in Flux architecture through Redux. 
+- **Resources:** Download and configure Redux and any other libraries you might need. 
+- **Include:** N/A
 
 -------
 ### Knowledge
