@@ -1,10 +1,10 @@
 # Outcome 4- AngularJS- Code Organization through Services and Dependency Injection
 
 ## Skill Description
-A person with this skill creates Angular code that is clean, readable, and reusable through dependency injection and services. 
+A person with this skill uses dependency injection and services to refactor their AngularJS code so it is minified, clean, and readable.
 
 ## Output
-- **Task:** Refactor an existing piece of Angular code that you or a colleague have been working on to make it as minified and clean as possible. 
+- **Task:** Refactor an existing piece of AngularJS code that you or a colleague have been working on to make it as minified and clean as possible. 
 - **Resources:** Use services and dependency injection to refactor and minify your code.
 - **Include:** Provide both versions of your code to a teammate and request feedback on the relative readability of each if they were to jump in and start working with the code. 
 
@@ -14,6 +14,7 @@ A person with this skill creates Angular code that is clean, readable, and reusa
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
+| Why code organization matters | [ ] | [ ] |
 | Definition of dependency injection | [ ] | [ ] |
 | How to use AngularJS’s built-in dependency injection mechanism | [ ] | [ ] |
 | Core types of objects and components of Angular and how to use them | [ ] | [ ] |  .
@@ -36,3 +37,6 @@ A person with this skill creates Angular code that is clean, readable, and reusa
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Clean code matters for my team, for my program, and for my users.  | [ ] | [ ] |
+| The hallmark of a great programmer is simple, clear code.  | [ ] | [ ] |
+| Refactoring is not a “cherry on top” to make my code pretty-- it is a critical part of the programming process.  | [ ] | [ ] |
+| Clean, simple code is faster, more powerful, and easier to test. |   [ ]   |   [ ] |
