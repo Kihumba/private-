@@ -5,9 +5,9 @@ A person with this skill can use Flux Architecture and Immutability without a li
 
 
 ## Output
-- **Task:** Take an application written in a pattern that is *not* Flux, and outline how you would change it
+- **Task:** Take an application written in a pattern that is *not* Flux, and outline how you would change it.
 - **Resources:** Use any medium you choose.
-- **Include:** Go over your outline with a teammate and discuss which version would be more effective and why
+- **Include:** Go over your outline with a teammate and discuss which version would be more effective and why.
 
 ### Knowledge
 
@@ -15,7 +15,6 @@ A person with this skill can use Flux Architecture and Immutability without a li
 |:-------------|:------------------:|:--------:|
 | What it means to say one-way data flow is the core principle of Flux architecture |   [ ]   |   [ ] |
 | Benefits of one-way data flow |   [ ]   |   [ ] |
-| Event bus vs. explicit calls |   [ ]   |   [ ] |
 | How Flux architecture improves UI |   [ ]   |   [ ] |
 | Definition of immutability |   [ ]   |   [ ] |
 | What is mutable and what is immutable in JavaScript |   [ ]   |   [ ] |
@@ -28,7 +27,7 @@ A person with this skill can use Flux Architecture and Immutability without a li
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I need to assure that dependent operations happen in the correct order, **Action:** I use Flux architecture and implement `waitsFor` |   [ ]   |   [ ] |
+| **Context:** When I need to assure that dependent operations happen in the correct order, **Action:** I use Flux architecture and implement `waitsFor.` |   [ ]   |   [ ] |
 | **Context:** When I am planning on working with a scalable application in React, **Action:** I first learn the basics of the Flux pattern to understand what is going on “under the hood.” |   [ ]   |   [ ] |
 
 -------
