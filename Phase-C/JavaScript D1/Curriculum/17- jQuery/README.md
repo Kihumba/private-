@@ -1,9 +1,9 @@
-## Outcome 17- jQuery
+# Outcome 17- jQuery
 
-# Skill Description
+## Skill Description
 A person with this skill can use the jQuery library to enhance the User Interface of their JavaScript applications. They can use it as a tool to neutralize the differences between browsers, pull data from the server, and manipulate the DOM. 
 
-# Output
+## Output
 - **Task:** Create a jQuery application that runs on the front end of a web page and allows for user interaction. 
 - **Resources:** Use forms, buttons, menus, event handlers, or other elements that interact with your CSS and HTML to make your web page attractive and user friendly.
 - **Include:** Have a colleague use your application and give you feedback on the User Experience. 
