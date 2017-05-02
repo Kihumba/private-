@@ -14,16 +14,14 @@ A person with this skill allows users to interact with their application through
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| Usage of the `this` keyword in JavaScript |   [ ]   |   [ ] |
+| How and when to use the `this` keyword in JavaScript |   [ ]   |   [ ] |
+| Definition of scope and how it relates to `this` keyword |   [ ]   |   [ ] |
 | How `this` is bound |   [ ]   |   [ ] |
 | How to dynamically bind `this` through `bind,` `call,` `apply,` or via a closure |   [ ]   |   [ ] |
 | When to use each type of dynamic binding |   [ ]   |   [ ] |
 | Definition of Event Handling in JavaScript |   [ ]   |   [ ] |
-| Main events and their syntax |   [ ]   |   [ ] |
+| Main events in JavaScript and their syntax |   [ ]   |   [ ] |
 | Which HTML tags an event handler can be inserted into |   [ ]   |   [ ] |
-| Definition of scope and how it relates to `this` keyword |   [ ]   |   [ ] |
-
-
 
 
 ### Behaviors
@@ -33,7 +31,7 @@ A person with this skill allows users to interact with their application through
 | **Context:** When I want a user action to elicit an event from the browser, **Action:** I use an event handler. |   [ ]   |   [ ] |
 | **Context:** When determining which event handler to use, **Action:** I consider the user action(s) that should elicit a response. |   [ ]   |   [ ] |
 | **Context:** When I am using the `this` keyword, **Action:** I first take time to figure out what scope I am in. |   [ ]   |   [ ] |
-
+| **Context:** Once I know what scope I am in, **Action:** I use `this` as a reference to a singular object. |   [ ]   |   [ ] |
 
 
 -------
@@ -44,5 +42,4 @@ A person with this skill allows users to interact with their application through
 |:-------------|:------------------:|:--------:|
 | Event handling allows my users to be the drivers of my application. |   [ ]   |   [ ] |
 | Event handling translates user interaction to actionable data. |   [ ]   |   [ ] |
-| ‘This’ keyword is like a pronoun when speaking English-- it allows us to refer to something without repeating its name over and over. |   [ ]   |   [ ] |
-
+| ‘This’ keyword is like a pronoun when speaking English-- it allows us to refer to something without repeating its name over and over. |   [ ]   |   [ ] || ‘This’ keyword eliminates ambiguity. |   [ ]   |   [ ] |
