@@ -32,16 +32,16 @@ A person with this skill is fluent in the newest syntax of ES6 implementation sy
 | How to destructure assignment in ES6 | [ ] | [ ] |
 | How to use arrow functions in ES6 | [ ] | [ ] |
 | New attributes in ES6 for: | | | 
-|	<li> -Writeable </li> | [ ] | [ ] |
-| <li> -Enumerable </li> | [ ] | [ ] |
-| <li> -Configurable </li> | [ ] | [ ] |
+|	<li> Writeable </li> | [ ] | [ ] |
+| <li> Enumerable </li> | [ ] | [ ] |
+| <li> Configurable </li> | [ ] | [ ] |
 | Major Syntax changes in ES6 and why they matter: | | | 
-| 	<li> -Iterators </li> | [ ] | [ ] |
-| <li> -Generators </li> | [ ] | [ ] |
-| 	<li> -Promises </li> | [ ] | [ ] |
-| 	<li> -Arrays </li> | [ ] | [ ] |
-| 	<li> -Collections </li> | [ ] | [ ] |
-| 	<li> -Getters & Setters </li> | [ ] | [ ] |
+| 	<li> Iterators </li> | [ ] | [ ] |
+| <li> Generators </li> | [ ] | [ ] |
+| 	<li> Promises </li> | [ ] | [ ] |
+| 	<li> Arrays </li> | [ ] | [ ] |
+| 	<li> Collections </li> | [ ] | [ ] |
+| 	<li> Getters & Setters </li> | [ ] | [ ] |
 
 
 
