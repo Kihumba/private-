@@ -1,10 +1,10 @@
-#Objective 09- SaaS, PaaS, & Iaas
+# Objective 09- SaaS, PaaS, & Iaas
 
-Skill Description
+## Skill Description
 -------
 A person with this skill can explain what SaaS, PaaS, and IaaS are and the differences between them. They can use each platform to create additional efficiencies when running a software application. 
 
-Outputs
+## Outputs
 -------
 - **Task:** On either an existing or new application, create and push your app to a PaaS and scale it to multiple instances.
 - **Resources:** Choose an appropriate PaaS of your choice. 
