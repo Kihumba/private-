@@ -1,8 +1,8 @@
 # Output 1- Build an Application with Angular and Node
 
-* Using Angular 2(+) as your front end framework and Node/Express as your back end framework, build a real-world app that enables users to share their knowledge. <br>
-* To get you started, [fork this repo](https://github.com/gothinkster/realworld), read through their documentation, and connect to their live API to facilitate the process.  <br>
-* When you’re done building your application, make sure you test and debug the app completely. 
+- **The Product:** Using Angular 2(+) as your front end framework and Node/Express as your back end framework, build a real-world app that enables users to share their knowledge. <br>
+- **The Process:** To get you started, [fork this repo](https://github.com/gothinkster/realworld), read through their documentation, and connect to their live API to facilitate the process.  <br>
+- **The Follow-Through:** When you’re done building your application, make sure you test and debug the app completely. 
 Then distribute it to a group of Andelans to get their user feedback. Who knows, maybe Andela will want to keep building on your product and using it forever if it’s really amazing…
 
 -----------------------------------------------------------
