@@ -6,11 +6,11 @@
 Then distribute it to a group of Andelans to get their user feedback. Who knows, maybe Andela will want to keep building on your product and using it forever if it’s really amazing…
 
 -----------------------------------------------------------
-### Find your ZPD: 
-
-1. Does this sound too easy? Don’t get bored, add in [Output 4](http://sccs-dcg.weebly.com/output-4.html)! 
-2. Does this sound challenging? Great! Get to work, using the below KBB’s and resource links to help as needed. 
-3. Does this sound like gibberish? You may not be ready for this task. Try focusing on [just Angular first](https://github.com/andela/learningmap/blob/master/Phase-C/JavaScript%20D2/Curriculum/02b-%20Intro%20to%20AngularJS%202.0/README.md), or try [this guided project](https://www.codeschool.com/courses/javascript-road-trip-part-3) first. 
+>> Find your ZPD: 
+>> 
+>> 1. Does this sound too easy? Don’t get bored, add in [Output 4](http://sccs-dcg.weebly.com/output-4.html)! 
+>> 2. Does this sound challenging? Great! Get to work, using the below KBB’s and resource links to help as needed. 
+>>  3. Does this sound like gibberish? You may not be ready for this task. Try focusing on [just Angular first](https://github.com/andela/learningmap/blob/master/Phase-C/JavaScript%20D2/Curriculum/02b-%20Intro%20to%20AngularJS%202.0/README.md), or try [this guided project](https://www.codeschool.com/courses/javascript-road-trip-part-3) first. 
 
 ----------------------------------------------------------------
 
