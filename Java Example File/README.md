@@ -20,7 +20,7 @@
 > ### "KBB's:" 
 >> _What do experts think, do, and feel as they work through this task?_
 
-## **Knowledge**
+### Knowledge
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | Strengths and weaknesses of Java as a programming language | [ ] | [ ]  |
@@ -37,7 +37,7 @@
 ----------
 
 
-## **Behaviors**
+### Behaviors
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -48,7 +48,7 @@
 | **Context:** Before I start coding **Action:** I check the active language level in the project to avoid using features from a higher level. | [ ] | [ ]  |
 
 ----------
-## **Beliefs**
+### Beliefs
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
