@@ -61,4 +61,6 @@
 ------
 ------
 
-**Make a contribution to this Learning Output [here](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)!** 
+### Have Something to Add? 
+
+If you have a great resource, work output, or nugget of expertise you'd like to share on this Learning Map, **make a contribution to this Learning Output [here](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)!** 
