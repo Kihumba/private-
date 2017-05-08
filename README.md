@@ -24,11 +24,11 @@ The curriculum is carefully structured around four phases of learning:
 >> - **Purposeful Reflection:** Learning Paths will contain several "Refactoring" and/or "Reflecting" outputs-- _don't skip these!_ It may seem like "extra" work, but science shows that it is the **#1 most effective** way to solidify new knowledge. Try it... see what happens! 
 
 ### Learning Philosophy at Andela
-Learn more about each of the cornerstones of our learning philosophy: 
-- [[Work == Learning|Work-==-Learning]]
-- [["YOYO" Learning|"YOYO"-Learning]] 
-- [[Distributing Expertise through "KBBs"]] 
-- [[Mentorship- P2P Learning]] 
+Learn more about each of the cornerstones of our learning philosophy in our Wiki (see tabs above): 
+- Work == Learning
+- "YOYO" Learning|"YOYO"-Learning
+- Distributing Expertise through "KBBs"
+- Mentorship- P2P Learning
 
 ### How to Contribute
 The Andela Learning Map is a living document: like each one of us, is constantly growing and evolving.
