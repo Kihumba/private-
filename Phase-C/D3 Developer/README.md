@@ -1,0 +1,3 @@
+**D3 Developer** is an Andelan role that comes after working as a D2 developer, and before roles like D4, Software Architect, or Product Manager. A D3 developer has come to the point where the programming language they are working in does not matter-- they can `easily contribute and lead their team by example, regardless of stack or project requirements`. 
+
+D3’s are `expert problem solvers`-- able to solve bugs on a programming language level, as well as to work with a team to outline solutions to high level problems and goals. They have a `diverse set of experiences` and are `constantly learning more skills and languages` so that they are able to draw on a broad toolkit to solve problems with their team.
