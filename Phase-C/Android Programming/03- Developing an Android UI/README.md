@@ -4,9 +4,9 @@
 A person with this skill can design and build Android applications that are intuitive, functional, and enjoyable from a user perspective. 
 
 ## Output
-Task: Design and build an Android app that looks like the Gmail app (only the Interface).
-Resources: Using just XML, the Design Viewer, the Genymotion Emulator, and a physical testing device.
-Involving: N/A
+- **Task:** Design and build an Android app that looks like the Gmail app (only the Interface).
+- **Resources:** Using just XML, the Design Viewer, the Genymotion Emulator, and a physical testing device.
+- **Involving:** N/A
 
 ### Knowledge
 
