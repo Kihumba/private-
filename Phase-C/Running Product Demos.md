@@ -1,16 +1,16 @@
-#Running Product Demos
+# Running Product Demos
 
-Skill Description
+## Skill Description
 ----------
 A person with this skill can set up and run an effective product demo with various stakeholders on his/her product. 
 
 
-Outputs
+## Outputs
 ----------
 Set up, schedule, and run a product demo for a project you are working on (or a mock product demo with your team).
 
 ----------
-## **Knowledge**
+### **Knowledge**
 
 
 | Knowledge Unit   |      Studied      | Applied |
@@ -32,7 +32,7 @@ Set up, schedule, and run a product demo for a project you are working on (or a 
 ----------
 
 
-## **Behaviors**
+### **Behaviors**
 
 | Observable Behavior   |      Observed      | Mastered |
 |:-------------|:------------------:|:--------:|
@@ -55,7 +55,7 @@ Set up, schedule, and run a product demo for a project you are working on (or a 
 ----------
 
 
-## **Beliefs**
+### **Beliefs**
 
 
 | Embodied Belief   |      Felt      | Demonstrated |
