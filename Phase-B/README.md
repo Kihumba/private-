@@ -18,3 +18,4 @@ These are all the learning outcomes that are Bootcampers are expected to complet
 14. Seeks and Requests Feedback
 15. Speaks to be understood
 16. Writing Professionally
+17. Git
