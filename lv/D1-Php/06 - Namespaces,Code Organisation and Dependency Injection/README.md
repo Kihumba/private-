@@ -1,4 +1,4 @@
-# Module 6:  Namespaces, Code Organization, and Dependency Injection
+# Outcome 6 - Namespaces, Code Organization, and Dependency Injection
 
 ## Skill Description
 A person with this skill is “fluent” in the programming conventions of PHP, and uses proper Namespacing, Code Simplicity, and Code Organization. They can explain why Namespacing and Code Organization are important, both to their own code and to the broader PHP community. 

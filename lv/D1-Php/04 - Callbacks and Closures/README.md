@@ -1,4 +1,4 @@
-# Module 4: Callbacks and Closures
+# Outcome 4 - Callbacks and Closures
 
 ## Skill Description
 A person with this skill can effectively implement both callbacks and closures in PHP program, and can explain how they work with anonymous functions. 

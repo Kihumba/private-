@@ -1,4 +1,4 @@
-# Module 1: PHP Language Basics
+# Outcome 1- PHP Language Basics
 ## Skill Description
 A person with this skill can explain why PHP is a powerful language for creating web programs, and what the language constructs and coding standards are when using PHP. They can set up and configure PHP for development and production environments, and use PHP to create simple web programs.
 

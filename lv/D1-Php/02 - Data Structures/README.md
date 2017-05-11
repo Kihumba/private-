@@ -1,4 +1,4 @@
-# Module 2: PHP Data Structures
+# Outcome 2 - PHP Data Structures
 ##Skill Description
 A person with this skill can use PHP Data Structures to work with arrays and SPL data structures and write efficient and effective code for their PHP application. 
 

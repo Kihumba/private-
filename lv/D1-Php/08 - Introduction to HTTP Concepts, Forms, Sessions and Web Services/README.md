@@ -1,4 +1,4 @@
-# Module 8:   Introduction to HTTP Concepts, Forms, Sessions and Web Services
+# Outcome 8 -  Introduction to HTTP Concepts, Forms, Sessions and Web Services
 
 ## Skill Description
 A person with this skill can build an API using PHP, and explain how it interacts with the web and other APIs. 

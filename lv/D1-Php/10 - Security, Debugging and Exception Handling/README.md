@@ -1,4 +1,4 @@
-# Module 10: Security, Debugging and Exception Handling
+# Outcome 10 - Security, Debugging and Exception Handling
 
 ## Skill Description
 A person with this skill can effectively prevent major bugs and security breaches in their PHP application. When bugs do arise, they can also effectively implement thorough debugging with exception handling to catch and resolve the issue.  
