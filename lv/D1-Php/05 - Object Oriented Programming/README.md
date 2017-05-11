@@ -1,4 +1,4 @@
-# Module 5: Object Oriented Programming in PHP
+# Outcome 5 - Object Oriented Programming in PHP
 
 ## Skill Description
 A person with this skill can use PHP as an Object Oriented Programming language to create more compact and effective code. 

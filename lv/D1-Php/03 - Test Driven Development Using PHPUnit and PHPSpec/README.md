@@ -1,4 +1,4 @@
-# Module 3: Test Driven Development in PHP
+# Outcome 3 - Test Driven Development in PHP
 
 ## Skill Description
 A person with this skill can write and apply unit tests for TDD and BDD in a PHP application.  They can explain the benefits and drawbacks of the two major testing methods. 

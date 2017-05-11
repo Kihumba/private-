@@ -1,4 +1,4 @@
-# Module 9: Introduction to MVC Frameworks in PHP
+# Outcome 9 - Introduction to MVC Frameworks in PHP
 
 ## Skill Description
 A person with this skill can outline the difference between building a basic PHP app from scratch, and building one by using one of the most common frameworks. 

@@ -1,4 +1,4 @@
-# Module 11: File Handling
+# Outcome 11 - File Handling
 
 ## Skill Description
 A person with this skill can make effective use of File Handling in a PHP app.

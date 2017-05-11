@@ -1,4 +1,4 @@
-# Module 7:  Working with Databases
+# Outcome 7 -  Working with Databases
 
 ## Skill Description
 A person with this skill can connect to and manipulate databases in PHP to create complex and useful applications.
