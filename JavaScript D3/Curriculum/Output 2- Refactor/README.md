@@ -22,8 +22,7 @@
 | [JavaScript code best practices](https://github.com/andela/learningmap/tree/master/Phase-C/JavaScript%20D1/Curriculum/11-%20Writing%20Clean%20JavaScript%20Code)	|
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** When I have a working application, **Action:** I go back and refactor to optimize for code structure and clarity, performance, and security. 
- 	|  
+|  **Context:** When I have a working application, **Action:** I go back and refactor to optimize for code structure and clarity, performance, and security. |  
 | **Context:** When I am refactoring my code for a JavaScript program, **Action:** I use modularity to break it into different functions.	|
 | **Context:** When I have duplicate code in my program, **Action:** I refactor using abstraction. | 
 | **Context:** When I am refactoring my application, **Action:** I check to make sure that each function does one thing, and one thing only. |
