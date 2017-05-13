@@ -38,7 +38,7 @@
 
 | Resources|       	
 |----------|
-| [JavaScript code best practices](https://github.com/andela/learningmap/tree/master/Phase-C/JavaScript%20D1/Curriculum/11-%20Writing%20Clean%20JavaScript%20Code)|
+| [JavaScript code best practices](https://github.com/andela/learningmap/tree/master/Phase-C/JavaScript%20D1/Curriculum/11-%20Writing%20Clean%20JavaScript%20Code)| 
 | [Patterns to Refactor in JavaScript](http://crushlovely.com/journal/7-patterns-to-refactor-javascript-applications-value-objects/)|
 
 ---- 
