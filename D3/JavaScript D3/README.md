@@ -2,12 +2,11 @@
 
 ## How to use this Curriculum
 
-Use this curriculum to either:
+If you are working to advance to JavaScript D3 level, use this curriculum to either:
 - **(a)** practice creating new applications for real users in different JavaScript languages, or 
 - **(b)** if you have already built a range of applications, use the curriculum to ensure that your work measures up in quality and quantity against those listed here. 
 
 --- 
-
 
 ## Assessment
 Regardless of whether you build the applications listed here or choose to build your own, an assessment of a D3 JavaScript Developer will be based on the **quality**, **quantity**, and **initiative** of your work outputs. 
