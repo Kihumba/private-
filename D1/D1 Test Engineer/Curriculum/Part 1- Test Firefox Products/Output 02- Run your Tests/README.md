@@ -2,7 +2,7 @@
 
 - **The Product:** Put your test cases to use!  <br>
 - **The Process:** Run a manual test on one of the features you identified to ensure that it is working how you expect.  <br>
-- **The Follow-Through:** When you find a bug, dig in! (see Output 4)
+- **The Follow-Through:** When you find a bug, dig in! (see [Output 4](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Test%20Engineer/Curriculum/Part%201-%20Test%20Firefox%20Products/Output%2004-%20File%20your%20Bugs))
 
 -----------------------------------------------------------
 >> Find your ZPD (["Zone of Proximal Development"](https://en.wikipedia.org/wiki/Zone_of_proximal_development)): 
