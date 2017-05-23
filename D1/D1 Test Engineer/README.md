@@ -1,9 +1,5 @@
 # Test Engineer
 
-Test Engineer is a role that comes after Entry-Level Developer and before (or instead of) Mid-Level Developer. It's a role currently in development at Andela with no existing professional models. It includes the following Learning Outcomes:
+Test Engineer is a role that comes after Entry-Level Developer and before (or instead of) Mid-Level Developer. Test Engineers (other role titles might be "QA Engineer", "Test Developer") have the opportunity to build on a diverse set of development skills in a wide variety of environments. 
 
-1. Product Research - Researching and identifying business purposes, user requirements, and product specifications
-2. Test Scenarios - Identifying and documenting test scenarios
-3. Product Testing - Executing test scenarios 
-4. Documenting Results - Identifying and documenting defects 
-5. Defect Prioritization - Assigning priorities to defects
+![test engineer learning track](https://cloud.githubusercontent.com/assets/5239538/26371819/eb57cc26-3fc9-11e7-89ca-281ddda90c0f.jpg)
