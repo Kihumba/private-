@@ -7,7 +7,7 @@
 -----------------------------------------------------------
 >> Find your ZPD (["Zone of Proximal Development"](https://en.wikipedia.org/wiki/Zone_of_proximal_development)): 
 >> 
->> 1. Does this sound too easy? Don’t get bored, reflect on your debugging experiences (Output 5b)
+>> 1. Does this sound too easy? Don’t get bored, reflect on your debugging experiences ([Output 5b](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Test%20Engineer/Curriculum/Part%202-%20Test%20an%20Andela%20Product/Output%2005b-%20Refactor))
 >> 2. Does this sound challenging? Great! Get to work, using the below KBB’s and resource links to help as needed. 
 >>  3. Does this sound like gibberish? You may not be ready for this task. Read through a few best-practices documents (below) or pair with a more senior developer to observe them debugging their code-- all developers will debug at some point, so you should be able to find someone easily!
 
