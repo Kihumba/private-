@@ -21,9 +21,12 @@
 | How to create test cases for UI/UX components | 
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** XX **Action:** XX |  
+|  **Context:** When I am setting up a user test, **Action:** I let users know that everything they say is valid and valuable, and that they should share their immediate reactions. 	|  
+| **Context:** When I am running a user test, **Action:** I try not to answer questions they ask and instead observe and encourage them to share their thoughts without jumping in.  |
+| **Context:** After I run a user test, **Action:** I synthesize and condense the information into key takeaways to see what patterns emerged for areas of improvement.  |  
+| </br> | 
 | **Beliefs**	| 
-| XX |
+| A product is ultimately built for a user-- even a technically “fancy” product has failed if a user cannot use it easily and effectively.  |  
 
 >> Hey, let's make this _community sourced expertise_ thing happen! As you work through this output, *[please add your own Expertise here!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)*
 
