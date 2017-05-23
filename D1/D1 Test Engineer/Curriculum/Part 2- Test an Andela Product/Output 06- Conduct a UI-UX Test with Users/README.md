@@ -17,18 +17,15 @@
 |----------|
 | </br>| 
 | **Knowledge**	| 
-| Reasons to write a test plan 	|  
-| Components and format of a well-written test plan | 
-| How to leverage user stories to inform test scenarios	|
+| What components of a product require usability testing 	|  
+| How to create test cases for UI/UX components | 
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** When I am preparing to test a new product and I do not have access to the development team, **Action:** I start reading about the product, looking at its codebase, and outlining what the product is meant to accomplish.  	|  
-| **Context:** Once I have the requirements and features of the product, **Action:** I write user stories to illustrate how the features should function. 	|
-| **Context:** After I have compiled all of the information about a product’s features and functionalities, **Action:** I write a Test Plan to outline my test scenarios and steps.  |  
-| </br> | 
+|  **Context:** XX **Action:** XX |  
 | **Beliefs**	| 
-| Trying to test without a test plan is like jumping into development without knowing what you’re trying to build.  |  
-| A little extra research about the product I am testing up front can save me hours of unnecessary work when I start testing.|  
+| XX |
+
+>> Hey, let's make this _community sourced expertise_ thing happen! As you work through this output, *[please add your own Expertise here!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)*
 
 
 ------
