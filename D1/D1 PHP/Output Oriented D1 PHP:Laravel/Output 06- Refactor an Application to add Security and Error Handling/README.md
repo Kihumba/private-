@@ -1,7 +1,7 @@
 # Output 06- Refactor an Application to add Security and Error Handling
 
 - **The Product:** On one of the PHP applications you've been working on, add in Security and Error Handling. <br>
-- **The Process:** implements a Secure Register and Login Script written in PHP (or add these features to a PHP application you have been working on). Also implement error handling at appropriate points.  <br>
+- **The Process:** Implement a Secure Register and Login Script written in PHP (or add these features to a PHP application you have been working on). Also implement error handling at appropriate points.  <br>
 - **The Follow-Through:** Make sure you thoroughly test to ensure you've handled all possible errors. 
 ----
 ## Related Skills
