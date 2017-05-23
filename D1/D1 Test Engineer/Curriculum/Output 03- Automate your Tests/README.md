@@ -26,7 +26,7 @@
 | **Beliefs**	| 
 | XX  |  
 
->> *[Please add your own Expertise here!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)*
+>> Hey, let's try it! As you work through this output, *[please add your own Expertise here!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)*
 ------
 ### Skills: 
 * Automation Testing
