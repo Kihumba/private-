@@ -1,4 +1,4 @@
-# Output 1- Build an Application with Angular and Node
+# Output 01- Test the Firefox Nightly Product
 
 - **The Product:** Take a look at Firefox Nightly, Mozilla’s new product ([Check out the details here](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly)). Get to know the product, try it out yourself, read release documents, and identify areas of the product that will need testing.   <br>
 - **The Process:** Write a test case document outlining the area you plan on testing and your test strategy.   <br>
