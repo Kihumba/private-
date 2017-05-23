@@ -1,1 +1,0 @@
-Original PHP Laravel Curriculum
