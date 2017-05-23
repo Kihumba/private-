@@ -7,7 +7,7 @@
 -----------------------------------------------------------
 >> Find your ZPD (["Zone of Proximal Development"](https://en.wikipedia.org/wiki/Zone_of_proximal_development)): 
 >> 
->> 1. Does this sound too easy? Don’t get bored, add in an integration test (Output 3). 
+>> 1. Does this sound too easy? Don’t get bored, add in an integration test ([Output 3](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Test%20Engineer/Curriculum/Part%202-%20Test%20an%20Andela%20Product/Output%2003-%20Write%20an%20Integrations%20Test)). 
 >> 2. Does this sound challenging? Great! Get to work, using the below KBB’s and resource links to help as needed. 
 >>  3. Does this sound like gibberish? You may not be ready for this task. Try [going through a few resources first](http://www.guru99.com/software-testing.html)
 ----------------------------------------------------------------
