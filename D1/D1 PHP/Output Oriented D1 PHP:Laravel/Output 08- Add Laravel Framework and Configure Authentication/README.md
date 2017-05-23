@@ -2,7 +2,6 @@
 
 - **The Product:** Build a new PHP applicaiton from scratch, this time using PHP's Laravel Framework. <br>
 - **The Process:** Configure authentication on a fresh Laravel install and generate authentication resources. Use Laravel Generators for scaffolding to accelerate development.
- <br>
 - **The Follow-Through:** Get real users to try out your app and make refactoring changes that they suggest!
 
 ----
