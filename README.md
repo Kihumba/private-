@@ -129,7 +129,7 @@ Your contribution has an impact on all current and future learners at Andela.
 │       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
 │       └── README.md   # This README is a description of the identity of a PHP developer
 │   └── ...    
-├── Skill Glossary (`coming soon`)               # These are the skill names and descriptions of all linked skills in Outputs                
+├── Skill Glossary(coming soon)     # These are the skill names and descriptions of all linked skills in Outputs               
 │   │  └── ...     
 └── README                        # Summary of Andela Learning Map and how to Use it
  ```
