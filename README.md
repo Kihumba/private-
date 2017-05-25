@@ -39,6 +39,9 @@ Your contribution has an impact on all current and future learners at Andela.
 
 #TIA. 
 
+
+### Navigation Tips: Curriculum Folder Structure
+
 ```.
 ├── Bootcamp             # This is the Learning Path for Pre-Andela Bootcamp Applicants
 │   ├── Bootcamp Curriculum
