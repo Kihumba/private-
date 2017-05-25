@@ -40,9 +40,16 @@ Your contribution has an impact on all current and future learners at Andela.
 #TIA. 
 
 
-### Navigation Tips: Curriculum Folder Structure
+### Navigation Tip: Curriculum Folder Structure
 
-```.
+```
+├── Andelan                       # These are Learning Paths available for the benefit of all andelans
+│   ├──EPIC Values                   
+│   │  ├── E
+│   │  ├── P
+│   │  ├── I
+│   │  ├── C
+│   │  └── ...  
 ├── Bootcamp             # This is the Learning Path for Pre-Andela Bootcamp Applicants
 │   ├── Bootcamp Curriculum
 │   └── ...           
@@ -122,14 +129,7 @@ Your contribution has an impact on all current and future learners at Andela.
 │       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
 │       └── README.md   # This README is a description of the identity of a PHP developer
 │   └── ...    
-├── Andelan                       # These are Learning Paths available for the benefit of all andelans
-│   ├──EPIC Values                   
-│   │  ├── E
-│   │  ├── P
-│   │  ├── I
-│   │  ├── C
-│   │  └── ...  
-├── Skill Glossary               # These are the skill names and descriptions of all linked skills in Outputs                
+├── Skill Glossary (`coming soon`)               # These are the skill names and descriptions of all linked skills in Outputs                
 │   │  └── ...     
 └── README                        # Summary of Andela Learning Map and how to Use it
  ```
