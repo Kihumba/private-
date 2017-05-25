@@ -39,3 +39,97 @@ Your contribution has an impact on all current and future learners at Andela.
 
 #TIA. 
 
+
+### Navigation Tips: Curriculum Folder Structure
+
+```.
+├── Bootcamp             # This is the Learning Path for Pre-Andela Bootcamp Applicants
+│   ├── Bootcamp Curriculum
+│   └── ...           
+├── D0              # This is the Andela Learning Path for D0 Developers 
+│   ├── Simulations Week 1 
+│   ├── Simulations Week 2
+│   └── ...                  
+├── D1                  # These are the Andela Learning Paths for D1 Developers
+│   ├── D1 PHP/Laravel
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── D1 Ruby/Rails 
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── D1 Python/Django  
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer 
+│   ├── D1 DevOps  
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer 
+│   └── ...                   
+├── D2                    # These are the Andela Learning Paths for D2 Developers
+│   ├── Entry Level Test Engineer
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── D2 JavaScript
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── D2 DevOps
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   └── ...   
+├── D3                     #These are the Andela Learning Paths for D3 Developers    
+│   ├── Technical Team Lead     
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer        
+│   ├── D3 Developer
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── D3 JavaScript
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   └── ...                       
+├── D4+                        # These are the Andela Learning Paths for D4+ Developers
+│   ├── Systems Architect   
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer        
+│   ├── Data Science  
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer         
+│   ├── Cyber Security
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── Machine Learning 
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── Product Manager
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   ├── Product Designer
+│       └── Outputs 
+│       └── Resources   # These are general Andela approved Learning Resources to support people's growth in this path. 
+│       └── README.md   # This README is a description of the identity of a PHP developer
+│   └── ...    
+├── Andelan                       # These are Learning Paths available for the benefit of all andelans
+│   ├──EPIC Values                   
+│   │  ├── E
+│   │  ├── P
+│   │  ├── I
+│   │  ├── C
+│   │  └── ...  
+├── Skill Glossary               # These are the skill names and descriptions of all linked skills in Outputs                
+│   │  └── ...     
+└── README                        # Summary of Andela Learning Map and how to Use it
+ ```
