@@ -1,4 +1,4 @@
-# Output 1- Build an Application with Angular and Node
+# Output 05- Reflect on your Applications with a Blog
 
 - **The Product:** One of the qualities of a senior developer is that they are constantly maintaining, growing, and sharing their knowledge. <br>
 - **The Process:** Take some time to reflect on the two apps that you built using different frameworks, making note of the relative benefits/drawbacks of different frameworks and examples of when each of them might be useful in future applications.  <br>
