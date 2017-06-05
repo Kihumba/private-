@@ -5,8 +5,8 @@ A person with this skill creates clean, visually pleasing designs that communica
 
 ## Output
 - **Build:** Create a wireframe, infographic, or other visual design for a real team at Andela or outside of Andela. Be sure to start your design with a deep understanding of what it intends to communicate and a moodboard that you can gather design elements on. You can practice by volunteering for a nonprofit who needs design support on either of these sites!
->> _"Creatives Without Borders"_(http://www.creativeswithoutborders.org/?gclid=CjwKEAjw3drIBRCOwfC-_qqyjQ8SJADvoWQp3DuyZYjEwW-IhOoOrj-DyLj0q-KUf_KMoZEj59A0fhoClL3w_wcB)
->> _"CatchaFire"_(https://www.catchafire.org/volunteer/?init=1&skill_filter%5B%5D=5&type_filter%5B%5D=1&type_filter%5B%5D=2&type_filter%5B%5D=3)
+>> _-"Creatives Without Borders"_(http://www.creativeswithoutborders.org/?gclid=CjwKEAjw3drIBRCOwfC-_qqyjQ8SJADvoWQp3DuyZYjEwW-IhOoOrj-DyLj0q-KUf_KMoZEj59A0fhoClL3w_wcB)<br><br>
+>> _-"CatchaFire"_(https://www.catchafire.org/volunteer/?init=1&skill_filter%5B%5D=5&type_filter%5B%5D=1&type_filter%5B%5D=2&type_filter%5B%5D=3)
 - **Refactor:** The first build is just the beginning-- gather user feedback, do a design critique with the team you’re working for and/or groups at Andela, and refactor at least once (most likely more once). 
 - **Reflect:** Make careful notes after each critique noting what worked for users in your design, what did not work, and how you addressed their ideas. This will be extremely instrumental to your learning. 
 
