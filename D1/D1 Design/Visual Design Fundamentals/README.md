@@ -5,6 +5,8 @@ A person with this skill creates clean, visually pleasing designs that communica
 
 ## Output
 - **Build:** Create a wireframe, infographic, or other visual design for a real team at Andela or outside of Andela. Be sure to start your design with a deep understanding of what it intends to communicate and a moodboard that you can gather design elements on. You can practice by volunteering for a nonprofit who needs design support on either of these sites!
+>> _"Creatives Without Borders"_(http://www.creativeswithoutborders.org/?gclid=CjwKEAjw3drIBRCOwfC-_qqyjQ8SJADvoWQp3DuyZYjEwW-IhOoOrj-DyLj0q-KUf_KMoZEj59A0fhoClL3w_wcB)
+>> _"CatchaFire"_(https://www.catchafire.org/volunteer/?init=1&skill_filter%5B%5D=5&type_filter%5B%5D=1&type_filter%5B%5D=2&type_filter%5B%5D=3)
 - **Refactor:** The first build is just the beginning-- gather user feedback, do a design critique with the team you’re working for and/or groups at Andela, and refactor at least once (most likely more once). 
 - **Reflect:** Make careful notes after each critique noting what worked for users in your design, what did not work, and how you addressed their ideas. This will be extremely instrumental to your learning. 
 
@@ -45,7 +47,7 @@ You should practice as many designs as possible! As you amass designs, consider 
 | **Context:** Before I start my design, **Action:** I put together a moodboard to gather design components.  | [ ] | [ ] |
 | **Context:** When I am conveying information through design, **Action:** I keep in mind that the human mind can only effectively hold 5 things at once.  | [ ] | [ ] |
 | **Context:** When I am choosing what to prioritize in my design, **Action:** I display the top 3 priorities first.  | [ ] | [ ] |
-| **Context:** When my eye hits a design, **Action:** I should know instantly what priority is the most important.  | [ ] | [ ] |
+| **Context:** When my eye hits a design, **Action:** I should know instantly what priority is the most important by its location, font, color, and size.  | [ ] | [ ] |
 | **Context:** When I am choosing a color scheme, **Action:** I choose the minimum amount of contrast to get the job done. | [ ] | [ ] |
 | **Context:** When I am drawing attention to an object on my design, **Action:** I choose whether to use size, boldness, or color to do so.  | [ ] | [ ] |
 | **Context:** When I am inputting an image or object into my visual design, **Action:** I make sure that the minimum white space between it and something else is the size of that object.  | [ ] | [ ] |
