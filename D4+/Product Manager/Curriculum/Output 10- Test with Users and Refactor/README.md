@@ -1,4 +1,4 @@
-# Output 08- Test with Users and Refactor
+# Output 10- Test with Users and Refactor
 
 - **The Product:** Although you’ve been working with many stakeholders and developers, a product is ultimately built for users. So you’ll need to learn what works and what doesn’t through their hands.  <br>
 - **The Process:** Release an MVP of your product through Heroku and set up a user session where you can observe users as they interact with your product. Take careful notes on what they do and say, and try not to influence them by explaining anything.  <br>
