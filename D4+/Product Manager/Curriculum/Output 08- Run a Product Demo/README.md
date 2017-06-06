@@ -1,4 +1,4 @@
-# Output 06- Run a Product Demo
+# Output 08- Run a Product Demo
 
 - **The Product:** As a Product Manager, you will be responsible for running weekly Product Demos (recommended to run for an hour at the end of each week, at a time that works for all key stakeholders). <br>
 - **The Process:** You can run these in person or over Hangouts. Either way, make sure that reminders are set on calendars of all parties involved, and send an agenda of what the demo will cover at least two hours before the demo begins. Follow up on appropriate Slack channel with Demo results.  <br>
