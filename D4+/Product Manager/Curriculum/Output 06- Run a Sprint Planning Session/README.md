@@ -1,4 +1,4 @@
-# Output 04- Run a Sprint Planning Session
+# Output 06- Run a Sprint Planning Session
 
 - **The Product:** As a Product Manager, you will be responsible for running Weekly Sprint Planning (recommended to run Monday mornings for 1.5 hours) <br>
 - **The Process:** Gather feedback from your Stakeholders on the effectiveness of your Sprint planning and communication. <br>
