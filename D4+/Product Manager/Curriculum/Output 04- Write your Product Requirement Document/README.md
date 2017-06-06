@@ -15,6 +15,7 @@
 | How to identify stakeholders and users of a product 	|  
 | How to set measurable and quantifiable [BHAG](https://en.wikipedia.org/wiki/Big_Hairy_Audacious_Goal) | 
 | How customers use products to achieve goals	|
+| How to define an MVP of a product	|
 | </br> | 
 | **Behaviors** 	| 
 |  **Context:** When I am writing a PRD, **Action:** I begin with a product definition.  	|  
