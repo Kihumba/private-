@@ -1,4 +1,4 @@
-# Output 02- Write your Product Requirement Document (PRD) 
+# Output 04- Write your Product Requirement Document (PRD) 
 
 - **The Product:** If you’re joining a new team, they may already have a PRD defined. That doesn’t mean it is perfect, though-- most PM’s review and refactor their PRD’s on a bi-weekly basis anyway, so this is your chance to make sure everything is in alignment before launching into your product. <br>
 - **The Process:** Simply stated, your PRD will define the problems your product will solve with general descriptions of features. Make sure to include: 
