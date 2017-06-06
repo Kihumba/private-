@@ -1,4 +1,4 @@
-# Output 05- Run a Standup
+# Output 07- Run a Standup
 
 - **The Product:** As a Product Manager, you will be responsible for running daily Standups (recommended to run in the mornings for no more than 30 minutes)<br>
 - **The Process:** You can run these in person (over Hangouts) or via Slack. Either way, make sure that reminders are set on your team’s calendar and/or in your product Slack Channel.  <br>
