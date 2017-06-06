@@ -1,4 +1,4 @@
-# Output 07- Run a Retro
+# Output 09- Run a Retro
 
 - **The Product:** After every demo, you should run a 30-60 minute retro with your team. This meeting should cover action items from the previous week, and should allow team members to say: 
 > - What went well this week
