@@ -1,6 +1,6 @@
 # Andela Growth Paths 
 
-## What is a `Growth Path`? 
+## What is a Growth Path? 
 
 `Growth Paths` are a Fellow-inspired addition to the Andela Learning Map. These Paths provide structured work outputs, resources, and networks to help Andelans work toward their future aspirations. 
 
@@ -16,6 +16,10 @@ In order to get the most use out of these paths, be sure to share your work prod
 - Pitches to Stakeholders (internal or external)
 - Blog posts
 
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/5239538/26895696-66a84e24-4b90-11e7-925b-21af6ce0a560.png" />
+</p>
+
 ----
 
 ## Why Outputs? 
@@ -25,7 +29,7 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/5239538/26893442-5cf3ff42-4b89-11e7-96a5-c2ac5c73e895.png" />
-</p>]
+</p>
 
 --- 
 
