@@ -23,7 +23,9 @@ Creating real work is the best way to learn a new skill-- gone are the days wher
 
 Read more about the Andela [**Work == Learning**](https://github.com/andela/learningmap/wiki/Work-==-Learning) and [**You Own Your Own Learning**](https://github.com/andela/learningmap/wiki/%22YOYO%22-Learning) Philosophies on our [Learning Map here.](https://github.com/andela/learningmap/wiki/Work-==-Learning)
 
-![work-learning small](https://user-images.githubusercontent.com/5239538/26893442-5cf3ff42-4b89-11e7-96a5-c2ac5c73e895.png)
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/5239538/26893442-5cf3ff42-4b89-11e7-96a5-c2ac5c73e895.png" />
+</p>]
 
 --- 
 
@@ -33,9 +35,9 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 - `Real Work Opportunities` for creating and sharing outputs-- through Andela work, Client work, contests, and volunteer projects
 - Slack Channel(s) for conversation, resource sharing, mentorship, and project collaboration
 
-
-![path](https://user-images.githubusercontent.com/5239538/26893911-d06798e8-4b8a-11e7-85e6-a58a53165950.png)
-
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/5239538/26893911-d06798e8-4b8a-11e7-85e6-a58a53165950.png" />
+</p>]
 ---
 
 ## How to Use these Paths? 
@@ -46,11 +48,12 @@ Andela `Growth Paths` are only as valuable as **you** can help us make them. Ple
 3. Use the Skill Tracker to see where your skills place you on your journey along these growth paths, identify outputs that will help you fill in missing gaps. 
 4. Join the Slack Channel(s) listed on each path and participate in weekly meetups, group projects, and resource sharing!
 
+![screen shot 2017-06-07 at 2 10 35 pm](https://user-images.githubusercontent.com/5239538/26894007-263ec688-4b8b-11e7-8de8-c71272d9ff0b.png)
 --- 
 
 ## Please... give us some `ASK Feedback`!
 `Growth Paths` are inspired by the powerful dreams of Andela Fellows... that's `you.` We want to make sure that the structure of these paths gives you the **confidence,** **counsel,** and **community** to channel your inspiration into transformation (of yourself, the company, and the **world**). 
 
-We cannot do it without your Feedback-- please use this form, Slack (#ask-learing; #learning-map; @nora.studholme; @nad; @oli), or any other form of communication _(smoke signals, hand-delivered notes, and carrier pigeons accepted)_ to let us know what's working, what's confusing, and what you need. 
+We cannot do it without your Feedback-- [please use this Form](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLScXaQ18J2oqQdVEOD5LkXyTbansZidQolcXwL6cMqNZOhu8lQ/viewform?usp=sf_link), Slack ([#ask-learing](https://andela.slack.com/messages/ask-learning); [#learning-map](https://andela.slack.com/messages/learning-map); @nora.studholme; @nad; @oli), or any other form of communication _(smoke signals, hand-delivered notes, and carrier pigeons accepted)_ to let us know what's working, what's confusing, and what you need. 
 
 Together, we are #limitless. TIA!
