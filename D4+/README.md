@@ -40,7 +40,7 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 - Slack Channel(s) for conversation, resource sharing, mentorship, and project collaboration
 
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/5239538/26893911-d06798e8-4b8a-11e7-85e6-a58a53165950.png" />
+  <img align="center" src="https://user-images.githubusercontent.com/5239538/26901661-968fbcda-4ba4-11e7-96d9-42d0662309e0.png" />
 </p>
 ---
 
