@@ -41,7 +41,7 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 
 <p align="center">
   <img align="center" src="https://user-images.githubusercontent.com/5239538/26893911-d06798e8-4b8a-11e7-85e6-a58a53165950.png" />
-</p>]
+</p>
 ---
 
 ## How to Use these Paths? 
