@@ -34,7 +34,7 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 --- 
 
 ## What Resources do Growth Paths Offer? 
-- Structured set of Outputs that a person on this path should create, recreate, and share... based on input from Experienced Practitioners and from you(
+- Structured set of Outputs that a person on this path should create, recreate, and share... based on input from Experienced Practitioners and from you.
 - Learning Resources curated to the skills involved with each output 
 - `Real Work Opportunities` for creating and sharing outputs-- through Andela work, Client work, contests, and volunteer projects
 - Slack Channel(s) for conversation, resource sharing, mentorship, and project collaboration
