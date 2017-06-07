@@ -16,13 +16,16 @@ In order to get the most use out of these paths, be sure to share your work prod
 - Pitches to Stakeholders (internal or external)
 - Blog posts
 
-
-*Hypothesis:* Providing clarity through a path to work toward their personal/professional dreams will enable Fellows to `identify and seek out` the outputs & skills that are available to them through client work, projects, and Andela work (level up apprenticeships, slack channels, Architecture meetings), and will be able to channel their passion and `clearly understand how those build toward their ultimate goal`
+----
 
 ## Why Outputs? 
 Creating real work is the best way to learn a new skill-- gone are the days where we go into a classroom and study, then emerge to try to apply what we learned from our books and lectures. **Work IS Learning**. Not only that, having an Output-Oriented path ensures that you are building relationships with real stakeholders who will be able to vouch for your work, and creating artifacts that you can showcase to advocate for your own abilities and growing expertise. 
 
 Read more about the Andela [**Work == Learning**](https://github.com/andela/learningmap/wiki/Work-==-Learning) and [**You Own Your Own Learning**](https://github.com/andela/learningmap/wiki/%22YOYO%22-Learning) Philosophies on our [Learning Map here.](https://github.com/andela/learningmap/wiki/Work-==-Learning)
+
+![work-learning small](https://user-images.githubusercontent.com/5239538/26893442-5cf3ff42-4b89-11e7-96a5-c2ac5c73e895.png)
+
+--- 
 
 ## What Resources do Growth Paths Offer? 
 - Structured set of Outputs that a person on this path should create, recreate, and share... based on input from Experienced Practitioners and from you(
@@ -30,6 +33,10 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 - `Real Work Opportunities` for creating and sharing outputs-- through Andela work, Client work, contests, and volunteer projects
 - Slack Channel for conversation, resource sharing, mentorship, and project collaboration
 
+
+![path](https://user-images.githubusercontent.com/5239538/26893911-d06798e8-4b8a-11e7-85e6-a58a53165950.png)
+
+---
 
 ## How to Use these Paths? 
 Andela `Growth Paths` are only as valuable as **you** can help us make them. Please take the following actions to ensure that these paths allow all Andelans (current and future) to move toward their dreams and transform themselves, Andela, and the world. 
@@ -39,6 +46,7 @@ Andela `Growth Paths` are only as valuable as **you** can help us make them. Ple
 3. Use the Skill Tracker to see where your skills place you on your journey along these growth paths, identify outputs that will help you fill in missing gaps. 
 4. Join the Slack Channel(s) listed on each path and participate in weekly meetups, group projects, and resource sharing!
 
+--- 
 
 ## Please... give us some `ASK Feedback`!
 `Growth Paths` are inspired by the powerful dreams of Andela Fellows... that's `you.` We want to make sure that the structure of these paths gives you the **confidence,** **counsel,** and **community** to channel your inspiration into transformation (of yourself, the company, and the **world**). 
