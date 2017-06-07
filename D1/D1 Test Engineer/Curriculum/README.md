@@ -1,5 +1,3 @@
-
-![test engineer learning track curriculum](https://cloud.githubusercontent.com/assets/5239538/26372180/f82d0a50-3fca-11e7-93e7-136e621f2633.jpg)
-
-
-![test engineer learning track curriculum 2](https://cloud.githubusercontent.com/assets/5239538/26372328/953107d4-3fcb-11e7-8443-39b8047247f2.jpg)
+![test engineer learning track 4](https://user-images.githubusercontent.com/5239538/26896635-810a8694-4b93-11e7-8731-849bbbc48f1c.png)
+![test engineer learning track 5](https://user-images.githubusercontent.com/5239538/26896638-82c4373c-4b93-11e7-8da3-cea3c798c15b.png)
+![test engineer learning track 6](https://user-images.githubusercontent.com/5239538/26896640-84862576-4b93-11e7-9275-c798b7c82992.png)
