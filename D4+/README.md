@@ -31,7 +31,7 @@ Read more about the Andela [**Work == Learning**](https://github.com/andela/lear
 - Structured set of Outputs that a person on this path should create, recreate, and share... based on input from Experienced Practitioners and from you(
 - Learning Resources curated to the skills involved with each output 
 - `Real Work Opportunities` for creating and sharing outputs-- through Andela work, Client work, contests, and volunteer projects
-- Slack Channel for conversation, resource sharing, mentorship, and project collaboration
+- Slack Channel(s) for conversation, resource sharing, mentorship, and project collaboration
 
 
 ![path](https://user-images.githubusercontent.com/5239538/26893911-d06798e8-4b8a-11e7-85e6-a58a53165950.png)
