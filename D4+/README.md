@@ -1,4 +1,7 @@
 # Andela Growth Paths 
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/5239538/26895696-66a84e24-4b90-11e7-925b-21af6ce0a560.png" />
+</p>
 
 ## What is a Growth Path? 
 
@@ -16,9 +19,6 @@ In order to get the most use out of these paths, be sure to share your work prod
 - Pitches to Stakeholders (internal or external)
 - Blog posts
 
-<p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/5239538/26895696-66a84e24-4b90-11e7-925b-21af6ce0a560.png" />
-</p>
 
 ----
 
