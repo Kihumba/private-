@@ -10,20 +10,17 @@
 |----------|
 | </br>| 
 | **Knowledge**	| 
-| How to assess business technology architecture for: |
-| - Performance |
-| - Scalability |
-| - Extensibility |
-| Definition of a Quality of Service (QoS) and why it matters for distributed infrastructure |
+| How to conduct systems analysis |
+| How to use Data Modeling to represent information in its various layers |
+| How to convert business needs into technical capabilities |
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** When I am assessing my business’s technology infrastructure, **Action:** I start by looking at the programming languages used. 	|  
-| **Context:** Once I know what programming languages are used, **Action:** I examine the training requirements each developer must have. |
-| **Context:** When I am assessing QoS architectural requirements, **Action:** I ask questions about the reliability, security, and continuity of service to drive my infrastructure recommendations.  |  
-| **Context:** When I am assessing my business, **Action:** I ensure that our technology meets our needs both for now and the for the future (performance, scalability, extensibility). |  
+|  **Context:** When I am reforming a system, **Action:** I always move toward simplicity.	|  
+| **Context:** When I am deciding on the best framework for a solution, **Action:** I look for the one that is the simplest, most cost effective, and least error prone.  | 
 | </br> | 
 | **Beliefs**	| 
-|A good infrastructure works both now and in the future-- it will grow with my business. |  
+| Great Software Architects create simplicity out of complexity. |  
+| As a Software Architect, I am committed to quality and take ownership of the quality of my team’s products. |
 
 
 ------
