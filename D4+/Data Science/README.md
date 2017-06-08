@@ -1,7 +1,7 @@
 # Data Science Growth Path
 The Data Science Growth Path at Andela is designed to support Fellows in seeking out real-world opportunities to build their Data Science skills and portfolio. This path is not a Client Placement Track: instead, it is designed to allow Fellows to gain meaningful experiences, projects, and skills that will move them toward becoming a leader in the Data Science field in the future. 
 
-This is a path in development-- as you work on Data Science projects and advance along this path, please contribute the outputs you work on and the KBBs you use!
+This is a path in development, and was developed from the work of the [#data-science](https://andela.slack.com/messages/data-science) group-- as you work on Data Science projects and advance along this path, please contribute the outputs you work on and the KBBs you use!
 
 ---
 
