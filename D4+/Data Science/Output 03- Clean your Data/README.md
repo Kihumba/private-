@@ -1,8 +1,8 @@
 # Output 03- Clean your Data 
 
 - **The Product:** Clean your data so that it is more easily manipulated. This is the least “sexy” part of data science, but in reality it is 80% of what a data scientist does on a daily basis. Becoming an expert at cleaning (and “munging”) data will give you a huge advantage not only in the effectiveness of your analysis, but in your work as a data scientist in the future. 
-- **The Process:** XXXXX
-- **The Follow-Through:** XXXXX
+- **The Process:** Use the tools most appropriate to the data you are manipulating to make your life as easy as possible! Almost certainly you will become an Excel Wizard. 
+- **The Follow-Through:** Take some time to reflect on your process, what issues you ran into, where you felt you were most effective. Reflection improves learning velocity dramatically, and you will be able to look back at your progress in the future!
 
 -----------------------------------------------------------
 
