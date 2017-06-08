@@ -16,17 +16,13 @@ _If you do one of these-- try this one! A/B testing is an important skill for a 
 3. How fast is the market for data scientists growing? Think about splitting up your analysis by region or other distinctions. 
 
 
-4. Create a Slack Bot that uses data you have gathered from an external site (shopping, airplane fares, craigslist, etc.).
-- Example [here](https://www.dataquest.io/blog/apartment-finding-slackbot/)
+4. Create a Slack Bot that uses data you have gathered from an external site (shopping, airplane fares, craigslist, etc.). Example [here](https://www.dataquest.io/blog/apartment-finding-slackbot/)
 
 
-5. What informs what paths Fellows choose to pursue at Andela? Is it Learning Speed? Past experience? Other attributes? 
-- Look at Fellows in the first 3 months of Andela and predict what they’ll be doing in D3. Consider the impact this would have on our ability to pipeline. 
+5. What informs what paths Fellows choose to pursue at Andela? Is it Learning Speed? Past experience? Other attributes? Look at Fellows in the first 3 months of Andela and predict what they’ll be doing in D3. Consider the impact this would have on our ability to pipeline. 
 
 
-6. What tech skills will be most in demand in 2019? 
-- To get started, consider looking at the past 3-5 years of stack overflow information and survey data.
-- Identify the best sources in the tech space and pick out patterns from Tweets, Blog Posts, etc.
+6. What tech skills will be most in demand in 2019? To get started, consider looking at the past 3-5 years of stack overflow information and survey data. Identify the best sources in the tech space and pick out patterns from Tweets, Blog Posts, etc.
 
 
 7. Recruitment patterns: Gather data on how we describe people during the Andela interview process and determine predictors of who becomes an Andelan based on attributes they show. 
@@ -35,5 +31,4 @@ _If you do one of these-- try this one! A/B testing is an important skill for a 
 8. Choose any area of the world in https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for a part of the world that you care about. Choose to learn SQL or MongoDB and apply your chosen schema to the project.
 
 
-9. Kaggle Competitions
-- Compete seriously! Seriously competing in a kaggle featured competition, trying to get the highest rank possible. Very intense, fun, and a great learning experience.
+9. Kaggle Competitions: Compete seriously! Seriously competing in a kaggle featured competition, trying to get the highest rank possible. Very intense, fun, and a great learning experience.
