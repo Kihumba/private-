@@ -1,4 +1,4 @@
-# Output 01- Attend an Andela Architecture Review
+# Output 04- Attend an Andela Architecture Review
 
 - **The Product:** Join an Architecture Review at Andela (reach out to Ebun or Scott to learn when upcoming reviews are happening, or ask them for a recording of a recent review). Architecture reviews at Andela are called when a big problem is identified that requires multiple viewpoints. Examples of when a review might be called include: 
 > - Quality has slipped significantly
