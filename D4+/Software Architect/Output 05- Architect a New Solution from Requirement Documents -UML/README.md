@@ -10,19 +10,19 @@
 |----------|
 | </br>| 
 | **Knowledge**	| 
-| Definition of the role and requirements of a Product Manager |  
-| Where a PM fits into a product team | 
-| How to identify key stakeholders of a product	|
-| How to differentiate between key stakeholders, stakeholders, users, and interested parties |
+| Definition of UML and how to use it |
+| How to analyze a requirements document |
+| How and why to create a class Diagram |
+| Distinction between Structure Diagrams, Behavior Diagrams, and Interaction Diagrams, and when to use each |
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** When I am starting with a new team, **Action:** I take time to meet all of the stakeholders and every member of the engineering team.	|  
-| **Context:** When I am meeting with the team, **Action:** I ask questions to learn what phase the product is in, what goals the team has, and what blockers they have experienced so far. |
-| **Context:** While I am meeting with my team, **Action:** I ask questions to ensure that I get set up on all of the team collaboration tools, including all Slack channels, Trello, GitHub, Pivotal Tracker, and any others. |  
+|  **Context:** When I am first reading over a requirements document, **Action:** I identify/underline the nouns in the requirements to identify the relevant elements. |  
+| **Context:** After I have the relevant elements identified, **Action:** I create a class diagram that translates them into classes, values, and attributes. |
+| **Context:** When I have created a class diagram, **Action:** I add in operations and relationships between them. |  
+| **Context:** After I have a completed diagram, **Action:** I always verify with my product stakeholders and/or users. |  
 | </br> | 
 | **Beliefs**	| 
-| As a new Product Manager on a team, my first responsibility is to learn aspect of my product, team, and stakeholders. |  
-| No one person can create a great product-- my work will be as good as my team.|  
+| A good BRD includes both the particular product requirements and the more macro business goals to be supported. |  
 
 
 ------
