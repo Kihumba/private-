@@ -1,8 +1,8 @@
 # Output 05- Explore and Summarize your Data
 
-- **The Product:** You might be building a new product, or you may be coming in midway through an existing one. Either way, before you start building or planning anything, you’ll need to get set up with your team. <br>
-- **The Process:** Take some time to review what your team has built so far (if anything), who your main stakeholders and users are. Also get set up on any existing collaboration tools, or set up new ones if none exist yet (Slack, GitHub, Trello, Heroku)  <br>
-- **The Follow-Through:** Spend some time with your new team! Get to know them as people as well-- #RelationshipsMatter.
+- **The Product:** Now it’s time to build a model to analyze your data-- the fun part! Try fitting and validating the model you have, and then narrow in on how you could make your statistical model fit your data more appropriately. Create and run a new model to analyze the precise question and hypothesis you want to explore.
+- **The Process:** You can use R, Python, or any other tools you like. Apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies. 
+- **The Follow-Through:** Summarize your findings in a document-- You'll be making a presentation and visualizations of them soon as well. 
 
 -----------------------------------------------------------
 
@@ -10,36 +10,32 @@
 |----------|
 | </br>| 
 | **Knowledge**	| 
-| Definition of the role and requirements of a Product Manager |  
-| Where a PM fits into a product team | 
-| How to identify key stakeholders of a product	|
-| How to differentiate between key stakeholders, stakeholders, users, and interested parties |
+| How to use Classification for prediction |  
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** When I am starting with a new team, **Action:** I take time to meet all of the stakeholders and every member of the engineering team.	|  
-| **Context:** When I am meeting with the team, **Action:** I ask questions to learn what phase the product is in, what goals the team has, and what blockers they have experienced so far. |
-| **Context:** While I am meeting with my team, **Action:** I ask questions to ensure that I get set up on all of the team collaboration tools, including all Slack channels, Trello, GitHub, Pivotal Tracker, and any others. |  
+|  **Context:** XX	|  
+| **Context:** XX |
 | </br> | 
 | **Beliefs**	| 
-| As a new Product Manager on a team, my first responsibility is to learn aspect of my product, team, and stakeholders. |  
-| No one person can create a great product-- my work will be as good as my team.|  
+| XX |  
 
 
 ------
 ### Skills: 
-* [GitHub](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Developer/Curriculum/43%20-%20Git)
-* [Slack](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Developer/Curriculum/48%20-%20Slack)
-* [Client Vision Alignment](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Developer/Curriculum/50%20-%20Client%20Vision%20Alignment)
-* [Asking Questions](https://github.com/andela/learningmap/tree/new-structure/D1/D1%20Developer/Curriculum/03%20-%20Asks%20Questions)
-* [Team Dynamics](https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/19%20-%20Team%20Dynamics/README.md)
+* Statistical Models
+* Data Manipulation
+* Algorithms
+* R 
+* Python
+
 
 ------
 
 
 | Resources|       	
 |----------|
-| [The Andelan Way of Product Leadership](https://docs.google.com/document/d/1k_eUv30170exIEDu_tgMKTYs65gNWkIHHvocyIIYSQ0/edit)|
-| [Product Management @ Andela (users, stakeholders…)](https://docs.google.com/document/d/1xYehl9nCAwXLpmUKpnQLgFEuiSy8jH-Wt4VhownwVt8/edit#heading=h.fz4w39uagdal)|
+| [Data Analytics: Hands On](https://app.pluralsight.com/library/courses/data-analytics-hands-on/table-of-contents)- PluralSight|
+| [Excel: An Analytics Superhub](https://app.pluralsight.com/library/courses/excel-analytics-superhub/table-of-contents)- PluralSight|
 | [Product Phases at Andela](https://docs.google.com/spreadsheets/d/1VtVKa-hQ3CN3neuTcu1J7VBa-eSfmix78_8k22VVKQU/edit#gid=321472658)|
 
 ---- 
