@@ -1,8 +1,29 @@
 # Data Science Growth Path
-A Data Scientist is XXXXX
-
-
 The Data Science Growth Path at Andela is designed to support Fellows in seeking out real-world opportunities to build their Data Science skills and portfolio. This path is not a Client Placement Track: instead, it is designed to allow Fellows to build experience and skills that will move them toward becoming a leader in the Data Science field in the future, while providing meaningful work and analysis for Andela. 
+
+---
+
+## What is Data Science?
+“Data Science,” “Big Data,” “Data Engineer”... these have become increasingly popular buzzwords in business across nearly every industry. There are many different ways to work with data, and as you begin following this track, you will likely find yourself drawn toward particular aspects of Data Science. The outputs in this curriculum are meant to provide a base-line for any data science work, regardless of role or application. 
+ 
+Some popluar Data Science roles inclued: 
+ 
+**Data Engineer:**
+- Data Engineer is the typical entry level role for anyone interested in working in the world of data. Whether you’re a Data Engineer or a data scientist, the reality is that 80% of your work is going to cleaning the data, only 20% or so is actually modeling. In training modules or contrived work examples, you’ll see nice, clean data… in reality, you’ll see what data is really like-- a jumbled mess that is confusing, messy, has holes, and needs a lot of TLC to be able to use it at all. 
+- As a Data Engineer, you’ll start to hone key skills that you’ll use throughout your career in data: How to extract, gather, move, and clean data from different sources until it is usable in analysis. Depending on the client/ team you are working for, you may also be called on to analyze data as a Data Engineer. 
+
+
+**Data Scientist:**
+- As a data scientist, you will be expected to be able to tackle open ended questions with little to no direction, striking out into the vast world of data to gather and glean what is needed to answer business questions. You will model data, and may be asked to run predictive analytics to make business recommendations. Many data scientists work with development teams to create and integrate efficient data mining environments/ 
+ 
+**Data Analyst:**
+- A Data Analyst's magic is to turn data into information, information into insight, and insight into business decisions. This role requires outputs that integrate data gathering, processing, and reporting, as well as enough experience with various aspects of business to allow actionable recommendations (Finance, marketing, strategy, operations, valuations) 
+- Data Analysts not only have powerful data crunching/modeling skills, they also have a keen eye for business, and are expert communicators who can make the most complex data into the most simple, intuitive business decisions. Data Analysts take on a lot of responsibility through these recommendations: It is not uncommon that a Data Analyst will be answering questions that could make or break an entire business. 
+
+
+_These are not set in stone-- many organizations use different role titles for different levels and meanings. Machine Learning and Artificial Intelligence roles are also commonly filled by individuals with experience in Data Science._
+
+
 
 ## Prerequisites
 _Regardless of the specific role within Data Science that interests you, you’ll need to have a basic background in the following skillsets. Feel free to check out the quizzes to see how your current knowledge stacks up to fulfill the prerequisite requirements, and use the linked resources below to fill in any gaps you discover._
