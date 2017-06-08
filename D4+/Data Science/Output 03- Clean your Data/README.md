@@ -1,0 +1,44 @@
+# Output 03- Clean your Data 
+
+- **The Product:** Clean your data so that it is more easily manipulated. This is the least “sexy” part of data science, but in reality it is 80% of what a data scientist does on a daily basis. Becoming an expert at cleaning (and “munging”) data will give you a huge advantage not only in the effectiveness of your analysis, but in your work as a data scientist in the future. 
+- **The Process:** XXXXX
+- **The Follow-Through:** XXXXX
+
+-----------------------------------------------------------
+
+| **"KBB's"** <br> _What do experts think, do, and feel as they work through this task?_|
+|----------|
+| </br>| 
+| **Knowledge**	| 
+| How to identify common types of “dirty” data |  
+| Know what variables are, missing random, computing values— predict what a value would be to place it | 
+| Definition of “flat” variables	|
+| Science behind cleaning the data |
+| </br> | 
+| **Behaviors** 	| 
+| [Please Contribute!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link) |  
+| </br> | 
+| **Beliefs**	| 
+| [Please Contribute!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)|  
+
+
+------
+### Skills: 
+* Data Cleaning
+* Advanced Excel
+* Data Manipulation
+* Data Formatting
+
+
+------
+
+
+| Resources|       	
+|----------|
+| [Data Analytics: Hands On](https://app.pluralsight.com/library/courses/data-analytics-hands-on/table-of-contents)- PluralSight |
+
+---- 
+
+>> ### Contribute
+>> _Have a resource, experience (work output), KBB, or edit you'd like to add to this Output? Submit it [here](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link) and be an active participant in keeping our Curriculum a current, living document!_
+
