@@ -16,10 +16,13 @@
 | Science behind cleaning the data |
 | </br> | 
 | **Behaviors** 	| 
-| [Please Contribute!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link) |  
+| **Context:** When I have a raw dataset, **Action:** I must start by detecting and correcting "bad" data. |  
+| **Context:** When I have a raw dataset, **Action:** I select only the fields I need and ensure that they are sorted properly. |  
+| **Context:** When I have corrected the errors in my data, **Action:** I then validate my data against verified sources. |  
+| **Context:** When I have verified my data, **Action:** I standardize it to make it easy to explore. |  
 | </br> | 
 | **Beliefs**	| 
-| [Please Contribute!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)|  
+| When I start with high quality data, I can feel more confident in the results I find. |  
 
 
 ------
