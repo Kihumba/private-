@@ -35,8 +35,8 @@
 * R 
 * Python
 * Other Data Reduction Tools: 
-  > -Orange
-  > -RapidMiner
+  > - Orange
+  > - RapidMiner
 
 
 ------
