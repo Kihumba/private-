@@ -19,10 +19,10 @@
 | **Context:** When I am starting to explore my dataset, **Action:** I start with single-variable distributions, one variable at a time. |  
 | **Context:** After I have explored single-variable distributions of my data, **Action:** I explore joint distributions to understand how variables impact each other. |  
 unusual cases, errors in the data, missing data. 
-
 | </br> | 
 | **Beliefs**	| 
 | I don't need fancy tools to explore my data-- I can even do it by hand. |  
+| Exploring my data may lead me back to the drawing board if I find critical pieces of data missing that could introduce bias-- I am always ready to gather more information to improve my analysis. |  
 
 
 ------
