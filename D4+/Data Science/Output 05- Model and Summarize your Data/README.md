@@ -10,14 +10,21 @@
 |----------|
 | </br>| 
 | **Knowledge**	| 
+| How to use data reduction to help mine your data |  
 | How to use Classification for prediction |  
+| How and when to use clustering for analyzing your data |  
+| How and when to use anomoly detection |  
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** XX	|  
-| **Context:** XX |
+|  **Context:** Before I analyze my data, **Action:** I reduce it to focus in on the variables that are most likely to carry the meaning I am looking to extract, and the least likely to carry noise that will distract.	|  
+| **Context:** After data reduction, **Action:** I do cluster analysis to put "Like with Like." |
+| **Context:** After I do a cluster analysis, **Action:** I run an association analysis. |
+| **Context:** When I want to see the future through data, **Action:** I use classification, anomoly detection, and association analysis. |
+| **Context:** When I want to predict the impact of some variables on another, **Action:** I use regression analysis. |
 | </br> | 
 | **Beliefs**	| 
-| XX |  
+| More data is not always better-- good data science is meticulous about Quality over Quantity. |  
+| Anomoly detection allows me to find the unexpected so that I can react to it appropriately. |  
 
 
 ------
@@ -27,6 +34,9 @@
 * Algorithms
 * R 
 * Python
+* Other Data Reduction Tools: 
+  > -Orange
+  > -RapidMiner
 
 
 ------
