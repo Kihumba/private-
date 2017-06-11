@@ -13,12 +13,15 @@
 | How to create a hypothesis (Premonition or intuition) |  
 | </br> | 
 | **Behaviors** 	| 
+| **Context:** Before I gather any data, **Action:** I define the question(s) that I woule like to answer with that data. |
+| **Context:** Throughout my gathering and analysis,  **Action:** I constantly revisit my questions and determine if there are other questions that need to be asked (with this data set or an additional one). |
 | [Please Contribute!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)  |  
 | </br> | 
 | **Beliefs**	| 
 | Data gives people confidence. |  
 | My answers that I can get from data will only be as good as the questions I ask. |  
 | Data allows us to interpret and act on human behavior. |
+| The more questions my business asks, the more powerful my organization can be. |
 
 
 ------
