@@ -1,6 +1,6 @@
 # Output 09- Tell your Story
 
-- **The Product:** - **The Product:** What did you learn, discover, or predict from your analysis? Did your results make sense? What new questions do you have now? 
+- **The Product:** What did you learn, discover, or predict from your analysis? Did your results make sense? What new questions do you have now? 
 - **The Process:** Make a complete presentation of your analysis that you present to the people impacted by your data findings. 
 - **The Follow-Through:** Gather their feedback on your presentation, note what stories you were able to tell clearly, where they might have found it confusing, etc.
 
@@ -13,12 +13,16 @@
 | How to determine the stakeholders you will present your findings to |  
 | How to translate data insights into business impact | 
 | How to create and present an effective powerpoint presentation	|
+| How to communicate using the KWYRWTS principle (know what you really want to say) |  
+| How to communicate the appropriate level of details for a specific audience |  
 | </br> | 
 | **Behaviors** 	| 
-|  **Context:** XX	|    
+|  **Context:** When I am analyzing my data, **Action:** I am always looking for the story in the numbers.	|    
+|  **Context:** When I have a story I want to tell using my data, **Action:** I start by outlining a storyboard of how I can communicate it.	|    
 | </br> | 
 | **Beliefs**	| 
-| XX |  
+| My primary job as a human (and a data scientist) is to be a communicator. |  
+| If I find an interesting story in the numbers of my data and do not properly communicate it, I have not succeeded in my analysis. |  
 
 
 ------
