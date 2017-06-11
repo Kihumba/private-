@@ -11,9 +11,12 @@
 | </br>| 
 | **Knowledge**	| 
 | How to create a hypothesis (Premonition or intuition) |  
+| How to investigate data using a scientific method |  
+| The importance of asking questions in data science |  
 | </br> | 
 | **Behaviors** 	| 
 | **Context:** Before I gather any data, **Action:** I define the question(s) that I woule like to answer with that data. |
+| **Context:** After I start with a question,  **Action:** I run experiments on my data and see if I am getting closer to any real insights. |
 | **Context:** Throughout my gathering and analysis,  **Action:** I constantly revisit my questions and determine if there are other questions that need to be asked (with this data set or an additional one). |
 | [Please Contribute!](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link)  |  
 | </br> | 
