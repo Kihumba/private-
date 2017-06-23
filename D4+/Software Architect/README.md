@@ -22,3 +22,6 @@ A Software Architect's role is both business-related and technical. Their purpos
 
 **Expert Note:**
 The key to being an excellent Software Architect is not necessarily to be an _expert programmer_ in a particular stack. The most important skills are computer science knowledge, and a deep understanding of how all parts of a system fit together.
+
+**Some Key Resources** 
+- [Software Architect Reading List](https://www.javacodegeeks.com/2014/07/you-want-to-become-an-software-architect-here-is-your-reading-list.html)
