@@ -44,6 +44,7 @@ _You can create your own project, or you can select a suggested project from the
 - [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science/)- Cognitive Class Track
 - [Statistical Thinking for Data Science & Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-1)- EdX
 - [Data Science with R](https://app.pluralsight.com/library/courses/r-data-science/table-of-contents)- PluralSight
+- [9 Mistakes to Avoid when Starting your Data Science Career](https://elitedatascience.com/beginner-mistakes)
 
 ## Groups to Join & Mentors: 
 - [#data-science](https://andela.slack.com/messages/data-science)
