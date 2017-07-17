@@ -1,6 +1,11 @@
 # Project Manager- Preparing for your Case Studies
 We'll continually build out this section with resources, real-life examples, and past case studies for you to leverage!
 
+---
+
+## To get you Started
+* [Some good practice Project Management Case Study questions](http://www.careerprofiles.info/case-study-interview-examples.html)
+
 --- 
 ## Other Resources
 Join the [Project Management Slack Channel](https://andela.slack.com/messages/project-management/) to get access to great Experts to shadow, Mentors to reach out to, and relevant discussions to dig into. 
