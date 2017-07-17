@@ -9,7 +9,9 @@ An additional technical work output could include:
 - Products built for a Growth Path group (eg. data science research, design product, etc.) 
 - ... or anything else! 
 
-***Note:** Until LV is ready, you can prepare these in a Google Docs or Google Slides format, whatever is easiest for you. 
+> **Note:** Until LV is ready, you can prepare these in a Google Docs or Google Slides format, whatever is easiest for you. 
+
+--- 
 
 ## What to Include
 The requirements for any optional products are the same as the three required products: 
@@ -22,3 +24,7 @@ The requirements for any optional products are the same as the three required pr
 - Biggest Challenge during this work
 
 *As you are describing your Products, the experiences you had, and what you learned, make sure to explicitly tie in how the skills you learned will tie into your chosen D4 Role-- this is your D4 Growth Story.*
+
+--- 
+
+>> Questions? Comments? **ASK Feedback?** [Please DM Nora](https://andela.slack.com/messages/@nora.studholme/)
