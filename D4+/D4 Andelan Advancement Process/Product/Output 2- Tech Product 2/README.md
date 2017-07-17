@@ -22,4 +22,4 @@ Please upload the following to LV. Link to the product itself, and to code when 
 *As you are describing your Products, the experiences you had, and what you learned, make sure to explicitly tie in how the skills you learned will tie into your chosen D4 Role-- this is your D4 Growth Story.*
 
 --- 
->> Questions? Comments? **ASK Feedback?** [Please DM Nora]
+>> Questions? Comments? **ASK Feedback?** [Please DM Nora](https://andela.slack.com/messages/@nora.studholme/)
