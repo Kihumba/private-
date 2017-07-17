@@ -9,6 +9,10 @@ Tell us about the applications you’ve worked on and your role in them. Tell us
 
 Your Case Study/Situational interview questions will likely draw on one or more of your past experiences as context. 
 
+> **Note:** Until LV is ready, you can prepare these in a Google Docs or Google Slides format, whatever is easiest for you. 
+
+--- 
+
 ## What to Include
 Please upload a *minimum of three* products to LV, linked to the product itself, and code when possible. For each product please also include in LV: 
 - Link to Product
