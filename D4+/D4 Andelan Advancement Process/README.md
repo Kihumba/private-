@@ -2,6 +2,8 @@ This will be:
 
 A description of the Advancement Process
 
+Checklist of overall outputs (3-5 in Product; 1-2 in Passion)
+
 A diagram of the Advancement process
 
 Steps with links to each portion of the 3 P's 
