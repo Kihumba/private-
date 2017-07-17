@@ -24,4 +24,4 @@ Please upload the following to LV. Link to the product itself, and to code when 
 
 --- 
 
->> Questions? Comments? **ASK Feedback?** [Please DM Nora]
+>> Questions? Comments? **ASK Feedback?** [Please DM Nora](https://andela.slack.com/messages/@nora.studholme/)
