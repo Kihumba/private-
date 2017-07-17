@@ -1,6 +1,12 @@
 # Software Architect- Preparing for your Case Studies
 We'll continually build out this section with resources, real-life examples, and past case studies for you to leverage!
 
+---
+
+## To get you Started
+* [Article & Podcast with Experts Sharing their Work](http://www.softwarearchitecturerad.io/)
+* [Some helpful StackOverflow Questions](https://stackoverflow.com/questions/816258/good-architecture-interview-questions)
+
 --- 
 ## Other Resources
 Check out the practice & resources on the [Software Architect Growth Path!](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect)
