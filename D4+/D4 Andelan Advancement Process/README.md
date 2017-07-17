@@ -64,20 +64,22 @@ Steps:
 
 *Required*
 
-- [ ] **360 Degree Feedback Review completed & Submitted on LV** (LINK)
-- [ ] **Required Mentorship Hours completed & Submitted on LV** (LINK)
-- [ ] **Required Client Hours completed** (LINK)
-- [ ] **Product 1 with details & Feedback uploaded to LV** (LINK)
-- [ ] **Product 2 with details & Feedback uploaded to LV** (LINK)
-- [ ] **Product 3 with details & Feedback uploaded to LV** (LINK)
-- [ ] **Passion Research, Mentorship, and Reflections uploaded to LV** (Link)
+- [ ] **360 Degree Feedback Review completed & Submitted on LV** 
+- [ ] **Required Mentorship Hours completed & Submitted on LV** 
+- [ ] **Required Client Hours completed** 
+- [ ] **Product 1 with details & Feedback uploaded to LV** 
+- [ ] **Product 2 with details & Feedback uploaded to LV** 
+- [ ] **Product 3 with details & Feedback uploaded to LV** 
+- [ ] **Passion Research, Mentorship, and Reflections uploaded to LV** 
 
 
 *Optional*
 
-- [ ] Non-Technical Project(s) with details & Feedback on LV (LINK)
-- [ ] Passion Project(s) with details & Feedback uploaded to LV (Link)
-- [ ] Practiced Case Study Questions for your selected Growth Path (Link)
+- [ ] Non-Technical Project(s) with details & Feedback on LV
+- [ ] Passion Project(s) with details & Feedback uploaded to LV 
+- [ ] Practiced Case Study Questions for your selected Growth Path 
+
+> **Note:** Until LV is ready, you can prepare these in a Google Docs or Google Slides format, whatever is easiest for you. 
 
 -----
 
