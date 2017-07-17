@@ -9,7 +9,7 @@ We'll continually build out this section with resources, real-life examples, and
 
 --- 
 ## Other Resources
-Check out the practice & resources on the [Software Architect Growth Path!](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect)
+Check out the practice & resources on the [Software Architect Growth Path!](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect) See the bottom of the Main README page for some key resources with common Software Architect interview questions. 
 
 You can also join the [Software Architecture Slack Channel](https://andela.slack.com/messages/software-architecture) to get access to great Experts to shadow, Mentors to reach out to, and relevant discussions to dig into. 
 
