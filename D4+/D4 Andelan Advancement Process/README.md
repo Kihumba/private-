@@ -27,7 +27,7 @@ For these criteria, these distill into **the 3 P's of Advancement:**
 This is a Soft Launch and we would love your **ASK Feedback.** [Please DM Nora](https://andela.slack.com/messages/@nora.studholme/) with any suggestions, thoughts, or questions!*
 
 --- 
-[**Click here for Full Interactive Version**](https://docs.google.com/presentation/d/1Scr4mTykOT3D8fKzVog02ABXgPGwaCQMPnSKQIvOFCo/pub?start=false&loop=false&delayms=3000)
+[**Click here for Full Interactive Version!**](https://docs.google.com/presentation/d/e/2PACX-1vSlKM3YYC1y9vHcPkyLUfhGI0jsGAKYi5PZAhIazefADvVdbm9Pbaji1MSozAG8pSIKRNK_DiE-9T1h/pub?start=false&loop=false&delayms=10000)
 
 ![screen shot 2017-07-17 at 11 31 19 am](https://user-images.githubusercontent.com/5239538/28275964-80d4af3c-6ae3-11e7-8d6b-21c2e44c48a7.png)
 
