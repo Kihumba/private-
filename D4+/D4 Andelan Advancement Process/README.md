@@ -25,8 +25,8 @@ For these criteria, these distill into **the 3 P's of Advancement:**
 > Passing a minimum bar of competence and demonstration of the ability to learn and apply skills quickly through creation of related work products to this domain.
 
 
-**Note:**
-> This is a Soft Launch and we would love your **ASK Feedback.** [Please DM Nora](https://andela.slack.com/messages/@nora.studholme/) with any suggestions, thoughts, or questions!
+***Note:**
+This is a Soft Launch and we would love your **ASK Feedback.** [Please DM Nora](https://andela.slack.com/messages/@nora.studholme/) with any suggestions, thoughts, or questions!*
 
 --- 
 [**Click here for Full Interactive Version**](https://docs.google.com/presentation/d/1Scr4mTykOT3D8fKzVog02ABXgPGwaCQMPnSKQIvOFCo/pub?start=false&loop=false&delayms=3000)
