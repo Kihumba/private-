@@ -21,6 +21,23 @@ Please upload the following to LV. Link to the product itself, and to code when 
 
 *As you are describing your Products, the experiences you had, and what you learned, make sure to explicitly tie in how the skills you learned will tie into your chosen D4 Role-- this is your D4 Growth Story.*
 
+--- 
+
+## Other Questions to help you Reflect
+Feel free to use these to include more context in your description: 
+* What role, stack, and framework were you using? 
+  * Had you used it before? If not, how did you learn? 
+* What was your team like? 
+  * How did they function together? 
+  * What was the leadership structure? 
+* If you were working on an app outside of Andela, who were your users? 
+* Did the app or your work on the product "succeed?" 
+  * If not, that’s great too-- what did you learn from the failure? 
+* What was the biggest asset you brought to the team? 
+* What was the most challenging part of working on this application/on this team? 
+* When did you “fail” or struggle to learn something? 
+  * How did you overcome that? 
+* What was your proudest accomplishment from working on this application?
 
 --- 
 
