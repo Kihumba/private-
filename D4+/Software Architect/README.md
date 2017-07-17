@@ -25,3 +25,4 @@ The key to being an excellent Software Architect is not necessarily to be an _ex
 
 **Some Key Resources** 
 - [Software Architect Reading List](https://www.javacodegeeks.com/2014/07/you-want-to-become-an-software-architect-here-is-your-reading-list.html)
+- [20 Software Architecture Interview Questions](http://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html)
