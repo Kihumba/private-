@@ -50,7 +50,7 @@ The key intended uses of this Curriculum are as follows:
 
 Steps: 
 1. **Complete the checklist below:** 
-> There are several required outptus (noted in Bold) that you should complete and upload to LV before applying for assessment (LINK). 
+> There are several required outputs (noted in Bold) that you should complete and upload to LV before applying for assessment (LINK). 
 2. **Practice Case Study Questions:** 
 > We will continually update the case study questions for each Growth Path-- It is recommended to practice these with an expert practitioner and/or mentor in these roles. Do not hesitate to reach out! 
 3. **Apply for D4 Assessment:** 
