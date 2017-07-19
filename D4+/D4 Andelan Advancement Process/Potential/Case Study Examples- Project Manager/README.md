@@ -5,6 +5,7 @@ We'll continually build out this section with resources, real-life examples, and
 
 ## To get you Started
 * [Some good practice Project Management Case Study questions](http://www.careerprofiles.info/case-study-interview-examples.html)
+* [Prep for your Project Management Case Study](https://github.com/andela/learningmap/blob/master/D4%2B/Project%20Manager/Case%20Study%20Questions/README.md)
 
 --- 
 ## Other Resources
