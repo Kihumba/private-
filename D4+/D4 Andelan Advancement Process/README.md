@@ -3,7 +3,7 @@
 ## What Is D4? 
 Advancement to D4 is a significant step in every Fellow’s unique journey to becoming a Global Technology Leader. **Year 4 is a Career Launcher for Fellows** in addition to being a value add to Andela, and Fellows who advance to D4 are committing to a life-long community while being offered in return full hands-on support in the next steps of their career. 
 
-For **D4 Placements**, we are committed to looking for companies that would be good partners for **APM (Product or Project Manager)** and/or **Software Architect** roles, among other Growth Path options. That being said, this is a new process and will take time, experimentation, and continuing to work together. Therefore, there is currenty no *"guarantee"* that Fellows will immediately transition into their Focus/ Growth Path of choice. 
+For **D4 Placements**, we are committed to looking for companies that would be good partners for **APM (Product or Project Manager)** and/or **Software Architect** roles, among other Growth Path options. That being said, this is a new process and will take time, experimentation, and continued collaboration. Therefore, there is currenty no *"guarantee"* that Fellows will immediately transition into their Focus/ Growth Path of choice. 
 
 That being said, we (Fellows, Learning, Success) also commit providing opportunities to build the skills necessary to *have a conversation within a current client role* (whatever that may be) that helps Fellows identify gaps and showcase themselves as the person to fix them. We also commit to continuing to provide opportunities for all learners to build their portfolios of work outputs & networks of Mentors for their chosen path! 
 
