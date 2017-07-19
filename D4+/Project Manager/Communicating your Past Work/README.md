@@ -8,6 +8,11 @@ You don't need to have worked as a Project Manager to have gained Project Manage
 
 Take a few minutes and reflect on your past work. Make a list of **all** the situations, roles, and projects you worked on that could qualify for these criteria.
 
+----
+*We will contintue to add to this list. 
+[Please DM Nora](https://andela.slack.com/messages/@nora.studholme/) with any suggestions if you've been through a PM interview!*
+
+---
 
 ## Questions 
 * What can you tell me about Project Management? 
