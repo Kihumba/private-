@@ -30,7 +30,7 @@ _These are not set in stone-- many organizations use different role titles for d
 ## Prerequisites
 _Regardless of the specific role within Data Science that interests you, you’ll need to have a basic background in the following skillsets. Feel free to check out the quizzes to see how your current knowledge stacks up to fulfill the prerequisite requirements, and use the linked resources below to fill in any gaps you discover._
 
-![screen shot 2017-06-08 at 2 26 05 pm](https://user-images.githubusercontent.com/5239538/26944400-8304ff38-4c56-11e7-8c5a-0ef91f788fd4.png)
+![screen shot 2017-07-19 at 1 24 51 pm](https://user-images.githubusercontent.com/5239538/28380542-b0e4e540-6c85-11e7-8879-3c96016374ab.png)
 
 ## Skills and Outputs
 _You can create your own project, or you can select a suggested project from the list in Part 2 of the Curriculum. Regardless of which one you choose, make sure you are very clear on the precise question you are trying to answer, who you are answering it for, stakeholders who might be impacted by your finding, and any assumptions you are making before getting started._
