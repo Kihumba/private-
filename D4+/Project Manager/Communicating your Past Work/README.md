@@ -1,4 +1,4 @@
-## Past Work
+# Communicate your Past Work
 You don't need to have worked as a Project Manager to have gained Project Management Skills from your past work. Some areas to draw on are: 
 
 - If you've ever had a leadership role (Team Lead, Society Head, etc)
