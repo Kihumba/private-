@@ -64,13 +64,13 @@ Steps:
 
 *Required*
 
-- [ ] **360 Degree Feedback Review completed & Submitted on LV _(for now, gather in Google Drive Folder)_** 
-- [ ] **Required Mentorship Hours completed & Submitted on LV _(for now, gather in Google Drive Folder)_** 
+- [ ] **360 Degree Feedback Review completed & Submitted on LV**  _(for now, gather in Google Drive Folder)_
+- [ ] **Required Mentorship Hours completed & Submitted on LV** _(for now, gather in Google Drive Folder)_
 - [ ] **Required Client Hours completed** 
-- [ ] **Product 1 with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_** 
-- [ ] **Product 2 with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_** 
-- [ ] **Product 3 with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_** 
-- [ ] **Passion Research, Mentorship, and Reflections uploaded to LV _(for now, gather in Google Drive Folder)_** 
+- [ ] **Product 1 with details & Feedback uploaded to LV** _(for now, gather in Google Drive Folder)_
+- [ ] **Product 2 with details & Feedback uploaded to LV** _(for now, gather in Google Drive Folder)_
+- [ ] **Product 3 with details & Feedback uploaded to LV** _(for now, gather in Google Drive Folder)_ 
+- [ ] **Passion Research, Mentorship, and Reflections uploaded to LV** _(for now, gather in Google Drive Folder)_ 
 
 
 *Optional*
