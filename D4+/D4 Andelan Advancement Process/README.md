@@ -64,20 +64,20 @@ Steps:
 
 *Required*
 
-- [ ] **360 Degree Feedback Review completed & Submitted on LV** 
-- [ ] **Required Mentorship Hours completed & Submitted on LV** 
+- [ ] **360 Degree Feedback Review completed & Submitted on LV _(for now, gather in Google Drive Folder)_** 
+- [ ] **Required Mentorship Hours completed & Submitted on LV _(for now, gather in Google Drive Folder)_** 
 - [ ] **Required Client Hours completed** 
-- [ ] **Product 1 with details & Feedback uploaded to LV** 
-- [ ] **Product 2 with details & Feedback uploaded to LV** 
-- [ ] **Product 3 with details & Feedback uploaded to LV** 
-- [ ] **Passion Research, Mentorship, and Reflections uploaded to LV** 
+- [ ] **Product 1 with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_** 
+- [ ] **Product 2 with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_** 
+- [ ] **Product 3 with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_** 
+- [ ] **Passion Research, Mentorship, and Reflections uploaded to LV _(for now, gather in Google Drive Folder)_** 
 
 
 *Optional*
 
-- [ ] Non-Technical Project(s) with details & Feedback on LV
-- [ ] Passion Project(s) with details & Feedback uploaded to LV 
-- [ ] Practiced Case Study Questions for your selected Growth Path 
+- [ ] Non-Technical Project(s) with details & Feedback on LV _(for now, gather in Google Drive Folder)_
+- [ ] Passion Project(s) with details & Feedback uploaded to LV _(for now, gather in Google Drive Folder)_
+- [ ] Practiced Case Study Questions for your selected Growth Path
 
 > **Note:** Until LV is ready, you can prepare these in a Google Docs or Google Slides format, whatever is easiest for you. 
 
