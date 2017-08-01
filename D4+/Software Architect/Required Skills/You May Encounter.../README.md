@@ -1,0 +1,3 @@
+# You May Encounter...
+
+"Software Architect" is a role defined differently at every company. These are the skills you may encounter on the job but which you *will not be expected to demonstrate* in your interview process at Andela.
