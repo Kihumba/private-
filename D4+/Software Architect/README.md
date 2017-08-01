@@ -28,8 +28,8 @@ In order to help you get the best use from this Software Architecture Curriculum
 
 ## 3. Here to Practice your Software Architect Skills? 
 #### _Use these resources..._ 
-- Outputs
-- Resources- Continued Learning 
-- Resources- Getting Started
+- [Outputs](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Outputs)
+- [Resources- Continued Learning](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Resources-%20Continued%20Learning) 
+- [Resources- Getting Started](https://github.com/andela/learningmap/tree/master/D4+/Software%20Architect/Resources-%20Getting%20Started)
 - Skill Audit
 
