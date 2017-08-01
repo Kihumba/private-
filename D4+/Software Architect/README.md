@@ -13,7 +13,7 @@ In order to help you get the best use from this Software Architecture Curriculum
 
 ## 1. Here to Prep for Advancement? 
 #### _Use these resources…_
-- Required Skills
+- [Required Skills](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Required%20Skills)
 - [Resources- Continual Learning](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Resources-%20Continued%20Learning)
 - Skill Audit
 
