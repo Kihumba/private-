@@ -2,27 +2,34 @@
 
 The **Software Architect** Growth Path at Andela is designed to allow experienced Developers to have real-world opportunities to work on the interactions of complex systems. This path is not a Client Placement Track: instead, it is designed to allow Fellows to build experience and skills that will move them toward becoming a Software Architect in the future _through_ Client and Andela work. 
 
-A Software Architect's role is both business-related and technical. Their purpose is to translate business needs into technical solutions, and to guide that solution’s tactical & strategic evolution. By gaining a broad _and_ deep understanding of how different parts of a technology system interact, Software Architects are also well positioned to become CTO's, Enterprise Product Leaders, and Entrepreneurs in the future. 
 
-<br>
+# How to Use this Curriculum 
 
-![screen shot 2017-06-08 at 10 40 38 am](https://user-images.githubusercontent.com/5239538/26942857-99c0bf3c-4c51-11e7-92ba-a310e84da22b.png)
+Andela's Curriculum can be used for many purposes-- to learn key skills of a role through a detailed resource library, to explore new growth paths through work = learning outputs, or to prepare for your advancement interview into a new role. 
 
-<br>
+In order to help you get the best use from this Software Architecture Curriculum, please follow the guide below. 
 
-![screen shot 2017-06-08 at 1 52 30 pm](https://user-images.githubusercontent.com/5239538/26942902-c159a8ce-4c51-11e7-9937-edbe70c1448a.png)
+--- 
 
-<br>
+## 1. Here to Prep for Advancement? 
+#### _Use these resources…_
+- Required Skills
+- Resources- Continual Learning
+- Skill Audit
 
-![screen shot 2017-06-08 at 1 51 52 pm](https://user-images.githubusercontent.com/5239538/26942909-c707308e-4c51-11e7-865d-680bb6998fba.png)
+---
 
-<br>
+## 2. Here to learn about what a Software Architect does? 
+#### _Use these resources..._ 
+- What is a Software Architect? 
+- Resources- Getting Started
 
-![screen shot 2017-06-08 at 2 00 38 pm](https://user-images.githubusercontent.com/5239538/26943250-ebccc554-4c52-11e7-8704-e4b1c1c1e11b.png)
+---
 
-**Expert Note:**
-The key to being an excellent Software Architect is not necessarily to be an _expert programmer_ in a particular stack. The most important skills are computer science knowledge, and a deep understanding of how all parts of a system fit together.
+## 3. Here to Practice your Software Architect Skills? 
+#### _Use these resources..._ 
+- Outputs
+- Resources- Continued Learning 
+- Resources- Getting Started
+- Skill Audit
 
-**Some Key Resources** 
-- [Software Architect Reading List](https://www.javacodegeeks.com/2014/07/you-want-to-become-an-software-architect-here-is-your-reading-list.html)
-- [20 Software Architecture Interview Questions](http://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html)
