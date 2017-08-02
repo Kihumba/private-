@@ -1,4 +1,4 @@
-# Skill Overview 
+# How to use the Required Skills Section
 
 In this section you will find the required skills to advance to a Software Architect Role at Andela, broken down into 4 categories: 
 1. Leadership & Communication
