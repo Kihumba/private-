@@ -11,8 +11,8 @@ Each category is split into tables of three:
   <tbody>
     <tr>
       <th align="center"> Skill / Attribute </th>
-      <th align="center">Developed By (resources) </th>
-      <th align="center">Demonstrated By (output) </th>
+      <th align="center">Developed By (Work Outputs) </th>
+      <th align="center">Demonstrated By (How a PM Applies the Skills) </th>
     </tr>
     </tbody> 
 </table> 
