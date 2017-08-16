@@ -1,12 +1,12 @@
 # Output 07- Document your Solution
 
 - **The Product:** A Systems Architect must document a system in a way that the people who will actually construct that system will be able to use and understand. Depending on complexity of the project and if there is also a PM, documents required may differ. Could include: 
-	-Class Diagrams, Statecharts, and other UML 
-	-Construction Guide
-	-User Interface Style Guide
-	-Test Guide
-	-Roadmap (if no PM) 
-	-PRD (if no PM)
+	- Class Diagrams, Statecharts, and other UML 
+	- Construction Guide
+	- User Interface Style Guide
+	- Test Guide
+	- Roadmap (if no PM) 
+	- PRD (if no PM)
 - **The Process:**  Include the construction process, roles of the team members on the development team, the system architecture, and construction sequences. Specify the tools and methods to be used by your team as well.  <br>
 - **The Follow-Through:** Design is never linear-- seek out feedback on these documents from your stakeholders and your development team. Use a the “circular method” of design, where you are the architect and hold understanding the domain, but you also listen to the client's/team’s needs and expectations, complete necessary process changes and engineering updates, and work toward a shared vision with continuous feedback.
 
