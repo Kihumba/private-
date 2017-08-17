@@ -1,7 +1,7 @@
 # Learning Outcomes for Product Manager
 
 ### Part 0: What is a Product Manager?
-[ ] The Role, the Requirements, and the Reality
+[ ] [The Role, the Requirements, and the Reality](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Required%20Skills/Learning%20Outcomes/0A.%20What%20is%20a%20Product%20Manager)
 
 ----
 
