@@ -1,15 +1,7 @@
 # Learning Outcomes for Product Manager
 
-1. What is a Product Manager? 
-A Product Manager
-As a Product Manager, you will combine technology, business, and design in order to drive the progress of products that meet requirements of all stakeholders and users. You will lead a cross functional team from product conception to launch, set a product vision and stratetegy, and execute against that strategy with **next-level** prioritization, leadership, and organization skills. 
-- have some leadership, programming, and design experience
-- glue 
-- approver of decisions
-- confident leader
-- researcher & data cruncher
-- communication- visuals, writing, data, and presentation to show what you are building and why
-- designer-- user empathy
+1. ***What is a Product Manager? ***
+The Product Manager is a role with many metaphors- "CEO of Product," "Glue between Business, Users, and Technology," etc. As a Product Manager, you will combine technology, business, and design in order to drive the progress of products that meet requirements of all stakeholders and users. You will lead a cross functional team from product conception to launch, set a product vision and stratetegy, and execute against that strategy with **next-level** prioritization, leadership, and organization skills. 
 
 2. *** What do they do? ***
   - _Daily:_
