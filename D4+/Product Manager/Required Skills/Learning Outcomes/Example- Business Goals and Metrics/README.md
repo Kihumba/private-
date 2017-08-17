@@ -31,9 +31,9 @@ Key to being a good Product Manager is understanding where your product fits int
 ## Develop this Skill
 #### *Work Outputs, Practice, & Examples*
 
-1. Map Out Andela's Goals & Ecosystem (LINK)
-2. Make a Product Deck for your Team (LINK)
-4. Example 1 (Will link product deck from Fathom) 
+1. **Output 1:** Map Out Andela's Goals & Ecosystem (LINK)
+2. **Output 2:** Make a Product Deck for your Team (LINK)
+4. **Example 1:** (Will link product deck from Fathom) 
 5. **Shadow Opportunity:** Reach out to [Scott Carleton](https://andela.slack.com/messages/@scotter) to attend a meeting with the Technology Department to hear how all the different products at Andela are currently tracked, and follow up with any quesitons about how they serve the broader business goals. 
 
 ----
