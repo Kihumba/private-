@@ -1,5 +1,10 @@
 # Learning Outcomes for Product Manager
 
+### Part 0: What is a Product Manager?
+[ ] The Role, the Requirements, and the Reality
+
+----
+
 ### Part 1: Product Context
 [ ] [Getting to Know your Business Goals & Metrics](https://github.com/andela/learningmap/blob/master/D4+/Product%20Manager/Required%20Skills/Learning%20Outcomes/Example-%20Business%20Goals%20and%20Metrics/README.md) <br> 
 [ ] Getting to Know the Products at your Business <br> 
