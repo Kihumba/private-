@@ -1,14 +1,47 @@
 # Learning Outcomes for Product Manager
 
 1. What is a Product Manager? 
+A Product Manager
+As a Product Manager, you will combine technology, business, and design in order to drive the progress of products that meet requirements of all stakeholders and users. You will lead a cross functional team from product conception to launch, set a product vision and stratetegy, and execute against that strategy with **next-level** prioritization, leadership, and organization skills. 
+- have some leadership, programming, and design experience
+- glue 
+- approver of decisions
+- confident leader
+- researcher & data cruncher
+- communication- visuals, writing, data, and presentation to show what you are building and why
+- designer-- user empathy
 
-2. What do they do? 
-  - Daily
-  - Weekly
-  - What are they Measured on? 
-  - Who do they work with? 
+2. *** What do they do? ***
+  - _Daily:_
+    - Run daily standups with development team
+    - Track and monitor progress against a roadmap
+    - Confidently 
+  - _Weekly:_
+    - Make data-driven decisions about your product and features
+    - Communicate with stakeholders using visuals, writing, data, and presentation to show what you are building and why
+    - Run weekly Demos for stakeholders
+    - Run weekly Retros with your team 
+  - _Quarterly:_
+    - Develop Product Roadmap
+    - Determine Versions, Releases, and Feature Prioritization
+3. *** What are they Measured on? ***
+    - Success of their product with end users
+    - Execution against timeline & roadmap
+    
+4. *** Who do they work with? ***
+    - Leads a technical team of developers
+    - Often collaborates with a Designer, Software Architect, and/or Project Manager (in a small company, a Product Manager may need to play all of these roles)
+    - Product Owner (the key business stakeholder of the product) 
+    - Business Stakeholders
+    - CTO 
+    
+5. ***What you should Know:***
+Before starting to work on these Product Manager Learning Objectives, it is important that you have a background in programming in any language. More than one language is helpful, and a familiarity with Front-End development (even if you've never worked on it specifically) as well as basic UI/UX Design and [Visual Design](https://github.com/andela/learningmap/blob/e20268a54c7b18c4c2143b06f8c418246f196013/D1/D1%20Design/Visual%20Design%20Fundamentals/README.md) will be important. 
 
-3. Learning Objectives
+Most importantly, you **must** have a desire to solve problems, build products that customers will love, and contribute to the growth and success of your overall business. Sound like you? **Dive in!** . 
+
+----- 
+## Learning Objectives
 
 ### Part 1: Product Context
 [ ] [Getting to Know your Business Goals & Metrics](https://github.com/andela/learningmap/blob/master/D4+/Product%20Manager/Required%20Skills/Learning%20Outcomes/Example-%20Business%20Goals%20and%20Metrics/README.md) <br> 
@@ -59,3 +92,12 @@
 [ ] Running & Analyzing Beta Tests <br> 
 [ ] Running & Analyzing Market Tests <br> 
 [ ] Making Data Driven Decisions  <br> 
+
+
+----
+
+## Some Key Resources
+- ["Product at Andela"](https://sites.google.com/andela.com/technology/product?pli=1&authuser=1)- Microsite
+- [Product Management](https://www.intercom.com/books/product-management)- Intercom EBook
+- [Curated Product Management Playlist](https://app.pluralsight.com/channels/details/db6ab3d5-5dfd-4874-8080-75f7a3706371?s=1)- PluralSight
+
