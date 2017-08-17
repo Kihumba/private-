@@ -11,7 +11,7 @@
 3. Learning Objectives
 
 ### Part 1: Product Context
-[ ] Getting to Know your Business Goals & Metrics <br> 
+[ ] [Getting to Know your Business Goals & Metrics](https://github.com/andela/learningmap/blob/master/D4+/Product%20Manager/Required%20Skills/Learning%20Outcomes/Example-%20Business%20Goals%20and%20Metrics/README.md) <br> 
 [ ] Getting to Know the Products at your Business <br> 
 [ ] Getting to Know your Business Stakeholders <br> 
 [ ] Getting to Know your Technical Stakeholders <br> 
