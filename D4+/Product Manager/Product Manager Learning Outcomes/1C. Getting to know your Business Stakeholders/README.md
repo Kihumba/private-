@@ -19,6 +19,7 @@ Every product has both end users and internal business stakeholders. Now that yo
 | How to communicate the right information to the right Stakeholders at the right frequency |
 | How to create a product reqirements document | 
 | How to create a product roadmap | 
+| How to run a product demo | 
 | </br>| 
 | **Behaviors** |
 | **Context:** When I am starting a product interview with my Stakeholders, **Action:** I start with the question, “what are we solving for?”. | 
@@ -40,9 +41,11 @@ Every product has both end users and internal business stakeholders. Now that yo
 2. **Output 2:** Interview your Business Stakeholders (LINK- aka run a product sprint) 
 3. **Output 3:** [Write Product Requirements Document](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2004-%20Write%20your%20Product%20Requirement%20Document)
 4. **Output 4:** [Make a Product Roadmap](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2005-%20Build%20your%20Product%20Roadmap)
-5. **Example 1:** (Will link product roadmap example) 
-6. **Example 2:** (Will link PRD example) 
-7. **Shadow Opportunity:** Ask your business lead or CTO for a best-in-class Product Roadmap at their company. Every organization has different standards and expectations-- some will insist that you use a Gantt Chart, others may have internal product management tools they want you to familiarize yourself with.
+5. **Output 5:** [Run a Product Demo](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2008-%20Run%20a%20Product%20Demo)
+6. **Example 1:** (Will link product roadmap example) 
+7. **Example 2:** (Will link PRD example) 
+8. **Shadow Opportunity:** Ask your business lead or CTO for a best-in-class Product Roadmap at their company. Every organization has different standards and expectations-- some will insist that you use a Gantt Chart, others may have internal product management tools they want you to familiarize yourself with.
+9. **Shadow Opportunity:** Ask your business lead or CTO for a best-in-class Product Manager whose demo you can shadow. Take careful notes on how they interact with stakeholders, how they structure the meeting, what questions they ask. 
 
 ----
 
