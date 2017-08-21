@@ -15,7 +15,7 @@
 
 ### Part 2: Unyelding Curiosity
 [ ] [Conducting and Analyzing Market Research](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/2A.%20Conducting%20and%20Analyzing%20Market%20Research)<br> 
-[ ] Analyzing your Product Assumptions & Ask Questions
+[ ] Analyzing your Product Assumptions & Getting Curious
 
 -----
 
