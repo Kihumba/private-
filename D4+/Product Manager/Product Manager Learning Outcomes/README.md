@@ -30,7 +30,7 @@
 ----
 
 ### Part 4: Planning & Execution
-[ ] Developing a Product Roadmap <br> 
+[ ] [Developing a Product Roadmap](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/4A.%20Developing%20a%20Product%20Roadmap) <br> 
 [ ] Developing an Agile Process <br> 
 [ ] Determining Versions, Releases & Sprints <br> 
 [ ] Prioritization of Features <br> 
