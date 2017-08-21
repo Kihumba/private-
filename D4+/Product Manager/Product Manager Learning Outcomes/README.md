@@ -7,14 +7,14 @@
 
 ### Part 1: Product Context
 [ ] [Getting to Know your Business Goals & Metrics](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/1A.%20Business%20Goals%20and%20Metrics) <br> 
-[ ] Getting to Know the Products at your Business <br> 
-[ ] Getting to Know your Business Stakeholders <br> 
-[ ] Getting to Know your Technical Stakeholders <br> 
+[ ] [Getting to Know the Products at your Business](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/1B.%20Getting%20to%20Know%20the%20Products%20at%20your%20Business) <br> 
+[ ] [Getting to Know your Business Stakeholders](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/1C.%20Getting%20to%20know%20your%20Business%20Stakeholders)<br> 
+[ ] [Getting to Know your Technical Stakeholders](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/1D.%20Getting%20to%20Know%20your%20Technical%20Stakeholders)<br> 
 
 -----
 
 ### Part 2: Unyelding Curiosity
-[ ] Conducting Market Research & Report <br> 
+[ ] [Conducting and Analyzing Market Research](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/2A.%20Conducting%20and%20Analyzing%20Market%20Research)<br> 
 [ ] Analyzing your Product Assumptions & Ask Questions
 
 -----
