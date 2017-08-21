@@ -46,7 +46,7 @@ Through this work, you will gain the power of data to back up your prioritizatio
 2. **Output 2:** Analyze your Interview Data to define your Business Goal (LINK) 
 3. **Output 3:** Use your Product & Competitors (LINK)
 4. **Output 4:** [Write your User Personas](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2003-%20Create%20your%20User%20Personas)
-5. **Output 5:** Conduct your Market Research (https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2002-%20Conduct%20Market%20Research)
+5. **Output 5:** [Conduct your Market Research](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2002-%20Conduct%20Market%20Research)
 6. **Output 6:** Run Beta Tests (LINK)
 7. **Output 7:** Run Usability Tests (LINK)
 8. **Output 8:** [Test with Users and Refactor](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2010-%20Test%20with%20Users%20and%20Refactor)
