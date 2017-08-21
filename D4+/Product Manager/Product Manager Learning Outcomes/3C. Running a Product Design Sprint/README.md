@@ -32,7 +32,7 @@ No matter whether you are running a design sprint for a brand new product, or re
 | **Context:** After writing user stories, **Action:** I map out the “user path” of how someone interacts with my product. | 
 | **Context:** If i get stuck in my line of questioning about a product, **Action:** I go back to the list of values that it is meant to add and ask how it does each of those things. | 
 | </br>| 
-| ***Beliefs*** | 
+| **Beliefs** | 
 | Belief: It is better to ask a ridiculous number of questions than to let one tiny detail escape. | 
 | Belief: Questions are currency-- the more I ask, the more respect and capability I have. | 
 
