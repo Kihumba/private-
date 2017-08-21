@@ -23,7 +23,7 @@
 [ ] [Running a Competitive Analysis & SWOT Analysis](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/3A.%20Running%20a%20Competitive%20Analysis) <br> 
 [ ] [Developing End User Empathy](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/3B.%20Developing%20End%20User%20Empathy) <br> 
 [ ] [Running a Product Design Sprint](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/3C.%20Running%20a%20Product%20Design%20Sprint) <br> 
-[ ] Creating User Personas <br> 
+[ ] [Creating User Personas](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/3D.%20Creating%20User%20Personas) <br> 
 [ ] Creating User Stories <br> 
 [ ] Developing UI/UX Design Understanding  <br> 
 
