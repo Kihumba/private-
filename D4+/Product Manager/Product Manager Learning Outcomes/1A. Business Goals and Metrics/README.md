@@ -19,11 +19,19 @@ Key to being a good Product Manager is understanding where your product fits int
 | </br>| 
 | **Behaviors** |
 | **Context:** When I am joining a new team, **Action:** I take the time to understand all of the products at the company and how they work together. | 
+| **Context:** When I am on a new product, **Action:** I determine who my product’s direct client is. | 
+| **Context:** When I am on a new product, **Action:**  I determine who else interacts with my product. | 
+| **Context:** When I am on a new product, **Action:**  I determine who is a stakeholder in my product. | 
+| **Context:** When I am on a new product, **Action:**  I determine what the definition of success is for my product. | 
+| **Context:** When I am on a new product, **Action:**  I determine how my product’s success fits into the success of the business as a whole. | 
 | **Context:** When I am not 110% clear on how my product into the broader picture of the business, **Action:** I ask at least 5 “whys” to figure out how it does. | 
 | </br>| 
 | ***Beliefs*** | 
 | Belief: I cannot be an effective Product Manager without understanding the context of my product. |
 | Belief: As a Product Manager, I serve my end user, my team, and my business. |
+| Belief: It is better to ask a ridiculous number of questions than to let one tiny detail escape. | 
+| Belief: Questions are currency-- the more I ask, the more respect and capability I have. | 
+
 
 
 -----
