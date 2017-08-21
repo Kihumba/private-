@@ -27,7 +27,7 @@ This meeting should cover action items from the previous week, and should allow 
 | **Context:** When I am running a retro, **Action:** I give feedback on the work of others and also ask for feedback on my work. | 
 | **Context:** When I am getting and giving feedback, **Action:** I don’t shy away from tough problems. | 
 | </br>| 
-| ***Beliefs*** | 
+| **Beliefs** | 
 | Belief: Weekly retros are a time for every member of my team to get their voices heard. | 
 | Belief: The sprint retrospective is the key mechanism to improve the way people work, and how I work. | 
 
