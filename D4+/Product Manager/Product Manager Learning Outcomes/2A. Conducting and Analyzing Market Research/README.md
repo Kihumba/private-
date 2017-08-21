@@ -3,9 +3,11 @@
 ### Definition
 Through this work, you will gain the power of data to back up your prioritization decisions on your product, gaining super powers such as:
   - Ability to conduct non-biased market and user research and synthesize the feedback into actionable features for a product
-  - Ability to be a strong advocate for product features
+  - Ability to conduct A/B testing and use it to validate a product idea
   - Ability to use data to create a compelling plan for implementing features
   - Ability to use data to push back on features that don't make sense for your product
+  - Ability to use data to determine which features to depricate
+  - Ability to be a strong advocate for product features
   - Ability to be an advocate for your end user
   
   
@@ -17,7 +19,8 @@ Through this work, you will gain the power of data to back up your prioritizatio
 | **Knowledge**	| 
 | How and why to write User Personas | 
 | How to gather data through market research | 
-| How to gather data through user research | 
+| How to gather data through user research |
+| How to gather data through A/B Testing | 
 | How to balance customer need with business requirements | 
 | Difference between Usability Testing, Beta Testing, and Test Marketing | 
 | Ability to use data to determine which features to deprecate | 
