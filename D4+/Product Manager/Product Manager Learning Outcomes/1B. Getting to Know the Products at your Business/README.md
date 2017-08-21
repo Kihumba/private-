@@ -36,6 +36,7 @@ Your product is most likely one of many products in your business ecosystem supp
 
 1. **Output 1:** Map out all of the products at Andela or on your Client (LINK)
 2. **Output 2:** Run a Customer Audit (LINK)
+3. **Output 3:** [Conduct Market Research](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/TWO's-%20Work%20Output%20Library/Output%2002-%20Conduct%20Market%20Research)
 3. **Output 2:** Make a Product Deck for your Team (LINK)
 4. **Output 3:** Use your Product (and its competitors!) (LINK)
 5. **Output 4:** Run a competitor analysis and SWOT analysis on your product (LINK)
