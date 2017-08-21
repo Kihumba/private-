@@ -43,8 +43,7 @@
 [ ] [Running Daily Standups](https://github.com/andela/learningmap/tree/master/D4+/Product%20Manager/Product%20Manager%20Learning%20Outcomes/5A.%20Running%20Daily%20Standups) <br> 
 [ ] [Running Product Demos](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/5B.%20Running%20Product%20Demos) <br> 
 [ ] [Running Retros](https://github.com/andela/learningmap/blob/master/D4+/Product%20Manager/Product%20Manager%20Learning%20Outcomes/5C.%20Running%20Retros/README.md) <br> 
-[ ] Intelligently Escalating Information <br> 
-[ ] Admitting Mistakes, Early & Often <br> 
+[ ] [Intelligently Escalating Information & Admitting Mistakes](https://github.com/andela/learningmap/tree/master/D4+/Product%20Manager/Product%20Manager%20Learning%20Outcomes/5D.%20Intelligently%20Escalating%20Information) <br> 
 
 
 ---- 
