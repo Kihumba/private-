@@ -40,8 +40,8 @@
 -----
 
 ### Part 5: Constant Communication
-[ ] Running Daily Standups <br> 
-[ ] Running Demos <br> 
+[ ] [Running Daily Standups](https://github.com/andela/learningmap/tree/master/D4+/Product%20Manager/Product%20Manager%20Learning%20Outcomes/5A.%20Running%20Daily%20Standups) <br> 
+[ ] Running Product Demos <br> 
 [ ] Running Retros <br> 
 [ ] Intelligently Escalating Information <br> 
 [ ] Admitting Mistakes, Early & Often <br> 
