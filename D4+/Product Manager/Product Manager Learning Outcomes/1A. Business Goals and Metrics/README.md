@@ -49,3 +49,4 @@ Key to being a good Product Manager is understanding where your product fits int
 ## Resources 
 *Use these to "sponge up" a broad context of information around this skill.*
 1. ["Business Analysis Fundamentals"](https://app.pluralsight.com/library/courses/business-analysis-needs-assessment-introduction/table-of-contents)- Great PluralSight Course!
+2. ["Product Metrics at Andela"](https://docs.google.com/document/d/1DwrXOuIKWUdlTJsHFG8XhLANxDDBGdK5HLZTg7HEsj8/edit)- _Always be Measuring_
