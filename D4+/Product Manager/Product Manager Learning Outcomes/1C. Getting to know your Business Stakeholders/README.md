@@ -51,4 +51,4 @@ Every product has both end users and internal business stakeholders. Now that yo
 
 ## Resources 
 *Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX (GANTT CHART)
+1. ["Good PRD"](https://svpg.com/assets/Files/goodprd.pdf)- Silicon Valley Product Group
