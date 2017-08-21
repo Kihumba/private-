@@ -6,7 +6,7 @@
 ----
 
 ### Part 1: Product Context
-[ ] [Getting to Know your Business Goals & Metrics](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Required%20Skills/Learning%20Outcomes/1A.%20Business%20Goals%20and%20Metrics) <br> 
+[ ] [Getting to Know your Business Goals & Metrics](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Product%20Manager%20Learning%20Outcomes/1A.%20Business%20Goals%20and%20Metrics) <br> 
 [ ] Getting to Know the Products at your Business <br> 
 [ ] Getting to Know your Business Stakeholders <br> 
 [ ] Getting to Know your Technical Stakeholders <br> 
