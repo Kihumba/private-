@@ -12,6 +12,10 @@
 | **Knowledge**	| 
 | How to empathize with your products user | 
 | </br>| 
+| **Behaviors**	| 
+| **Action: When I am getting started on a new product and developing User Empathy, **Action:** I first use my product as an end user. | 
+| **Action: If my product is not in usable form, **Action:** I use competitors to understand my user's current pain. | 
+| </br>| 
 | **Beliefs**	| 
 | As a Product Manager I am in the business of solving problems, not just creating code. | 
 
