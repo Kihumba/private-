@@ -17,12 +17,22 @@
 | </br> | 
 | **Behaviors** 	| 
 |  **Context:** When I am starting with a new team, **Action:** I take time to meet all of the stakeholders and every member of the engineering team.	|  
+| **Context:** When I am joining a new product, **Action:** I take the time to understand all of the products at the company and how they work together. | 
+Behavior: When I am learning about the different products at my company, I get to know who each one is used by, and who each one is for.
+Behavior: When I am on a new product, I determine who my product’s direct client is. 
+Behavior: When I am on a new product, I determine who else interacts with my product. 
+Behavior: When I am on a new product, I determine who is a stakeholder in my product. 
+Behavior: When I am on a new product, I determine what the definition of success is for my product. 
+Behavior: When I am on a new product, I determine how my product’s success fits into the success of the business as a whole. 
+
 | **Context:** When I am meeting with the team, **Action:** I ask questions to learn what phase the product is in, what goals the team has, and what blockers they have experienced so far. |
 | **Context:** While I am meeting with my team, **Action:** I ask questions to ensure that I get set up on all of the team collaboration tools, including all Slack channels, Trello, GitHub, Pivotal Tracker, and any others. |  
 | </br> | 
 | **Beliefs**	| 
 | As a new Product Manager on a team, my first responsibility is to learn aspect of my product, team, and stakeholders. |  
 | No one person can create a great product-- my work will be as good as my team.|  
+| It is better to ask a ridiculous number of questions than to let one tiny detail escape. | 
+| Questions are currency-- the more I ask, the more respect and capability I have. | 
 
 
 ------
@@ -44,6 +54,5 @@
 
 ---- 
 
->> ### Contribute
->> _Have a resource, experience (work output), KBB, or edit you'd like to add to this Output? Submit it [here](https://docs.google.com/a/andela.com/forms/d/e/1FAIpQLSeiwit-7JW3UScG9ItDX9DUZZnlCwdpo7aWruahsPKNJ_6JOA/viewform?usp=sf_link) and be an active participant in keeping our Curriculum a current, living document!_
-
+>> ### TWO Sources: 
+>> *Andela Observation (Roberto, Ebun, Scott), Austin Client Interviews, Spawrks Observation* 
