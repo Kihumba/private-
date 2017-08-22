@@ -54,4 +54,4 @@
 ---- 
 
 >> ### TWO Sources: 
->> *Andela Observation (Roberto, Ebun, Scott), Austin Client Interviews, Spawrks Observation* 
+>> *Roberto, Ebun, Scott- Observation, Austin Clients- Interviews, Adam Schwem- Observation* 
