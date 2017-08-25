@@ -28,7 +28,7 @@ A fellow is able to use functions such as Twisted to build simple interactive ap
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Events occur relative to a source window of the event. | [ ] | [ ] | 
-| Where no client has registered, the event is propagated up the parent window hierarchy
+| Where no client has registered, the event is propagated up the parent window hierarchy | [ ] | [ ] |
 | Where the event reaches the root window, the event is ignored. | [ ] | [ ] |
 | Events registered with command, can be called like normal functions. | [ ] | [ ] |
 
