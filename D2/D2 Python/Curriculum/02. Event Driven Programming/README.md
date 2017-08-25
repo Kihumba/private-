@@ -20,15 +20,15 @@ A fellow is able to use functions such as Twisted to build simple interactive ap
 ### Behaviors:
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I want to process an event, **Action:** I use the bind() function to bind the event to a widget it’s meant for.
-| **Context:** When I want to process an event registered with command, **Action:** I use the callable class object callback handler to process it.
+| **Context:** When I want to process an event, **Action:** I use the bind() function to bind the event to a widget it’s meant for. | [ ] | [ ] |
+| **Context:** When I want to process an event registered with command, **Action:** I use the callable class object callback handler to process it. | [ ] | [ ] |
 
 
 ### Beliefs:
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Events occur relative to a source window of the event. | [ ] | [ ] | 
-| Where no client has registered, the event is propagated up the parent window hierarchy | [ ] | [ ] |
+| Where no client has registered, the event is propagated up the parent window hierarchy | [ ] | [ ] | 
 | Where the event reaches the root window, the event is ignored. | [ ] | [ ] |
 | Events registered with command, can be called like normal functions. | [ ] | [ ] |
 
