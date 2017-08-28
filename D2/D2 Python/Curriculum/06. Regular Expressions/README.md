@@ -6,7 +6,7 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 
 ## Output: 
 
-**Task:** Use hacker rank, perform the following RegEX practice challenges; Character Class, Repetitions, Grouping and Capturing, Backreferences, Assertions and Applications. Share your ranking results.
+**Task:** Using [Hacker Rank - RegEx](https://www.hackerrank.com/domains/regex/re-introduction), perform the following RegEX practice challenges; Character Class, Repetitions, Grouping and Capturing, Backreferences, Assertions and Applications. Share your ranking results.
 
 ### Knowledge:
 
