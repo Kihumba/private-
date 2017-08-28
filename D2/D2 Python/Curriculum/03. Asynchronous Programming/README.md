@@ -38,7 +38,6 @@ A fellow is able to use Twisted's concurrency model to write asynchronous, event
 | Asynchronous programming primarily depends on non-blocking code
 Twisted's deferred abstraction, symbolizes a 'promised' result that can pass an eventual result to handler functions. | [ ] | [ ] |
 | The Asynchronous model performs best when: There are a large number of tasks so there is likely always at least one task that can make progress; The tasks perform lots of I/O, causing a synchronous program to waste lots of time blocking when other tasks could be running; The tasks are largely independent from one another so there is little need for inter-task communication (and thus for one task to wait upon another). | [ ] | [ ] |
-|
 
 
 ## Resources: 
