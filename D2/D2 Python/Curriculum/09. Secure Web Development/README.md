@@ -6,8 +6,10 @@ A fellow understand the major web application security flaws that are commonly e
 
 ## Output:
 
-**Task:** 
-**Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.
+**Task:** Perform one or two of the following tasks:
+1. Build a subnet calculator to perform IP subnet calculations 
+2. Configure multiple network devices concurrently via SSH or Telnet.
+3. DHCP client simulator for testing a DHCP server in the local network.
 
 
 ### Knowledge:
