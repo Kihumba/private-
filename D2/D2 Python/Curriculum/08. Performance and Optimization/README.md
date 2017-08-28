@@ -33,7 +33,9 @@ A fellow is able to find bottlenecks when building applications, and practice th
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | When a piece of code works, it might be better (sometimes) to leave it alone than to try making it faster at all costs.  | [ ] | [ ] |
-Only optimize what needs optimizing. | [ ] | [ ] |
+| Only optimize what needs optimizing. | [ ] | [ ] |
+| It’s no good just guessing or assuming where the inefficiencies lie in your code. | [ ] | [ ] |
+
 
 
 ### Resources:
