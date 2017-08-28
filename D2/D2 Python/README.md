@@ -1,21 +1,48 @@
-# D2 PYTHON
+# Asynchronous Programming With Twisted
 
-Overview
---------
-The Python for Web curriculum detailed here shows the technical Knowledge, Behaviors and Beliefs required for an Andela Developer to become D2 ready in Python Web Development.
+## Skill description:
 
-## Modules: 
+A fellow is able to use Twisted's concurrency model to write asynchronous, event-driven networked programs in Python.
 
-1. Python - GUI Programming (with Tkinter)
-2. Python - Event Driven Programming
-3. Python - Asynchronous Programming
-4. Python - Metaclasses
-5. Python - Multithreading
-6. Python - Regular Expressions
-7. Python - Networking: SocketIO, Tornado/AsyncIO
-8. Python - Performance and Optimization
-9. Python - Secure Web Development  
 
-**Note:** This curriculum is still pending edits-- please contribute your expertise and experience through a pull request if you see any additions or changes you would like to suggest!
+## Output:
 
-#TIA.
+*Task:* Imagine you have a function which sends an email summarizing some information on your application, demonstrate how your email sending function would work using Twister’s ‘non-blocking calls’ model
+
+
+### Knowledge:
+| Knowledge Unit   |      Studied      | Applied |
+|:-------------|:------------------:|:--------:|
+| What Is Asynchronous programming? | [ ] | [ ] |
+| What are the advantages and disadvantages of Asynchronous programming
+| What is Twisted? | [ ] | [ ] |
+| How concurrent programming works. | [ ] | [ ] |
+| How to use Twisted framework models to write asynchronous, event-driven networked programs in Python | [ ] | [ ] | 
+| How to use callbacks model for alerting an application that some data is ready for it is known | [ ] | [ ] |
+| How to use deferred object to manage the callback sequence. | [ ] | [ ] |
+| How to use errbacks method to handle errors. | [ ] | [ ] |
+
+
+### Behaviors:
+
+Context: When I’m dealing with many connections in one thread, Action: I use Twisted’s non-blocking calls model to schedule events by calling a registered function when each connection is ready for reading or writing.
+Context:  When I want a function to requests the data in my application, Action: I let the library call the callback function when the data is ready.
+Context: When I want to tell a Deferred what to do with the data once it arrives, Action: I add a callback — asking the Deferred to call a function once the data arrives.
+Context: When I want to detect errors in my application, Action: I add error handlers ('errbacks') to a Deferred for it to call when an error occurs.
+
+
+Beliefs:
+
+Asynchronous programming primarily depends on non-blocking code
+Twisted's deferred abstraction, symbolizes a 'promised' result that can pass an eventual result to handler functions.
+The Asynchronous model performs best when:
+There are a large number of tasks so there is likely always at least one task that can make progress.
+The tasks perform lots of I/O, causing a synchronous program to waste lots of time blocking when other tasks could be running.
+The tasks are largely independent from one another so there is little need for inter-task communication (and thus for one task to wait upon another).
+
+
+### Resources: 
+[Twisted Matrix](https://twistedmatrix.com/trac/)
+
+[Twisted Doc](http://twistedmatrix.com/documents/8.2.0/core/howto/async.html)
+
