@@ -12,7 +12,6 @@ This track will help you learn more advanced PHP programming concepts to build d
 * PHP - Metaprogramming
 * PHP - Regular Expressions
 * PHP - Dynamic Images
-* PHP - Flash programming
 * PHP - PDF
 * PHP - Networking
 * PHP - Performance and Optimization
