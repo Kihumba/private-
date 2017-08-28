@@ -41,3 +41,5 @@ A fellow is able to use metaclasses to build APIs and tools for others to use.
 ### Resources:
 
 [Python - Metaclasses Documentation](https://docs.python.org/3/library/)
+
+[Understanding Python Metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
