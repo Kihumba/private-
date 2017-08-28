@@ -24,7 +24,7 @@ A fellow is able to use Twisted's concurrency model to write asynchronous, event
 
 
 ## Behaviors:
-| Knowledge Unit   |      Studied      | Applied |
+| Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
 | **Context:** When I’m dealing with many connections in one thread, **Action:** I use Twisted’s non-blocking calls model to schedule events by calling a registered function when each connection is ready for reading or writing. | [ ] | [ ] |
 | **Context:**  When I want a function to requests the data in my application, **Action:** I let the library call the callback function when the data is ready. | [ ] | [ ] |
@@ -33,9 +33,9 @@ A fellow is able to use Twisted's concurrency model to write asynchronous, event
 
 
 ## Beliefs:
-| Knowledge Unit   |      Studied      | Applied |
+| Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Asynchronous programming primarily depends on non-blocking code
+| Asynchronous programming primarily depends on non-blocking code.  | [ ] | [ ] |
 Twisted's deferred abstraction, symbolizes a 'promised' result that can pass an eventual result to handler functions. | [ ] | [ ] |
 | The Asynchronous model performs best when: There are a large number of tasks so there is likely always at least one task that can make progress; The tasks perform lots of I/O, causing a synchronous program to waste lots of time blocking when other tasks could be running; The tasks are largely independent from one another so there is little need for inter-task communication (and thus for one task to wait upon another). | [ ] | [ ] |
 
