@@ -8,7 +8,6 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 
 **Task:** Use hacker rank, perform the following RegEX practice challenges; Character Class, Repetitions, Grouping and Capturing, Backreferences, Assertions and Applications. Share your ranking results.
 
-
 ### Knowledge:
 
 | Knowledge Unit   |      Studied      | Applied |
@@ -21,7 +20,6 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 | How to use python’s regular expression syntax. | [ ] | [ ] |
 | How to compile a pattern for performance. | [ ] | [ ] |
 
-
 ### Behaviors:
 
 | Observable Behavior   |      Practiced      | Observed |
@@ -32,13 +30,11 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 | Context: When I want to find and replace a part of a string using regular expressions, Action: I use the  re.sub() method. | [ ] | [ ] |
 | Context: When I want to create a new regular expression pattern to match many strings, Action: I use re.compile method. | [ ] | [ ] |
 
-
 ### Beliefs:
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Regular expressions are widely used in UNIX world. | [ ] | [ ] |
 | Regular expressions can be concatenated to form new regular expressions. | [ ] | [ ] |
-
 
 ### Resources:
 
