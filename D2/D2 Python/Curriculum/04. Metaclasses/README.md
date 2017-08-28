@@ -7,7 +7,7 @@ A fellow is able to use metaclasses to build APIs and tools for others to use.
 
 ## Output: 
 
-**Task:** Using the FlaskRestful documentation, replicate the API
+**Task:** Using the [FlaskRestful documentation](https://flask-restful.readthedocs.io/en/latest/quickstart.html), build a minimal Flask-RESTful API replica. 
 
 
 ### Knowledge
