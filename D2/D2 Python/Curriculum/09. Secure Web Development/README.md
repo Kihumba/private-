@@ -34,7 +34,7 @@ A fellow understand the major web application security flaws that are commonly e
 | You have to think like an attacker to protect yourself from one. | [ ] | [ ] |
 
 
-Resources:
+### Resources:
 
 [Fullstack Pythin - Web App Security](https://www.fullstackpython.com/web-application-security.html)
 
