@@ -7,8 +7,7 @@ A fellow is able to use metaclasses to build APIs and tools for others to use.
 
 ## Output: 
 
-**Task:**
-> **Note:** In the process of sourcing for specific relevant tasks that form a solid TWO)
+**Task:** Using the FlaskRestful documentation, replicate the API
 
 
 ### Knowledge
