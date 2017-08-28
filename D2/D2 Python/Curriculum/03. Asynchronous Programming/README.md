@@ -6,7 +6,6 @@ A fellow is able to use Twisted's concurrency model to write asynchronous, event
 
 
 ## Output:
-
 *Task:* Imagine you have a function which sends an email summarizing some information on your application, demonstrate how your email sending function would work using Twister’s ‘non-blocking calls’ model
 
 
