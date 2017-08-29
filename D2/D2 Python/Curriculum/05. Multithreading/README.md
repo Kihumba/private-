@@ -6,7 +6,7 @@
 A fellow is able to use threads as a model and implementation pattern for performing many concurrent tasks or programs on shared data.
 
 ## Output: 
-**Task:** Bulk Thumbnail Creator - Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails.
+**Task:** **Bulk Thumbnail Creator** - Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails.
 
 
 ### Knowledge:
@@ -16,10 +16,10 @@ A fellow is able to use threads as a model and implementation pattern for perfor
 | What are the key advantages of threading? | [ ] | [ ] |
 | When should threading be used? | [ ] | [ ] |
 | How do you start a new thread? | [ ] | [ ] |
-| How to create thread (as a class) using the threading module. | [ ] | [ ] |
+| How do you create thread (as a class) using the threading module? | [ ] | [ ] |
 | How to use different methods provided by the thread class to implement threading? | [ ] | [ ] |
-| How to synchronize threads using synchronization primitives provided by the threading module? | [ ] | [ ] |
-| How to use the multithreaded priority queue to create and control a new queue object that hold a specific number of items | [ ] | [ ] |
+| How to synchronize threads using synchronization primitives provided by the threading module. | [ ] | [ ] |
+| How to use the multithreaded priority queue to create and control a new queue object that hold a specific number of items. | [ ] | [ ] |
 
 ### Behaviors:
 | Observable Behavior   |      Practiced      | Observed |
