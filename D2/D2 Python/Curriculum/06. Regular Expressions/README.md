@@ -24,11 +24,11 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| Context: When writing regular expression in Python, Action: I use raw strings with special prefix (r) instead of regular Python strings for easy reading. | [ ] | [ ] |
-| Context: When I want to test whether a regular expression matches a specific string in Python, Action: I use re.search() method. | [ ] | [ ] |
-| Context: When I want to perform a global search over the whole input string, Action: I use the re.findall() method to return a list of matches, or re.finditer() method to returns an iterator of re.MatchObjects. | [ ] | [ ] |
-| Context: When I want to find and replace a part of a string using regular expressions, Action: I use the  re.sub() method. | [ ] | [ ] |
-| Context: When I want to create a new regular expression pattern to match many strings, Action: I use re.compile method. | [ ] | [ ] |
+| **Context:** When writing regular expression in Python, **Action:** I use raw strings with special prefix (r) instead of regular Python strings for easy reading. | [ ] | [ ] |
+| **Context:** When I want to test whether a regular expression matches a specific string in Python, **Action:** I use re.search() method. | [ ] | [ ] |
+| **Context:** When I want to perform a global search over the whole input string, **Action:** I use the re.findall() method to return a list of matches, or re.finditer() method to returns an iterator of re.MatchObjects. | [ ] | [ ] |
+| **Context:** When I want to find and replace a part of a string using regular expressions, **Action:** I use the  re.sub() method. | [ ] | [ ] |
+| **Context:** When I want to create a new regular expression pattern to match many strings, **Action:** I use re.compile method. | [ ] | [ ] |
 
 ### Beliefs:
 | Embodied Belief   |      Felt      | Demonstrated |
