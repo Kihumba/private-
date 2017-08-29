@@ -6,12 +6,11 @@ A fellow is able to apply Python to build portable graphical user interfaces, pr
 
 # Output: 
 
-Create a GUI application using Tkinter.  All you need to do is perform the following steps −
-**Task:** 
-Import the Tkinter module.
-Create the GUI application main window.
-Add one or more of the Tkinter widgets to the GUI application.
-Enter the main event loop to take action against each event triggered by the user.
+**Task:** Create a GUI application using Tkinter.  All you need to do is perform the following steps: 
+* Import the Tkinter module.
+* Create the GUI application main window.
+* Add one or more of the Tkinter widgets to the GUI application.
+* Enter the main event loop to take action against each event triggered by the user.
 
 
 ### Knowledge: 
@@ -19,11 +18,12 @@ Enter the main event loop to take action against each event triggered by the use
 |:-------------|:------------------:|:--------:|
 | What is GUI programming? | [ ] | [ ] |
 | What is Tkinter? | [ ] | [ ] |
+| How to create a GUI using Tkinter? | [ ] | [ ] |
 | What are the different types widgets (controls) that Tkinter provides in Python? | [ ] | [ ] |
 | How to construct a widget in Tkinter. | [ ] | [ ] |
 | How to specify standard attributes such as sizes, colors, dimensions and fonts. | [ ] | [ ] | 
 | How to use entry widgets to get input, such as text strings, from the user of an application | [ ] | [ ] |
-|How to use specific geometry management methods (pack, grid, and place), to control and organize how widgets are arranged in a window | [ ] | [ ] |
+| How to use specific geometry management methods (pack, grid, and place), to control and organize how widgets are arranged in a window | [ ] | [ ] |
 
 
 ### Behaviours:
