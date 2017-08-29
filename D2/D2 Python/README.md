@@ -18,4 +18,4 @@ The Python for Web curriculum detailed here shows the technical Knowledge, Behav
 * Python - Secure Web Development  
 
 
->**Note:** This curriculum is still pending edits-- please contribute your expertise, experience and resources through a pull request if you see any additions or changes you would like to suggest!
+>**Note:** This curriculum is still reviews and possible edits. **Request:** Please contribute your expertise, experience and resources through a pull request if you see any additions or changes you would like to suggest!
