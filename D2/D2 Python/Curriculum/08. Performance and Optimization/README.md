@@ -7,7 +7,10 @@ A fellow is able to find bottlenecks when building applications, and practice th
 
 ## Output:
 
-**Task:** ??
+**Task:** Implement the the following simple algorithms over a list of items in python;
+* Bubble sort
+* Insertion sort
+* Selection sort. 
 
 
 ### Knowledge: 
@@ -18,6 +21,7 @@ A fellow is able to find bottlenecks when building applications, and practice th
 | How to find bottlenecks through CPU, memory, and network usage profiling (macro and/or micro-profiling). | [ ] | [ ] |
 | How to master key profiling tools for python code, (cProfile (or profile) module, and PyCallGraph) | [ ] | [ ] |
 | How to optimize your program through multithreading, multiprocessing and caching. | [ ] | [ ] |
+| How to implement simple algorithms over a list of items in python, 1) Bubble sort, 2) Insertion sort, 3) Selection sort. | [ ] | [ ] |
 
 
 ### Behaviors:
@@ -26,7 +30,7 @@ A fellow is able to find bottlenecks when building applications, and practice th
 | **Context:** When I want to optimize a piece of code, **Action:** I remember to focus on three things a) make it work first, b) work from the user's point of view, and c) keep the code readable (thus maintainable.) | [ ] | [ ] |
 | **Context:** When I want to improve performance, **Action:** I implement an optimization strategy that starts with making sure a third-party server or resource is not faulty. | [ ] | [ ] |
 | **Context:** When I to scale a hardware, **Action:** I make sure the resources are sufficient. | [ ] | [ ] |
-| **Context:** When I wan to erite a speed test, **Action:** I create a scenario with speed objectives. | [ ] | [ ] |
+| **Context:** When I wan to erite a speed test, **Action:** I create a scenario with speed objectives.
 
 
 ### Beliefs: 
