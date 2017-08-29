@@ -6,17 +6,17 @@ A fellow understand the major web application security flaws that are commonly e
 
 ## Output:
 
-**Task:** Perform one or two of the following tasks:
+**Task:** Perform at least two of the following tasks:
 1. Build a subnet calculator to perform IP subnet calculations 
 2. Configure multiple network devices concurrently via SSH or Telnet.
-3. DHCP client simulator for testing a DHCP server in the local network.
+3. Write a simple DHCP “client” and use it to test a DHCP server in the local network.
 
 
 ### Knowledge:
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are the top 10 web application vulnerabilities? 
-| What is cross-site scripting and does it work? | [ ] | [ ] |
+| What is cross-site scripting and how does it work? | [ ] | [ ] |
 | What is SQL injection and session hijacking, and how does it work? | [ ] | [ ] | 
 | What is cross site request forgery? | [ ] | [ ] |
 | How you you determine how the framework you've chosen mitigates a web app vulnerability? | [ ] | [ ] |
