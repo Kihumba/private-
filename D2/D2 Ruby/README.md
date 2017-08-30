@@ -7,7 +7,7 @@ As a D2 Ruby Dev, you will combine advanced Ruby and Web Frameworks (mainly Ruby
 ## Modules
 
 * Ruby - Idiomatic Ruby & Refactorings
-* Ruby - ORM frameworks
+* Ruby - ORM Frameworks
 * Ruby - GUI Programming (Tk Guide)
 * Ruby - Metaprogramming
 * Ruby - Multithreading
