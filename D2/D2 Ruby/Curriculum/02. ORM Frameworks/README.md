@@ -1,4 +1,4 @@
-# Ruby - ORM frameworks
+# Ruby - ORM Frameworks
 
 
 ## Skill Description:
