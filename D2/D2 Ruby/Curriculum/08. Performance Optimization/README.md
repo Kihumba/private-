@@ -2,7 +2,7 @@
 
 ## Skill Description
 
-A fellow is able to use simple Ruby and Rails performance tricks and tools including profiling to optimize their applications. They’re to measure the optimization effect, write and run optimization tests. They’re able to tune up both the deployment infrastructure and the Ruby interpreter itself for optimal performance.
+A fellow is able to use simple Ruby and Rails performance tricks and tools including profiling to optimize their applications. They’re able to measure the optimization effect, write and run optimization tests. They’re able to tune up both the deployment infrastructure and the Ruby interpreter itself for optimal performance.
 
 ## Output: 
 **Task:** Write and run performance optimization tests on a ruby on rails application you’ve built to determine your response time, load time, and query count. 
