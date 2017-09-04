@@ -2,7 +2,7 @@
 
 ## Overview
 
-XX??
+A fellow is able to understand and apply Python as the implementation language in manipulating, processing, cleaning, and crunching data to effectively solve a broad set of data analysis problems. 
 
 ## Modules
 
@@ -15,7 +15,7 @@ XX??
 07. Data Aggregation and Group Operations 
 08. Time Series
 09. Financial and Economic Data Applications
-10. Advanced NumPy**
+
  
 
  ### Essential Python Libraries 
