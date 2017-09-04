@@ -27,7 +27,7 @@ A fellow is able to write ‘beautiful code’ and/or refactor models using diff
 ### Behaviors
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** When I add more intrinsic complexity (read: features!) to my application, **Action:** I spread it across a coordinated set of small, encapsulated objects and—at a higher level—modules. | [ ] | [ ] |
+| **Context:** When I add more intrinsic complexity (read: features!) to my application, **Action:** I spread it across a coordinated set of small, encapsulated objects and at a higher level—modules. | [ ] | [ ] |
 | **Context:** When refactoring fat models, **Action:** I break them down and spread out the logic evenly. | [ ] | [ ] |
 
 ### Beliefs
