@@ -36,7 +36,7 @@ A fellow is able to access the basic socket support in an underlying operating s
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Sockets communicate within a process, between processes on the same machine, or between processes on different continents. | [ ] | [ ] |	
-| Asynchronous programming is more complex than classical “sequential” programming,t herefore I should be aware of the common traps and how to avoid them. | [ ] | [ ] |	
+| Asynchronous programming is more complex than classical “sequential” programming, therefore I should be aware of the common traps and how to avoid them. | [ ] | [ ] |	
 | Ruby has libraries that provide higher-level access to specific application-level network protocols, such as FTP, HTTP. | [ ] | [ ] |
 
 ### Resources
