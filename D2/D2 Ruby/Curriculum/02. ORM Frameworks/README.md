@@ -3,7 +3,7 @@
 
 ## Skill Description:
 
-A fellow is able to understand, build and/or use ORM frameworks to interact with a database. 
+A fellow is able to understand, build and/or use ORM frameworks to interact with a database or databases. 
 
 ## Output:
 **Task:** Build a simple ORM framework in Ruby
