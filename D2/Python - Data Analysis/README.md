@@ -2,7 +2,7 @@
 
 ## Overview
 
-A fellow is able to understand and apply Python as the implementation language in manipulating, processing, cleaning, and crunching data to effectively solve a broad set of data analysis problems. 
+The Data Analysis curriculum detailed here shows the technical Knowledge, Behaviors and Beliefs required for an Andela developer to understand and apply Python as the implementation language in manipulating, processing, cleaning, and crunching data to effectively solve a broad set of data analysis problems. 
 
 ## Modules
 
@@ -13,10 +13,7 @@ A fellow is able to understand and apply Python as the implementation language i
 05. Data Wrangling: Clean, Transform, Merge, Reshape 
 06. Plotting and Visualization 
 07. Data Aggregation and Group Operations 
-08. Time Series
-09. Financial and Economic Data Applications
-
- 
+08. Time Series 
 
  ### Essential Python Libraries 
 * NumPy
