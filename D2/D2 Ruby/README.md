@@ -15,6 +15,6 @@ As a D2 Ruby Dev, you will combine advanced Ruby and Web Frameworks (mainly Ruby
 * Ruby - Socket Programming
 * Ruby - Performance Optimization
 * Ruby - Web Application Security 
-* Ruby - Associated Tools
+
 
 **Note:** This curriculum is still pending edits-- please contribute your expertise, experience and resources through a pull request if you see any additions or changes you would like to suggest!
