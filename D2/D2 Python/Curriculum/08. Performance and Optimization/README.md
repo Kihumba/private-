@@ -48,3 +48,4 @@ A fellow is able to find bottlenecks when building applications, and practice th
 
 [Pycallgraph](http://pycallgraph.slowchop.com/en/master/)
 [Blog - Ways to improve python performance](https://www.monitis.com/blog/7-ways-to-improve-your-python-performance/)
+

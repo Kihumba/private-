@@ -42,3 +42,4 @@ A fellow understand the major web application security flaws that are commonly e
 
 [OWASP top 10 web application vulnerabilities list](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 ) 
+
