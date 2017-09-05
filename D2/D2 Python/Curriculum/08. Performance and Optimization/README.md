@@ -41,10 +41,10 @@ A fellow is able to find bottlenecks when building applications, and practice th
 | It’s no good just guessing or assuming where the inefficiencies lie in your code. | [ ] | [ ] |
 
 
+
 ### Resources:
 
 [Python Library](https://docs.python.org/3/library/profile.html)
 
 [Pycallgraph](http://pycallgraph.slowchop.com/en/master/)
 [Blog - Ways to improve python performance](https://www.monitis.com/blog/7-ways-to-improve-your-python-performance/)
-

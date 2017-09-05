@@ -6,15 +6,17 @@ A fellow understand the major web application security flaws that are commonly e
 
 ## Output:
 
-**Task:** **Caesar cipher** - Implement a Caesar cipher, both encoding and decoding. The key is an integer from 1 to 25. This cipher rotates the letters of the alphabet (A to Z). The encoding replaces each letter with the 1st to 25th next letter in the alphabet (wrapping Z to A). So key 2 encrypts "HI" to "JK", but key 20 encrypts "HI" to "BC". (**Please note:** This simple "monoalphabetic substitution cipher" provides almost no security, because an attacker who has the encoded message can either use frequency analysis to guess the key, or just try all 25 keys.)
+**Task:** Perform at least two of the following tasks:
+1. Build a subnet calculator to perform IP subnet calculations 
+2. Configure multiple network devices concurrently via SSH or Telnet.
+3. Write a simple DHCP “client” and use it to test a DHCP server in the local network.
 
 
 ### Knowledge:
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are the top 10 web application vulnerabilities? 
-| What is cross-site scripting (XSS)? | [ ] | [ ] |
-| How does XSS work? | [ ] | [ ] |
+| What is cross-site scripting and how does it work? | [ ] | [ ] |
 | What is SQL injection and session hijacking, and how does it work? | [ ] | [ ] | 
 | What is cross site request forgery? | [ ] | [ ] |
 | How you you determine how the framework you've chosen mitigates a web app vulnerability? | [ ] | [ ] |
@@ -38,6 +40,5 @@ A fellow understand the major web application security flaws that are commonly e
 
 [Fullstack Pythin - Web App Security](https://www.fullstackpython.com/web-application-security.html)
 
-[OWASP top 10 web application vulnerabilities list](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
-
-
+[OWASP top 10 web application vulnerabilities list](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
+) 
