@@ -3,7 +3,7 @@
 
 ## Skill Description:
 
-A fellow is able to understand, build and/or use ORM frameworks to interact with a database or databases. 
+A fellow is able to understand, build and/or use ORM frameworks to interact with databases. 
 
 ## Output:
 **Task:** Build a simple ORM framework in Ruby
@@ -18,7 +18,7 @@ A fellow is able to understand, build and/or use ORM frameworks to interact with
 ### Behaviors:
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-**Context:** When using ORM for building an application, **Action:** I let the code access objects rather than the database structure itself, using the mapping between the business model and the database. | [ ] | [ ] |
+**Context:** When using ORM for building an application, **Action:** I create a high-level abstraction layer that interacts directly with the database. | [ ] | [ ] |
 
 
 ### Beliefs:
