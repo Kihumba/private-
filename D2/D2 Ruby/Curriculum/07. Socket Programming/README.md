@@ -15,7 +15,7 @@ A fellow is able to access the basic socket support in an underlying operating s
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
 | What are sockets? | [ ] | [ ] |
-| What the common socket types available?
+| What are the common socket types available?
 | How to write a very simple client program using TCPSocket. | [ ] | [ ] |
 | How to write Internet servers, using TCPServer class. | [ ] | [ ] |
 | How to create multi-client TCP Servers. | [ ] | [ ] |
