@@ -3,7 +3,7 @@
 
 ## Skill Description
 
-A fellow is able to write ‘beautiful code’ and/or refactor models using different design patterns including Monads 
+A developer is able to write highly expressive Ruby that conforms to a community-driven style guide. A developer is also able to identify pieces of code that can be refactored to achieve a certain goal(s), like optmizing for speed, or making code more readable.
 
 
 ## Output 
@@ -38,8 +38,8 @@ A fellow is able to write ‘beautiful code’ and/or refactor models using diff
 
 Resources
 
-[Github - Dry Monads](https://github.com/dry-rb/dry-monads) 
-
 [Github - Refactoring Fat Models](https://github.com/codeclimate/refactoring-fat-models)
 
 [Github - Shaka Code, Refactoring](https://github.com/shakacode/fat-code-refactoring-techniques)
+
+[Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
