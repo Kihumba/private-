@@ -16,7 +16,9 @@ A developer is able to write highly expressive Ruby that conforms to a community
 ### Knowledge
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-| What’s the difference between ‘each’ and ‘map’? | [ ] | [ ] |
+| What is Enumerable#collect method and how does it work? | [ ] | [ ] |
+| What is Enumerable#select method and how does it work? | [ ] | [ ] |
+| What is the difference between ‘each’ and ‘map’ methods? | [ ] | [ ] |
 | How to use conditional operators to optimize code for readability, maintainability, and concision. | [ ] | [ ] | | [ ] | [ ] |
 | How to use Symbol to_proc method. | [ ] | [ ] |
 | How to use Fixnum#times method. | [ ] | [ ] |
@@ -43,3 +45,8 @@ Resources
 [Github - Shaka Code, Refactoring](https://github.com/shakacode/fat-code-refactoring-techniques)
 
 [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+
+[Ruby - Enumerable](https://ruby-doc.org/core-2.4.1/Enumerable.html)
+
+[Map-Select-and-other-enumerable-methods](http://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods)
+
