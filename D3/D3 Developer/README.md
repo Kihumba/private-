@@ -13,7 +13,17 @@ It includes the following Outputs:
 - 07- Testing - Defensive Coding	
 - 08- Advanced APIs	
 - 09- Advanced Databases
-- 10- Team
-- 11- Leadership	
-- 12- Mentorship	
-- 13- Maintaining and Sharing Knowledge
+- 10- Agile Process
+- 11- Relationship Building
+- 12- Stakeholder Management
+- 13- Expectations Management
+- 14- Team Dynamics
+- 15- Attention to Detail	
+- 16- Adaptability
+- 17- Decision Making
+- 18- Problem Solving
+- 19- Writing Professionally
+- 20- Holistic & Big Picture Thinking
+- 21- Leadership
+- 22- Mentorship
+- 23- Maintaining and Sharing Knowledge
