@@ -1,4 +1,4 @@
-# Output 13- Maintaining and Sharing Knowledge
+# Output 23- Maintaining and Sharing Knowledge
 
 ## Skill Description
 A person with this skill keeps on the absolute forefront of upcoming technologies and products. They are constantly exploring, playing with previews of new technologies, and practicing builds in new stacks. They have best-in-class research skills and can find the information needed to solve any problem. Most importantly, they share their knowledge with others daily through mentorship, conversation, and blogs. 
