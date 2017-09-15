@@ -1,4 +1,4 @@
-# Outcome 11 - Stakeholder Management
+# Outcome 12 - Stakeholder Management
 
 **Skill Description**
 ----------
