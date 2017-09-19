@@ -42,7 +42,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | **Context:** At the end of each sprint **Action:** I compare the actual team output to the projected output | [ ] |    [ ] |
 | **Context:** When delivery of milestones may not be met timely **Action:** I proactively inform all stakeholders of the situation | [ ] |    [ ] |
 | **Context:** When informing stakeholders about delays in delivering milestones **Action:** I offer courses of action to mitigate the milestone delivery concerns | [ ] |    [ ] |
-| **Context:** When there are unreasonable expectations for/within my team **Action:** I reject them and offer reasonable ones with reasons | [ ] |    [ ] |
+| **Context:** When there are unreasonable expectations for/within my team **Action:** I push back and offer reasonable alternatives by describing the reasons and tradeoffs | [ ] |    [ ] |
 
 
 ----------
