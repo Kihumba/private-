@@ -28,6 +28,7 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | * How to give actionable feedback (specific scenarios, observed outcome in scenario, ways to improve) | [ ] | [ ]  |
 | * What kinds of responsilities/tasks should be delegated   | [ ] | [ ]  |
 | * How to delegate responsibilities/tasks   | [ ] | [ ]  |
+| * The difference between Leadership and Management  | [ ] | [ ]  |
 
 
 ----------
