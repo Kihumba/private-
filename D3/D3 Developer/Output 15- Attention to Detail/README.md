@@ -8,8 +8,8 @@ The Fellow demonstrates the ability to review the outputs of multiple team membe
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. At least 5 feature and code reviews performed by TTL on project pull requests
-2. A number of email/slack exchanges with team members that demonstrate modelling and managing for attention to detail
+1. A number of email/slack exchanges with team members that demonstrate modelling and managing for attention to detail
+2. An example of code that you paired with another developer on to refactor-- share the code before your code review and after to display the details you changed. 
 
 
 **Objectives**
