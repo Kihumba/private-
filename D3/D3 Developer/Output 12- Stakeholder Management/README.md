@@ -8,8 +8,8 @@ The Fellow includes junior members of their team as stakeholders and understands
 ----------
 After attaining this skill, and as a demonstration of it, a person should be able to create the following:
 
-1. A log that highlights instances where Technical Team Lead manages/assigns tasks to junior team members while offering perspective on how those tasks fit into the organization/project's goals
-2. A log that highlights instances where Technical Team Lead updates junior team members on happenings in the organization
+1. A log that outlines the stakeholders of your product and team and how you interface with each as a senior member of the team.
+2. A log where you share contextual information with your junior team to help them work effectively. 
 
 
 **Objectives**
