@@ -24,7 +24,6 @@ Output
 | The functions of a load balancer | [ ] | [ ] |
 | How to implement various fault tolerance techniques | [ ] | [ ] |
 | Definition of cloud availability zones | [ ] | [ ] |
-| The relationship between a machine instance and a machine image | [ ] | [ ] |
 
 
 ## **Behaviors**
