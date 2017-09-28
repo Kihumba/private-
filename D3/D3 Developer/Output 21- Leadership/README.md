@@ -14,9 +14,9 @@ A person with this skill demonstrates leadership skills such as imparting knowle
 |:-------------|:------------------:|:--------:|
 | How to lead by example on a development team | [ ] | [ ]  |
 | How to lead through using best practices in coding:  | |  |
-	| - Structure | [ ] | [ ]  |
-	| - REST properties | [ ] | [ ]  |
-	| - Naming conventions | [ ] | [ ]  |
+| - Structure | [ ] | [ ]  |
+| - REST properties | [ ] | [ ]  |
+| - Naming conventions | [ ] | [ ]  |
 | Best practices for [active listening](https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/01%20-%20Active%20Listening/README.md)  | [ ] | [ ]  |
 | How to effectively impart knowledge and expertise to a team | [ ] | [ ]  |
 | How to help my team understand what needs to be built and why | [ ] | [ ]  |
