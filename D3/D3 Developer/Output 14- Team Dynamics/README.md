@@ -14,9 +14,6 @@ A person with this skill is a critical part of their direct and broader team. Th
 | Familiarity with the role and responsibilities of every member of my team |   [ ]   |   [ ] |
 | How to identify relationship dynamics on a team |   [ ]   |   [ ] |
 | How to identify burnout among teammates |   [ ]   |   [ ] |
-| How to manage prioritization of tasks |   [ ]   |   [ ] |
-| How to manage interruptions from non-critical tasks |   [ ]   |   [ ] |
-| How to help delegate tasks to other team members |   [ ]   |   [ ] |
 | How to use version control to empower team collaboration |   [ ]   |   [ ] |
 | How to unblock team members  |   [ ]   |   [ ] |
 
