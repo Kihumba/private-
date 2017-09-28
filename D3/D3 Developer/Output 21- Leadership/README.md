@@ -1,5 +1,7 @@
 # Output 21- Leadership
-A person with this skill demonstrates leadership skills such as imparting knowledge and expertise to their team. They encourage a collaborative team environment, and consistently help their team understand what needs to be built and why. 
+
+## Skill Description
+A person with this skill demonstrates leadership skills such as imparting knowledge and expertise to their team. They encourage a collaborative team environment, lead by example, and consistently help their team understand the vision of what needs to be built and why. 
 
 ## Output
 - **Task:** Reflect on instances when you have led your team by example. 
@@ -10,17 +12,15 @@ A person with this skill demonstrates leadership skills such as imparting knowle
 
 | Knowledge Unit   |      Studied      | Applied |
 |:-------------|:------------------:|:--------:|
-The difference between responsibility and accountability
 | How to lead by example on a development team | [ ] | [ ]  |
 | How to lead through using best practices in coding:  | |  |
 	| - Structure | [ ] | [ ]  |
 	| - REST properties | [ ] | [ ]  |
 	| - Naming conventions | [ ] | [ ]  |
-| Best practices for active listening (https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/01%20-%20Active%20Listening/README.md)  | [ ] | [ ]  |
+| Best practices for [active listening](https://github.com/andela/learningmap/blob/master/Phase-C/Entry-level%20Developer/Curriculum/01%20-%20Active%20Listening/README.md)  | [ ] | [ ]  |
 | How to effectively impart knowledge and expertise to a team | [ ] | [ ]  |
 | How to help my team understand what needs to be built and why | [ ] | [ ]  |
-| How to break down a project into manageable pieces | [ ] | [ ]  |
-| Basic project management lifecycle and how to apply it to developing software in a team | [ ] | [ ]  |
+| Distinction between Management and Leadership | [ ] | [ ]  |
 
 -------
 
@@ -28,11 +28,10 @@ The difference between responsibility and accountability
 
 | Observable Behavior   |      Practiced      | Observed |
 |:-------------|:------------------:|:--------:|
-| **Context:** Even when I have the skills to do a whole project on my own, **Action:** I carefully delegate portions of the project to others who can help me get it done faster and who can benefit from participating in the work. | [ ] | [ ]  |
-| **Context:** When I have a large project to develop or problem to solve, **Action:** I break it down into smaller problems and appropriately distribute it to my team based on skill level. | [ ] | [ ]  |
+| **Context:** When team members help each other or work together to achieve something **Action:** I call out their collaboration as a point of celebration to encourage a collaborative environment |   [ ]   |   [ ]  |
+| **Context:** When I give feedback to junior team members **Action:** I provide context with specific scenarios and offer alternate(better) suggestions for better behavior in the future | [ ] |    [ ] |
 | **Context:** When I write code for my team, **Action:** I lead by example by following best practices for structure, naming, and style conventions. | [ ] | [ ]  |
 | **Context:** When I test code on my team, **Action:** I lead by example by being extremely particular, commenting out and resolving every bug with a clean solution. | [ ] | [ ]  |
-| **Context:** When I have code that is too messy to refactor, **Action:** I scrap it and write it in a more organized and stable manner. | [ ] | [ ]  |
 | **Context:** When I make a mistake, **Action:** I admit it early and often!  | [ ] | [ ]  |
 
 -------
@@ -41,9 +40,9 @@ The difference between responsibility and accountability
 
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
-| Leadership is not just about directing people: listening and collaborating are even more critical as leadership skills. | [ ] | [ ]  |
-| As a D3 I lead by example-- both in my team skills and the quality and consistency of my code. | [ ] | [ ]  |
-| As a D3, I am no longer simply an individual contributor. My role is to bring out the best in my team members. | [ ] | [ ]  |
+| Listening and collaborating are critical leadership skills. | [ ] | [ ]  |
+| As a D3 Developer I lead by example-- both in my team skills and the quality and consistency of my code. | [ ] | [ ]  |
+| As a D3 Developer, I am no longer simply an individual contributor. My role is to bring out the best in my team members. | [ ] | [ ]  |
 | The best part about gaining knowledge is being able to share it with others. | [ ] | [ ]  | 
 | All development teams appreciate when a mistake is owned up to- it allows them to fix it faster. | [ ] | [ ]  | 
 | Admitting my mistake and working to help fix it turns me into the hero. | [ ] | [ ]  | 
