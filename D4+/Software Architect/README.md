@@ -7,29 +7,7 @@ The **Software Architect** Growth Path at Andela is designed to allow experience
 
 Andela's Curriculum can be used for many purposes-- to learn key skills of a role through a detailed resource library, to explore new growth paths through work = learning outputs, or to prepare for your advancement interview into a new role. 
 
-In order to help you get the best use from this Software Architecture Curriculum, please follow the guide below. 
 
---- 
+**The Ask:** Please use this curriculum in this Google Docs format and *comment* with any `additional resources you find that are helpful` for you as you learn, or any `questions that it leaves unanswered.` That way, we can grow **"learning at scale"** and create exponentially more robust resources for all Andelans to come.
 
-## 1. Here to Prep for Advancement? 
-#### _Use these resources…_
-- [Required Skills](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Required%20Skills)
-- [Resources- Continual Learning](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Resources-%20Continued%20Learning)
-- Skill Audit
-
----
-
-## 2. Here to learn about what a Software Architect does? 
-#### _Use these resources..._ 
-- [What is a Software Architect?](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/What%20is%20a%20Software%20Architect) 
-- Resources- Getting Started
-
----
-
-## 3. Here to Practice your Software Architect Skills? 
-#### _Use these resources..._ 
-- [Outputs](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Outputs)
-- [Resources- Continued Learning](https://github.com/andela/learningmap/tree/master/D4%2B/Software%20Architect/Resources-%20Continued%20Learning) 
-- [Resources- Getting Started](https://github.com/andela/learningmap/tree/master/D4+/Software%20Architect/Resources-%20Getting%20Started)
-- Skill Audit
-
+https://docs.google.com/a/andela.com/document/d/1gmj-9ms-4tBg2FauC8X8NY9rlhyqQbxCTIMx49_u3ko/edit?usp=sharing
