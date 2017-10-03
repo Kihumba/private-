@@ -1,6 +1,6 @@
 # Software Architect Growth Path
 
-The **Software Architect** Growth Path at Andela is designed to allow experienced Developers to have real-world opportunities to work on the interactions of complex systems. This path is not a Client Placement Track: instead, it is designed to allow Fellows to build experience and skills that will move them toward becoming a Software Architect in the future _through_ Client and Andela work. 
+The [**Software Architect**](https://docs.google.com/a/andela.com/document/d/1gmj-9ms-4tBg2FauC8X8NY9rlhyqQbxCTIMx49_u3ko/edit?usp=sharing) Growth Path at Andela is designed to allow experienced Developers to have real-world opportunities to work on the interactions of complex systems. This path is not a Client Placement Track: instead, it is designed to allow Fellows to build experience and skills that will move them toward becoming a Software Architect in the future _through_ Client and Andela work. 
 
 
 # How to Use this Curriculum 
