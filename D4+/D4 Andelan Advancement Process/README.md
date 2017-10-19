@@ -56,7 +56,7 @@ Steps:
 3. **Apply for D4 Assessment:** 
 > When you [Apply for Assessment](https://sites.google.com/andela.com/success/fellow-progression/assessment-request-process?authuser=1), make sure you have completely filled out the requirements listed **and uploaded them to LV.** Your Assessment Panel will be reviewing this information ahead of your review.
 4. **Complete In-Person D4 Assessment:** 
-> D4 Assessments will last between 60-90 minutes, and will consist of several Case Study Interview quesitons. You may also be asked to elaborate on your past work and how it ties into the role or Growth Path you are applying for if it is not made adequately clear through explanations on LV. 
+> D4 Assessments will last approximately 3 hours, and will consist of several Case Study Interview quesitons. You may also be asked to elaborate on your past work and how it ties into the role or Growth Path you are applying for if it is not made adequately clear through explanations on LV. 
 
 ---
 
