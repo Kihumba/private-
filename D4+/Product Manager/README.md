@@ -1,4 +1,6 @@
-# Product Manager Growth Path
+# [Product Manager Growth Path](https://docs.google.com/a/andela.com/document/d/1c6AkQqE_ktvqLVzdPRchKXWfN1BwMR1xqga3krLsKiU/edit?usp=sharing)
+
+*[See the full Product Manager Learning Objectives and Work Outputs here!](https://docs.google.com/a/andela.com/document/d/1c6AkQqE_ktvqLVzdPRchKXWfN1BwMR1xqga3krLsKiU/edit?usp=sharing)*
 
 Product Manager Growth Path at Andela is designed to give experienced Developers real-world opportunities to work on building their Product Management skills. The path provides resources and work outputs that will enable Fellows to leverage Product Management skills every day at Andela and on Client Work. Those who are interested in going deeper can explore internal apprenticeships or the [Apprentice Product Lead](https://docs.google.com/document/d/1hqp-BT0YDg1AB0-N9QRK9Fq7RZ63m1-ro-JgDqq4edo/edit#heading=h.eyxqoji7x8fn) program. You can also see ["More Practice"](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Curriculum/More%20Practice) in the Growth Path Curriculum for other suggestions on how to get real world experience in Product Management. 
 
