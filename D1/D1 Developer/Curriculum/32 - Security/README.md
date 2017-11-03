@@ -25,6 +25,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | How to encrpyt sensitive data     | [ ] | [ ]  |
 | The importance of validating input   | [ ] | [ ]  |
 | How to validate input      | [ ] | [ ]  |
+| CEH best practices and how they support security  | [ ] | [ ]  |
+| How to follow security "optics": | | | 
+| - never doing anything (whether communication or implementation) that is not classified `White Hat`|[ ] |[ ] | 
+| - never doing anything that is classified as `Grey Hat`, `Black Hat` |[ ] |[ ] | 
 
 
 
@@ -39,6 +43,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | **Context:** When building a feature that requries users to have different levels of access to data **Action:** I use the appropriate authorization mechanism | [ ] | [ ] |
 | **Context:** When building a feature to store potentially sensitive data **Action:** I use the appropriate encryption mechanism to encrypt the data before saving | [ ] | [ ] |
 | **Context:** When building a feature that takes user input **Action:** I validate and sanitize the input at both the front-end and backend | [ ] | [ ] |
+| **Context:** When I am tinkering with code,  **Action:** I always use CEH Best Practices to ensure security | [ ] | [ ] |
+| **Context:** When I am joining a new team,  **Action:** I never do anything without required permission from authorities-- I do not assume. | [ ] | [ ] |
 
 
 ----------
