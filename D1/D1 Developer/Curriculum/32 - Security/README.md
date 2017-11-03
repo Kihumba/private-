@@ -53,3 +53,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | A secure application builds trust between my product and its users | [ ] | [ ] |
 | The security of my code merits the trust of my product's users | [ ] | [ ] |
 
+--- 
+
+**Resources**
+- [Free “Self-Exam” to see how much you know about security Best Practices](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/ceh-assessment/)-- Contributed by Damilare Lana
+- [Want to learn more?](https://www.cybrary.it/course/ethical-hacking/)-- *Modules 1-19 are applicable and key to web development; some other topics go in deeper than needed* 
