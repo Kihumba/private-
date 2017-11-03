@@ -11,10 +11,9 @@ As a Software Developer, you will continually be encountering and resolving prob
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Written description of a coding problem I recently solved and the steps taken to solve the problem-- *see example checklist for inspiration*
+1. Written description of a coding problem I recently solved and the steps taken to solve the problem-- *see example checklist below for inspiration*
 2. Written description of a non-coding problem I recently solved and the steps taken to solve the problem
 
-##Objectives
 
 ### Knowledge
 
