@@ -28,9 +28,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 |:---|:---:|:---:|
 | | | |
 | **Context:** When I make a mistake, **Action:** I surface it to all parties that it impacts immediately.  | | |
-| **Context:** When I identify a mistake that will impact my team (made by myself or another teammate), **Action:** I communicate it to the people whose work it will affect and propose solutions to it and the timeframe for resolution. 
- | [ ] | [ ] |
-| **Context:** When communicating a mistake, **Action:** I stick to the facts and do not make it look like an excuse. | [ ] | [ ] |
+| **Context:** When I identify a mistake that will impact my team (made by myself or another teammate), **Action:** I communicate it to the people whose work it will affect and propose solutions to it and the timeframe for resolution. |  ||
+| **Context:** When communicating a mistake, **Action:** I stick to the facts and do not make it look like an excuse. |  | |
 | | | |
 
 ---
