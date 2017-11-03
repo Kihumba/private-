@@ -4,12 +4,14 @@
 
 The Fellow is able to use generic methods (when they are available) or ad hoc methods (when generic methods are not available) in an orderly manner to find solutions to problems. The Fellow utilizes problem solving processes and sequences to effectively solve complex problems.
 
+As a Software Developer, you will continually be encountering and resolving problems. They may be related to your team, or they may be related to your code base, but they will always exist. You are first and foremost a problem solver.
+
 
 ## Output
 
 After attaining this skill, and as a demonstration of it, I should be able to create the following:
 
-1. Written description of a coding problem I recently solved and the steps taken to solve the problem
+1. Written description of a coding problem I recently solved and the steps taken to solve the problem-- *see example checklist for inspiration*
 2. Written description of a non-coding problem I recently solved and the steps taken to solve the problem
 
 ##Objectives
@@ -60,5 +62,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I am obsessed with finding the most effective solutions | [ ] | [ ] |
 | I don't spend time looking for the solution to something that is not yet a problem | [ ] | [ ] |
 | Not every problem requires a technical solution | [ ] | [ ] |
+| Hurdles encountered in development are the normal path, not the exception. | [ ] | [ ] |
 | | | |
 ---
+
+**Resources:** 
+- [*"Overcoming Technical Obstacles- A Simple Checklist"*](https://docs.google.com/a/andela.com/document/d/1w4IdApSGQoOvbCG1FVCgmQ9NUJHkfjJVYQUJwW12Mjs/edit?usp=sharing)-- Contributed by Andrei Erdoss
