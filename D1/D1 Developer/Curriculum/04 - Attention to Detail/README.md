@@ -64,3 +64,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 
 ---
+
+**Resources**
+- [_Clean Code_](http://ptgmedia.pearsoncmg.com/images/9780132350884/samplepages/9780132350884.pdf) -- Recommended by Brian Ngure
