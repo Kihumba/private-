@@ -63,3 +63,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | | | |
 
 ---
+
+
+
+### Resources
+- [_Relationship Building Video From Andela Learning Facilitaor_](https://vimeo.com/216648683)
