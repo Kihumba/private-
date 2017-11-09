@@ -69,3 +69,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Not communicating quickly and clearly with my team has a negative impact on how my team members function and strains my relationships with them | [ ] | [ ] |
 | Helping my teammate is equivalent to helping myself | [ ] | [ ] |
 ---
+
+
+### Resources
+
+- ["6 Months of Working Remotely Taught Me a Thing or Ten"](https://dev.to/peteranglea/6-months-of-working-remotely-taught-me-a-thing-orten) - Contributed by Purity Birir
