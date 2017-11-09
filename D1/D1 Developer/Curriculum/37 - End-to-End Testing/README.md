@@ -58,3 +58,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources 
 
 - ["Microservice Testing: Unit Tests"](https://medium.com/@nathankpeck/microservice-testing-unit-tests-d795194fe14e) - Contributed by James Nyamu
+- ["How to Write a Perfect Error Message"](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36) - Contributed by Bolaji Olajide
