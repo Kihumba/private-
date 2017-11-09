@@ -66,3 +66,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 ### Resources
 - [_Adaptability Video from Andela Learning Facilitator_](https://vimeo.com/220290465)
+- ["How To Learn In 2 Days What Normally Takes 6 Months"](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-a3c27c0fa6e1) - Contributed by Nora Studholme
