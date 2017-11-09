@@ -63,3 +63,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 | Change is inevitable | [ ] | [ ] |
 ---
+
+### Resources
+- [_Adaptability Video from Andela Learning Facilitator_](https://vimeo.com/220290465)
