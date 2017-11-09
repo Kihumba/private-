@@ -49,3 +49,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | Building APIs gives the flexibility needed to build device/platform-agnostic applications | [ ] | [ ]  |
 | APIs make it easier and more secure for other programs to interact with my application | [ ] | [ ]  |
 | Excellent API documentation empowers and encourages other developers to use my APIs | [ ] | [ ]  |
+
+
+### Resources
+
+- ["Representational State Transfer (REST)"](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Contributed by Inumidun Amao
