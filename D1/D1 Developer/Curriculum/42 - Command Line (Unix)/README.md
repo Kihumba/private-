@@ -51,3 +51,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Custom shell scripts give me to power to automate grunt work | [ ] | [ ]  |
 | Command line wizardry increases my productivity as a developer | [ ] | [ ]  |
+
+---
+### Resources
+
+- ["Create a Pull Request Using Command Line"](http://sangsoonam.github.io/2017/02/01/create-pull-request-hub.html)- Contributed by James Nyamu
