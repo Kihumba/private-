@@ -57,3 +57,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | The most efficient algorithms are built on most appropriate data structures for the problem | [ ] | [ ] |
 
+
+### Resources
+
+- [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) - Contributed by Florence Okosun
