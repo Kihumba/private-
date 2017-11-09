@@ -51,3 +51,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Daily SCRUM meetings are an opportunity to learn about what my other team mates are working on   | [ ] | [ ]  |
 | My contributions to daily SCRUMs are critical to my team's success   | [ ] | [ ]  |
 | Agile processes enable my team to efficiently respond to the unpredictable elements of our work   | [ ] | [ ]  |
+
+### Resources
+
+- ["How to deal with technical debt and save your sanity"](https://medium.freecodecamp.org/tame-your-tech-debt-by-refactoring-more-often-fcc34dd24a33) - Contributed by Collin Mutembei
