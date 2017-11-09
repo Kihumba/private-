@@ -58,3 +58,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - ["Create a Pull Request Using Command Line"](http://sangsoonam.github.io/2017/02/01/create-pull-request-hub.html)- Contributed by James Nyamu
 - [_Become a power user of Command Shells_](https://vimeo.com/240142694) - Tutorial By Ignatius Ukwuoma
 - ["Getting Started With Dotfiles"](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789) - Contributed by Bolaji Olajide
+- [list of Command Line Commands](https://www.codecademy.com/articles/command-line-commands) - Contributed by Bolaji Olajide
