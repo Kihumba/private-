@@ -50,3 +50,9 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | The type of Database selected is based on my data storage needs | [ ] | [ ] |
 | Normalizing my SQL Database makes it easy to transcend actions to all related tables. | [ ] | [ ]  |
 | SQL Injection is avoided when I sanitize input data | [ ] | [ ]  |
+
+
+
+### Resources
+- ["The Mongo Shell Basics"](https://medium.com/@atingenkay/the-mongo-shell-basics-e29503f0f785) - Contributed by Bolaji Olajide
+- [Best SQL books, tutorials, courses & videos 2017](https://reactdom.com/blog/sql-books) - Contributed by Bolaji Olajide
