@@ -60,3 +60,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 - ["CSS Flexbox explained in 8 minutes, plus a Flexbox cheat sheet"](https://medium.freecodecamp.org/css-flexbox-interactive-tutorial-in-8-minutes-including-cheat-sheet-6214e00de3d2) - Contributed by Bolaji Olajide
 - [Flexing Layout with CSS](https://vimeo.com/231865938) -  Video Tutorial by Bolaji Olajide
+- [Codelabs for Front-End Developers](https://codelabs.developers.google.com/cds17) - Contributed by Christopher Kanyuga
