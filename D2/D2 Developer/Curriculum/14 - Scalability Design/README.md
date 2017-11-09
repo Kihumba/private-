@@ -58,3 +58,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 | The effort of scalability design is rewarded when the system actually needs it | [ ] | [ ]  |
 | Scalability needs are dynamic over time and require regular re-evaluation | [ ] | [ ]  |
 
+
+
+### Resources
+
+- ["Designing a Microservices Architecture for Failure"](https://blog.risingstack.com/designing-microservices-architecture-for-failure/?utm_source=RisingStack+Engineering&utm_campaign=dc711e620b-EMAIL_CAMPAIGN_2017_08_16&utm_medium=email&utm_term=0_02a6a69990-dc711e620b-474916605) - Contributed by Florebce Okosun
