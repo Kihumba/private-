@@ -55,3 +55,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I create value by writing end-to-end tests because it simulates the experience of my user  | [ ] | [ ] |
 
 
+### Resources 
+
+- ["Microservice Testing: Unit Tests"](https://medium.com/@nathankpeck/microservice-testing-unit-tests-d795194fe14e) - Contributed by James Nyamu
