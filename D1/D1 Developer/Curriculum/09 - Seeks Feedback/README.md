@@ -86,3 +86,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | A little exploring of a problem on my own goes a long way, a lot of exploring on my own drives me down the wrong path | [ ] | [ ] |
 | | | |
 ___
+
+
+
+### Resources
+- [_Feedback for life: By Adam Lupu_](https://vimeo.com/213157560)
+- [_How to seek feedback: Video by Andela Learning facilitator_](https://vimeo.com/216648683)
