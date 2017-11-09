@@ -48,3 +48,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Progress and changes to a project can be tracked when I use Git | [ ] | [ ] |
 | I believe that understanding a particular git workflow could make working in teams relatively easy | [ ] | [ ] |
 | The appropriate Git Workflow enable me and my team have seamless collaboration on our projects | [ ] | [ ] |
+
+----- 
+
+### Resources
+- ["Git Command Line Shortcuts"](https://jonsuh.com/blog/git-command-line-shortcuts/)- Contributed by Chinedu Ofor
