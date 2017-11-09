@@ -63,3 +63,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | | | |
 
 ---
+
+
+### Resources
+
+- [_Motivation and Commitment Video by Andela Learning Facilitator_](https://vimeo.com/221413377)
+- ["How to stay focused long term"](https://medium.com/@andrewmakenzi/how-to-remain-focused-long-term-8323bd6bbea6) - Written by Wambua Makenzie
