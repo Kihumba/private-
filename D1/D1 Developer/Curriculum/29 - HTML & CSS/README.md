@@ -55,3 +55,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | HTML and CSS are the skeleton and skin of web pages; without them web pages do not exist | [ ] | [ ] |
+
+### Resources
+
+- ["CSS Flexbox explained in 8 minutes, plus a Flexbox cheat sheet"](https://medium.freecodecamp.org/css-flexbox-interactive-tutorial-in-8-minutes-including-cheat-sheet-6214e00de3d2) - Contributed by Bolaji Olajide
+- [Flexing Layout with CSS](https://vimeo.com/231865938) -  Video Tutorial by Bolaji Olajide
