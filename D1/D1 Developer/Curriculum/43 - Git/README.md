@@ -53,3 +53,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Resources
 - ["Git Command Line Shortcuts"](https://jonsuh.com/blog/git-command-line-shortcuts/)- Contributed by Chinedu Ofor
+- [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Contributed by Bolaji Olajide
