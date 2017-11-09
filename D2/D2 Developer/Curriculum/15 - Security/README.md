@@ -59,4 +59,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ### Resources
 
 - ["Passwords Evolved: Authentication Guidance for the Modern Era"](https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/) - Contributed by Mike Kamau
-- ["Phone Number Authentication With Firebase"](https://auth0.com/blog/firebase-phone-authentication/z) - Contributed by Bolaji Olajide
+- ["Phone Number Authentication With Firebase"](https://auth0.com/blog/firebase-phone-authentication/) - Contributed by Bolaji Olajide
