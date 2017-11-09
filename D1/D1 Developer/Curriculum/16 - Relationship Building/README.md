@@ -68,3 +68,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 
 ### Resources
 - [_Relationship Building Video From Andela Learning Facilitaor_](https://vimeo.com/216648683)
+- ["5 ways to remember every colleague’s or teammate’s name"](https://medium.com/@YamenOsaretin/5-ways-to-remember-every-colleagues-or-teammate-s-name-1d2ea9dc5fe4) - Written by Osayamen Osaretin
