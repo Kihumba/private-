@@ -69,3 +69,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 
 ---
+
+### Resources
+
+- ["Your Ultimate Guide for Learning Any Skill Faster and Better"](https://medium.com/the-mission/your-ultimate-guide-for-learning-anything-faster-and-better-abceb81327b8) - Contributed by Florence Okosun
