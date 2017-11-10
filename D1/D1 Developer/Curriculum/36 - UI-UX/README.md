@@ -64,7 +64,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | The little things matter | [ ] | [ ] |
 
  -- 
- **Resources**
+### Resources
  - [_A Crash Course in UI Design_](https://blog.marvelapp.com/crash-course-ui-design/?utm_source=weekly-newsletter&utm_medium=email&utm_campaign=marvel-newsletter-2017-10-24&utm_term=)
  - [_What is UX Design?_](https://blog.prototypr.io/what-is-ux-design-common-misconceptions-and-ux-myths-39fe98cc6d23)
  - [_UX Case Study_](https://blog.prototypr.io/ux-study-case-trip-fun-563370f58ee3?ref=prototyprio)
