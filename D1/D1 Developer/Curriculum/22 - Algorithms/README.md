@@ -54,5 +54,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 
 ### Resoures
-
+- [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)- Contributed by Bolaji Olajide
+- [_Algorithms and Data Structures- Part I_](https://app.pluralsight.com/library/courses/ads-part1/table-of-contents)- PluralSight, good coverage of the most essential basic algorithms and data structures, helpful for review and deepening understanding
+- [_Algorithms and Data Structures- Part II_](https://app.pluralsight.com/library/courses/ads2/table-of-contents)- PluralSight, good coverage of the most essential basic algorithms and data structures, helpful for review and deepening understanding
 - [Data Structure Visualizations- Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) - Contributed by Bolaji Olajide
