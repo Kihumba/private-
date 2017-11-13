@@ -53,3 +53,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Programmers that write more tests are more productive | [ ] | [ ] |
 | Test-driven development eliminates my subconscious tendency to write tests that I know will pass | [ ] | [ ] |
 | Testing for edge cases and unexpected inputs makes my code more robust and rock solid | [ ] | [ ] |
+
+
+### Resources
+
+- [_Test-Driven Development_: Video by Andela Learning Facilitator](https://vimeo.com/222841137)
