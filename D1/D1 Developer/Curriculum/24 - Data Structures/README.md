@@ -61,3 +61,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources
 
 - [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) - Contributed by Florence Okosun
+- [_Organizing Data Efficiently with Common Data Structures_](https://app.pluralsight.com/player?course=algorithmics-introduction&author=rasmus-amossen&name=algorithmics-introduction-m3&clip=0&mode=live)- PluralSight, one section of a longer course on Data Structures and Algorithms
+
