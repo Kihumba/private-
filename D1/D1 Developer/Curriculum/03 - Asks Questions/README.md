@@ -68,3 +68,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources
 
 - [_Ask questions: Video by Andela Learning Facilitator_](https://vimeo.com/216195116)
+- [How to be Amazingly good at asking Questions](http://www.lifehack.org/articles/communication/how-amazingly-good-asking-questions.html)
