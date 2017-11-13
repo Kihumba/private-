@@ -61,3 +61,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Skype and Hangouts are valuable remote developer communication assets | [ ] | [ ] |
 | The challenges inherent to video calls cannot stop me from communicating effectively | [ ] | [ ] |
 
+### Resources
+
+- [“Get Started with Google Hangouts”](https://gsuite.google.com/learning-center/products/hangouts/get-started/) - Google Learning Center
