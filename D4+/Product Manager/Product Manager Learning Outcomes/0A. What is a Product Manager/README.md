@@ -33,3 +33,6 @@ Before starting to work on these Product Manager Learning Objectives, it is impo
 
 Most importantly, you **must** have a desire to solve problems, build products that customers will love, and contribute to the growth and success of your overall business. Sound like you? **Dive in!** . 
 
+### Resources
+
+- ["What makes a product manager"](https://medium.com/my-product-journal/what-makes-a-product-manager-2c0a58dc0f14) - Written by Olufunmilade Oshodi
