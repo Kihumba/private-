@@ -64,3 +64,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | My questions help others to think about the problem from a different perspective and that helps create better solutions | [ ] | [ ] |
 | | | |
 
+
+### Resources
+
+- [_Ask questions: Video by Andela Learning Facilitator_](https://vimeo.com/216195116)
