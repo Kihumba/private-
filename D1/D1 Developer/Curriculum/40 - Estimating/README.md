@@ -48,3 +48,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Estimating is a powerful trust building skill | [ ] | [ ] |
 
 
+### Resources
+
+- [_Agile Estimation_](https://app.pluralsight.com/library/courses/agile-estimation/description)- PluralSight, good video for estimation best practices, generally more project-management focused but helpful for anyone working on an agile team
+- [“How to Estimate Software Projects Realistically”](http://intersog.com/blog/tech-tips/how-to-estimate-software-development-projects-realistically/)- A bit of a wordy article with a focus on project management, but some good principles of how to break down estimation
