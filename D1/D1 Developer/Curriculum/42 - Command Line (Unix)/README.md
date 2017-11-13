@@ -55,6 +55,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ---
 ### Resources
 
+- [_Meet the Command Line_](https://app.pluralsight.com/library/courses/meet-command-line/table-of-contents)- PluralSight, good intro for absolute beginners
 - ["Create a Pull Request Using Command Line"](http://sangsoonam.github.io/2017/02/01/create-pull-request-hub.html)- Contributed by James Nyamu
 - [_Become a power user of Command Shells_](https://vimeo.com/240142694) - Tutorial By Ignatius Ukwuoma
 - ["Getting Started With Dotfiles"](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789) - Contributed by Bolaji Olajide
