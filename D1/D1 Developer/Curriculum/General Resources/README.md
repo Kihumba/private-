@@ -9,6 +9,7 @@ These resources take you into the more philosophical points of programming...
 
 - ["The creation of Dogma"](http://mrmrs.github.io/writing/2016/04/26/dogma/) - Contributed by Ore Sofola
 - [A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know) - Contributed by Bolaji Olajide
+- [YOYO song](https://soundcloud.com/learning-media/yoyo) - _Song on owning your own learning_ by Adam Lupu and nadayar Enegesi
 
 --- 
 
