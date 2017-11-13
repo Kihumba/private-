@@ -50,3 +50,8 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 |:-------------|:------------------:|:--------:|
 | With DevOps I can set up systems and environments that enable teams to ship product faster | [ ] | [ ]  |
 
+
+### Resources
+
+- [Learn DevOps all in one place](https://cloudacademy.com/library/devops/)  - Contributed by Nora Studholme
+
