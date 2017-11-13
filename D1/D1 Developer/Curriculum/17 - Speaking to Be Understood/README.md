@@ -72,3 +72,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I can control whether I am simply heard or truly understood | [ ] | [ ] |
 | | | |
 ---
+
+### Resources
+
+- [Managing the Distributed Kickoff Call](https://github.com/andela/learningmap/blob/master/Andelan/Making%20Good%20First%20Impressions/Managing%20the%20Distributed%20Kickoff%20Call.md)- Some good tips from Andela’s Coach on speaking clearly, particularly when distributed
+- [_Becoming a better Communicator_](https://app.pluralsight.com/library/courses/being-better-communicator-grammar-dejargoning-articulation)- PluralSight course with tips for clear communication and de-jargoning your speech
