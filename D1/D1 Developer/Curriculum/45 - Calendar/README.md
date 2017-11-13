@@ -60,3 +60,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | The way I use my calendar affects my whole team | [ ] | [ ] |
 | I am much easier to work with when I use my calendar well | [ ] | [ ] |
 
+
+### Resources
+
+- [_Google Calendar: Everything you need to Know to get Started_](https://www.youtube.com/watch?v=PZhvowwdSVI)- Short 13 minute video tutorial on Google Calendar basics
