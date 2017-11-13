@@ -57,3 +57,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Using Public over Private chat communication when possible strengthens our public discourse and benefits my fellow Andelans| [ ] | [ ] |
 | Providing context for a request over Slack increases the rapidness of response and happiness of the responder.| [ ] | [ ] |
 
+
+### Resources
+
+- ["Everything You Are Afraid To Ask About Slack Etiquette"](https://www.fastcompany.com/3054413/everything-you-are-afraid-to-ask-about-slack-etiquette) - Contributed by Collin Mutembei
