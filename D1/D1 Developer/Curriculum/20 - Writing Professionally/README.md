@@ -72,3 +72,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | The more I write the better I am at expressing my self through the written word | [ ] | [ ] |
 | | | |
 ---
+
+
+### Resources
+
+
+- [Writing Better Documentation](https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7)
+- [How to write Technical blog posts](https://youtu.be/YODPgBadj80) - Video by Quincy Larson,  editor of Medium's largest technical blog.
