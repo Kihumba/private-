@@ -10,7 +10,3 @@ These resources take you into the more philosophical points of programming...
 ## Practice Resources
 These resources allow you to get your hands dirty and practice
 
---- 
-
-## Practice Resources
-These resources allow you to get your hands dirty and practice
