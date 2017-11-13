@@ -46,3 +46,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Understanding the 2 & 3 tier architecture patterns is the key to demystifying complex software architecture patterns| [ ] | [ ] |
 
+### Resources
+
+- [“Introduction to OOP and More”](https://www.codeproject.com/Articles/22769/Introduction-to-Object-Oriented-Programming-Concep#two-tier)- Code Project, there are some sections dedicated to 2- and 3- tier architecture that you can link to from the Table of Contents
