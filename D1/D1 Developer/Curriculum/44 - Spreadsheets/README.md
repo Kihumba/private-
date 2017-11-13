@@ -49,3 +49,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Spreadsheets are a powerful and universal tool for reporting data | [ ] | [ ] |
 
+### Resources
+
+- [_Getting Started with Excel 2016 for Mac_](https://app.pluralsight.com/library/courses/excel-2016-mac-getting-started/table-of-contents)- PluralSight, you can search for another version if you don’t have 2016
