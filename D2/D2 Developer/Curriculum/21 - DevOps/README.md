@@ -54,4 +54,6 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ### Resources
 
 - [Learn DevOps all in one place](https://cloudacademy.com/library/devops/)  - Contributed by Nora Studholme
+- [Devops Beginner courses on Pluralsight](https://goo.gl/13j4qy) - Contributed by Nora Studholme
+- [AWS Whitepapers](https://aws.amazon.com/whitepapers/) - Contributed by Arnold Okoth
 
