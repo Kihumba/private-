@@ -49,3 +49,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Documents are a powerful means of organizational communication | [ ] | [ ] |
 
+
+### Resources
+
+- [“Getting started with Docs”](https://gsuite.google.com/learning-center/products/docs/get-started/)- Google Learning Center 
+- [_Intro to Google Docs_](https://www.youtube.com/watch?v=s6V_h43-BIY)- 5 minute Tutorial on the basics of Google Docs
