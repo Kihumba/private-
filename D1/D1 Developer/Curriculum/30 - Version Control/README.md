@@ -40,3 +40,10 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Effective use of version control is the strongest protection against irreversible errors | [ ] | [ ] |
 | Branches give me a safe space and the freedom to experiment when implementing a new feature | [ ] | [ ] |
 | I can trust version control systems to protect my code history | [ ] | [ ] |
+
+
+### Resources
+
+- [Creating a PR](http://sangsoonam.github.io/2017/02/01/create-pull-request-hub.html)- Contributed by James Nyamu
+- [_Understanding Distributed Version Control_](https://app.pluralsight.com/library/courses/understanding-distributed-version-control-systems)- PluralSight, an introduction to the history, components, and importance of distributed version control 
+- [_Version Control_](https://vimeo.com/216470563) - Video by Andela Learning Facilitator
