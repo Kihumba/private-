@@ -74,3 +74,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | To make one great decision I must reject good alternatives | [ ] | [ ] |
 | | | |
 ---
+
+### Resources
+
+- [_Creative Problem Solving and Decision Making Techniques_](https://app.pluralsight.com/library/courses/creative-problem-solving-decision-techniques/table-of-contents)- PluralSight; A few good videos to jog your thinking and help you practice decision making methods, do not feel like you need to follow these recommendations of methodologies. 
+- [“Using the Urgent Vs Important Matrix”](https://crew.co/blog/urgent-vs-important/)
+- [_Eisenhower Matrix_](http://www.eisenhower.me/eisenhower-matrix/)- Short Video tutorial for those who prefer video content
