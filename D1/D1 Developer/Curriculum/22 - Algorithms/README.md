@@ -51,3 +51,8 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Sort algorithms are the building blocks of complex computer science algorithms | [ ] | [ ] |
 | Big-O analysis empowers me to make objective decisions on solution choices | [ ] | [ ] |
+
+
+### Resoures
+
+- [Data Structure Visualizations- Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) - Contributed by Bolaji Olajide
