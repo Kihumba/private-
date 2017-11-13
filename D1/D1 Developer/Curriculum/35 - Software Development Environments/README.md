@@ -47,3 +47,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Environments provide a safe pipeline for testing and deploying quality products | [ ] | [ ] |
 
+### Resources
+
+- [_Development Environments Overview_](https://www.coursera.org/learn/introduction-embedded-systems/lecture/M7l6H/7-development-environments-overview)- Good introduction to Environments by Coursera
+
