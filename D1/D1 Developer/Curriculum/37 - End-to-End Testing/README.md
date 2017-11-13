@@ -59,4 +59,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 - ["Microservice Testing: Unit Tests"](https://medium.com/@nathankpeck/microservice-testing-unit-tests-d795194fe14e) - Contributed by James Nyamu
 - ["How to Write a Perfect Error Message"](https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36) - Contributed by Bolaji Olajide
-- [Bug Management](https://vimeo.com/album/4718955) - _Workshop_ by Owajigbanam Ogbuluijah
+- [_Automated Testing, End to End_](https://app.pluralsight.com/library/courses/automated-testing-end-to-end)- PluralSight course, good coverage of various testing types and how to apply them for end-to-end testing
+- [“End to End Testing”](https://www.guru99.com/end-to-end-testing.html)- Guru 99, good article that digs deeper into the “why” of end-to-end testing
