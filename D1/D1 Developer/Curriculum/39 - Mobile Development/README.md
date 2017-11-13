@@ -50,3 +50,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Mobile is the most powerful medium to reach billions of users in the world | [ ] | [ ] |
 
+### Resources
+
+- [“Mobile Apps 101: What you need to Know”](https://www.infoworld.com/article/2623833/mobile-development/mobile-development-101--what-you-need-to-know.html)- A great article to define the high level challenges and opportunities that come with Mobile development
+- [_Web vs. Apps: The Big Picture_](https://app.pluralsight.com/library/courses/mobile-app-big-pic/table-of-contents)- PluralSight video, goes in depth about native vs. web apps-- a bit more deep than you may need to go but interesting context
