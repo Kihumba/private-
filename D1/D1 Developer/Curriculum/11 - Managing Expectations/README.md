@@ -62,3 +62,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Managing expectations well can be more important than meeting deadlines | [ ] | [ ] |
 | | | |
 ---
+
+### Resources
+
+- [_Tools and Techniques for Estimation_](https://app.pluralsight.com/library/courses/project-estimation-best-practices/table-of-contents)- PluralSight, designed for project management estimation, some helpful tools for thinking about estimating realistic timelines. 
