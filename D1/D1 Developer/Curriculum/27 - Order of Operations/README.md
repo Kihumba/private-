@@ -45,3 +45,7 @@ After attaining this skill, and as a demonstration of it, I should be able to ha
 |:-------------|:------------------:|:--------:|
 | Understanding order of operations in programming is an essential tool in my code writing and debugging toolboxes | [ ] | [ ] |
 
+
+### Resources
+
+- [_Intro to Order of Operations_](https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations/v/introduction-to-order-of-operations)- Khan Academy
