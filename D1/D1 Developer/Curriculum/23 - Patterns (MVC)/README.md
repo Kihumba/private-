@@ -57,3 +57,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Design patterns allow me to solve commonly occuring problems within a given context of software design | [ ] | [ ] |
 | Design patterns allow me to repeatedly invoke the collective experience of expert software developers | [ ] | [ ] |
 | The MVC pattern is a clean template for architecting my application | [ ] | [ ] |
+
+
+### Resources
+
+- [“MVC Framework”](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm)- TutorialsPoint walk-through of the MVC Pattern with associated resources
+- [‘MVC Architecture”](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture)- Another walk through of MVC from Mozilla Developer
+
