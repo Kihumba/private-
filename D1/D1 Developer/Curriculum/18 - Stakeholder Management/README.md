@@ -85,3 +85,10 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | How you say something is just as important as what you say | [ ] | [ ] |
 | | | |
 ---
+
+
+
+### Resources
+
+- [_Stakeholder Management_](https://app.pluralsight.com/library/courses/pmp-project-stakeholder-management)- PluralSight, from Project Manager course, don’t feel like you need to complete the full course, but some good insights in some of the videos
+- [_Engaging your Stakeholders_](https://app.pluralsight.com/library/courses/pgmp-engaging-stakeholders/table-of-contents)- PluralSight, starts off with identification of stakeholders and how to engage, good resource to use in conjunction with real world practice. 
