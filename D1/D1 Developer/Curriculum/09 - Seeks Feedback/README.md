@@ -92,3 +92,4 @@ ___
 ### Resources
 - [_Feedback for life: By Adam Lupu_](https://vimeo.com/213157560)
 - [_How to seek feedback: Video by Andela Learning facilitator_](https://vimeo.com/216648683)
+- [“ASK Feedback’](https://github.com/andela/learningmap/tree/master/Andelan/ASK-%20Feedback)- KBB’s for leveraging the ASK Feedback methodology
