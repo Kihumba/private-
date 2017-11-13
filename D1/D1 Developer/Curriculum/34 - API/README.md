@@ -54,3 +54,4 @@ After attaining this skill, and as a demonstration of it, a person should be abl
 ### Resources
 
 - ["Representational State Transfer (REST)"](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Contributed by Inumidun Amao
+- [_How to version your API the right way_](https://vimeo.com/242066648) - Tutorial video by Temitayo Fadojutimi
