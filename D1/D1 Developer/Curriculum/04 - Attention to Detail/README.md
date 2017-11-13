@@ -67,3 +67,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 **Resources**
 - [_Clean Code_](http://ptgmedia.pearsoncmg.com/images/9780132350884/samplepages/9780132350884.pdf) -- Recommended by Brian Ngure
+- [“Verifying attention to Detail in Developer Interviews”](https://www.softwarebyrob.com/2006/09/11/developer-interview-questions-testing-attention-to-detail/)- Some interesting thought experiments for verifying your Attention to Detail skills 
