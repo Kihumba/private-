@@ -55,3 +55,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources
 
 - ["How to deal with technical debt and save your sanity"](https://medium.freecodecamp.org/tame-your-tech-debt-by-refactoring-more-often-fcc34dd24a33) - Contributed by Collin Mutembei
+- [_Team Practices with Agile Scrum_](https://app.pluralsight.com/library/courses/agile-team-practice-fundamentals/table-of-contents)- PluralSight course, good introduction to Agile methodology and how it is applied to team work 
