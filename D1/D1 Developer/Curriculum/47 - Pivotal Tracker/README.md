@@ -51,3 +51,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Disciplined use of SW Project Management tools help teams work effectively | [ ] | [ ] |
 | Pivotal Tracker is an effective project management tool | [ ] | [ ] |
 
+
+### Resources
+
+- [“Pivotal Tracker- Quick Start”](https://www.pivotaltracker.com/help/articles/quick_start/)- Pivotal Tracker’s tutorial page, lots of good video and text tutorials
