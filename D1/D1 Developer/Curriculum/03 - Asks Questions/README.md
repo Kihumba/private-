@@ -69,3 +69,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 - [_Ask questions: Video by Andela Learning Facilitator_](https://vimeo.com/216195116)
 - [How to be Amazingly good at asking Questions](http://www.lifehack.org/articles/communication/how-amazingly-good-asking-questions.html)
+- [5 Whys: Getting to the Root of a Problem Quickly](https://www.mindtools.com/pages/article/newTMC_5W.htm)
