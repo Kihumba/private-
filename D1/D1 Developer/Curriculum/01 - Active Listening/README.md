@@ -58,3 +58,7 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | I take responsibility when I do not understand what someone has said | [ ] | [ ] |
 | Listening well takes effort and reaps many rewards | [ ] | [ ] |
 ---
+
+### Resources
+
+- [_Improve your Active Listening Skills_](https://app.pluralsight.com/player?course=becoming-better-listener&author=jason-alba&name=becoming-better-listener-m2&clip=0&mode=live)- Short video as part of a longer course, “Becoming a Better Listener” on PluralSight
