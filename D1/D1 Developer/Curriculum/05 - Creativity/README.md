@@ -64,3 +64,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I am an innovator | [ ] | [ ] |
 | If I never fail, I never innovate | [ ] | [ ] |
 ---
+
+### Resources
+
+- [Creativity](https://hbr.org/topic/creativity) - Find new ideas and classic advice for global leaders from the world's best business and management experts.
