@@ -46,3 +46,8 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 | Admitting your mistakes averts the need to continue to defend a difficult or incorrect position.| [ ] | [ ] |
 | Admitting your mistakes builds trust - others see that you are human, honest and truthful.| [ ] | [ ] |
 ---
+
+### Resources
+- ["How To Deal With Making Mistakes"](https://simpleprogrammer.com/2013/04/28/how-to-deal-with-making-mistakes/)
+- ["What to do when things go wrong"](https://tosbourn.com/what-to-do-when-things-go-wrong/)
+- ["MASTERY COMES FROM FAILURE"](https://pragtob.wordpress.com/2016/12/06/mastery-comes-from-failure/)
