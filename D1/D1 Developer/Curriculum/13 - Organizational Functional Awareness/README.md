@@ -61,3 +61,9 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | I am worthy of engaging with any member of the Andela team | [ ] | [ ] |
 
 ---
+
+### Resources
+
+- [Talking Points: Andela Ambassadors](https://docs.google.com/document/d/1KBwJ0zB2sNHcP09Aj4H9icTV3lMUFPdFTOcaR-U-0Yk/edit?usp=sharing) - _This document outlines Andela's mission and background. Useful links to understand: how we get our talent; Your immersion as a Fellow into Andela; How we vet partners,etc. Please note that this document doesn't have all the answers but we hope it would be a starting point for you to further "Ask Questions"._
+
+- [Andela Intranet](https://sites.google.com/andela.com/home/home) - Useful links to the Org structure and different divisions at Andela 
