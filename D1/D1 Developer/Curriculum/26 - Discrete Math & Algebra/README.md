@@ -55,3 +55,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Algebra is solid foundation for understanding how programming works with inputs and outputs| [ ] | [ ] |
 | Probability lets me write programs optimized for frequent use cases | [ ] | [ ] |
 
+### Resources
+
+- [Basic Concepts Of Discrete Mathematics](https://medium.com/@john_marsh7/basic-concepts-of-discrete-mathematics-5273e210374c)
+- [Discrete Mathematics](https://www.tutorialspoint.com/discrete_mathematics/index.htm) - Mini course on Tutorials Point
