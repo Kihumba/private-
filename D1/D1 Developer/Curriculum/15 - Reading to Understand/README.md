@@ -59,3 +59,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Identifying gaps in understanding is the path to wisdom | [ ] | [ ] |
 
 ---
+
+### Resources
+
+- ["How to Understand What You Read"](https://www.wikihow.com/Understand-What-You-Read) 
+- ["How to be a better reader"](http://esl.fis.edu/learners/advice/read.htm)
+- ["8 Tips To Remember What You Read"](https://sharpbrains.com/blog/2009/05/14/8-tips-to-remember-what-you-read/)
+- [_Read, Understand, and Remember! Improve your reading skills with the KWL Method_](https://www.youtube.com/watch?v=10auVRva1Jk)
+- [Memory Music](https://www.youtube.com/watch?v=mg7netw1JuM) - Super Intelligence: Music to help Improve Memory and Concentration, Binaural Beats Focus.
