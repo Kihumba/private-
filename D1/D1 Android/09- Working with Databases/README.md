@@ -47,3 +47,9 @@ A person with this skill is familiar with relational database concepts and can u
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Using a database when it is not needed adds unnecessary overhead to my app. | [ ] | [ ] |
+
+### Resources
+
+- [Cloud Firestore: Read, Write, Update/Realtime, and Delete](https://dzone.com/articles/cloud-firestore-read-write-update-and-delete) 
+- [Add Firebase Authentication to your App in 7minutes](https://medium.com/@peterekeneeze/add-firebase-authentication-to-your-app-in-7minutes-c13df58994bd)
+
