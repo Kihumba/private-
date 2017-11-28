@@ -45,5 +45,6 @@ A person with this skill can explain the history and evolution of JavaScript, wh
 
 ### Resources
 
+- ["Understanding the JavaScript Engine — Part 1"](https://medium.com/the-andela-way/understanding-javascript-part-1-dbcca37b434d) - Written by Debby Enoma
 - ["The Anatomy of a Modern JavaScript Application"](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/) - Contributed by Bolaji Olajide
 
