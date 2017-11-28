@@ -47,3 +47,8 @@ A person with this skill can write clean, powerful JavaScript code that executes
 |:-------------|:------------------:|:--------:|
 | Using Functions allows my JavaScript code to be efficient and reusable. |   [ ]   |   [ ] |
 | Using pure functions makes my code easy to reason about. |   [ ]   |   [ ] |
+
+
+### Resources
+
+- ["JavaScript ES7 Function Bind Syntax"](https://blog.jeremyfairbank.com/javascript/javascript-es7-function-bind-syntax/) - Contributed by Rowland Henshaw
