@@ -1,7 +1,7 @@
 # Visual Design Fundamentals
 
 ## Skill Description
-A person with this skill creates clean, visually pleasing designs that communicate their intended information clearly and simply. They solve design problems by bringing ideas to life in a tangable way, and use design concepts to give brands a unique style and voice. In addition to creating work that represents their expertise, and they are able to explain the design concepts and decisions behind their work. 
+A person with this skill creates clean, visually pleasing designs that communicate their intended information clearly and simply. They solve design problems by bringing ideas to life in a tangible way, and use design concepts to give brands a unique style and voice. In addition to creating work that represents their expertise, and they are able to explain the design concepts and decisions behind their work. 
 
 ## Output
 - **Build:** Create a wireframe, infographic, or other visual design for a real team at Andela or outside of Andela. Be sure to start your design with a deep understanding of what it intends to communicate and a moodboard that you can gather design elements on. You can practice by volunteering for a nonprofit who needs design support on either of these sites!
