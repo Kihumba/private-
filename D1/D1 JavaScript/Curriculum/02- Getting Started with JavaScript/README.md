@@ -54,4 +54,4 @@ A person with this skill can write and run basic JavaScript commands in the cons
 
 - [10 Need to Know JavaScript Concepts](https://scotch.io/courses/10-need-to-know-javascript-concepts) - Contributed by Ore Sofola
 - ["12 Extremely Useful Hacks for JavaScript"](https://hashnode.com/post/12-extremely-useful-hacks-for-javascript-cj99gwkjv01k64rwtb4dbwigd) - Contirbuted by Hadi Jimoh
-- [Javascript 3-](https://javascript30.com/) _Build 30 things with Javascript in 30 days_ - Contributed by Eugene Omar
+- [Javascript 30](https://javascript30.com/) _Build 30 things with Javascript in 30 days_ - Contributed by Eugene Omar
