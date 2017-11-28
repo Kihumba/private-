@@ -52,4 +52,4 @@ A person with this skill can work with both relational and non-relational databa
 ### Resources
 
 - ["Firebase database for SQL developers - Part 1"](https://hurlatunde.github.io/firebase-database-for-sql-developers) - Contributed by Bolaji Olajide
-- [SQLBolt](https://sqlbolt.com/) - Contibuted by Ichiato Ikikin
+- [SQLBolt](https://sqlbolt.com/) - Contributed by Ichiato Ikikin
