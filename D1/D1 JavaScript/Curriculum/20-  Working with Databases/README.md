@@ -47,3 +47,9 @@ A person with this skill can work with both relational and non-relational databa
 |:-------------|:------------------:|:--------:|
 | MongoDB can be a powerful database to learn due to its use in the popular MEAN stack. | [ ] | [ ]  |
 | An ORM is another layer of abstraction on my database-- it is critical to understand how it works. | [ ] | [ ]  |
+
+
+### Resources
+
+- ["Firebase database for SQL developers - Part 1"](https://hurlatunde.github.io/firebase-database-for-sql-developers) - Contributed by Bolaji Olajide
+- [SQLBolt](https://sqlbolt.com/) - Contibuted by Ichiato Ikikin
