@@ -41,3 +41,8 @@ A person with this skill can use event listeners to create an interactive UI for
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | There are events going on all the time in my application-- I have to decide which ones are important to listen to. | [ ] | [ ] |
+
+
+### Resources
+
+- [Javascript Event Keycodes](http://keycode.info/) - Contributed by Bolaji Olajide
