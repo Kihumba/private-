@@ -52,3 +52,8 @@ A person with this skill can write code using functions as building blocks. They
 | Functional programming helps me write code that is simple and expressive. |   [ ]   |   [ ] |
 | Functional programming results in code that is easy to understand, reuse, test, refactor, maintain, and reason about. |   [ ]   |   [ ] |
 | Functional programming does require discipline to write, but it is well worth it.  |   [ ]   |   [ ] |
+
+
+### Resources
+
+- ["Introduction to Functional Programming in JavaScript"](https://medium.com/the-andela-way/introduction-to-functional-programming-in-javascript-1e7118545618) - Written by Paul Upendo
