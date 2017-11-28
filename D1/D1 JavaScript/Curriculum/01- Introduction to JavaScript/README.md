@@ -42,3 +42,8 @@ A person with this skill can explain the history and evolution of JavaScript, wh
 | I can dig through the noise of the good, mediocre, and bad JavaScript documentation that exists and find the gems that answer my questions.  |   [ ]   |   [ ] |
 | JavaScript is the language of the web-- If I am a web developer, I cannot escape it. |   [ ]   |   [ ] |
 | Because I can’t escape JavaScript, I may as well master it. |   [ ]   |   [ ] |
+
+### Resources
+
+- ["The Anatomy of a Modern JavaScript Application"](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/) - Contributed by Bolaji Olajide
+
