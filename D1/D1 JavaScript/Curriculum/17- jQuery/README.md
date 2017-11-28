@@ -48,3 +48,7 @@ A person with this skill can use the jQuery library to enhance the User Interfac
 | I embrace jQuery’s motto: “Write less, do more.” | [ ] | [ ] |
 | jQuery is a tool when I need it-- not a library that I always need to add. | [ ] | [ ] |
 | jQuery abstracts a great deal from my application. To be an effective developer, I must know what is happening “behind the scenes” before adding jQuery. | [ ] | [ ] |
+
+### Resources
+
+- [- ["Dynamically adding jQuery to a site for debugging with DOM manipulations"](https://medium.com/backticks-tildes/dynamically-adding-jquery-to-a-site-for-debugging-with-dom-manipulations-ad0786cd49bd) - Written by Mayowa Pitan
