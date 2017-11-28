@@ -62,3 +62,8 @@ After attaining this skill, and as a demonstration of it, I should be able to mo
 | A little care in setting up my data model goes a long way. | [ ] | [ ]  |
 | Django Admin gives me optimal control of my database records. | [ ] | [ ]  |
 | I can choose to use Django Admin as primary administrative interface for my application if well configured. | [ ] | [ ]  |
+
+
+### Resources
+
+- [How to understand Django models the simple way](https://medium.freecodecamp.org/how-to-understand-django-models-the-simple-way-20c39d234870) - Contributed by Bolaji Olajide
