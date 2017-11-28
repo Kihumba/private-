@@ -53,3 +53,7 @@ A person with this skill can write both Unit and Instrumentation tests for their
 |:-------------|:------------------:|:--------:|
 | I owe it to my user to deliver the best quality application I can. | [ ] | [ ]  |
 | It is my responsibility to account for every possible bug in my application-- before it interrupts my user’s experience. | [ ] | [ ]  |
+
+### Resources
+
+- [Android and iOS UI Testing with Calabash](https://www.toptal.com/mobile/android-ios-ui-testing-calabash) - Contributed by Christoper Kanyuga
