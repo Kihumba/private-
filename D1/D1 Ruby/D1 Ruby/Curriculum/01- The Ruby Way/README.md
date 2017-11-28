@@ -50,3 +50,7 @@ Output
 | Everything is an object | [ ] | [ ]  |
 | Just because I can abstract away from my Ruby code doesn't mean I should. | [ ] | [ ]  |
 | It is fantastic to learn Ruby, even if it’s the first programming I’ve ever done. | [ ] | [ ]  |
+
+###
+
+- [Migrating from Javascript to Ruby on Rails](https://medium.com/backticks-tildes/migrating-from-javascript-to-ruby-on-rails-1655f67a9aec) - Written by Oluwatomi Duyile
