@@ -44,3 +44,8 @@ A person with this skill can explain the importance of TDD as a software develop
 | Test driven development is fun-- the simple steps and pattern add a structure to my process and make it (even) more enjoyable! | [ ] | [ ] |
 | Testing code is even more important than shipping code. |   [ ]   |   [ ] |
 | There are plenty of testing tools out there-- there is no excuse not to write effective, thorough tests. |   [ ]   |   [ ] |
+
+
+### Resources
+
+- ["How To Test JavaScript with Jasmine Framework"](https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) - Written By Delores Diei
