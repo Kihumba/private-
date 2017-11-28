@@ -37,3 +37,8 @@ Create an iOS project with failing and passing tests cases targeting the methods
 |:-------------|:------------------:|:--------:|
 | The potential of bugs are reduced when I write tests | [ ] | [ ] |
 | The Test Driven Development approach forces me to write modular code that can be easily maintained and trusted | [ ] | [ ] |
+
+
+### Resources
+
+- [Android and iOS UI Testing with Calabash](https://www.toptal.com/mobile/android-ios-ui-testing-calabash) - Contributed by Christoper Kanyuga
