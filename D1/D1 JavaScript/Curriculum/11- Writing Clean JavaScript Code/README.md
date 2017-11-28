@@ -61,3 +61,8 @@ A person with this skill writes JavaScript code that is readable, reusable, and 
 | Any amount of milliseconds of processing time (for a computer or for a human working with my code) adds friction to my application, and is a cost to be considered.  |   [ ]   |   [ ] |
 | Duplicate code duplicates my work when I need to update anything-- I can use abstraction whenever possible to minimize duplicate code. |   [ ]   |   [ ] |
 | Comments are a useful tool, but truly good code should be so clear that it does not need them. |   [ ]   |   [ ] |
+
+
+### Resources
+
+- ["19+ JavaScript Shorthand Coding Techniques"](https://www.sitepoint.com/shorthand-javascript-techniques/) - Contributed by Bolaji Olajide
