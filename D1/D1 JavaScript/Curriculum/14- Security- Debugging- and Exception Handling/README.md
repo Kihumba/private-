@@ -55,3 +55,4 @@ A person with this skill can ensure security on both the client and server side 
 ### Resources
 
 - ["The 14 JavaScript debugging tips you probably didn't know"](https://raygun.com/javascript-debugging-tips) - Contributed by Dara Oladosu
+- ["Production Best Practices: Security"](https://expressjs.com/en/advanced/best-practice-security.html) - Contributed by Inumidun Amao
