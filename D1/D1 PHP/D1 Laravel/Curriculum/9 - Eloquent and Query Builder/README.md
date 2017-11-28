@@ -67,3 +67,7 @@ Create the data architecture to build a Laravel site for pet-sitting (watching s
 | All applications have a need for speed-- Query Builder methods return results faster than Eloquent methods. | [ ] | [ ] |
 | Retrieving related data using Eloquent associations is easy. | [ ] | [ ]  |
 | Eloquent ORM provides a beautiful, simple ActiveRecord implementation for working with my database. | [ ] | [ ]  |
+
+### Resources
+
+- [Eloquent Relationships Cheat Sheet](https://hackernoon.com/eloquent-relationships-cheat-sheet-5155498c209) - Contributed by Florence Okosun
