@@ -49,3 +49,7 @@ A person with this skill can write and run basic JavaScript commands in the cons
 | The smaller I break down my code and the more I check the console, the better I understand any problems that arise. |   [ ]   |   [ ] |
 | My code is written for the computer, but also for other programmers-- Good comments communicate the intent of my code.  |   [ ]   |   [ ] |
 | JavaScript is simple and pervasive-- I could call a friend and they could open up their browser to get started exploring JavaScript without installing anything!  |   [ ]   |   [ ] |
+
+### Resources
+
+- ["The Anatomy of a Modern JavaScript Application"](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/) - Contributed by Bolaji Olajide
