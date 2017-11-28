@@ -1,4 +1,4 @@
-# Seeking & Giving Feedback (“ASK”)
+# ASK Feedback
 
 ## Skill Description
 Andelans are committed to communicating and interpreting feedback in a way that is Actionable, Specific, and Kind (“ASK”). They seek to deeply understand the concept of the ASK Feedback framework, and consistently apply it to daily interactions.
