@@ -58,3 +58,7 @@ A person with this skill can create a basic application using the Node.js framew
 | Using Node.js for heavy computation will annul all of its (many) advantages. | [ ] | [ ] | 
 | Node.js shines when building fast, scalable network applications. | [ ] | [ ] | 
 | With Node.js, I can handle a huge number of simultaneous connections with high throughput (thus high scalability).  | [ ] | [ ] |
+
+### Resources
+
+- [Seven Things You Should Stop Doing with Node.js](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/) - Contributed by Bolaji Olajide
