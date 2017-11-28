@@ -61,6 +61,7 @@ A person with this skill can create a basic application using the Node.js framew
 
 ### Resources
 
+- ["Node.js Error Handling Explained"](https://www.loggly.com/blog/node-js-error-handling/) - Contributed by Eugene Omar
 - ["Seven Things You Should Stop Doing with Node.js"](https://webapplog.com/seven-things-you-should-stop-doing-with-node-js/)- Contributed by Bolaji Olajide
 - ["Building an API Gateway using Node.js"](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/?utm_source=RisingStack+Engineering&utm_campaign=cf6ea5b2e0-EMAIL_CAMPAIGN_2017_08_03&utm_medium=email&utm_term=0_02a6a69990-cf6ea5b2e0-305073145) Contributed by Eugene Omar
 - [_How to make a productive Chatbot using Javascript/NodeJs_](https://vimeo.com/241005382) - Tutorial video by Daniel Bamidele
