@@ -44,3 +44,7 @@ Create a basic program in Swift Playground that uses variables and constants to 
 | Appropriate use of variables and constants will make my application run efficiently | [ ] | [ ] |
 | Using Loops when I need to repeat a procedure for a number of items in a collection will keep my code “DRY” | [ ] | [ ] |
 | Conditional statements allow me condition an output based on a input | [ ] | [ ] |
+
+### Resources
+
+- [Getting started with Swift](https://medium.com/the-andela-way/getting-started-with-swift-89877c42660b0) - Written by Angela Mugo
