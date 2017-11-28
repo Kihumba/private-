@@ -45,3 +45,7 @@ A person with this skill uses JavaScript operators to declare variables in their
 |:-------------|:------------------:|:--------:|
 | Operators are not only useful for math and numbers, they can be used for a wide range of uses in JavaScript. |   [ ]   |   [ ] |
 | Variables are containers into which I can place and hold values in my program. |   [ ]   |   [ ] |
+
+### Resources
+
+- [Javascript : The Curious Case of Null >= 0](https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274) - Contributed by Christopher Kanyuga
