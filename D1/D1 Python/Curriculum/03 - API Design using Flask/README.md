@@ -91,3 +91,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources
 
 - ["How to create a REST API in Python using the Flask Microframework"](https://medium.com/the-andela-way/how-i-developed-an-api-in-python-using-flask-4e388674f1) - Written by John Kagga
+- ["Deploying your Flask Application to Heroku"](https://medium.com/the-andela-way/deploying-your-flask-application-to-heroku-c99050bce8f9) - Written by Emmauel King Kasulani
