@@ -51,3 +51,7 @@ A person with this skill can ensure security on both the client and server side 
 | No matter what testing framework I use, I should be using tests. | [ ] | [ ] |
 | I am cautious about stubs and mocks as they can make my tests more brittle. | [ ] | [ ] |
 | 100% test coverage is a good goal to strive for, even if it’s not always practical to reach it. | [ ] | [ ] |
+
+### Resources
+
+- ["The 14 JavaScript debugging tips you probably didn't know"](https://raygun.com/javascript-debugging-tips) - Contributed by Dara Oladosu
