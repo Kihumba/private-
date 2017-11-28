@@ -87,3 +87,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Flask empowers me to create APIs that are complex, scalable, and robust. | [ ] | [ ]  |
+
+### Resources
+
+- ["How to create a REST API in Python using the Flask Microframework"](https://medium.com/the-andela-way/how-i-developed-an-api-in-python-using-flask-4e388674f1) - Written by John Kagga
