@@ -52,4 +52,4 @@ A person with this skill can write and run basic JavaScript commands in the cons
 
 ### Resources
 
-- ["The Anatomy of a Modern JavaScript Application"](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/) - Contributed by Bolaji Olajide
+
