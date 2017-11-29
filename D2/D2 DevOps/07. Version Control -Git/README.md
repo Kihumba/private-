@@ -15,3 +15,8 @@ In addition to the D1 DevOps expectations for Version Control, a D2 DevOps Engin
   - TFS
   - Subversion
   - Etc. 
+
+---
+
+### Resources
+- [Advanced Git Tips and Tricks](https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents)- PluralSight
