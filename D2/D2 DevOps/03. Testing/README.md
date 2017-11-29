@@ -19,6 +19,13 @@ A D2 DevOps Engineer should be prepared to assist in the setup and maintenance o
 - Familiarity with the common general errors: 
     - 404, 513, etc. 
     
+
+----
+
+### Resources
+[ Software Testing and Delivery with Docker](https://cloudacademy.com/azure/labs/software-development-testing-delivery-with-docker-96/)- Cloud Academy
+[Test Driven Development: The Big Picture](https://app.pluralsight.com/library/courses/test-driven-development-big-picture/table-of-contents)- PluralSight
+
 --- 
 
 ### KBB's
@@ -27,9 +34,3 @@ A D2 DevOps Engineer should be prepared to assist in the setup and maintenance o
 - *Behavior:* When I encounter an error, *Action:* I identify which precise part of the program the error is occurring in.
 - *Behavior:* When I do some work for my team *Action:* I write tests to confirm that my work interacts well with other parts of the code. 
 - *Behavior:* When I do some work for my team, *Action:* I double check the acceptance criteria to ensure the build is doing what it’s meant to do.  
-
-----
-
-### Resources
-Software Testing and Delivery with Docker- Cloud Academy
-Test Driven Development: The Big Picture- PluralSight
