@@ -13,5 +13,12 @@ A D2 DevOps Engineer should be able to understand the basics of networking and h
   - DNS
   - ACLs
   - HTTPS
-  - Load Balancing 
+  - Load Balancing (see more details below)
   - Firewalls
+- How to work with Load Balancing
+	- How to work with IP (IP Version 6 vs IP Version 4, V4 will be exhausted soon)
+	- How the OSI Model ties into the application lifecycle
+----
+
+### Resources
+- [Load Balance Application Traffic](https://cloudacademy.com/amazon-web-services/labs/load-balance-application-traffic-marathon-lb-dcos-132/)- Cloud Academy Lab
