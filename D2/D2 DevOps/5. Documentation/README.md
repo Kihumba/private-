@@ -2,8 +2,10 @@
 	
 ### Skill Description
 A D2 DevOps Engineer is obsessed with efficiency and maintainability… and therefore they document all processes meticulously to make sure that other people can effectively carry out the work that needs to be done. They are a critical part of the team, but document everything to the point where they could disappear and someone could pick up their work seamlessly. 
-This is not easy-- you’ll have to write in a way that anyone (technical or nontechnical, at any level) can easily understand, even when describing the most complex and interrelated systems. The goal when writing documentation is to ask yourself: “could I come along and pick up this documentation, having never worked on this team before, and perform the responsibilities I need to?”
-A secondary, but equally important, aspect of a documentation skill is being able to read documentation. You’ll be dealing with lots of tools on a daily basis, and you will likely spend a large chunk of your time reading documentation on those tools to define what’s possible with them, or to fix issues that arise. 
+
+This is not easy-- you’ll have to write in a way that anyone (technical or nontechnical, at any level) can easily understand, even when describing the most complex and interrelated systems. The goal when writing documentation is to ask yourself: *“Could I come along and pick up this documentation, having never worked on this team before, and perform the responsibilities I need to?”*
+
+A secondary, but equally important, aspect of a documentation skill is being able to **read documentation.** You’ll be dealing with lots of tools on a daily basis, and you will likely spend a large chunk of your time reading documentation on those tools to define what’s possible with them, or to fix issues that arise. 
 
 --- 
 
