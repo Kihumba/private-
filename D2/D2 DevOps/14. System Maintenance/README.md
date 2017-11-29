@@ -14,7 +14,3 @@ A D2 DevOps Engineer has a deeper understanding of DevOps concepts and is taking
   - Oracle
   - Others here
 
----
-
-### Resources
-- 
