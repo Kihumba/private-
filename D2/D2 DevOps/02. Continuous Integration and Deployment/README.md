@@ -30,4 +30,5 @@ A D2 DevOps Engineer can quickly deploy and manage applications in the cloud usi
 
 ----
 ### Resources
-[AWS Continuous Delivery & Automation](https://app.pluralsight.com/library/courses/continuous-delivery-automation-aws-certified-devops-engineer/table-of-contents)- PluralSight
+- [AWS Continuous Delivery & Automation](https://app.pluralsight.com/library/courses/continuous-delivery-automation-aws-certified-devops-engineer/table-of-contents)- PluralSight
+- [Continuous Integration and Continuous Delivery: The Big Picture](https://app.pluralsight.com/library/courses/continuous-integration-delivery-big-picture)- PluralSight
