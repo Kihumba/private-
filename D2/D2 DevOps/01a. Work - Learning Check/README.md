@@ -9,7 +9,6 @@ Choose any or all of the following Outputs or Thought Experiments to work though
 1. Choose your tool when you setup your environment, and explain why you chose that specific tool. 
     - Tool choices: Docker, Vagrant, GitHub, other. 
 
-----
 
 2. Deploy to your own personal accounts to mimic real life work... without the risk of messing up a Partner's code! Take a project from the start of it being deployed on GitHub to a Server where it Functions. 
    - Have your own personal accounts on GCP, AWS, Heroku… that will help you play around for free for a year.
