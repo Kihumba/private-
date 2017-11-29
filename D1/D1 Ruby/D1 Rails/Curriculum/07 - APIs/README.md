@@ -46,3 +46,8 @@ Outputs
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Rails allows me to get up and running quickly, even with a complicated API | [ ] | [ ]  |
+
+
+### Resources
+
+- [Simple approach to Rails 5 API authentication with Json Web Token](https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6) - Written by Oluwafemi Medale
