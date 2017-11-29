@@ -17,3 +17,8 @@ A secondary, but equally important, aspect of a documentation skill is being abl
 - When documenting a system, I make sure to note the system’s maintainability, scalability, and reliability. 
 - Ability to document every step of a process in a way that anyone can replicate the work 
 - Completes knowledge transfer to production support when new or updated implementations or processes occur
+
+----
+
+### Resources
+- [Creating Documentation](https://app.pluralsight.com/player?course=implementing-devops-real-world&author=richard-seroter&name=implementing-devops-real-world-m5&clip=2&mode=live)- Short, single PluralSight video
