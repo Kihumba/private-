@@ -3,8 +3,8 @@ See a Word Doc version of the [D2 DevOps Curriculum Here](https://docs.google.co
 
 ### Table of Contents
 
-- Role Description- *What does a Person in this Role do?*
-- Learning Objectives- *What do I need to learn to deliver value in that role?*
+#### Role Description- *What does a Person in this Role do?*
+#### Learning Objectives- *What do I need to learn to deliver value in that role?*
   1. Proper use of Environments
   2. Continuous Integration & Deployment
   3. Testing
