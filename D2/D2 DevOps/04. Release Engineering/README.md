@@ -15,3 +15,8 @@ A Mid-Level DevOps Engineer will almost certainly deal with deployments and rele
   - Building, versioning, and tagging a new release
   - How to rolling back a release
   - How to handle blue-green deployments
+  
+----
+
+### Resources
+- [Release Management and Release Engineering](http://www.scmtechblog.net/2016/01/release-management-and-release.html)- Very brief intro outline
