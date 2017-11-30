@@ -14,7 +14,7 @@ See a Word Doc version of the [D2 DevOps Curriculum Here](https://docs.google.co
   4. [Release Engineering](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/04.%20Release%20Engineering)
   5. [Documentation](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/05.%20Documentation) 
   6. [Configuration & Change Management](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/06.%20Configuration%20and%20Change%20Management)
-  7. [Version Control](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/07.%20Version%20Control%20-Git
+  7. [Version Control](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/07.%20Version%20Control%20-Git)
   8. [Command Line (Unix)](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/08.%20Command%20Line%20-Unix)
   9. [Object Oriented Programming](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/09.%20Object%20Oriented%20Programming)
   10. [Data Structures & Algorithms](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/10.%20Data%20Structures%20and%20Algorithms)
