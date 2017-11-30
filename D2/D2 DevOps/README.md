@@ -4,9 +4,10 @@ See a Word Doc version of the [D2 DevOps Curriculum Here](https://docs.google.co
 ### Table of Contents
 
 #### [Role Description](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/0.%20D2%20DevOps%20Role%20Description)
-*What does a Person in this Role do?*
+
+#### [Case Studies & Independent Practice](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/00.%20Case%20Studies%20and%20Real%20World%20Practice)
+
 #### Learning Objectives
-*What do I need to learn to deliver value in that role?*
   1. [Proper use of Environments](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/01.%20Proper%20Use%20of%20Environments)
   2. [Continuous Integration & Deployment](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/02.%20Continuous%20Integration%20and%20Deployment)
   3. [Testing](https://github.com/andela/learningmap/tree/master/D2/D2%20DevOps/03.%20Testing)
