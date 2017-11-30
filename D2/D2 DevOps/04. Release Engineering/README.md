@@ -21,3 +21,4 @@ A Mid-Level DevOps Engineer will almost certainly deal with deployments and rele
 ### Resources
 - [Release Management and Release Engineering](http://www.scmtechblog.net/2016/01/release-management-and-release.html)- Very brief intro outline
 - [Release Management](https://app.pluralsight.com/player?course=information-systems-auditor-operations-maintenance-service&author=kevin-henry&name=information-systems-auditor-operations-maintenance-service-m3&clip=0&mode=live)- PluralSight Course Section, short 2 minute video
+- [Stage 4: Release](https://app.pluralsight.com/player?course=infrastructure-code-big-picture&author=jason-helmick&name=infrastructure-code-big-picture-m6&clip=0&mode=live)- One section of a longer PluralSight course on DevOps infrastructure
