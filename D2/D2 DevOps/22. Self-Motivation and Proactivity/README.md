@@ -13,9 +13,9 @@ At a D2 Level, a DevOps Engineer seeks & requests feedback and responds in a str
 ---
 
 ### Resources
-- *Behavior:* If I am blocked for more than 20 minutes on partner work, I first reach out to internal Andela Resources or mentors.
-- *Behavior:* If I am still blocked and cannot reach Andela resources, I reach out to my main point of contact at my partner to let them know I am doing research to try to get around the blocker. 
-- *Behavior:* When there is someone who can help me get unstuck, I proactively set up a video call to discuss
-- *Behavior:* When I am done with work for the day, I proactively send updates to my team via slack or another messaging system we use. 
-- *Behavior:* When I do not understand something about the tools I am using or the domain my company works in, I proactively research on my own to deepen my understanding as much as possible. 
-- *Belief:* The most important skill to have as a DevOps engineer is curiosity-- and the proactivity to research to answer the questions you have!
+- **Behavior:** If I am blocked for more than 20 minutes on partner work, I first reach out to internal Andela Resources or mentors.
+- **Behavior:** If I am still blocked and cannot reach Andela resources, I reach out to my main point of contact at my partner to let them know I am doing research to try to get around the blocker. 
+- **Behavior:** When there is someone who can help me get unstuck, I proactively set up a video call to discuss
+- **Behavior:** When I am done with work for the day, I proactively send updates to my team via slack or another messaging system we use. 
+- **Behavior:** When I do not understand something about the tools I am using or the domain my company works in, I proactively research on my own to deepen my understanding as much as possible. 
+- **Belief:** The most important skill to have as a DevOps engineer is curiosity-- and the proactivity to research to answer the questions you have!
