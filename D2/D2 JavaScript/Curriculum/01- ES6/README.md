@@ -68,3 +68,7 @@ A person with this skill is fluent in the newest syntax of ES6 implementation sy
 | Some of the changes in ES6 are just syntactic sugar, but a few will change the way I’m able to program. | [ ] | [ ] |
 | ES6 syntax is simpler, which means that it is less error prone. | [ ] | [ ] |
 | I am always looking for the simplest way to write JavaScript. ES6 introduces further clarity into my code. | [ ] | [ ] |
+
+
+### Resources
+-  ["The Anatomy of a Modern JavaScript Application"](https://www.sitepoint.com/anatomy-of-a-modern-javascript-application/) - Contributed by Bolaji Olajide
