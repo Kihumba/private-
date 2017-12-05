@@ -60,3 +60,8 @@ A person with this skill is comfortable creating a basic program in React. They 
 | There is no such thing as building a component that it too small. |   [ ]   |   [ ] |
 | In React, I should be doing only one very simple thing in one place. |   [ ]   |   [ ] | 
 | To be a powerful programmer in React, you just have to think in the same organization patterns that React uses. |   [ ]   |   [ ] |
+
+### Resources
+- [Slingshot intro to React and Redux the TDD way — Part 1](https://medium.com/the-andela-way/slingshot-intro-in-react-and-redux-the-tdd-way-part1-e677974c932) - Written by Clement Wekesa
+- [Slingshot intro in react and redux the TDD way — Part 2](https://goo.gl/omEswu) - Written by Clemet Wekesa
+- [A small trick to write clean reducers](https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2) - Contributed by James Nyamu
