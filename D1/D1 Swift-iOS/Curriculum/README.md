@@ -9,3 +9,7 @@ By achieving coverage of the outcomes, you will possess the skill of a junior mo
 Coverage can be demonstrated by completing the checkpoints / outputs.
 
 Note: These outputs require Mac OS 10.10 or higher as well as Xcode 7 or higher, installed on the operating system.
+
+## General Resources for iOS Development
+
+- [_Little bits of Cocoa_](https://littlebitesofcocoa.com/) - _Tips and techniques for iOS and Mac development_ - Contributed by Bolaji Olajide
