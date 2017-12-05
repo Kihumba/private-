@@ -51,3 +51,7 @@ Outputs
 |:------------------|:------------------:|:------------:|
 | Whenever I can automate a Systems Administration task, I do. | [ ] | [ ] |
 | I create reliable systems by appropriately making use of implementation services. | [ ] | [ ] |
+
+### Resources
+
+- [Unix Permissions Calculator](http://permissions-calculator.org/) - Contributed by Chidiebube Amos
