@@ -93,3 +93,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - ["How to create a REST API in Python using the Flask Microframework"](https://medium.com/the-andela-way/how-i-developed-an-api-in-python-using-flask-4e388674f1) - Written by John Kagga
 - ["Deploying your Flask Application to Heroku"](https://medium.com/the-andela-way/deploying-your-flask-application-to-heroku-c99050bce8f9) - Written by Emmauel King Kasulani
 - ["Building a CRUD application with Flask and SQLAlchemy"](https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2) - Contributed by Bolaji Olajide
+- [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/) - Contributed by Bolaji Olajide
