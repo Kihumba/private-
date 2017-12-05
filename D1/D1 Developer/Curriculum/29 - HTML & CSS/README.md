@@ -63,3 +63,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [Codelabs for Front-End Developers](https://codelabs.developers.google.com/cds17) - Contributed by Christopher Kanyuga
 - [CSS Grids for Everyone](https://laracasts.com/series/css-grids-for-everyone) - Contributed by Bolaji Olajide
 - [_HTML and CSS_](https://www.codecademy.com/en/tracks/web)- Code Academy, for those who like to learn by doing
+- [_Collection UI_](http://learn.shayhowe.com/html-css) - Contributed by Bolaji Olajide
