@@ -44,3 +44,7 @@ A person with this skill can make use of the Redux library and the Flux pattern 
 | Redux pattern is considered best-in-class by many who build highly-scalable client-side applications (including Facebook). |   [ ]   |   [ ] |
 | Redux is a library that helps with Flux architecture. |   [ ]   |   [ ] |
 | React is a compilation of many libraries, and Redux is one of them. |   [ ]   |   [ ] |
+
+### Resources
+
+- [A small trick to write clean reducers](https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2) - Contributed by James Nyamu
