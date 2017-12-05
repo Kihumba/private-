@@ -53,3 +53,8 @@ Containers
 - Supervisord 
 - Foreman
 - [Useful link](https://xebialabs.com/periodic-table-of-devops-tools/)
+
+
+### Resources
+
+- [DevOps Diagram Generator](https://xebialabs.com/devops-diagram-generator) - Contributed by Chidiebube Amos
