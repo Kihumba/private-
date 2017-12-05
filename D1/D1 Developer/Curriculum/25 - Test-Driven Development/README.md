@@ -61,3 +61,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [_Test Driven Development: The Big Picture_](https://app.pluralsight.com/library/courses/test-driven-development-big-picture/table-of-contents)- PluralSight, Good introduction to the concepts and application of Test Driven Development
 - [“Test Driven Development: Example Walkthrough”](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/)- Good article for those who learn through real-world examples 
 - [Testing Your React Component With Jest and Enzyme](https://goo.gl/DCExwn) - Written by Esther Falayi
+- [How to use Travis CI and GitHub for your web development workflow’s heavy lifting](https://goo.gl/T8f44b) - Contributed by Bolaji Olajide
