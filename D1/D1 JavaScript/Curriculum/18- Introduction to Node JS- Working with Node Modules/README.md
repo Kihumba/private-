@@ -66,4 +66,4 @@ A person with this skill can create a basic application using the Node.js framew
 - ["Building an API Gateway using Node.js"](https://blog.risingstack.com/building-an-api-gateway-using-nodejs/?utm_source=RisingStack+Engineering&utm_campaign=cf6ea5b2e0-EMAIL_CAMPAIGN_2017_08_03&utm_medium=email&utm_term=0_02a6a69990-cf6ea5b2e0-305073145) Contributed by Eugene Omar
 - [_How to make a productive Chatbot using Javascript/NodeJs_](https://vimeo.com/241005382) - Tutorial video by Daniel Bamidele
 - [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc) - Contributed by Bolaji Olajide
-- [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44_ - Contributed by Bolaji Olajide
+- [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) - Contributed by Bolaji Olajide
