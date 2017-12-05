@@ -71,3 +71,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
  - [_Don't Mistake Common UI Patterns for Best Practices_](https://medium.com/ruxers/dont-mistake-common-ui-patterns-for-best-practices-4a1c8d4bef9a)- Contributed by Ore Sofola
  - [Sketch for Designers](http://sketch.fordesignrs.com/?ref=producthunt) - Contributed by Bolaji Olajide
  - [uiGradients](https://uigradients.com/) - Contributed by Bolaji Olajide
+ - [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) - Contributed by Bolaji Olajide
