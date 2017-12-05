@@ -66,3 +66,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [_Collection UI_](http://learn.shayhowe.com/html-css) - Contributed by Bolaji Olajide
 - [Learn Flexbox with Webflow](https://www.flexboxgame.com/) - Contributed by Bolaji Olajide
 - [_My CSS Journey_](https://medium.com/backticks-tildes/my-css-journey-every-journey-begins-with-a-step-8a77162f3de8) - Written by Hope Ngerebara
+- [Learn CSS Grid in 5 Minutes](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228) - Contributed by Bolaji Olajide
+- [Understanding CSS Flexbox](https://codeburst.io/understanding-css-flexbox-d6162885fefe) - Contirbuted by Bolaji Olajide
