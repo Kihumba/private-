@@ -53,3 +53,4 @@ A person with this skill can work with both relational and non-relational databa
 
 - ["Firebase database for SQL developers - Part 1"](https://hurlatunde.github.io/firebase-database-for-sql-developers) - Contributed by Bolaji Olajide
 - [SQLBolt](https://sqlbolt.com/) _A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser._- Contributed by Ichiato Ikikin
+- [Sequelize Migrations — Setting Up Associations ](https://codeburst.io/sequelize-migrations-setting-up-associations-985d29b61ee7) - Contributed by Bolaji Olajide
