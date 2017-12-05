@@ -50,3 +50,7 @@ A person with this skill can apply their basic knowledge of Java programming to 
 | Android is an OS that allows me to build innovative applications that can reach many people.  |   [ ]   |   [ ] |
 | I can (and should) test my Android app on an Android device, and multiple different types whenever possible. |   [ ]   |   [ ] |
 |  Curiosity is key to learning Android-- I should always take the time to experiment and figure out the “why” behind the function. |   [ ]   |   [ ] |
+
+### Resources
+- [Add Firebase Authentication to your App in 7minutes](https://medium.com/@peterekeneeze/add-firebase-authentication-to-your-app-in-7minutes-c13df58994bd)
+
