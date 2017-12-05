@@ -50,3 +50,8 @@ Output
 | I make my code as readable as possible.  | [ ] | [ ] |
 | I continuously hunt for more readable solutions.  | [ ] | [ ] |
 | Other languages are Bonsai trees that you trim precisely, JavaScript is a gnarly hedge that must be constantly debugged and performance optimized.  | [ ] | [ ] |
+
+
+### Resources
+
+- [Memory and javascript](http://www.katiefenn.co.uk/memory-dont-forget-to-take-out-the-garbage/) - Contributed by Christopher Kanyuga
