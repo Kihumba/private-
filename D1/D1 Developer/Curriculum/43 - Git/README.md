@@ -58,3 +58,4 @@ After attaining this skill, and as a demonstration of it, I will create the foll
 - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Contributed by Bolaji Olajide
 - ["Exploring the Git log command"](https://medium.com/@johnkagga/exploring-the-git-log-command-9117b9ff3c2c) - Written by John Kagga
 - ["How to create git hooks"](https://medium.com/the-andela-way/git-hooks-beautifully-automate-tasks-stages-bfb29f42fea1) - Written by Ashaba John
+- ["Git Forks And Upstreams: How-to and a cool tip"](https://www.atlassian.com/git/articles/git-forks-and-upstreams?utm_source=newsletter&utm_medium=email&utm_campaign=bitbucket_git-insiders-july-2017&jobid=102498189&subid=1247474110) - Contributed by Florence okosun
