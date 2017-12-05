@@ -75,3 +75,4 @@ You should practice as many designs as possible! As you amass designs, consider 
 - [5 Design tips for NonDesigners](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
 - [Hack Design Lessons](https://hackdesign.org/lessons)
 - [Don't Suck at Design!](https://medium.com/@phabbs/dont-suck-at-design-b506abd99f2) - Written by Abul-mumeen Olasode 
+- [Sketch for Designers](http://sketch.fordesignrs.com/?ref=producthunt) - Contributed by Bolaji Olajide
