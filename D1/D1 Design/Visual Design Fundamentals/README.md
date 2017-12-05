@@ -78,3 +78,4 @@ You should practice as many designs as possible! As you amass designs, consider 
 - [Sketch for Designers](http://sketch.fordesignrs.com/?ref=producthunt) - Contributed by Bolaji Olajide
 - ["50 things you probably forgot to design"](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914) - Contributed by Bolaji Olajide
 - [The engineer’s guide to not making your app look awful](https://goo.gl/msu9TQ) - Contributed by Anthony Nandaa
+- [How to develop Wireframes and Web Applications with Polymer.js](https://goo.gl/QbyXtM) - Written by Akande Imisioluwa 
