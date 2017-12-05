@@ -24,3 +24,4 @@ These resources allow you to get your hands dirty and practice
 - [Understanding a new code base](https://twitter.com/dan_abramov/status/888491360554274816) _Twitter thread by Dan Abramov_ - Contributed by Ore Sofola
 - [Password Reset using JWT](https://www.codementor.io/olatundegaruba/password-reset-using-jwt-ag2pmlck0) - Contributed by Rowland Henshaw
 - [A better way to Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) - Contributed by Rowland Henshaw
+- [Free university Courses](https://goo.gl/ozP7ja) - _Free university courses including some computer science and programming courses_ - Contributed by Purity Birir
