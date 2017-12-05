@@ -67,3 +67,4 @@ A person with this skill writes JavaScript code that is readable, reusable, and 
 
 - ["19+ JavaScript Shorthand Coding Techniques"](https://www.sitepoint.com/shorthand-javascript-techniques/) - Contributed by Bolaji Olajide
 - [The Key to Building Large JavaScript Apps: The Modlet Workflow](https://css-tricks.com/key-building-large-javascript-apps-modlet-workflow/) - Contributed by Bolaji Olajide
+- [Commenting JavaScript code with JSDoc](https://www.eventbrite.com/engineering/commenting-javascript-code-with-jsdoc/) - Contributed by Bolaji Olajide
