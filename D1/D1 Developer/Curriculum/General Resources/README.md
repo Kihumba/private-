@@ -11,6 +11,7 @@ These resources take you into the more philosophical points of programming...
 - [A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know) - Contributed by Bolaji Olajide
 - [YOYO song](https://soundcloud.com/learning-media/yoyo) - _Song on owning your own learning_ by Adam Lupu and nadayar Enegesi
 - [Reasoning about Code](https://dev.to/ericnormand/reasoning-about-code) - Contributed by James Nyamu
+- ["How To Learn In 2 Days What Normally Takes 6 Months"](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-a3c27c0fa6e1) - Contirbuted by Nora Studholme
 
 --- 
 
