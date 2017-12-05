@@ -49,3 +49,5 @@ A person with this skill can explain the importance of TDD as a software develop
 ### Resources
 
 - ["How To Test JavaScript with Jasmine Framework"](https://medium.com/backticks-tildes/how-to-test-javascript-with-jasmine-framework-2e2b8dfa7a9e) - Written By Delores Diei
+- [Slingshot intro to React and Redux the TDD way — Part 1](https://medium.com/the-andela-way/slingshot-intro-in-react-and-redux-the-tdd-way-part1-e677974c932) - Written by Clement Wekesa
+- [Slingshot intro in react and redux the TDD way — Part 2](https://goo.gl/omEswu) - Written by Clemet Wekesa
