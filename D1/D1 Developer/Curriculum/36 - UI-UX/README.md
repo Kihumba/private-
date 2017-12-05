@@ -69,4 +69,5 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
  - [_What is UX Design?_](https://blog.prototypr.io/what-is-ux-design-common-misconceptions-and-ux-myths-39fe98cc6d23)
  - [_UX Case Study_](https://blog.prototypr.io/ux-study-case-trip-fun-563370f58ee3?ref=prototyprio)
  - [_Don't Mistake Common UI Patterns for Best Practices_](https://medium.com/ruxers/dont-mistake-common-ui-patterns-for-best-practices-4a1c8d4bef9a)- Contributed by Ore Sofola
+ - [Sketch for Designers](http://sketch.fordesignrs.com/?ref=producthunt) - Contributed by Bolaji Olajide
  
