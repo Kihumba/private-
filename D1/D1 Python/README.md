@@ -12,3 +12,10 @@ The Python for Web curriculum detailed here shows all the Knowledge, Behaviors a
 7. Django Templates
 8. Django Testing
 9. Django REST Framework
+
+
+## General Resources
+#### Resources to get you started on your Python Journey
+
+- [Idiomatic Python. Coding the smart way](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6) - Written by John Seremba
+- [_Python Tips_](http://book.pythontips.com/en/latest/index.html) - Contirbuted by Bolaji Olajide
