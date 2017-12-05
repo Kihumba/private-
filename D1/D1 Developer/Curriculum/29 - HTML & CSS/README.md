@@ -65,3 +65,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 - [_HTML and CSS_](https://www.codecademy.com/en/tracks/web)- Code Academy, for those who like to learn by doing
 - [_Collection UI_](http://learn.shayhowe.com/html-css) - Contributed by Bolaji Olajide
 - [Learn Flexbox with Webflow](https://www.flexboxgame.com/) - Contributed by Bolaji Olajide
+- [_My CSS Journey_](https://medium.com/backticks-tildes/my-css-journey-every-journey-begins-with-a-step-8a77162f3de8) - Written by Hope Ngerebara
