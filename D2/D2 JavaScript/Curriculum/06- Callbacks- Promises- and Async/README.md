@@ -55,3 +55,8 @@ A person with this skill can describe what is meant by “asynchronous programmi
 | If I overuse callbacks, I can create an impossible tangle of Callback Hell. |   [ ]   |   [ ] |
 | Promises are difficult-- but they are not impossible. |   [ ]   |   [ ] |
 | Promises and asynchronous programming provide a cleaner way to program in JavaScript. |   [ ]   |   [ ] |
+
+
+### Resources
+
+- ["ASYNC/AWAIT will make your code simpler"](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/) - Contributed by Anthony Nandaa
