@@ -55,3 +55,4 @@ Outputs
 ### Resources
 
 - [Unix Permissions Calculator](http://permissions-calculator.org/) - Contributed by Chidiebube Amos
+- [Linux comics: a small zine](https://jvns.ca/linux-comics-zine.pdf) - Contributed by Ndagi Stanley 
