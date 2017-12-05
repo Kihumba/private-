@@ -70,4 +70,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
  - [_UX Case Study_](https://blog.prototypr.io/ux-study-case-trip-fun-563370f58ee3?ref=prototyprio)
  - [_Don't Mistake Common UI Patterns for Best Practices_](https://medium.com/ruxers/dont-mistake-common-ui-patterns-for-best-practices-4a1c8d4bef9a)- Contributed by Ore Sofola
  - [Sketch for Designers](http://sketch.fordesignrs.com/?ref=producthunt) - Contributed by Bolaji Olajide
- 
+ - [uiGradients](https://uigradients.com/) - Contributed by Bolaji Olajide
