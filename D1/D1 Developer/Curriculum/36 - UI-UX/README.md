@@ -72,3 +72,11 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
  - [Sketch for Designers](http://sketch.fordesignrs.com/?ref=producthunt) - Contributed by Bolaji Olajide
  - [uiGradients](https://uigradients.com/) - Contributed by Bolaji Olajide
  - [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) - Contributed by Bolaji Olajide
+- [Learn CSS Grid in 5 Minutes ](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228_ - Contributed by Bolaji Olajide
+- [Understanding CSS Flexbox](https://codeburst.io/understanding-css-flexbox-d6162885fefe) - Contirbuted by Bolaji Olajide
+- [Stylify - Live CSS Editor](https://chrome.google.com/webstore/detail/stylify-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
+- [Colour code](http://www.colourco.de/) - Contributed by Bolaji Olajide
+- [CSS Grid Garden](http://cssgridgarden.com/) - Contributed by Bolaji Olajide
+- [Design better forms](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Contributed by dara Oladosu
+- [Best UI Frameworks for your new React.js App](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) - Contirbuted by Bolaji Olajide
+- [The Landing Page Cookbook](https://yourlandingpagesucks.com/cookbook/?ref=producthunt) - Contributed by Bolaji Olajide
