@@ -58,3 +58,4 @@ Containers
 ### Resources
 
 - [DevOps Diagram Generator](https://xebialabs.com/devops-diagram-generator) - Contributed by Chidiebube Amos
+- [How I learned to love Vim](https://goo.gl/RtYg9k) - Contributed by Bolaji Olajide
