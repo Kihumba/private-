@@ -12,6 +12,8 @@ These resources take you into the more philosophical points of programming...
 - [YOYO song](https://soundcloud.com/learning-media/yoyo) - _Song on owning your own learning_ by Adam Lupu and nadayar Enegesi
 - [Reasoning about Code](https://dev.to/ericnormand/reasoning-about-code) - Contributed by James Nyamu
 - ["How To Learn In 2 Days What Normally Takes 6 Months"](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-a3c27c0fa6e1) - Contirbuted by Nora Studholme
+- [Hard Coding Concepts Explained with Simple Real-life Analogies](https://medium.freecodecamp.org/hard-coding-concepts-explained-with-simple-real-life-analogies-280635e98e37) - Contributed by Edmond B. Atto
+- [Your code stinks. Here’s what you can do about it. ](https://medium.freecodecamp.org/your-code-stinks-heres-what-you-can-do-about-it-3f9650653447) - Contributed by Edmond B. Atto
 
 --- 
 
