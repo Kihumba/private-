@@ -48,4 +48,4 @@ A fellow is able to find bottlenecks when building applications, and practice th
 - [Pycallgraph](http://pycallgraph.slowchop.com/en/master/)
 - [Blog - Ways to improve python performance](https://www.monitis.com/blog/7-ways-to-improve-your-python-performance/)
 - [Getting started with ElasticSearch-Python :: Part One](https://medium.com/the-andela-way/getting-started-with-elasticsearch-with-python-be8a5727c05f) - Written by Valerie Chemtai
-
+- [Getting started with ElasticSearch-Python :: Part Two](https://goo.gl/4eePpe) - Written by Valerie Chemtai
