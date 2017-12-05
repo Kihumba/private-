@@ -31,3 +31,5 @@ These resources allow you to get your hands dirty and practice
 - [A better way to Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0) - Contributed by Rowland Henshaw
 - [Free university Courses](https://goo.gl/ozP7ja) - _Free university courses including some computer science and programming courses_ - Contributed by Purity Birir
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/) - Contributed by Edmond B. Atto
+- [Creating Firebase dynamic links with Firebase cloud functions](https://goo.gl/LceWGT) - Written by John Kagga
+- 
