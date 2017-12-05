@@ -47,3 +47,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | Mastering the functionalities of my text editor increases my productivity | [ ] | [ ] |
 
+
+### Resources
+
+- [Visual Code Treasures](https://medium.com/@0x1AD2/visual-studio-code-treasures-1accae07c60a) - Contributed by Bolaji Olajide
