@@ -54,3 +54,6 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 
 - [“Mobile Apps 101: What you need to Know”](https://www.infoworld.com/article/2623833/mobile-development/mobile-development-101--what-you-need-to-know.html)- A great article to define the high level challenges and opportunities that come with Mobile development
 - [_Web vs. Apps: The Big Picture_](https://app.pluralsight.com/library/courses/mobile-app-big-pic/table-of-contents)- PluralSight video, goes in depth about native vs. web apps-- a bit more deep than you may need to go but interesting context
+- [React Native, Firebase and You](https://blog.callstack.io/react-native-firebase-and-you-a07ae507910) - Contributed by Bolaji Olajide
+- [How I set up my React Native projects](https://medium.com/react-native-training/how-i-set-up-my-react-native-projects-bd30284e4512) - Written by Purity Birir
+- [React-Native—Leading Practices and Learnings](https://accenture.github.io/blog/2017/04/04/reactlearnings.html) - Contributed by Tonida Baraza
