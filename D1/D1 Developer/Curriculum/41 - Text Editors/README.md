@@ -51,3 +51,4 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 ### Resources
 
 - [Visual Code Treasures](https://medium.com/@0x1AD2/visual-studio-code-treasures-1accae07c60a) - Contributed by Bolaji Olajide
+- [How I learned to love Vim](https://goo.gl/RtYg9k) - Contributed by Bolaji Olajide
