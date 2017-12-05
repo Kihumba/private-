@@ -38,7 +38,7 @@ A fellow understand the major web application security flaws that are commonly e
 
 ### Resources:
 
-[Fullstack Pythin - Web App Security](https://www.fullstackpython.com/web-application-security.html)
+[Fullstack Python - Web App Security](https://www.fullstackpython.com/web-application-security.html)
 
 [OWASP top 10 web application vulnerabilities list](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 ) 
