@@ -16,6 +16,7 @@ These resources take you into the more philosophical points of programming...
 - [Your code stinks. Here’s what you can do about it. ](https://medium.freecodecamp.org/your-code-stinks-heres-what-you-can-do-about-it-3f9650653447) - Contributed by Edmond B. Atto
 - [The missing career path for software developers](https://dev.to/suzanbond/the-missing-career-path-for-software-developers-ed) - Contributed by Eugene Omar
 - [How to Be An Insanely GOOD Developer](https://hackernoon.com/how-to-be-an-insanely-good-developer-936cda639334) - Contributed by Rotimi Babalola
+- [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5) - Contirbuted by John Kagga
 
 
 --- 
@@ -32,4 +33,6 @@ These resources allow you to get your hands dirty and practice
 - [Free university Courses](https://goo.gl/ozP7ja) - _Free university courses including some computer science and programming courses_ - Contributed by Purity Birir
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/) - Contributed by Edmond B. Atto
 - [Creating Firebase dynamic links with Firebase cloud functions](https://goo.gl/LceWGT) - Written by John Kagga
-- 
+- [The Rise of Modern Programming Languages](https://medium.com/the-andela-way/the-rise-of-modern-programming-languages-c923a2b914fc) - Written by Chrispine Chiedo
+- [My Mac Terminal Set Up](https://sirmuel.design/my-mac-terminal-setup-4e2f1c1b3189)
+
