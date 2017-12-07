@@ -45,6 +45,8 @@ _You can create your own project, or you can select a suggested project from the
 - [Statistical Thinking for Data Science & Analytics](https://www.edx.org/course/statistical-thinking-data-science-columbiax-ds101x-1)- EdX
 - [Data Science with R](https://app.pluralsight.com/library/courses/r-data-science/table-of-contents)- PluralSight
 - [9 Mistakes to Avoid when Starting your Data Science Career](https://elitedatascience.com/beginner-mistakes)
+- [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f) - Contributed by Thomas Kioko
+- [The Ten Fallacies of Data Science](https://medium.com/towards-data-science/the-ten-fallacies-of-data-science-9b2af78a1862) - Contributed by Ore Sofola
 
 ## Groups to Join & Mentors: 
 - [#data-science](https://andela.slack.com/messages/data-science)
