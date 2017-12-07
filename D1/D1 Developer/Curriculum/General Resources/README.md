@@ -35,4 +35,5 @@ These resources allow you to get your hands dirty and practice
 - [Creating Firebase dynamic links with Firebase cloud functions](https://goo.gl/LceWGT) - Written by John Kagga
 - [The Rise of Modern Programming Languages](https://medium.com/the-andela-way/the-rise-of-modern-programming-languages-c923a2b914fc) - Written by Chrispine Chiedo
 - [My Mac Terminal Set Up](https://sirmuel.design/my-mac-terminal-setup-4e2f1c1b3189)
-
+- [I built an app that makes learning algorithms and data structures way more fun](https://goo.gl/AeZuLX) - Contirbuted by John Kagga
+- [Lexical Analysis](https://medium.com/@faical/lexical-analysis-861b8bfe4cb0) - Written by Faiçal Tchirou 
