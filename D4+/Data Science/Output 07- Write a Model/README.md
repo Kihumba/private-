@@ -38,6 +38,7 @@
 | Resources|       	
 |----------|
 | [Data Analytics: Hands On](https://app.pluralsight.com/library/courses/data-analytics-hands-on/table-of-contents)- PluralSight _(See visualization & Tableau chapters)_ |
+| [Genetic Algorithms](https://goo.gl/t3GWxT) - _Written by Sagini Abenga_ |
 
 
 ---- 
