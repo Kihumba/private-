@@ -43,6 +43,7 @@
 | Tool: Socrata API |
 | Tool: Scrappy Framework (alternative to Beautiful Soup) |
 | [Introduction to Web Scraping using Selenium](https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72) - _Written by Roger Taracha_
+| [How To Scrape Data from a Website](https://medium.com/backticks-tildes/how-to-scrape-data-from-a-website-ceda61204f67) - _Written by Bolaji Olajide_
 ---- 
 
 >> ### Contribute
