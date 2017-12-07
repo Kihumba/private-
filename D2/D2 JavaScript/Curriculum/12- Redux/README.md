@@ -48,3 +48,9 @@ A person with this skill can make use of the Redux library and the Flux pattern 
 ### Resources
 
 - [A small trick to write clean reducers](https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2) - Contributed by James Nyamu
+- [Write and test Redux async action-creators faster](https://goo.gl/xKkQTi) - Contirbuted by Bolaji Olajide
+- [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) - Contirbuted by Eugene Omar
+- [Async Operations in React Redux Applications](https://www.sitepoint.com/async-operations-react-redux-applications/) - Contributed by Eugene Omar
+- [An introduction to Redux](https://medium.com/the-andela-way/a-simple-redux-introduction-tutorial-4a7fd1a7a607) - Written by Temitope Emmanuel
+- [Test your Redux container with Enzyme](https://medium.com/@visualskyrim/test-your-redux-container-with-enzyme-a0e10c0574ec) - Contributed by Bolaji Olajide
+- [React and Redux with TypeScript](https://medium.com/gitconnected/react-and-redux-with-typescript-da0c37537a79) - Contributed by Hadi Jimoh
