@@ -65,7 +65,7 @@ A person with this skill is comfortable creating a basic program in React. They 
 - [Slingshot intro to React and Redux the TDD way — Part 1](https://medium.com/the-andela-way/slingshot-intro-in-react-and-redux-the-tdd-way-part1-e677974c932) - Written by Clement Wekesa
 - [Slingshot intro in react and redux the TDD way — Part 2](https://goo.gl/omEswu) - Written by Clemet Wekesa
 - [A small trick to write clean reducers](https://hackernoon.com/a-small-trick-to-write-clean-reducers-a0b1b1eff3d2) - Contributed by James Nyamu
-- [React Fibre: A closer look at the New Engine of React](https://www.infoq.com/news/2017/05/react-fiber-closer-look - Contributed byb Inumidun Amao
+- [React Fibre: A closer look at the New Engine of React](https://www.infoq.com/news/2017/05/react-fiber-closer-look) - Contributed byb Inumidun Amao
 - [Best UI Frameworks for your new React.js App](https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651) - Contributed by Bolaji Olajide
 - [Fundamental React.js concepts](https://goo.gl/QyR3FJ) - Contributed by Eugene Omar
 - [Setting Up Webpack for Bootstrap 4 and Font Awesome](https://goo.gl/7DsyYB) - Written by Esther Falayi
