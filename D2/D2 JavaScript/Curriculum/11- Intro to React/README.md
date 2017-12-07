@@ -71,4 +71,4 @@ A person with this skill is comfortable creating a basic program in React. They 
 - [Setting Up Webpack for Bootstrap 4 and Font Awesome](https://goo.gl/7DsyYB) - Written by Esther Falayi
 - [Testing Your React Component With Jest and Enzyme](https://goo.gl/DCExwn) - Written by Esther Falayi
 - [Async Operations in React Redux Applications](https://www.sitepoint.com/async-operations-react-redux-applications/) - Contributed by Eugene Omar
--[Translating React Apps](https://tech.gadventures.com/translating-react-apps-99dede52d924) - Contributed by Christopher Kanyuga
+- [Translating React Apps](https://tech.gadventures.com/translating-react-apps-99dede52d924) - Contributed by Christopher Kanyuga
