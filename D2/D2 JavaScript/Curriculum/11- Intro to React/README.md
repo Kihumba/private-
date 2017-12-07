@@ -72,3 +72,8 @@ A person with this skill is comfortable creating a basic program in React. They 
 - [Testing Your React Component With Jest and Enzyme](https://goo.gl/DCExwn) - Written by Esther Falayi
 - [Async Operations in React Redux Applications](https://www.sitepoint.com/async-operations-react-redux-applications/) - Contributed by Eugene Omar
 - [Translating React Apps](https://tech.gadventures.com/translating-react-apps-99dede52d924) - Contributed by Christopher Kanyuga
+- [Fundamental Javascript Concepts to help you get started with React](https://goo.gl/jNcRme) - Written by Cecila Wahome
+- [30 days of React](https://drive.google.com/file/d/0B30nY3jAFjeNZUNpUmpvejZVc1U/view) - Contributed by Austin Roy
+- [Handling State in React: Four Immutable Approaches to Consider](https://goo.gl/n79dwQ) - Contributed by Bolaji Olajide
+- [How to fix your React app when it secretly hates you](https://goo.gl/JpHgZk) - Contributed by Bolaji Olajide
+- [React and Redux with TypeScript](https://medium.com/gitconnected/react-and-redux-with-typescript-da0c37537a79) - Contributed by Hadi Jimoh
