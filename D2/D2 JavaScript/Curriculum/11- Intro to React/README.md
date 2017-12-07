@@ -82,3 +82,4 @@ A person with this skill is comfortable creating a basic program in React. They 
 - [React Pattern: Centralized PropTypes](https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b) - Contributed by John Kagga
 - [How to Benchmark React Components: The Quick and Dirty Guide](https://goo.gl/TXZSTw) - Contributed by Mary Mazi
 - [Reusing React Component logic with Higher Order Component](https://goo.gl/q8gTGm) - Written by Chinonso Johnson
+- [Learn React Fundamentals and Advanced Patterns](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db) - Contibuted by Ore Sofola
