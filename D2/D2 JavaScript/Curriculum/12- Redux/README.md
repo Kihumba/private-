@@ -54,3 +54,6 @@ A person with this skill can make use of the Redux library and the Flux pattern 
 - [An introduction to Redux](https://medium.com/the-andela-way/a-simple-redux-introduction-tutorial-4a7fd1a7a607) - Written by Temitope Emmanuel
 - [Test your Redux container with Enzyme](https://medium.com/@visualskyrim/test-your-redux-container-with-enzyme-a0e10c0574ec) - Contributed by Bolaji Olajide
 - [React and Redux with TypeScript](https://medium.com/gitconnected/react-and-redux-with-typescript-da0c37537a79) - Contributed by Hadi Jimoh
+- [“When do I know I’m ready for Redux?”](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) - Contributed by Edmond B. Atto
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) - Edmond B. Atto
+- [Learn Redux](https://learnredux.com/) - Contributed by Eugene Omar
