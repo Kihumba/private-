@@ -92,6 +92,7 @@ The above D4 Advancement Criteria was a co-building effort with distributed coll
 - LV Team (Roberto Goizueta, Opeyemi Ahmed)
 
 
+## Resources
 
-
+| [How to get to D4](https://medium.com/@betkom/how-to-get-to-d4-67bb24e0a114) - _Article by Tolulope Komolafe - First D4 in Andela_ |
 
