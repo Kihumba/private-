@@ -77,3 +77,7 @@ A person with this skill is comfortable creating a basic program in React. They 
 - [Handling State in React: Four Immutable Approaches to Consider](https://goo.gl/n79dwQ) - Contributed by Bolaji Olajide
 - [How to fix your React app when it secretly hates you](https://goo.gl/JpHgZk) - Contributed by Bolaji Olajide
 - [React and Redux with TypeScript](https://medium.com/gitconnected/react-and-redux-with-typescript-da0c37537a79) - Contributed by Hadi Jimoh
+- [Start Learning React](https://egghead.io/courses/start-learning-react) - Contributed Bolaji Olajide
+- [Simple React Patterns | Codementor](https://www.codementor.io/lucasmreis/simple-react-patterns-dd9ztprpe) Contributed by Bolaji Olajide
+- [React Pattern: Centralized PropTypes](https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b) - Contributed by John Kagga
+- [How to Benchmark React Components: The Quick and Dirty Guide](https://goo.gl/TXZSTw) - Contributed by Mary Mazi
