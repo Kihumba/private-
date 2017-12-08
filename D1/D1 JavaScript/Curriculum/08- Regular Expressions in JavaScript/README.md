@@ -49,3 +49,4 @@ A person with this skill can work with regular expressions in their JavaScript a
 
 - ["An Introduction to Regular Expressions (Regex) In JavaScript"](https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a) - Contributed by Hadi Jimoh
 - ["Regular Expressions Demystified: RegEx isn’t as hard as it looks"](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787) - Contributed by Mary Mazi
+- [Regular Expressions](https://www.regular-expressions.info/) - Contributed by Bolaji Olajide
