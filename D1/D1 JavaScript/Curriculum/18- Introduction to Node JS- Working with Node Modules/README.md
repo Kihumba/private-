@@ -67,3 +67,4 @@ A person with this skill can create a basic application using the Node.js framew
 - [_How to make a productive Chatbot using Javascript/NodeJs_](https://vimeo.com/241005382) - Tutorial video by Daniel Bamidele
 - [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc) - Contributed by Bolaji Olajide
 - [A crash course on Serverless with Node.js](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) - Contributed by Bolaji Olajide
+- [Node JS in production](https://vimeo.com/album/4760489) _Workshop by Celestine Omin &  Kingdom Orjiewuru_
