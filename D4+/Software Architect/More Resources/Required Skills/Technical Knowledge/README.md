@@ -66,3 +66,12 @@
    </tr> 
   </tbody>
 </table>
+
+
+### Resources
+
+- [Consistent Hashing with Bounded Loads (Summary)](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html) - Contributed by Oreoluwa Akinniranye
+- [Consistent Hashing with Bounded Loads (Full)](https://research.google.com/pubs/pub45756.html) - Contributed by Oreoluwa Akinniranye
+- [Consistent hashing with forwarding](https://github.com/arodland/haproxy/commit/b02bed24daf64743cb9a571e93ed29ee4bc7efe7) - Contributed by Oreoluwa Akinniranye
+- [Improving load balancing with a new consistent-hashing algorithm](https://goo.gl/F8ZjUr) - https://goo.gl/F8ZjUr
+- [Messaging Systems: An introduction](https://vimeo.com/213842512) - _Workshop by Solomon Apenya_
