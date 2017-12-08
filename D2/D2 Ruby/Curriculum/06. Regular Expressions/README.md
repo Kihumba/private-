@@ -35,8 +35,8 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 | A regexp can't use named backreferences and numbered backreferences simultaneously. | [ ] | [ ] |
 
 ### Resources:
-[Tutorialspoint - RegEx](https://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm)
+- [Tutorialspoint - RegEx](https://www.tutorialspoint.com/ruby/ruby_regular_expressions.htm)
 
-[Ruby RegEx Documentation](
-https://ruby-doc.org/core-2.2.0/Regexp.html)
+- [Ruby RegEx Documentation](https://ruby-doc.org/core-2.2.0/Regexp.html)
 
+- [Regular Expressions](https://www.regular-expressions.info/) - Contributed by Bolaji Olajide
