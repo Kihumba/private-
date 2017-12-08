@@ -38,8 +38,10 @@ A fellow is able to use Regular expressions as a powerful and standardized way o
 
 ### Resources:
 
-[Python Library](http://docs.python.org/3.2/library/re.html)
+- [Python Library](http://docs.python.org/3.2/library/re.html)
 
-[Tutorial point - Python RegEx](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
+- [Tutorial point - Python RegEx](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
 
-[Hacker Rank - RegEx](https://www.hackerrank.com/domains/regex/re-introduction) 
+- [Hacker Rank - RegEx](https://www.hackerrank.com/domains/regex/re-introduction) 
+
+- [Regular Expressions](https://www.regular-expressions.info/) - Contributed by Bolaji Olajide
