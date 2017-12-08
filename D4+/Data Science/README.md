@@ -48,6 +48,7 @@ _You can create your own project, or you can select a suggested project from the
 - [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f) - Contributed by Thomas Kioko
 - [The Ten Fallacies of Data Science](https://medium.com/towards-data-science/the-ten-fallacies-of-data-science-9b2af78a1862) - Contributed by Ore Sofola
 - [Big Data](https://vimeo.com/album/4760489) _Workshop by Deji Kadri_
+- [_Expert meet-up_](https://soundcloud.com/learning-media/data-science-faqs) Podcast with a Data Science Expert
 ## Groups to Join & Mentors: 
 - [#data-science](https://andela.slack.com/messages/data-science)
 - [#data-sci-curriculum](https://andela.slack.com/messages/data-sci-curriculum)
