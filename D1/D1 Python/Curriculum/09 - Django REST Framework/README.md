@@ -52,3 +52,7 @@ After attaining this skill, and as a demonstration of it, I should be able to cr
 |:-------------|:------------------:|:--------:|
 | The Django REST framework combines power and flexibility. | [ ] | [ ]  |
 | Authentication is a piece of cake using DRF. | [ ] | [ ]  |
+
+### Resources
+
+- [Build an App with VueJS and Django Part One](https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one) - Written by Stanley Ndiga
