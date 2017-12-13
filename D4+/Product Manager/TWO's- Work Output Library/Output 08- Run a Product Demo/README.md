@@ -41,8 +41,7 @@
 
 
 | Resources|       	
-|----------|
-| [Running Product Demos](https://github.com/andela/learningmap/blob/master/Phase-C/Running%20Product%20Demos.md)|
+|----------
 | [Example Demo Summary](https://andela.slack.com/files/roberto/F441DVB61/Demo_Summary_2_10)|
 | [Stakeholder Management for PM's- SlideShare](https://www.slideshare.net/jysimon/product-tankparis-jysimon16may2013)|
 
