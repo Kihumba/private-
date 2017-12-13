@@ -56,6 +56,3 @@ Through this work, you will gain the power of data to back up your prioritizatio
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX
