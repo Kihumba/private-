@@ -46,5 +46,4 @@ No matter whether you are running a design sprint for a brand new product, or re
 
 ----
 
-## Resources 
-1. [XX](XX)- XX
+
