@@ -33,6 +33,4 @@ Part of leadership is knowing how to communicate the right information, to whom.
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-[XX](XX)- XX
+
