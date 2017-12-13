@@ -31,6 +31,3 @@ Any product will be designed for a set of end users, and a Product Manager’s j
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX
