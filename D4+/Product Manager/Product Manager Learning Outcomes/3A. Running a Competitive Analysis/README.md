@@ -43,6 +43,3 @@ Your product will never exist in a vacuum-- users always have another choice oth
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX
