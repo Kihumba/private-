@@ -41,6 +41,4 @@ As a Product Manager, you are coordinating with a team of developers and diverse
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. [XX](xx) - XX
+
