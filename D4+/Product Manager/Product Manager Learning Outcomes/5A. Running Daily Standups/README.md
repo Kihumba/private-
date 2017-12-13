@@ -38,7 +38,3 @@ Block off 5 minutes after each standup to reflect on that day's meeting- what wo
 2. **Shadow Opportunity:** There are standups happening every day all around you! Shadow at least two different Product Managers at your company to learn how they conduct standups, and take careful notes about what works well and what doesn't in their meetings. 
 
 ----
-
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX
