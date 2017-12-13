@@ -42,7 +42,4 @@ This meeting should cover action items from the previous week, and should allow 
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX
 
