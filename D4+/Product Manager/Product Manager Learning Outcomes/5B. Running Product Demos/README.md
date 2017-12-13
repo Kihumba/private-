@@ -40,6 +40,3 @@ Product Demos are a key way to keep your business and technical stakeholders in 
 
 ----
 
-## Resources 
-*Use these to "sponge up" a broad context of information around this skill.*
-1. ["XX"](XX)- XX
