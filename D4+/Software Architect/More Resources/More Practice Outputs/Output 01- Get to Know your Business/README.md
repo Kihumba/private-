@@ -44,7 +44,6 @@
 | Resources|       	
 |----------|
 | [Free Online Business Courses](https://www.class-central.com/university/wharton)- Wharton School of Business|
-| [Get Set Up with your Team](https://github.com/andela/learningmap/tree/master/D4%2B/Product%20Manager/Curriculum/Output%2001-%20Get%20Set%20Up%20with%20your%20Team)|
 | [ROI Checklist](https://www.pluralsight.com/blog/career/roi-checklist)- PluralSight|
 
 
