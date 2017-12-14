@@ -15,4 +15,4 @@ A D2 DevOps Engineer will be expected to manage change control and configuration
 ----
 
 ### Resources
-[Configuration Management Tools](https://cloudacademy.com/learning-paths/configuration-management-tools-31/)- Cloud Academy
+[Configuration Management Explained](http://devopsbootcamp.osuosl.org/11_devops.html)- DevOps Bootcamp
