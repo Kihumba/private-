@@ -23,7 +23,6 @@ A D2 DevOps Engineer should be prepared to assist in the setup and maintenance o
 ----
 
 ### Resources
-[ Software Testing and Delivery with Docker](https://cloudacademy.com/azure/labs/software-development-testing-delivery-with-docker-96/)- Cloud Academy
 [Test Driven Development: The Big Picture](https://app.pluralsight.com/library/courses/test-driven-development-big-picture/table-of-contents)- PluralSight
 
 --- 
