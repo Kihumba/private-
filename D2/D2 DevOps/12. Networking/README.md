@@ -21,4 +21,4 @@ A D2 DevOps Engineer should be able to understand the basics of networking and h
 ----
 
 ### Resources
-- [Load Balance Application Traffic](https://cloudacademy.com/amazon-web-services/labs/load-balance-application-traffic-marathon-lb-dcos-132/)- Cloud Academy Lab
+- [CompTIA Network Plus](https://www.cybrary.it/course/comptia-network-plus/)- Recommended by Stephen Kanyi
