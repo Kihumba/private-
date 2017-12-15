@@ -42,3 +42,10 @@ A person with this skill uses task runners to automate their application and opt
 |:-------------|:------------------:|:--------:|
 | The less work I have to do when performing repetitive programming tasks, the more I can focus my brainpower on creating a world-class application. |   [ ]   |   [ ] |
 | A task runner can do mundane work for me and my team with very little effort. |   [ ]   |   [ ] |
+
+---
+
+### Resources
+[Introduction to Task Runners](http://andy-carter.com/blog/a-beginners-guide-to-the-task-runner-gulp)
+[Automate your Tasks with Gulp](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
+
