@@ -43,3 +43,12 @@ A person with this skill can define routes to move between multiple views in the
 | Embodied Belief   |      Felt      | Demonstrated |
 |:-------------|:------------------:|:--------:|
 | Consuming services makes my application more flexible and powerful.  |   [ ]   |   [ ] |
+
+---
+
+### Resources
+- [AngularJS Routing with $urlProvider](http://viralpatel.net/blogs/angularjs-routing-and-views-tutorial-with-example/)
+- [Angular making AJAX requests](http://tutorials.jenkov.com/angularjs/ajax.html)
+- [Using AngularJS $resource for AJAX](http://www.learn-angular.org/#!/lessons/ajax-with-resource)
+- [CRUD app with $resource](http://www.sitepoint.com/creating-crud-app-minutes-angulars-resource/)
+
