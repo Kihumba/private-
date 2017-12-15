@@ -49,3 +49,13 @@ A person with this skill can explain what makes AngularJS powerful, when it is t
 | Angular is quick and simple to start learning, but hard to master | [ ] | [ ] | 
 | Anyone with a basic HTML and JavaScript background can start working in AngularJS | [ ] | [ ] |
 | I should not agonize about Angular vs. React for my framework-- most of the time, either of them will do, even if I have to add a few extra libraries to accomplish my goals. | [ ] | [ ] |
+
+-----
+
+### Resources
+- [An AngularJS Tutorial](http://tutorials.jenkov.com/angularjs/index.html)
+- [AngularJS Introduction](http://viralpatel.net/blogs/angularjs-introduction-hello-world-tutorial/
+- [AngularJS scope and rootScope](http://www.dotnettricks.com/Tutorial/angularjs/UVDE100914-Understanding-AngularJS-$rootScope-and-$scope.html) 
+- [AngularJS Services](http://www.tutorialspoint.com/angularjs/angularjs_services.htm)
+- [AngularJS Services vs. Factories](http://blog.manishchhabra.com/2013/09/angularjs-service-vs-factory-with-example/)
+
