@@ -33,8 +33,8 @@ A person with this skill can define routes to move between multiple views in the
 | **Context:** Before I create a route, **Action:** I need to import the router module. |   [ ]   |   [ ] |
 | **Context:** When I need to make asynchronous requests from JSON, **Action:** I use Angular’s inbuilt services. |   [ ]   |   [ ] |
 | **Context:** When the component I am routing to is nested within another component, **Action:** I use a selector. |   [ ]   |   [ ] |
-| **Context: When my application consumes an API, **Action:** I encapsulate the API with a service and inject it into my controller. |   [ ]   |   [ ] |
-| **Context: When I have an encapsulated API in my controller, **Action:** I can later reuse that model in different controllers and test more easily. |   [ ]   |   [ ] | 
+| **Context:** When my application consumes an API, **Action:** I encapsulate the API with a service and inject it into my controller. |   [ ]   |   [ ] |
+| **Context:** When I have an encapsulated API in my controller, **Action:** I can later reuse that model in different controllers and test more easily. |   [ ]   |   [ ] | 
 
 -------
 
